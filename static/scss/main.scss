@@ -84,8 +84,7 @@ header.navigation {
   @import "refills/hero";
   .hero {
     align-items: center;
-    background: url("../images/Rufus_Pollock_2.jpeg");
-    background-position: right;
+    background: url("../images/BC02.jpg");
     background-size: none;
     background-repeat: no-repeat;
     display: block;
@@ -94,14 +93,13 @@ header.navigation {
     padding: 2em 5%;
 
     @include media($large-screen) {
-      background-position: left;
       background-size: cover;
-      justify-content: flex-end;
       padding: 12em 5%;
+      min-height: calc(100vh - 60px);
     }
 
     .hero-content {
-      max-width: 35em;
+      max-width: 100%;
       color: white;
       h1, h3, h4 {
         margin-bottom:20px;
@@ -116,6 +114,7 @@ header.navigation {
         border: 1px solid #fff;
         border-radius: 0;
         color: white;
+        background-color: rgba(0,0,0,0);
       }
       a {
         i {
@@ -123,6 +122,9 @@ header.navigation {
           font-size:25px;
           margin-right:6px;
         }
+      }
+      @include media($large-screen) {
+        text-align: center;
       }
     }
 
@@ -156,28 +158,44 @@ header.navigation {
     $large-screen: 50em !default;
     overflow: hidden;
     position: relative;
-    margin-bottom: 3em;
+    margin-bottom: 4em;
     .video-wrapper {
-      margin-bottom: 15vh;
       embed,
       object,
       iframe {
         @include position(7vh null null 0);
         @include size(100vw 56.2vw);
         @include media($large-screen) {
-          @include position(13vh null null calc(50vw - 420px));
-          @include size(854px 480px);
+          @include position(null null null calc(50% - 425px));
+          @include size(850px 478px);
         }
       }
     }
     .video-text {
-      margin-bottom: 2em;
-      text-align: left;
-      padding: 0 5%;
+      text-align: center;
       @include media($large-screen) {
         padding: 0;
-        @include position(2em null null 28vw);
-        @include size(44vw null);
+        @include position(null null null 2.5%);
+        @include size(95% null);
+      }
+    }
+  }
+
+  @import "refills/grid";
+  .grid-items {
+    .grid-item {
+      background-color: rgba(0,0,0,0);
+      border: none;
+      h3, p, i {
+        color: $dark-gray;
+        margin-top: 15px;
+        margin-bottom: 15px;
+      }
+      p {
+        max-width: 100%;
+      }
+      i {
+        font-size: 2em;
       }
     }
   }
@@ -206,6 +224,7 @@ header.navigation {
 
     @include media($large-screen) {
       @include row(table);
+      height: 640px;
       div.images-wrapper.last {
         display: table-cell;
       }
@@ -238,7 +257,7 @@ header.navigation {
 
       @include media($large-screen) {
         @include span-columns(6);
-        padding: 4em 5% 8em 5%;
+        padding: 4em 5% 0 5%;
       }
 
       h2 {
@@ -260,6 +279,11 @@ header.navigation {
         color: $base-font-color;
         line-height: $base-line-height;
         margin-bottom: 3em;
+      }
+
+      a {
+        color: #333;
+        text-decoration: none;
       }
 
       a.button {
@@ -678,6 +702,27 @@ header.navigation {
 
 }
 
+section {
+  padding: 100px 60px 80px 60px;
+  border-bottom: 1px solid darken(#fff, 10);
+  @include media($large-screen) {
+    padding: 150px 60px 80px 60px;
+  }
+}
+
+section.wisdom {
+  padding: 0 0 0 0;
+  @include media($large-screen) {
+    .side-image {
+
+    }
+  }
+}
+
+section.location {
+  text-align: center;
+}
+
 section.other-pages {
   @include outer-container(90%);
   @import "refills/logos.scss";
@@ -699,6 +744,24 @@ section.other-pages {
     border-radius: 0;
   }
 }
+
+form {
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    input, textarea {
+      border-radius: 0 !important;
+      border-color: $dark-gray;
+    }
+    input[type="submit"] {
+      float: right;
+      background-color: rgba(0,0,0,0);
+      border: 1px solid $dark-gray;
+      border-radius: 0;
+      color: $dark-gray;
+    }
+  }
 
 @import "refills/footer";
 .footer-2 {

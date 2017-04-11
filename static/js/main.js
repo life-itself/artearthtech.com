@@ -1,5 +1,5 @@
-function scrollDown() {
-  document.querySelector('#next-section').scrollIntoView({
+function scrollDown(el) {
+  document.querySelector(el.attributes.href.value).scrollIntoView({
     behavior: 'smooth'
   });
 }

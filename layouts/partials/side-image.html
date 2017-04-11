@@ -1,0 +1,27 @@
+<div class="side-image">
+
+  {{ if eq .Params.imagelocation "left" }}
+  <div class="images-wrapper last" style="background-image: url({{ $.Site.BaseURL }}images/{{ .Params.image }})"></div>
+  {{ end }}
+
+  <div class="side-image-content">
+    {{ if .Params.supertitle }}
+    <h1><a href="{{ .Permalink }}">{{ upper .Params.supertitle }}</a></h1>
+    <hr>
+    {{ end }}
+    <h2><a href="{{ .Permalink }}">{{ upper .Title }}</a></h2>
+
+    {{ if gt (len .Content) 650 }}
+      <p>{{ slicestr .Content 3 561 | plainify }}...</p>
+      <a class="button" href="{{ .Permalink }}">READ MORE <span>&rsaquo;</span></a>
+    {{ else }}
+      <p>{{ .Content }}</p>
+    {{ end }}
+
+  </div>
+
+  {{ if eq .Params.imagelocation "right" }}
+  <div class="images-wrapper last" style="background-image: url({{ $.Site.BaseURL }}images/{{ .Params.image }})"></div>
+  {{ end }}
+
+</div>

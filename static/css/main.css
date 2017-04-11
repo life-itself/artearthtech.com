@@ -3899,8 +3899,7 @@ header.navigation li.more > a::after {
     margin: auto; }
 .home-template .hero {
   align-items: center;
-  background: url("../images/Rufus_Pollock_2.jpeg");
-  background-position: right;
+  background: url("../images/BC02.jpg");
   background-size: none;
   background-repeat: no-repeat;
   display: block;
@@ -3909,12 +3908,11 @@ header.navigation li.more > a::after {
   padding: 2em 5%; }
   @media screen and (min-width: 53.75em) {
     .home-template .hero {
-      background-position: left;
       background-size: cover;
-      justify-content: flex-end;
-      padding: 12em 5%; } }
+      padding: 12em 5%;
+      min-height: calc(100vh - 60px); } }
   .home-template .hero .hero-content {
-    max-width: 35em;
+    max-width: 100%;
     color: white; }
     .home-template .hero .hero-content h1, .home-template .hero .hero-content h3, .home-template .hero .hero-content h4 {
       margin-bottom: 20px;
@@ -3926,11 +3924,15 @@ header.navigation li.more > a::after {
       margin: 25px 10px 20px 0;
       border: 1px solid #fff;
       border-radius: 0;
-      color: white; }
+      color: white;
+      background-color: transparent; }
     .home-template .hero .hero-content a i {
       color: white;
       font-size: 25px;
       margin-right: 6px; }
+    @media screen and (min-width: 53.75em) {
+      .home-template .hero .hero-content {
+        text-align: center; } }
   .home-template .hero .call-to-action {
     position: absolute;
     top: 88%;
@@ -3954,37 +3956,92 @@ header.navigation li.more > a::after {
 .home-template .video {
   overflow: hidden;
   position: relative;
-  margin-bottom: 3em; }
-  .home-template .video .video-wrapper {
-    margin-bottom: 15vh; }
-    .home-template .video .video-wrapper embed,
-    .home-template .video .video-wrapper object,
-    .home-template .video .video-wrapper iframe {
-      position: relative;
-      top: 7vh;
-      left: 0;
-      height: 56.2vw;
-      width: 100vw; }
-      @media screen and (min-width: 53.75em) {
-        .home-template .video .video-wrapper embed,
-        .home-template .video .video-wrapper object,
-        .home-template .video .video-wrapper iframe {
-          position: relative;
-          top: 13vh;
-          left: calc(50vw - 420px);
-          height: 480px;
-          width: 854px; } }
+  margin-bottom: 4em; }
+  .home-template .video .video-wrapper embed,
+  .home-template .video .video-wrapper object,
+  .home-template .video .video-wrapper iframe {
+    position: relative;
+    top: 7vh;
+    left: 0;
+    height: 56.2vw;
+    width: 100vw; }
+    @media screen and (min-width: 53.75em) {
+      .home-template .video .video-wrapper embed,
+      .home-template .video .video-wrapper object,
+      .home-template .video .video-wrapper iframe {
+        position: relative;
+        left: calc(50% - 425px);
+        height: 478px;
+        width: 850px; } }
   .home-template .video .video-text {
-    margin-bottom: 2em;
-    text-align: left;
-    padding: 0 5%; }
+    text-align: center; }
     @media screen and (min-width: 53.75em) {
       .home-template .video .video-text {
         padding: 0;
         position: relative;
-        top: 2em;
-        left: 28vw;
-        width: 44vw; } }
+        left: 2.5%;
+        width: 95%; } }
+.home-template .grid-items::after {
+  clear: both;
+  content: "";
+  display: table; }
+.home-template .grid-items .grid-item {
+  background: black;
+  border-bottom: 9px solid #fff;
+  border-left: 4.5px solid #fff;
+  border-right: 4.5px solid #fff;
+  border-top: 0;
+  cursor: pointer;
+  float: left;
+  height: 18em;
+  outline: none;
+  overflow: hidden;
+  padding: 2em;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  width: 100%; }
+  @media screen and (min-width: 53.75em) {
+    .home-template .grid-items .grid-item {
+      width: 33.33333%; } }
+.home-template .grid-items .grid-item img {
+  display: block;
+  height: 3em;
+  margin: 0 auto 1em; }
+.home-template .grid-items .grid-item h1 {
+  color: white;
+  font-size: 1.3em;
+  margin-bottom: 0.4em; }
+.home-template .grid-items .grid-item p {
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 1.5em;
+  margin: auto; }
+  @media screen and (min-width: 40em) {
+    .home-template .grid-items .grid-item p {
+      max-width: 70%; } }
+@media screen and (min-width: 53.75em) {
+  .home-template .grid-items .grid-item-big {
+    width: 66.66667%; } }
+@media screen and (min-width: 40em) {
+  .home-template .grid-items .grid-item-big p {
+    max-width: 60%; } }
+.home-template .grid-items .grid-item-image {
+  background: url("https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png");
+  background-color: black;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover; }
+.home-template .grid-items .grid-item {
+  background-color: transparent;
+  border: none; }
+  .home-template .grid-items .grid-item h3, .home-template .grid-items .grid-item p, .home-template .grid-items .grid-item i {
+    color: #333;
+    margin-top: 15px;
+    margin-bottom: 15px; }
+  .home-template .grid-items .grid-item p {
+    max-width: 100%; }
+  .home-template .grid-items .grid-item i {
+    font-size: 2em; }
 .home-template .fellow {
   max-width: 90%;
   margin-left: auto;
@@ -4017,7 +4074,8 @@ header.navigation li.more > a::after {
     .home-template .side-image {
       display: table;
       width: 100%;
-      table-layout: fixed; }
+      table-layout: fixed;
+      height: 640px; }
       .home-template .side-image div.images-wrapper.last {
         display: table-cell; } }
   .home-template .side-image .images-wrapper {
@@ -4045,7 +4103,7 @@ header.navigation li.more > a::after {
       .home-template .side-image .side-image-content {
         display: table-cell;
         width: 50%;
-        padding: 4em 5% 8em 5%; } }
+        padding: 4em 5% 0 5%; } }
     .home-template .side-image .side-image-content h2 {
       margin-bottom: 0.9em; }
     .home-template .side-image .side-image-content h4 {
@@ -4060,6 +4118,9 @@ header.navigation li.more > a::after {
       color: #333;
       line-height: 1.5;
       margin-bottom: 3em; }
+    .home-template .side-image .side-image-content a {
+      color: #333;
+      text-decoration: none; }
     .home-template .side-image .side-image-content a.button {
       color: black;
       border: 1px solid black;
@@ -4427,6 +4488,19 @@ header.navigation li.more > a::after {
   .themes-section .event .event-content {
     width: 100%; }
 
+section {
+  padding: 100px 60px 80px 60px;
+  border-bottom: 1px solid #e6e6e6; }
+  @media screen and (min-width: 53.75em) {
+    section {
+      padding: 150px 60px 80px 60px; } }
+
+section.wisdom {
+  padding: 0 0 0 0; }
+
+section.location {
+  text-align: center; }
+
 section.other-pages {
   max-width: 90%;
   margin-left: auto;
@@ -4462,6 +4536,21 @@ section.other-pages {
     max-width: 700px; }
   section.other-pages form > input, section.other-pages form > textarea {
     border-radius: 0; }
+
+form {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+  text-align: center; }
+  form input, form textarea {
+    border-radius: 0 !important;
+    border-color: #333; }
+  form input[type="submit"] {
+    float: right;
+    background-color: transparent;
+    border: 1px solid #333;
+    border-radius: 0;
+    color: #333; }
 
 .footer-2 {
   background: black;
