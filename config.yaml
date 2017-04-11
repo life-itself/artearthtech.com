@@ -1,0 +1,9 @@
+languageCode: "en-us"
+title: "Art / Earth / Tech"
+baseURL: "http://artearthtech.com/"
+
+permalinks:
+  post: /:year/:month/:day/:slug/
+
+params:
+  facebook: https://www.facebook.com/ArtEarthTech/

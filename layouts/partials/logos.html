@@ -1,0 +1,5 @@
+<ul class="logo-section">
+  {{ range .Params.logostoshow }}
+  <li><img class="{{ .wideness }}" src="{{ $.Site.BaseURL }}images/{{ .source }}" alt="" /></li>
+  {{ end }}
+</ul>

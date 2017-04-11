@@ -1,0 +1,99 @@
+{{ partial "head.html" . }}
+
+<body class="home-template">
+
+  {{ partial "navbar.html" . }}
+
+  <div class="hero">
+    <div class="hero-content">
+      <h1>ART / EARTH / TECH</h1>
+      <h2>Gathering 2017</h2>
+      <h3>July 23th-30th, La Cheraille, France</h3>
+      <a class="button" onclick="scrollDown()" href="#next-section">FIND OUT MORE</a>
+    </div>
+  </div>
+
+  <section id="next-section">
+    <div class="video">
+      <div class="video-wrapper">
+        <iframe src="https://www.youtube.com/embed/_QR-1o5ci7s" frameborder="0" allowfullscreen=""></iframe>
+      </div>
+      <div class="video-text">
+        <h3>WHAT IS THE GATHERING?</h3>
+        <p>For our second Gathering we explore how can we can live wisely and well. From our food to to our politics, and technology to education how can we make a wiser world?
+
+        Together we will reflect on how we can foster more wisdom in our societies and in our everyday life.
+
+        photography by Sarah Hickson and Evelyn Yang
+
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- <section>
+
+    <div class="side-image">
+      <div class="images-wrapper" style="background-image: url({{ $.Site.BaseURL }}images/background-information-square.jpg)"></div>
+      <div class="side-image-content">
+        <h2>Information Economy</h2>
+        <p>How can we can build an open information age? And why should we do it?
+          Will robots take all the jobs - and should we care? How to preserve freedom
+          in a world of Googles and Facebooks who have the power to shape how we think
+          and act? How can we harness the full power of digital tech for innovation and
+          creativity? Concerned about growing inequality and the digital divide? Want to
+          build an economy and society fit for the information age? Open information is
+          the biggest policy opportunity of the 21st century with answers for all of
+          these questions. Openness is central not only to creating a more innovative
+          and transparent society but to creating one which is fair, free, healthy and wealthy.
+        </p>
+        <a class="button" href="/information-economy/">Read more <span>&rsaquo;</span></a>
+      </div>
+    </div>
+
+    <div class="side-image">
+      <div class="side-image-content">
+
+        <h2>Wise Society</h2>
+        <p>From climate change to obesity it seems clear that our societies are less wise
+          than we would like — or need. Wisdom can sound other-worldly. But we believe it
+          can and should be eminently practical. That it offers a valuable way to frame an
+          important and essential enquiry into how we can make our societies and institutions
+          work better. Wisdom is an idea that requires us to reflect on ends as well as means
+          — where we are going as well as how to get there. For example, we focus a great deal
+          on growth, but what kind of growth do we want and why do we want it? Conversely,
+          lofty ideals are all very well, but without practical ways to turn them into reality
+          they may be of little value.
+        </p>
+        <a class="button" href="/wise-society/">Read more <span>&rsaquo;</span></a>
+      </div>
+      <div class="images-wrapper" style="background-image: url({{ $.Site.BaseURL }}images/background-wise-square.jpg)"></div>
+    </div>
+
+    <div class="side-image">
+      <div class="images-wrapper last" style="background-image: url({{ $.Site.BaseURL }}images/background-data-systems-square.jpg)"></div>
+      <div class="side-image-content">
+        <h2>Data Systems</h2>
+        <p>Who would you want to diagnose your cancer scan? An expert doctor or a data-driven
+          algorithm? What about who you hire? Or your advertising spend? You might be surprised
+          by the answers, And the answers are more relevant today than ever before because data
+          is everywhere. And it comes in a bewildering variety of forms -- from big to open,
+          personal to real-time, and many more. We hear of data-driven decisions and data-driven
+          organizations, data deficits and data gaps, data strategies and data officers. But how
+          can data actually make a difference to you and your organization? Or, for that matter,
+          to our society? Where can you get real value -- and what's just snake oil? In this talk
+          we will go beyond the hype and buzzwords. We will delve into how and why data can make
+          a real difference to you and your work -- as well the practical pitfalls and challenges.
+        </p>
+        <a class="button" href="/data-systems/">Read more <span>&rsaquo;</span></a>
+      </div>
+    </div>
+
+  </section> -->
+
+  {{ partial "footer.html" . }}
+
+  {{ partial "script.html" . }}
+
+</body>
+</html>
