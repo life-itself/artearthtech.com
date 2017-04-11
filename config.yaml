@@ -1,6 +1,6 @@
 languageCode: "en-us"
 title: "Art / Earth / Tech"
-baseURL: "http://artearthtech.com/"
+baseURL: "/"
 
 permalinks:
   post: /:year/:month/:day/:slug/
