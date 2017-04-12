@@ -5,6 +5,7 @@
               {{ partial "navbar.html" . }}
 
               <section>
+                <h1>{{ .Title }}</h1>
                 <ul class="bullets">
                   {{ range .Data.Pages }}
                   <li class="bullet">

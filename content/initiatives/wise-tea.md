@@ -3,6 +3,8 @@ title: Wise Tea
 slug: wise-tea
 section: projects
 date: 2017-01-23T15:03:36
+logoPath: Screen-Shot-2017-01-23-at-16.05.11_768x513.png
+imagePath: Screen-Shot-2017-01-23-at-16.05.11_768x513.png
 ---
 
 Wise Tea is a web-documentary questioning what it means to be Taiwanese. The project seeks to build a narrative around what constitutes Taiwanese wisdom and identity, delving into its complexity, taboos and ambiguity.

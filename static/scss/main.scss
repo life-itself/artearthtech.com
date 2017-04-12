@@ -834,7 +834,7 @@ section.other-pages {
   @include outer-container(90%);
   @import "refills/logos.scss";
   @include media($large-screen) {
-    max-width: 700px;
+    max-width: 768px;
   }
   padding-top: 3em;
   .news {

@@ -2,6 +2,8 @@
 title: Why and who?
 slug: why
 date: 2017-01-23T15:04:55
+logoPath: 11_768x576.jpg
+imagePath: 11_768x576.jpg
 ---
 
 Who is the “we”?  A nation is an  imagined community constructed through stories and narratives.  Even the members of the smallest nation will never know most of their fellow-members. Yet, the image of their unity live in the minds of each, because of the stories told …
