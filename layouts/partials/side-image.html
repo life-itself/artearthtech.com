@@ -5,10 +5,7 @@
   {{ end }}
 
   <div class="side-image-content">
-    {{ if .Params.supertitle }}
-    <h1><a href="{{ .Permalink }}">{{ upper .Params.supertitle }}</a></h1>
-    <hr>
-    {{ end }}
+    
     <h2><a href="{{ .Permalink }}">{{ upper .Title }}</a></h2>
 
     {{ if gt (len .Content) 650 }}

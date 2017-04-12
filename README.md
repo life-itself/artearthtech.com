@@ -21,8 +21,14 @@ To work on the website:
 * Install git lfs and pull git large files
 * Run hugo:
 
-  `hugo serve`
+  `hugo server`
 
 ### Deployment
 
 We deploy it using gitlab pipelines -- see .gitlab-ci.yml
+
+### Assets
+
+All assets for the site are stored in [this drive folder](https://drive.google.com/drive/u/1/folders/0B4VpjxPkN_XccDdOOGNVZlo1VXM).
+
+We use reduced (pixels and file size) versions of the images to increase pages' loading speed. All reduced images have appendix with `W x H` in their names.

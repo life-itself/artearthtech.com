@@ -4,8 +4,7 @@ slug: appliedwisdom
 date: 2016-01-24T18:05:17
 grid: true
 imageLocation: right
-image: BC03.jpg
-superTitle: Why Wisdom
+image: BC03_640x640.jpg
 weight: 100
 ---
 

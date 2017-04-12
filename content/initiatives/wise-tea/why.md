@@ -8,7 +8,7 @@ Who is the “we”?  A nation is an  imagined community constructed through sto
 
 Taiwanese identity is the product of a complicated history and the stories have been heavily politicized. As a result, there is a lack of a coherent narrative. Wise Tea seeks to document the lived experiences of the Taiwanese people, to construct a narrative which goes beyond the old and new controversies. Ultimately, the project is  about reconciling the multiple strands of narratives which form Taiwanese identity.
 
-<img src="/wp-content/uploads/2017/01/11.jpg">
+<img src="/images/11_768x576.jpg">
 
 Wise Tea is an investigation. We do not wish to start with an pre-fixed idea about what constitute Taiwanese identity. However, we hold two hypothesis:
 
@@ -16,7 +16,7 @@ Firstly, Taiwanese identity is less and less about ethnicity, religion, or the m
 
 Secondly, it is also our contention that this identity carries a lot of wisdom. We want to enquire about the source of this wisdom and document how it is lived and reproduced in the everyday life of the taiwanese citizen. To this end, we will connect broader social, political or economical features of Taiwan with the daily attitudes of Taiwanese citizens.
 
-<img src="/wp-content/uploads/2017/01/65.jpg">
+<img src="/images/65_768x1024.jpg">
 
 ## Why now?
 
@@ -26,7 +26,7 @@ Firstly, what constitutes Taiwanese identity is a difficult topic. It is complex
 
 Secondly, the first three generations that has lived under Taiwan ROC as a modern nation are still co-existing. Our grand-parents who lived through the formation of Taiwan ROC, our parents who lived through the democratization; and finally our generation, who will be responsible for building on their legacy. Before our grandparent’s generation passes away, we should speak with these three generations, have them meet and talk and share their hopes and desires for the future. This conversation is important at a time where the younger generation seems to be redefining Taiwanese identity. We need to ask what we want to keep but also what we want to leave behind.
 
-<img src="/wp-content/uploads/2017/01/30.jpg">
+<img src="/images/30_768x576.jpg">
 
 ## Why the name?
 
@@ -43,7 +43,7 @@ We hope to share cups of tea, as this simple act will be an ideal setting to bri
 
 We are Sylvie and Ninon, two childhood friends, both half-Taiwanese half-French. We know each other from our Taiwanese mothers, who have transmitted to us a love and pride of being Taiwanese. As young adults, having spent a large part of our childhood outside of Taiwan, we both experienced the desire to return and live in Taiwan in order to reconnect with our roots.
 
-<img src="/wp-content/uploads/2017/01/22086_10207122423169637_8978291049271836355_n.jpg">
+<img src="/images/22086_10207122423169637_8978291049271836355_n_615x960.jpg">
 
 In 2015, we set up the Epic Failures Taipei (Insert Link). The conference was a great success after which we realized that our childhood together, shared identity and deep mutual understanding was a great advantage for collaboration. It gave our partnership a lot of strength and resilience. Thus, in 2016 we co-created Art / Earth / Tech (Insert Link) an initiative which seeks to build a community of people seeking a wiser society.
 

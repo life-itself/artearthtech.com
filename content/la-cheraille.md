@@ -16,10 +16,10 @@ La Cheraille, 78120 Sonchamp, France
 
 ## Pictures
 
-<img src="/wp-content/uploads/2017/01/DSC_8791_Sarah_Hickson.jpg">
-<img src="/wp-content/uploads/2016/01/Screen-Shot-2015-10-04-at-9.19.20-AM.png">
-<img src="/wp-content/uploads/2016/01/Screen-Shot-2015-10-04-at-9.17.55-AM.png">
-<img src="/wp-content/uploads/2017/01/DSC_8829_Sarah_Hickson1.jpg">
-<img src="/wp-content/uploads/2016/04/DSC_8796_Sarah_Hickson.jpg">
-<img src="/wp-content/uploads/2017/01/DSC_0070_Sarah_Hickson.jpg">
-<img src="/wp-content/uploads/2017/01/DSC_8836_Sarah_Hickson.jpg">
+<img src="/images/DSC_8791_Sarah_Hickson_768x512.jpg">
+<img src="/images/la_cheraille1_768x577.png">
+<img src="/images/la_cheraille2_768x574.png">
+<img src="/images/DSC_8829_Sarah_Hickson1_768x512.jpg">
+<img src="/images/DSC_8796_Sarah_Hickson_768x512.jpg">
+<img src="/images/DSC_0070_Sarah_Hickson_768x512.jpg">
+<img src="/images/DSC_8836_Sarah_Hickson_768x512.jpg">

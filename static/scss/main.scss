@@ -31,6 +31,9 @@ body {
   a:hover {
     text-decoration: underline;
   }
+  .content-wrapper__inner {
+    margin-top: 63px;
+  }
 }
 
 a.button, input[type="submit"] {
@@ -69,6 +72,8 @@ header.navigation {
   }
 
   @include media($large-screen) {
+    position: fixed;
+    top: 0;
     nav {
       float: right;
     }
@@ -120,10 +125,11 @@ header.navigation {
 // ========================================================
 // front page
 .home-template {
+  @import "refills/flex-boxes";
   @import "refills/hero";
   .hero {
     align-items: center;
-    background: url("../images/BC02.jpg");
+    background: url("../images/BC02_706x474.jpg");
     background-size: none;
     background-repeat: no-repeat;
     display: block;
@@ -134,7 +140,7 @@ header.navigation {
     @include media($large-screen) {
       background-size: cover;
       padding: 12em 5%;
-      min-height: calc(100vh - 60px);
+      min-height: calc(100vh + 1em);
     }
 
     .hero-content {
@@ -815,6 +821,12 @@ section.location {
     font-size: 20px;
     font-weight: 300;
     a {}
+  }
+  img {
+    @include media($large-screen) {
+      margin: 1% 2%;
+      @include size(42% 320px);
+    }
   }
 }
 

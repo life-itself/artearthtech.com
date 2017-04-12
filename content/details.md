@@ -4,7 +4,7 @@ slug: details
 date: 2016-04-14T18:20:23
 grid: true
 imageLocation: left
-image: DSC_8863_Sarah_Hickson1.jpg
+image: DSC_8863_Sarah_Hickson1_640x640.jpg
 weight: 600
 ---
 

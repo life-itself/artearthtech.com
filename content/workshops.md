@@ -4,7 +4,7 @@ slug: workshops
 date: 2016-02-09T10:00:54
 grid: true
 imageLocation: right
-image: BC06.jpg
+image: BC06_640x640.jpg
 weight: 500
 ---
 

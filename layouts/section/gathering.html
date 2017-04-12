@@ -66,7 +66,11 @@
       <p>{{ slicestr .Content 389 425 }}</p>
       <p><a href="{{ .Permalink }}">Full details about La Cheraille <span>&rsaquo;</span></a></p>
       {{ slicestr .Content 429 813 | safeHTML }}
-      {{ slicestr .Content 840 1146 | safeHTML }}
+      <br /><br />
+
+      {{ slicestr .Content 850 1053 | safeHTML }}
+
+
     {{ end }}
   </section>
 

@@ -4,7 +4,7 @@ slug: research
 date: 2016-01-24T18:59:02
 grid: true
 imageLocation: left
-image: 200710_10150234235402942_7382081_n.jpg
+image: 200710_10150234235402942_7382081_n_720x461.jpg
 weight: 200
 ---
 

@@ -4,7 +4,7 @@ slug: get-involve
 date: 2016-01-24T20:28:46
 grid: true
 imageLocation: right
-image: DSC_8924bw_Sarah_Hickson.jpg
+image: DSC_8924bw_Sarah_Hickson_640x640.jpg
 weight: 300
 ---
 
