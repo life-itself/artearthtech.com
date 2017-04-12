@@ -1,14 +1,22 @@
 <header class="navigation" role="banner">
   <div class="navigation-wrapper">
+    <a href="/" class="logo">ART / EARTH / TECH</a>
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
-        <li style= "font-size:21px; font-weight:500"class="nav-link"><a href="/">ART / EARTH / TECH</a></li>
-        <li style= "font-size:14px;"class="nav-link"><a href="/project/">PROJECTS</a></li>
-        <li style= "font-size:14px;"class="nav-link"><a href="/news/">NEWS</a></li>
-        <li style= "font-size:14px;"class="nav-link"><a href="/team/">PEOPLE</a></li>
-        <li style= "font-size:14px;"class="nav-link"><a href="/project/">PRIMERS</a></li>
-        <li style= "font-size:14px;"class="nav-link"><a href="/contact/">GET IN TOUCH</a></li>
+        <li id="js-navigation-more" class="nav-link more">
+          <a href="javascript:void(0)">ABOUT</a>
+          <ul class="submenu">
+            <li><a href="/manifesto/">MANIFESTO</a></li>
+            <li><a href="/la-cheraille/">LA-CHERAILLE</a></li>
+          </ul>
+        </li>
+        <li class="nav-link"><a href="/gathering/">GATHERING</a></li>
+        <li class="nav-link"><a href="/initiatives/">INITIATIVES</a></li>
+        <li class="nav-link"><a href="/news/">NEWS</a></li>
+        <li class="nav-link"><a href="/people/">PEOPLE</a></li>
+        <li class="nav-link"><a href="/get-in-touch/">GET IN TOUCH</a></li>
+        <li class="nav-link"><a target="_blank" href="{{ .Site.Params.facebook }}"><i class="icon ion-social-facebook" ></i></a></li>
       </ul>
     </nav>
   </div>

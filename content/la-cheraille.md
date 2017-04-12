@@ -1,7 +1,7 @@
 ---
 title: La Cheraille
 slug: la-cheraille
-date: 20170121T13:47:50
+date: 2017-01-21T13:47:50
 ---
 
 We are based La Cheraille, a small farming hamlet near Paris. This beautiful, natural and secluded environment is perfectly suited to our ethos and provides an ideal space for participants to share, experiment and reflect.

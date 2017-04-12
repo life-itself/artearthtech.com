@@ -1,7 +1,7 @@
 ---
 title: Apply
 slug: apply
-date: 20160204T11:41:53
+date: 2016-02-04T11:41:53
 ---
 
 We have a strictly **limited capacity of twenty** -- in keeping with the high-quality and exclusive nature of the program.

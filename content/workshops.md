@@ -1,7 +1,7 @@
 ---
 title: Workshop
 slug: workshops
-date: 20160209T10:00:54
+date: 2016-02-09T10:00:54
 grid: true
 imageLocation: right
 image: BC06.jpg

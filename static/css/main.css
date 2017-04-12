@@ -202,7 +202,7 @@ samp {
  * 2. Correct font properties not being inherited.
  * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
  */
-button, a.button,
+button, a.button, input[type="submit"],
 input,
 optgroup,
 select,
@@ -217,7 +217,7 @@ textarea {
 /**
  * Address `overflow` set to `hidden` in IE 8/9/10/11.
  */
-button, a.button {
+button, a.button, input[type="submit"] {
   overflow: visible; }
 
 /**
@@ -226,7 +226,7 @@ button, a.button {
  * Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera.
  * Correct `select` style inheritance in Firefox.
  */
-button, a.button,
+button, a.button, input[type="submit"],
 select {
   text-transform: none; }
 
@@ -237,7 +237,7 @@ select {
  * 3. Improve usability and consistency of cursor style between image-type
  *    `input` and others.
  */
-button, a.button,
+button, a.button, input[type="submit"],
 html input[type="button"],
 input[type="reset"],
 input[type="submit"] {
@@ -249,14 +249,14 @@ input[type="submit"] {
 /**
  * Re-set default cursor for disabled elements.
  */
-button[disabled], a[disabled].button,
+button[disabled], a[disabled].button, input[disabled][type="submit"],
 html input[disabled] {
   cursor: default; }
 
 /**
  * Remove inner padding and border in Firefox 4+.
  */
-button::-moz-focus-inner, a.button::-moz-focus-inner,
+button::-moz-focus-inner, a.button::-moz-focus-inner, input[type="submit"]::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
   padding: 0; }
@@ -359,7 +359,8 @@ th {
 
 input[type="button"], input[type="reset"], input[type="submit"],
 button,
-a.button {
+a.button,
+input[type="submit"] {
   -webkit-appearance: none;
   -moz-appearance: none;
   -ms-appearance: none;
@@ -384,13 +385,16 @@ a.button {
   input[type="button"]:hover, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:focus,
   button:hover,
   a.button:hover,
+  input[type="submit"]:hover,
   button:focus,
-  a.button:focus {
+  a.button:focus,
+  input[type="submit"]:focus {
     background-color: black;
     color: #fff; }
   input[type="button"]:disabled, input[type="reset"]:disabled, input[type="submit"]:disabled,
   button:disabled,
-  a.button:disabled {
+  a.button:disabled,
+  input[type="submit"]:disabled {
     cursor: not-allowed;
     opacity: 0.5; }
 
@@ -3632,6 +3636,19 @@ body a:visited {
 body a:hover {
   text-decoration: underline; }
 
+a.button, input[type="submit"] {
+  padding: 16px 24px;
+  color: #34313b;
+  border: 1px solid #34313b;
+  background-color: white;
+  border-radius: 0;
+  font-size: 14px;
+  font-weight: 400; }
+  a.button:focus, a.button:hover, input[type="submit"]:focus, input[type="submit"]:hover {
+    text-decoration: none;
+    background-color: #34313b;
+    color: white; }
+
 .content-wrapper {
   min-height: calc(100vh - 4.8em); }
 
@@ -3835,7 +3852,7 @@ header.navigation {
         @media screen and (min-width: 53.75em) {
           header.navigation .search-bar form input[type=search] {
             width: 100%; } }
-      header.navigation .search-bar form button[type=submit], header.navigation .search-bar form a[type=submit].button {
+      header.navigation .search-bar form button[type=submit], header.navigation .search-bar form a[type=submit].button, header.navigation .search-bar form input[type=submit][type="submit"] {
         background: white;
         border: 0;
         bottom: 0.3em;
@@ -3845,7 +3862,7 @@ header.navigation {
         position: absolute;
         right: 0.3em;
         top: 0.3em; }
-        header.navigation .search-bar form button[type=submit] img, header.navigation .search-bar form a[type=submit].button img {
+        header.navigation .search-bar form button[type=submit] img, header.navigation .search-bar form a[type=submit].button img, header.navigation .search-bar form input[type=submit][type="submit"] img {
           height: 12px;
           opacity: 0.7;
           padding: 1px; }
@@ -3866,14 +3883,36 @@ header.navigation .navigation-wrapper {
     clear: both;
     content: "";
     display: table; }
+@media screen and (min-width: 53.75em) {
+  header.navigation nav {
+    float: right; } }
+header.navigation a.logo {
+  color: #333;
+  font-size: 20px;
+  padding-left: 0;
+  margin-left: 0;
+  text-decoration: none;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 60px; }
+header.navigation li a {
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 0 10px;
+  color: #333 !important; }
 header.navigation li.more > a::after {
-  font-size: 1em; }
-@media screen and (min-width: 53.75em) {
-  header.navigation ul.submenu li {
-    line-height: 37.5px; } }
-@media screen and (min-width: 53.75em) {
+  font-size: 0.8em; }
+header.navigation ul.submenu {
+  left: 0; }
+  @media screen and (min-width: 53.75em) {
+    header.navigation ul.submenu li {
+      line-height: 37.5px; } }
   header.navigation ul.submenu li a {
-    width: 15.6em; } }
+    font-size: 12px; }
+    @media screen and (min-width: 53.75em) {
+      header.navigation ul.submenu li a {
+        width: 15.6em; } }
 
 .home-template .hero {
   align-items: center;
@@ -3914,18 +3953,29 @@ header.navigation li.more > a::after {
   .home-template .hero .hero-content {
     max-width: 100%;
     color: white; }
-    .home-template .hero .hero-content h1, .home-template .hero .hero-content h3, .home-template .hero .hero-content h4 {
-      margin-bottom: 20px;
-      font-weight: 300; }
     .home-template .hero .hero-content h1 {
-      font-size: 4em;
-      font-weight: 300; }
+      font-size: 60px;
+      font-weight: 300;
+      letter-spacing: 0;
+      margin-bottom: 10px; }
+    .home-template .hero .hero-content h2 {
+      font-size: 30px;
+      font-weight: 400;
+      margin-bottom: 20px; }
     .home-template .hero .hero-content a.button {
       margin: 25px 10px 20px 0;
+      padding: 16px 24px;
       border: 1px solid #fff;
       border-radius: 0;
       color: white;
+      font-size: 14px;
+      font-weight: 400;
+      letter-spacing: 1px;
       background-color: transparent; }
+      .home-template .hero .hero-content a.button:focus, .home-template .hero .hero-content a.button:hover {
+        text-decoration: none;
+        background-color: white;
+        color: black; }
     .home-template .hero .hero-content a i {
       color: white;
       font-size: 25px;
@@ -3975,6 +4025,15 @@ header.navigation li.more > a::after {
         width: 850px; } }
   .home-template .video .video-text {
     text-align: center; }
+    .home-template .video .video-text h3 {
+      font-size: 24px;
+      letter-spacing: 1;
+      margin-bottom: 20px;
+      font-weight: 400; }
+    .home-template .video .video-text p {
+      font-size: 16px;
+      font-weight: 300;
+      color: #333; }
     @media screen and (min-width: 53.75em) {
       .home-template .video .video-text {
         padding: 0;
@@ -4034,12 +4093,19 @@ header.navigation li.more > a::after {
 .home-template .grid-items .grid-item {
   background-color: transparent;
   border: none; }
-  .home-template .grid-items .grid-item h3, .home-template .grid-items .grid-item p, .home-template .grid-items .grid-item i {
-    color: #333;
+  .home-template .grid-items .grid-item h4, .home-template .grid-items .grid-item p, .home-template .grid-items .grid-item i {
+    color: #333 !important;
     margin-top: 15px;
-    margin-bottom: 15px; }
+    margin-bottom: 20px; }
+  .home-template .grid-items .grid-item h4 {
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-weight: 400; }
   .home-template .grid-items .grid-item p {
-    max-width: 100%; }
+    max-width: 90%;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.625; }
   .home-template .grid-items .grid-item i {
     font-size: 2em; }
 .home-template .fellow {
@@ -4105,28 +4171,32 @@ header.navigation li.more > a::after {
         width: 50%;
         padding: 4em 5% 0 5%; } }
     .home-template .side-image .side-image-content h2 {
-      margin-bottom: 0.9em; }
-    .home-template .side-image .side-image-content h4 {
-      background: #BBB;
-      color: white;
-      display: inline-block;
-      font-size: 0.75em;
-      margin-bottom: 1.3em;
-      padding: 3px 8px;
-      text-transform: uppercase; }
+      margin-bottom: 0.9em;
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: 0.5px; }
     .home-template .side-image .side-image-content p {
       color: #333;
-      line-height: 1.5;
-      margin-bottom: 3em; }
+      font-size: 18px;
+      margin-bottom: 30px;
+      font-weight: 300;
+      line-height: 1.625; }
     .home-template .side-image .side-image-content a {
       color: #333;
-      text-decoration: none; }
+      text-decoration: none;
+      border-bottom: 0; }
     .home-template .side-image .side-image-content a.button {
-      color: black;
-      border: 1px solid black;
+      padding: 16px 24px;
+      color: #34313b;
+      border: 1px solid #34313b;
       background-color: white;
       border-radius: 0;
-      font-weight: normal; }
+      font-size: 14px;
+      font-weight: 400; }
+      .home-template .side-image .side-image-content a.button:focus, .home-template .side-image .side-image-content a.button:hover {
+        text-decoration: none;
+        background-color: #34313b;
+        color: white; }
 
 .page-content > :first-child {
   min-height: 400px; }
@@ -4494,12 +4564,26 @@ section {
   @media screen and (min-width: 53.75em) {
     section {
       padding: 150px 60px 80px 60px; } }
+  section a {
+    color: #333;
+    border-bottom: 1px solid #ddd; }
+    section a:focus, section a:hover {
+      border-bottom: 0; }
 
 section.wisdom {
   padding: 0 0 0 0; }
 
 section.location {
   text-align: center; }
+  section.location h2 {
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    margin-bottom: 20px; }
+  section.location p {
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: 300; }
 
 section.other-pages {
   max-width: 90%;

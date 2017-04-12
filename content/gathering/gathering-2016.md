@@ -1,7 +1,7 @@
 ---
 title: Gathering 2016
 slug: gathering-2016
-date: 20170122T17:48:10
+date: 2017-01-22T17:48:10
 ---
 
 We had our first Gathering in Summer 2016 and here are some wonderful photography by Sarah Hickson of our event!

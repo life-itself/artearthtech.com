@@ -1,12 +1,12 @@
 ---
 title: Workshop 2016
 slug: workshop-2016
-date: 20170123T11:44:22
+date: 2017-01-23T11:44:22
 ---
 
-We hosted a workshop in London on Non attachment. 
+We hosted a workshop in London on Non attachment.
 
-The event included talks, videos and interactive installations all related to our theme of engagement and non-attachment. 
+The event included talks, videos and interactive installations all related to our theme of engagement and non-attachment.
 
 
 <img src="/wp-content/uploads/2017/01/1.jpg">

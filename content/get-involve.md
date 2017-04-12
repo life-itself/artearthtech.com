@@ -1,7 +1,7 @@
 ---
 title: For whom
 slug: get-involve
-date: 20160124T20:28:46
+date: 2016-01-24T20:28:46
 grid: true
 imageLocation: right
 image: DSC_8924bw_Sarah_Hickson.jpg

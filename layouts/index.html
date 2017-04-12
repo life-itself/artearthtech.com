@@ -7,66 +7,10 @@
   <div class="hero">
     <div class="hero-content">
       <h1>ART / EARTH / TECH</h1>
-      <a class="button" onclick="scrollDown(this)" href="#next-section">FIND OUT MORE</a>
+      <!-- <a class="button" onclick="scrollDown(this)" href="#next-section">FIND OUT MORE</a> -->
     </div>
   </div>
 
-  <section id="next-section" class="gathering-info">
-    <div class="video">
-      <div class="video-text">
-        <h2>WHAT IS THE GATHERING?</h2>
-        <p>For our second Gathering we explore how can we can live wisely and well. From our food to to our politics, and technology to education how can we make a wiser world?
-
-        <p>Together we will reflect on how we can foster more wisdom in our societies and in our everyday life.</p>
-
-        <p>photography by Sarah Hickson and Evelyn Yang</p>
-
-        </p>
-      </div>
-      <div class="video-wrapper">
-        <iframe src="https://www.youtube.com/embed/_QR-1o5ci7s" frameborder="0" allowfullscreen=""></iframe>
-      </div>
-    </div>
-
-    <div class="grid-items">
-      <div class="grid-item">
-        <i class="icon ion-ios-calendar-outline"></i>
-        <h3>WHEN</h3>
-        <p>Start: Saturday 23rd July – 2pm</p>
-        <p>End: Sunday 30th July – 2pm</p>
-        <p>It may also be possible to come for the long weekend: Friday 28th July - Sunday 30th July.</p>
-      </div>
-      <div class="grid-item">
-        <i class="icon ion-ios-location-outline"></i>
-        <h3>WHERE</h3>
-        <p>La Cheraille, a small farming hamlet near Paris. This natural, beautiful and secluded environment is perfectly suited to the ethos of the week and provides the ideal space for participants to share, experiment and reflect. <a href="#location" onclick="scrollDown(this)">Read more <span>&rsaquo;</span></a></p>
-      </div>
-      <div class="grid-item">
-        <i class="icon ion-ios-people-outline"></i>
-        <h3>PARTICIPATE</h3>
-        <p>The event is invite only and is limited in scale to ensure an intimate atmosphere — no more than roughly thirty participants. If would like to participate or know someone who would please <a href="#contact" onclick="scrollDown(this)">get in touch <span>&rsaquo;</span></a>.</p>
-      </div>
-    </div>
-
-  </section>
-
-  <section class="wisdom">
-
-    {{ range where .Site.Pages.ByWeight "Params.grid" true }}
-      {{ partial "side-image.html" . }}
-    {{ end }}
-
-  </section>
-
-  <section id="location" class="location">
-    <h2>THE LOCATION – LA CHERAILLE</h2>
-    {{ range where .Site.Pages "Params.slug" "la-cheraille" }}
-      {{ slicestr .Content 389 425 }}
-      <p><a href="{{ .Permalink }}">Full details about La Cheraille <span>&rsaquo;</span></a></p>
-      {{ slicestr .Content 429 813 | safeHTML }}
-      {{ slicestr .Content 840 1146 | safeHTML }}
-    {{ end }}
-  </section>
 
   <section id="contact">
     {{ partial "contact.html" . }}

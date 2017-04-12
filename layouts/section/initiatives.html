@@ -1,0 +1,36 @@
+{{ partial "head.html" . }}
+    <body>
+        <div class="content-wrapper">
+            <div class="content-wrapper__inner">
+              {{ partial "navbar.html" . }}
+              {{ .Title }}
+
+              <section>
+                <ul class="bullets">
+                  {{ range .Data.Pages }}
+                  <li class="bullet">
+                    <div class="bullet-icon">
+                      <img src="{{ $.Site.BaseURL }}images/{{ .Params.logopath }}" />
+                      <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
+                    </div>
+                    <div class="bullet-image">
+                      <img src="{{ $.Site.BaseURL }}images/{{ .Params.imagepath }}" alt="">
+                    </div>
+                    <div class="bullet-content">
+                      {{ if gt (len .Summary) 90 }}
+                        {{ slicestr .Summary 0 90 }}...
+                      {{ else }}
+                        {{ .Summary }}...
+                      {{ end }}
+                      <a href="{{ .Permalink }}">read more <span>&rsaquo;</span></a>
+                    </div>
+                  </li>
+                  {{ end }}
+                </ul>
+              </section>
+
+            </div>
+        </div>
+    </body>
+    {{ partial "script.html" .}}
+</html>

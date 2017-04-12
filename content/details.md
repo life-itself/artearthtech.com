@@ -1,7 +1,7 @@
 ---
 title: A bit more into details
 slug: details
-date: 20160414T18:20:23
+date: 2016-04-14T18:20:23
 grid: true
 imageLocation: left
 image: DSC_8863_Sarah_Hickson1.jpg

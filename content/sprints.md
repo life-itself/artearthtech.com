@@ -1,7 +1,7 @@
 ---
 title: Sprints
 slug: sprints
-date: 20170121T15:56:33
+date: 2017-01-21T15:56:33
 ---
 
 Sprints are an opportunity to take time away from your everyday engagements to reflect and focus on a project of your choice surrounded by an amazing community in an incredible environment.
@@ -37,4 +37,3 @@ You can structure your day as you like.
 We'll have 3 delicious meals a day -- generally together.
 
 We'll also offer a daily sitting and walking meditation (optional).
-

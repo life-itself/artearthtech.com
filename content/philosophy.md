@@ -1,7 +1,7 @@
 ---
 title: Philosophy
 slug: philosophy
-date: 20160209T10:12:09
+date: 2016-02-09T10:12:09
 ---
 
 Art, Earth, Tech is not just an educational program, it is a philosophy. <strong>Ultimately we seek to foster wisdom, wholeness, and well-being</strong> of individuals and societies. We do this by sharing skills and understanding.

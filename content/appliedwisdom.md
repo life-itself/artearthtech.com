@@ -1,7 +1,7 @@
 ---
 title: The gathering
 slug: appliedwisdom
-date: 20160124T18:05:17
+date: 2016-01-24T18:05:17
 grid: true
 imageLocation: right
 image: BC03.jpg

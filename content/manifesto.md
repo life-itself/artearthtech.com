@@ -1,11 +1,8 @@
 ---
 title: Manifesto
 slug: manifesto
-date: 20160414T16:40:51
-grid: true
-imageLocation: right
+date: 2016-04-14T16:40:51
 image: DSC_9088bw_Sarah_Hickson.jpg
-weight: 700
 ---
 
 *A community for people seeking a wiser world*

@@ -1,7 +1,7 @@
 ---
 title: Schedule
 slug: schedule
-date: 20160225T23:44:01
+date: 2016-02-25T23:44:01
 ---
 
 The schedule for the week is flexible. The following is an outline for each day that serves as a guide not as a rigid agenda. It intentionally includes lots of space for adding activities and for people to reflect, relax and connect as they choose.

@@ -1,11 +1,8 @@
 ---
 title: By who
-slug: team
-date: 20160204T12:11:13
-grid: true
-imageLocation: right
+slug: people
+date: 2016-02-04T12:11:13
 image: FACES.jpg
-weight: 800
 ---
 
 <p>The Gathering is hosted by Sylvie Barbier, Rufus Pollock, Jonathan Ekstrom, Liam Kavanagh and Ninon Godfroy. </p>

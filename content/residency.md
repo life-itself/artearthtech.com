@@ -1,7 +1,7 @@
 ---
 title: Food and accommodation
 slug: residency
-date: 20160414T18:24:04
+date: 2016-04-14T18:24:04
 grid: true
 imageLocation: left
 image: 12961452_165466130514064_6522683904244243683_n.jpg

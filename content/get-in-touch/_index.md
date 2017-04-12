@@ -1,7 +1,5 @@
 ---
 title: Get in Touch
 slug: get-in-touch
-date: 20160312T16:22:12
+date: 2016-03-12T16:22:12
 ---
-
-[ninja_forms id=1]

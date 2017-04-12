@@ -1,7 +1,7 @@
 ---
 title: Values
 slug: values
-date: 20170116T16:15:06
+date: 2017-01-16T16:15:06
 ---
 
 <b>Joyful and Playful:</b>
