@@ -1,6 +1,7 @@
 languageCode: "en-us"
 title: "Art / Earth / Tech"
 baseURL: "/"
+googleAnalytics: "UA-35035650-4"
 
 permalinks:
   post: /:year/:month/:day/:slug/
