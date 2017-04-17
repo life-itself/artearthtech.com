@@ -5,7 +5,11 @@
   {{ end }}
 
   <div class="side-image-content">
-    
+    {{ if .Params.supertitle }}
+      <a href="{{ .Permalink }}">
+        <h1 class="large-title">{{ upper .Params.supertitle }}</h1>
+      </a>
+    {{ end }}
     <h2><a href="{{ .Permalink }}">{{ upper .Title }}</a></h2>
 
     {{ if gt (len .Content) 650 }}

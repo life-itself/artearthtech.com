@@ -6,6 +6,9 @@
                   {{ partial "navbar.html" . }}
 
                   <section class="other-pages">
+                    {{ with .Params.supertitle }}
+                      <h1 class="large-title">{{ . }}</h1>
+                    {{ end }}
                     <h1>{{ .Title }}</h1>
                     {{ .Content }}
                     {{ if eq .Params.news true }}

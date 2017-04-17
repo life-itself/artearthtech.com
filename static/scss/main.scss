@@ -18,6 +18,11 @@ $small-screen: em(400);
 $extra-large-screen: em(1280);
 
 body {
+  h1.large-title {
+    font-size: 72px;
+    font-weight: 700;
+    margin: 0 0 20px 0;
+  }
   h2 {
     font-size: 1.6em;
     font-weight: 500;
@@ -887,6 +892,10 @@ section.other-pages {
     line-height: 1.2;
     margin: 0 0 20px 0;
     color: #333;
+  }
+  h1.large-title {
+    font-size: 48px;
+    
   }
   h3 {
     font-size: 28px;

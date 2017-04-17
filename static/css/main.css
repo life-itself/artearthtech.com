@@ -3626,6 +3626,10 @@ body {
     font-family: "Lato", sans-serif;
     font-style: italic; }
 
+body h1.large-title {
+  font-size: 72px;
+  font-weight: 700;
+  margin: 0 0 20px 0; }
 body h2 {
   font-size: 1.6em;
   font-weight: 500; }
@@ -4724,6 +4728,8 @@ section.other-pages {
     line-height: 1.2;
     margin: 0 0 20px 0;
     color: #333; }
+  section.other-pages h1.large-title {
+    font-size: 48px; }
   section.other-pages h3 {
     font-size: 28px;
     font-weight: 400;
