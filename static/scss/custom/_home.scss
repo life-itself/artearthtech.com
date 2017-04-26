@@ -9,10 +9,11 @@
     background-repeat: no-repeat;
     display: block;
     justify-content: center;
-    min-height: 38em;
-    padding: 2em 5%;
+
+    padding: 2em 0;
 
     @include media($large-screen) {
+      min-height: 38em;
       background-size: cover;
       padding: 25vh 5%;
       height: calc(100vh + 8em);
@@ -67,22 +68,23 @@
     }
 
     .call-to-action {
-      @include position(absolute, 88% null null 25%);
-      @include size(50% 12%);
-      p {
-        color: white;
-        text-align: center;
-        align-items: center;
-        margin: 0;
-        //font-size: 0.9em;
-      }
-      .arrow-down {
-        font-size: 2.6em;
-        a {
+      display: none;
+      @include media($large-screen) {
+        display: block;
+        @include position(absolute, 88% null null 25%);
+        @include size(50% 12%);
+        p {
           color: white;
+          text-align: center;
+          align-items: center;
+          margin: 0;
+          //font-size: 0.9em;
         }
-        @include media($large-screen) {
+        .arrow-down {
           font-size: 2.6em;
+          a {
+            color: white;
+          }
         }
       }
     }
@@ -96,13 +98,15 @@
     $large-screen: 50em !default;
     overflow: hidden;
     position: relative;
-    margin-bottom: 3em;
+    margin-bottom: 0;
+    @include media($large-screen) {
+      margin-bottom: 3em;
+    }
     .video-wrapper {
       embed,
       object,
       iframe {
-        @include position(7vh null null 0);
-        @include size(100vw 56.2vw);
+        @include size(100% calc((100vw - 40px) * 0.562));
         @include media($large-screen) {
           @include position(0 null null null);
           @include size(680px 382px);

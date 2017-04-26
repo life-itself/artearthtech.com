@@ -51,7 +51,9 @@
   }
 
   .bullet-image {
-    @include size(300px 300px);
+    @include media($large-screen) {
+      @include size(300px 300px);
+    }
     overflow: hidden;
     border: 0;
     margin-bottom: 1em;

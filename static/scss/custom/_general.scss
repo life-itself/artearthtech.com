@@ -21,7 +21,10 @@ body {
     font-weight: 500;
   }
   h2.section-title {
-    font-size: 2em;
+    font-size: 1.6em;
+    @include media($large-screen) {
+      font-size: 2em;
+    }
   }
   h3 {
     font-family: "novecento-sans-wide-light";

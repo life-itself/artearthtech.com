@@ -1,5 +1,5 @@
 section {
-  padding: 100px 60px 80px 60px;
+  padding: 50px 20px 20px;
   @include media($large-screen) {
     padding: 60px 60px 30px 60px;
   }
@@ -36,7 +36,10 @@ section.what-we-do {
     margin-bottom: 0;
   }
   ul.bullets {
-    margin-top: 0;
+    margin-top: 3em;
+    @include media($large-screen) {
+      margin-top: 0;
+    }
   }
   a {
     border-bottom: 0;
@@ -80,6 +83,12 @@ section.location {
     @include media($large-screen) {
       margin: 1% 2%;
       @include size(42% 320px);
+    }
+  }
+  iframe {
+    @include size(100% calc(100vw - 100px));
+    @include media($large-screen) {
+      @include size(400px 400px);
     }
   }
 }
