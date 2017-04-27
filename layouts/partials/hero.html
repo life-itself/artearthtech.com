@@ -6,6 +6,9 @@
     {{ with .Params.info }}
       <h2 class="info">{{ . }}</h2>
     {{ end }}
+    {{ with .Params.info2 }}
+      <h2 class="info">{{ . }}</h2>
+    {{ end }}
     {{ if .IsHome }}
       <a target="_blank" href="{{ .Site.Params.github }}"><i class="icon ion-social-github" ></i></a>
       <a target="_blank" href="{{ .Site.Params.twitter }}"> <i class="icon ion-social-twitter" ></i></a>

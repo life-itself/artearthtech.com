@@ -4142,9 +4142,10 @@ div.toc {
       line-height: 1.2; }
     .home-template .hero .hero-content h2.info {
       font-family: "novecento-sans-wide";
-      font-size: 1.4em;
+      font-size: 1.6em;
       letter-spacing: 0;
-      line-height: 1.2; }
+      line-height: 1.2;
+      margin-bottom: 0; }
     .home-template .hero .hero-content a.button {
       font-family: "didot";
       font-weight: bold;
