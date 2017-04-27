@@ -29,8 +29,9 @@ header.navigation {
     font-weight: 400;
     letter-spacing: 1px;
     line-height: 60px;
-    max-width: 80%;
-    margin: 0 10%;
+    width: 100%;
+    margin: auto;
+    text-align: center;
     padding: 0 1.5em;
     @include media($large-screen) {
       width: auto;
@@ -41,8 +42,9 @@ header.navigation {
   a.navigation-menu-button {
     line-height: normal;
     float: none;
-    width: 50%;
-    margin: 0 38%;
+    width: 100%;
+    margin: auto;
+    text-align: center;
   }
 
   ul li.nav-link {

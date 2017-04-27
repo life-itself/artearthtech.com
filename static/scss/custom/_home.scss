@@ -10,8 +10,11 @@
     display: block;
     justify-content: center;
 
-    padding: 2em 0;
+    padding: 2em 3em;
 
+    @include media($medium-screen) {
+      padding: 0 8em;
+    }
     @include media($large-screen) {
       min-height: 38em;
       background-size: cover;
