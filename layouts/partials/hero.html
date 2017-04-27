@@ -4,7 +4,7 @@
     <h1>{{ .Params.title }}</h1>
     <h2>{{ .Params.subtitle }}</h2>
     {{ with .Params.info }}
-      <h2>{{ . }}</h2>
+      <h2 class="info">{{ . }}</h2>
     {{ end }}
     {{ if .IsHome }}
       <a target="_blank" href="{{ .Site.Params.github }}"><i class="icon ion-social-github" ></i></a>

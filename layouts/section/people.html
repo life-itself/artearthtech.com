@@ -5,26 +5,8 @@
                 <div>
                   {{ partial "navbar.html" . }}
 
-                  <section class="other-pages">
-                    <h1>{{ .Title }}</h1>
-                    {{ .Content }}
-                    {{ if eq .Params.news true }}
-                    <article class="type-system-rounded">
-                      <section class="news">
-                        {{ range where .Site.Pages "Section" "post" }}
-                        <div class="single-news">
-                          <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
-                          <div class="news-body">
-                            <div class="news-content">
-                              <p class="date"><i class="icon ion-calendar"></i> {{ .Date.Format "2 January 2006" }}</p>
-                              <p>{{ .Summary }}</p>
-                            </div>
-                          </div>
-                        </div>
-                        {{ end }}
-                      </section>
-                    </article>
-                    {{ end }}
+                  <section class="who-we-are">
+                    {{ partial "people.html" . }}
                   </section>
 
 

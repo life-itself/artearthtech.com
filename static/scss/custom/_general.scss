@@ -44,7 +44,9 @@ body {
     text-decoration: underline;
   }
   .content-wrapper__inner {
-    margin-top: 63px;
+    @include media($large-screen) {
+      margin-top: 63px;
+    }
   }
 }
 

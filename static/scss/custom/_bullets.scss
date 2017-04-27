@@ -54,10 +54,13 @@
     }
   }
 
-  .bullet-image {
+  .portrait {
     @include media($large-screen) {
-      @include size(300px 300px);
+      @include size(calc((100vw - 120px - 2em * 6) / 3));
     }
+  }
+
+  .bullet-image {
     overflow: hidden;
     border: 0;
     margin-bottom: 1em;

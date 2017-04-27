@@ -33,9 +33,16 @@ header.navigation {
     margin: auto;
     text-align: center;
     padding: 0 1.5em;
+    img {
+      display: none;
+    }
     @include media($large-screen) {
       width: auto;
       margin: 0;
+      padding: 0 0.75em;
+      img {
+        display: block;
+      }
     }
   }
 
