@@ -7,4 +7,6 @@ permalinks:
   post: /:year/:month/:day/:slug/
 
 params:
+  github: https://github.com/artearthtech
+  twitter: https://twitter.com/ArtEarthTech
   facebook: https://www.facebook.com/ArtEarthTech/
