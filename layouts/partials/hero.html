@@ -1,24 +1,27 @@
-<div class="newhero" style="background-image: url({{ $.Site.BaseURL }}images/{{ .Params.backgroundpath }})">
-  <div class="hero-body">
+<div class="hero" style="background-image: url({{ $.Site.BaseURL }}images/{{ .Params.background }})">
+  <div class="hero-content">
+    <img src="{{ $.Site.BaseURL }}images/{{ .Params.logo }}">
+    <h1>{{ .Params.title }}</h1>
+    <h2>{{ .Params.subtitle }}</h2>
+    {{ with .Params.info }}
+      <h2 class="info">{{ . }}</h2>
+    {{ end }}
+    {{ with .Params.info2 }}
+      <h2 class="info">{{ . }}</h2>
+    {{ end }}
+    {{ if .IsHome }}
+      <a target="_blank" href="{{ .Site.Params.github }}"><i class="icon ion-social-github" ></i></a>
+      <a target="_blank" href="{{ .Site.Params.twitter }}"> <i class="icon ion-social-twitter" ></i></a>
+      <!-- <a target="_blank" href="{{ .Site.Params.linkedin }}"> <i class="icon ion-social-linkedin" ></i></a> -->
+      <a target="_blank" href="{{ .Site.Params.facebook }}"> <i class="icon ion-social-facebook" ></i></a>
+    {{ end }}
+    <br>
+    {{ with .Params.actionbutton }}
+      <a class="button" href="{{ .link }}">{{ .name }}</a>
+    {{ end }}
 
-    <div class="hero-content">
-      <h1> {{ .Title }} </h1>
-      {{ .Content }}
-      {{ range .Params.buttons }}
-        <a class="button" href="{{ .link }}" target="{{ .target }}">{{ htmlUnescape .title }}</a>
-      {{ end }}
+    <div class="call-to-action">
+      <p class="arrow-down"><a onclick="scrollDown(this)" href="#next-section"><i class="ion-chevron-down"></i></a></p>
     </div>
-
-    <div class="video">
-      <iframe width="450" height="253" src="{{ .Params.videourl }}" frameborder="0" allowfullscreen></iframe>
-    </div>
-
-  </div>
-
-  <div class="call-to-action">
-
-    <p>Writings & projects</p>
-    <p class="arrow-down"><a onclick="scrollDown()" href="#next-section"><i class="ion-chevron-down"></i></a></p>
-
   </div>
 </div>

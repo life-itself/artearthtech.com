@@ -1,5 +1,6 @@
 ---
 title: The gathering
+superTitle: Why Wisdom
 slug: appliedwisdom
 date: 2016-01-24T18:05:17
 grid: true

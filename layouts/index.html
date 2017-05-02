@@ -4,77 +4,62 @@
 
   {{ partial "navbar.html" . }}
 
-  <div class="hero">
-    <div class="hero-content">
-      <h1>ART / EARTH / TECH</h1>
-      <h2>Gathering 2017</h2>
-      <h2>July 23th-30th, La Cheraille, France</h2>
-      <a class="button" onclick="scrollDown(this)" href="#next-section">FIND OUT MORE</a>
-    </div>
-  </div>
+  {{ partial "hero.html" . }}
 
-  <section id="next-section" class="gathering-info">
+  <section id="next-section" class="wisdom-today">
     <div class="video">
-      <div class="video-text">
-        <h2>WHAT IS THE GATHERING?</h2>
-        <p>For our second Gathering we explore how can we can live wisely and well. From our food to to our politics, and technology to education how can we make a wiser world?
-
-        <p>Together we will reflect on how we can foster more wisdom in our societies and in our everyday life.</p>
-
-        <p><i>photography by Sarah Hickson and Evelyn Yang</i></p>
-
-        </p>
-      </div>
-      <div class="video-wrapper">
+      <h2 class="video-text section-title">- WISDOM TODAY -</h2>
+      <div class="video-wrapper centered">
         <iframe src="https://www.youtube.com/embed/_QR-1o5ci7s" frameborder="0" allowfullscreen=""></iframe>
       </div>
-    </div>
-
-    <div class="grid-items">
-      <div class="grid-item">
-        <i class="icon ion-ios-calendar-outline"></i>
-        <h4>WHEN</h4>
-        <p>Start: Saturday 23rd July – 2pm</p>
-        <p>End: Sunday 30th July – 2pm</p>
-        <p>It may also be possible to come for the long weekend: Friday 28th July - Sunday 30th July.</p>
-      </div>
-      <div class="grid-item">
-        <i class="icon ion-ios-location-outline"></i>
-        <h4>WHERE</h4>
-        <p>La Cheraille, a small farming hamlet near Paris. This natural, beautiful and secluded environment is perfectly suited to the ethos of the week and provides the ideal space for participants to share, experiment and reflect. <a href="#location" onclick="scrollDown(this)">Read more <span>&rsaquo;</span></a></p>
-      </div>
-      <div class="grid-item">
-        <i class="icon ion-ios-people-outline"></i>
-        <h4>PARTICIPATE</h4>
-        <p>The event is invite only and is limited in scale to ensure an intimate atmosphere — no more than roughly thirty participants. If would like to participate or know someone who would please <a href="#contact" onclick="scrollDown(this)">get in touch <span>&rsaquo;</span></a>.</p>
+      <div class="video-text">
+        <p>
+          We emphasize wisdom because we believe this is about more than finding a quick-fix in technology or politics – it is about finding something deeper within ourselves and our societies.
+        </p>
       </div>
     </div>
-
   </section>
 
-  <section class="wisdom">
+  <section class="what-we-do">
+    <h2 class="section-title centered">- WHAT WE DO -</h2>
+    <ul class="bullets">
+      <li class="bullet">
+        <div class="bullet-icon">
+          <img src="{{ $.Site.BaseURL }}images/logo-aet-intitute02.png">
+          <a href=""><h3>INSTITUTE</h3></a>
+        </div>
+        <div class="bullet-content">
+          The Art / Earth / Tech Institute exists to identify the principles that can guide us to a wiser, weller world, and apply these to living projects. Breadth of thought should be combined with localized, focused action. This means we believe in having both application and reflection under one roof and that learning is a cycle of reflection and experience.
+        </div>
+      </li>
 
-    {{ range where .Site.Pages.ByWeight "Params.grid" true }}
-      {{ partial "side-image.html" . }}
-    {{ end }}
+      <li class="bullet">
+        <div class="bullet-icon">
+          <img src="{{ $.Site.BaseURL }}images/logo-aet-sprint02.png">
+          <a href=""><h3>SPRINTS</h3></a>
+        </div>
+        <div class="bullet-content">
+          Sprints are an opportunity to take time away from your everyday engagements to reflect and focus on a project of your choice surrounded by an amazing community in an incredible environment. The sprints take place at La Cheraille, a secluded farming hamlet just outside Paris that is the perfect space for reflection, concentration and collaboration.
+        </div>
+      </li>
 
+      <li class="bullet">
+        <div class="bullet-icon">
+          <img src="{{ $.Site.BaseURL }}images/logo-aet-gathering02.png">
+          <a href=""><h3>GATHERING</h3></a>
+        </div>
+        <div class="bullet-content">
+          Once a year at the end of July we come together for a week as a community, to network, share knowledge and continue to reflect on what is wisdom in the 21st century. We spend time together, relax and consider ways we can be intentional and well in our life both as individual and as a society.
+        </div>
+      </li>
+    </ul>
   </section>
 
-  <section id="location" class="location">
-    <h2>THE LOCATION – LA CHERAILLE</h2>
-    {{ range where .Site.Pages "Params.slug" "la-cheraille" }}
-      <p>{{ slicestr .Content 389 425 }}</p>
-      <p><a href="{{ .Permalink }}">Full details about La Cheraille <span>&rsaquo;</span></a></p>
-      {{ slicestr .Content 429 813 | safeHTML }}
-      <br /><br />
-
-      {{ slicestr .Content 850 1053 | safeHTML }}
-
-
-    {{ end }}
+  <section class="who-we-are">
+    {{ partial "people.html" . }}
   </section>
 
-  <section id="contact">
+  <section id="contact" class="contact">
     {{ partial "contact.html" . }}
   </section>
 
