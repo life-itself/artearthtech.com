@@ -17,7 +17,7 @@ TODO
 
 To work on the website:
 
-* Install hugo
+* Install hugo (requires '_go_')
 * Install git lfs and pull git large files
 * Run hugo:
 
