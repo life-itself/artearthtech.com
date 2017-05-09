@@ -31,13 +31,11 @@ Whilst this can be valuable, we think it is important to remain aware of the bro
 
 ## Meditation
 
-*There are many excellent introductions to meditation. This section only seeks to offer a very short summary for beginners.*
-
 Meditation is possible in any circumstance. However, it is much easier in some circumstances than others: for example, in quiet surroundings rather than noisy ones. It also requires practice, in keeping with this, tradition highlights 3 most common ways of doing meditation: sitting, walking, eating.
 
 ## Ethics
 
--   Adherents refrain from killing, stealing, adultery, lying, using immoral language, gossiping, slandering, giving vent to anger, and avoid holding wrong views
+Traditionally, Buddhist adherents refrain from killing, stealing, adultery, lying, using immoral language, gossiping, slandering, giving vent to anger, and avoid holding wrong views
     (ten evil deeds)
 
 Buddhism emphasises non-attachment above all else, even around ethics. Of course, avoid doing those things which are prohibited. At the same time, do not get attached to these things and certainly avoid *judging*
