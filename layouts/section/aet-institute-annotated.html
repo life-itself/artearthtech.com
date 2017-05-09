@@ -1,27 +1,28 @@
-{{ partial "head.html" . }}
-    <body>
-        <div class="content-wrapper">
-            <div class="content-wrapper__inner">
-                <div>
+<!-This file gives a format for a markdown file's presentation in html, the title of the html file appears to be looked up in the appropriate layout folder by software, by scraping the name off a folder in repo: contents, not clear how it knows to look in appropriate layout folder "section" -- I think it just scans everything in contents and then finds matching folders in layouts to display them>
+{{ partial "head.html" . }}<!-Tells website software to find file "head.html" in folder "partial" (in folder "layouts" which must be set as default within the software either natively or via another file), and display it, or else calls function partial and applies it to head.html, dunno which->
+    <body> <!-open body area->
+        <div class="content-wrapper"> <!-opens a division called content wrapper the little lines on the page->
+            <div class="content-wrapper__inner"> <!-open inner content, perhaps this is useful because a pretty ribbon might go between, if so desired?->
+                <div><!-opens division where the navbar goes->
                   {{ partial "navbar.html" . }}
 
-                  <section class="other-pages">,<!-Not sure what this does->
-                    <h1>{{ .Title }}</h1><!-Probably this is what displays title, {{ may signal relative referencing as whole construction breaks with any erasure of the period}}->
-                    {{ .Content }} <!-Probably this is what displays content, which is not contained in header but considered always present by sever software {{ may signal relative referencing as whole construction breaks with any erasure of the period}}->
-                    {{ if eq .Params.news true }}<!-Non-understood statement, seems to add possibility of other stuff depending on certain info being present in markdown file->
-                    <article class="type-system-rounded">
-                      <section class="news">
-                        {{ range where .Site.Pages "Section" "post" }}
-                        <div class="single-news">
+                  <section class="other-pages">,<!-Not sure what this does, could mod navbar given it is at same depth->
+                    <h1>{{ .Title }}</h1><!-Probably this is what displays title, {{ may signal relative referencing as whole construction breaks with any erasure of the period, the period denotes either a markdown frontmatter field, or a variable that takes its value from that field}}->
+                    {{ .Content }} <!-Probably this is what displays content of the markdown file _index.md i a given folder, which is not contained in header but considered always present by sever software {{ may signal relative referencing as whole construction breaks with any erasure of the period}}->
+                    {{ if eq .Params.news true }}<!-Non-understood statement, seems to add possibility of other stuff being added, depending on certain equation being satisfied given info in markdown file, this the same depth as lines above which may mean that it overrides earlier commands->
+                    <article class="type-system-rounded"><!-inserts an object called an article of the given class, probably conditional on the truth of the above line->
+                      <section class="news"><!-makes a section in the article of type "news", probably a special construction made to handle variable number of posts in different Sections->
+                        {{ range where .Site.Pages "Section" "post" }}<!-
+                        <div class="single-news"><!division sinlge news in article opened->
                           <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a> <!-This tells the server software where to look in markdown file for a header->
                           <div class="news-body">
                             <div class="news-content">
-                              <p class="date"><i class="icon ion-calendar"></i> {{ .Date.Format "2 January 2006" }}</p>
+                              <p class="date"><i class="icon ion-calendar"></i> {{ .Date.Format "2 January 2006" }}</p><!-inserts a calendar->
                               <p>{{ .Summary }}</p>
-                            </div>
-                          </div>
-                        </div>
-                        {{ end }}
+                            </div><!-close news content->
+                          </div><!-close news-body->
+                        </div><!-close single-news->
+                        {{ end }}<!-ends range where .Site.Pages "Section" "post"->
                       </section>
                     </article>
                     {{ end }}
@@ -31,7 +32,7 @@
                 </div>
             </div>
         </div>
-        {{ partial "footer.html" . }}
-    </body>
-    {{ partial "script.html" .}}
-</html>
+        {{ partial "footer.html" . }}<!-insert file footer.html from partials->
+    </body><!-close body->
+    {{ partial "script.html" .}}<!-insert file script.html from partials->
+</html><!-end html script file->

@@ -1,0 +1,175 @@
+body {
+    width: 100%;
+    margin: 10px 20px 20px;
+    background: white;
+    font-size: 1.2em !important;
+    line-height: 24px;
+}
+* {
+    border: 0;
+    padding: 0;
+    color: black !important;
+    background: transparent;
+}
+h1 {
+    font-size: 16pt;
+}
+h2 {
+    font-size: 24pt;
+    margin: 1em auto;
+    letter-spacing: normal;
+}
+h3,#article-body h3 {
+    font-size: 18pt;
+    margin: 1em auto;
+}
+h6 {
+    font-size: 12pt;
+}
+a:link,a:visited {
+    text-decoration: underline;
+}
+#footer-wrapper,#footer {
+    background: none;
+}
+#footer-wrapper li {
+    display: none !important;
+}
+#content-footer, #content-footer div {
+    border: none;
+}
+.footnotes {
+    border-top: 1px black solid;
+    margin-top: 2em;
+    padding-top: 1em;
+}
+
+/* New print CSS 09/04/13 */
+body {
+    width: 100%;
+    margin: 10px 20px 20px;
+    background: white;
+    font-size: 1.2em !important;
+    line-height: 24px;
+}
+
+#font-resizer {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 18px;
+}
+
+.decrease-font {
+    font-size: 10pt;
+}
+
+.reset-font {
+    font-size: 13pt;
+}
+
+.increase-font {
+    font-size: 16pt;
+}
+
+.account_toolbar, .article_toolbar, footer .comments, header.blog_header, header.default_header, header.site, .header_rule, iframe, .navbar, .col-span-4.sidebar {
+    display: none!important;
+}
+
+/*#blog-title.hidden {
+    display: block;
+    font-family: "Clarendon URW Bold",Clarendon,"Century Schoolbook","Times New Roman",Times,serif;
+    margin: 20px 0 20px 0;
+    visibility: visible;
+}
+*/
+.col-span-8.blog_detail, .col-span-8.body_column {
+	margin: 0;
+    width: 100% !important;
+}
+
+body.context_nyrb.page_blog .blog_detail  {
+	margin-right: 0;
+}
+
+body {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.container {
+    max-width: 100%;
+}
+
+.row {
+    margin-left: 0;
+}
+
+.icomoon-icon-NYRB, .icomoon-icon-NYR, .icomoon-icon-blog {
+	font-size: 1.5em;
+}
+
+img.windows_logo_fallback {
+    width: 70%;
+}
+
+article.article {
+	border: 0 none;
+}
+
+article.article header {
+    margin-right: 0;
+}
+
+article.article header h2,
+body.context_nyrb.page_blog .blog_detail h2 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+article.article .article_body,
+body.context_nyrb.page_blog .blog_detail .blog_post_body {
+	margin-right: 0;
+}
+
+article.article .article_body hr:first-of-type {
+    margin-bottom: 15px;
+}
+
+article.article .article_body figure.aligncenter,
+body.context_nyrb.page_blog .blog_detail figure.aligncenter {
+    float: right;
+    max-width: 50%;
+    margin-left: 20px;
+}
+
+.videowrapper {
+    display: none;
+}
+
+#article-p1, #article-p2, #article-p3 {
+    display: none !important;
+}
+
+body.context_nyrb.page_blog .blog_detail .blog_post {
+    border: 0 none;
+}
+
+article.article .footnotes {
+	border: 0 none;
+}
+
+footer.site_footer {
+    background: none;
+}
+
+#teads {
+	display: none;
+}
+
+.site_footer li {
+    display: none !important;
+}
+
+#wpadminbar {
+    display: none !important;
+}

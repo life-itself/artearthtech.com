@@ -21,28 +21,28 @@ Breadth of thought should be combined with localized, focused action. This means
   * How much is enough to live this life?
   * How can we make it easier for each other to live this kind of life?
   * Challenging growth-centrism, from lifestyle choices to policies.
-
+<br><br>
 * **Wise Technology**
-  * [Open Knowledge Issues]()
+  * Open Knowledge Issues
   * Funding Models for Open Knowledge
   * Distracting and Addicting Technology
-
-
-* **[Mindfulness](/mindfulness) Beyond Stress Reduction.**
-
-   We are interested in non-dogmatic exploration of the ancient claim that mindfulness practice only reaches its fullest potential for human benefit when paired with complementary understandings of psychology, reality, and livelihood. This approach to living challenges western notions about the place of rationality in life, and the pursuit of purpose. (see [primer on non-attachment to views](/))
-
+<br><br>
 * **(Im)measurability, Value and Policy**
   * Can all that matters be measured?
   * How to demonstrate the value of intangible and subjective approaches.
   * How to turn our priorities into policy, given the difficulty of measurement.
-
+<br><br>
 * **Collective Intelligence**
   We've created a complex society, in which, it seems, no individual can fully understand what is going on around him. How do we put our heads together more effectively to understand the world we live in and solve problems like global warming?
+<br><br>
+* **[Mindfulness][] Beyond Stress Reduction**
+  We are interested in non-dogmatic exploration of the ancient claim that mindfulness practice only reaches its fullest potential for human benefit when paired with complementary understandings of psychology, reality, and livelihood. This approach to living challenges western notions about the place of rationality in life, and the pursuit of purpose. (see [primer on non-attachment to views](/aet-institute/working-primers/non-attachment-to-views))
+<br><br>
 * **Renewing the Foundations for Art and Aesthetics**
-  The enormous concern that the Art World places on novelty and theory would have been foreign to any previous era of human history. Is this a wise cultural innovation that we've made?
-
-### Why Here and Now?
+  The enormous concern that the Art World places on novelty and theory would have been foreign to any previous era of human history. Is this a wise cultural innovation that we've made? What can we learn from expression of creativity in other societies?
+[Mindfulness]:/aet-institute/working-primers/mindfulness
+<br><br>
+## Why Here and Now?
 
 Contemporary western society enjoys levels of material abundance unknown in the history of man. However, our sense of well-being is not increasing over time and surveys continue to believe that citizens of western societies [mostly believe they are on the wrong track, whereas countries that are much poorer believe they are on the right track. ](https://www.weforum.org/agenda/2017/01/which-countries-are-on-the-right-track-according-to-their-citizens/)
 
@@ -50,4 +50,4 @@ Perhaps there is no mystery, here, the West has pursued a way of life that is fo
 
 If wisdom is the thing that allows us to make open-ended decisions that lead to a better life, it must be what we need more of. We continually emphasize being smarter and harder working to succeed, but we do not ask ourselves -- succeed at what?
 
-Our values are not reflected in our day to day life as individuals, communities, and societies. How to make different choices as people and societies is a question that we will continue to face.
+How do we same sure that our core values are really reflected in our day to day life as individuals, communities, and societies? How do we make different choices as people and societies? These are questions that have faced for some time and which are only growing in importance.

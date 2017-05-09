@@ -22,7 +22,7 @@ Ninon Godfrey Grew up at <em>La Cheraille</em> and works in renewable energy to 
 
 ### Liam Kavanagh
 
-Is a cognitive scientist who studies the ways that our bodily activities and our thoughts interact.
+Is a cognitive scientist who studies how our body and feelings interact with our thoughts, both within the individual and within social groups.
 
 ### Kate Pincott
 

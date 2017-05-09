@@ -8,12 +8,13 @@ Breadth of thought should be combined with localized, focused action. This means
 
 ~~We often spend time discussing the merits of reflection and application, but this is something like comparing the value of a chicken and its egg.~~
 
-![](./kolb-moon.jpg)
+![](./kolb-moon-with-title.tiff)
 
 ## Some Specific Areas of Interest
 
 * The Promotion of Well-Living
   * What is a workable conception of ''the Good Life?'', one that a diversity of people can agree on?
+  * [How much is enough to lead such a life?](/)
   * How can we make it easier for each other to live this kind of life?
   * Challenging growth-centrism, from lifestyle choices to policies.
 

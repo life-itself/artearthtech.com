@@ -1,0 +1,2 @@
+var districtmCurrencyObject=[{eur:0.82,cad:1.34}];if(districtmCurrency=="cad"){if(typeof districtmCurrencyObject[0].cad!='undefined'){districtmCurrencyRate=districtmCurrencyObject[0].cad;}}
+else if(districtmCurrency=="eur"){if(typeof districtmCurrencyObject[0].eur!='undefined'){districtmCurrencyRate=districtmCurrencyObject[0].eur;}}

@@ -1,0 +1,28 @@
+<header class="navigation" role="banner">
+  <div class="navigation-wrapper">
+    <a href="/" class="logo">
+      <img src="{{ $.Site.BaseURL }}images/logo-aet03.png">
+    </a>
+    <a href="/" class="logo">ART / EARTH / TECH</a>
+    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu"><i class="icon ion-drag"></i>&nbsp;&nbsp;MENU</a>
+    <nav role="navigation">
+      <ul id="js-navigation-menu" class="navigation-menu show">
+        <li id="js-navigation-more" class="nav-link more">
+          <a href="javascript:void(0)">ABOUT</a>
+          <ul class="submenu">
+            <li><a href="/manifesto/">MANIFESTO</a></li>
+            <li><a href="/la-cheraille/">LA-CHERAILLE</a></li>
+          </ul>
+        </li>
+        <li class="nav-link"><a href="/gathering/">GATHERING</a></li>
+        <li class="nav-link"><a href="/initiatives/">INITIATIVES</a></li>
+        <!-- <li class="nav-link"><a href="/news/">NEWS</a></li> -->
+        <li class="nav-link"><a href="/sprints/">SPRINTS</a></li>
+        <li class="nav-link"><a href="/aet-institute/">INSTITUTE</a></li>
+        <li class="nav-link"><a href="/people/">PEOPLE</a></li>
+        <li class="nav-link"><a href="/contact/">CONTACT</a></li>
+        <li class="nav-link"><a target="_blank" href="{{ .Site.Params.facebook }}"><i class="icon ion-social-facebook" ></i></a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
