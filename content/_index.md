@@ -5,5 +5,4 @@ date: "2017-04-11T13:02:05+06:00"
 actionButton: { name: about, link: /manifesto }
 background: "background-web.jpg"
 logo: "logo-aet-invert.png"
-
 ---
