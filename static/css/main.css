@@ -4146,6 +4146,15 @@ div.toc {
       letter-spacing: 0;
       line-height: 1.2;
       margin-bottom: 0; }
+    .home-template .hero .hero-content p.blurb {
+      font-size: 1.6em;
+      font-style: italic;
+      color: white;
+      padding: 0 2em; }
+    .home-template .hero .hero-content p.blurb2 {
+      font-size: 1.2em;
+      color: white;
+      padding: 0 2em; }
     .home-template .hero .hero-content a.button {
       font-family: "didot";
       font-weight: bold;
@@ -4429,9 +4438,12 @@ div.toc {
       color: #333;
       position: relative;
       top: 50%;
+      border-bottom: 1px solid #ddd;
       -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
       transform: translateY(-50%); }
+      .bullets .bullet-icon h3:hover {
+        border-bottom: 1px solid black; }
   @media screen and (min-width: 53.75em) {
     .bullets .portrait {
       height: calc((100vw - 120px - 2em * 6) / 3);

@@ -10,14 +10,14 @@ weight: 500
 
 Here are some examples of the practical workshops that will take place in the afternoons:
 
-<b>Creative Cooking:</b> from the soil to your plate.
+<b>Introduction to Permaculture:</b> The technology of nature.
 
-<b>Mapping your area:</b> draw from your cultural and environmental perspective.
+<b>Ecstatic Dance:</b>Experience sober trans though body and movement.
 
-<b>Introduction to Permaculture:</b> the technology of nature.
+<b>Storytelling:</b> Story telling around a bonfire.
 
-<b>Fire Master: </b> survival exercise to learn how to master fire.
+<b>Perception Play:</b> Re-discover our senses and the world through play.
 
-<b>Storytelling: </b> story telling around a bonfire.
+<b>Sound and body:</b> Connecting human sound with slow movement.
 
-<b>Perception Play: </b> re-discover our senses and the world through play.
+<b>Interactive Painting:</b> Eye gazing, spontaneous play with painting.

@@ -8,6 +8,8 @@ Sprints are an opportunity to take time away from your everyday engagements to r
 
 The sprints take place at [La Cheraille][], a secluded farming hamlet just outside Paris that is the perfect space for reflection, concentration and collaboration.
 
+<img src="/images/DSC_8829_Sarah_Hickson1_768x512.jpg">
+
 [La Cheraille]: /la-cheraille/
 
 ## April 2017
@@ -19,6 +21,8 @@ The sprints take place at [La Cheraille][], a secluded farming hamlet just outsi
 [contact]: /contact/
 
 Amongst the participants you'll have access to experts in a variety of fields: digital technology, user experience, cognitive science, biodiversity and ecology as well as artists and performers.
+
+<img src="/images/DSC_5950.JPG">
 
 ### FAQs
 
