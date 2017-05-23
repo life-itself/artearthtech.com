@@ -4,7 +4,7 @@ slug: ninetheses
 section: projects
 date: 2016-01-23T15:03:36
 logoPath: logo-aet-gathering02.png
-imagePath: logo-aet-gathering02.png
+imagePath: Nine_Theses.jpg
 ---
 
 Throughout the six weeks leading up to The Gathering we are going to publish writings by Rufus Pollock and Liam Kavanagh. The writings centre around  ‘The Way We Live Now’ and ‘Sketches of a Future Society’.
@@ -12,7 +12,7 @@ Throughout the six weeks leading up to The Gathering we are going to publish wri
 We want to create an ecosystem in which we can transform both production and our spiritual being through utilising possibilities the digital era has to offer. We take from ancient Buddhist wisdom and apply it to our contemporary age. With these Nine Theses we aim to show the principles on which such a way of living is possible.  
 
 
-<img src="/images/logo-aet-gathering02.png">
+<img src="/images/Nine_Theses.jpg">
 
 
 ## The Nine Theses
