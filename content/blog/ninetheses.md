@@ -7,16 +7,17 @@ logoPath: logo-aet-gathering02.png
 imagePath: Nine_Theses.jpg
 ---
 
-Throughout the six weeks leading up to The Gathering we are going to publish writings by Rufus Pollock and Liam Kavanagh. The writings centre around  ‘The Way We Live Now’ and ‘Sketches of a Future Society’.
+*Throughout the six weeks leading up to The Gathering we will be sharing some of our vision for a wiser, weller world. This will includes pieces by [Art Earth Tech Institute][institute] members Rufus Pollock and Liam Kavanagh on topics like "The Way We Live Now" and "Sketches of a Future Society".*
 
-We want to create an ecosystem in which we can transform both production and our spiritual being through utilising possibilities the digital era has to offer. We take from ancient Buddhist wisdom and apply it to our contemporary age. With these Nine Theses we aim to show the principles on which such a way of living is possible.  
+[institute]: /institute/
 
+We want to create an ecosystem and culture in which we can transform both production and our spiritual being. We take from ancient wisdom and apply it to our contemporary age. We take from modern production and use it to support ourselves. With these Nine Theses we aim to show the principles on which such a way of living is possible.  
 
 <img src="/images/Nine_Theses.jpg">
 
-
 ## The Nine Theses
-*by Rufus Pollock and Liam Kavanagh*
+
+*by Rufus Pollock*
 
 1. Much in our society is sick and unhealthy. We want to find ways of living that are harmonious and balanced. We want to live healthily and wholesomely. We wish to develop ourselves as human beings nourishing and cultivating that which is great in us and eliminating the suffering and harm caused by craving and attachment to self.
 
@@ -36,6 +37,7 @@ We want to create an ecosystem in which we can transform both production and our
 
 9. We therefore seek to marry the possibilities of abundance and the digital revolution with deep spiritual truth and traditions in pursuit of the transformation of our societies and ourselves.
 
-
+In summary, we are marrying the digital revolution with a deep spiritual truth and tradition in pursuit of transforming our societies. Both parts are needed: we want to break out of the spiritual "ghetto" and transform broad swathes of society. To do that we have to transform methods of production and organization. The digital provides the means. At the same time, the real transformation is in our natures. Moreover, without the anchor of a deep spiritual tradition, we will only achieve superficial and unreliable change and have the constant risk of dissolution and co-optation.
 
 *Edited by Brigitte Arndt*
+
