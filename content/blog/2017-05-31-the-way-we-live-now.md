@@ -2,6 +2,7 @@
 date: 2017-05-31
 title: The Way We Live Now
 slug: thewaywelivenow
+eventdate: 2017-05-31
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: The_Way_We_Live.jpg
