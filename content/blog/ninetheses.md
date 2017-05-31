@@ -1,8 +1,8 @@
 ---
+date: 2017-05-23
 title: Nine Theses
 slug: ninetheses
 section: projects
-date: 2016-01-23T15:03:36
 logoPath: logo-aet-gathering02.png
 imagePath: Nine_Theses.jpg
 ---
@@ -40,4 +40,3 @@ We want to create an ecosystem and culture in which we can transform both produc
 In summary, we are marrying the digital revolution with a deep spiritual truth and tradition in pursuit of transforming our societies. Both parts are needed: we want to break out of the spiritual "ghetto" and transform broad swathes of society. To do that we have to transform methods of production and organization. The digital provides the means. At the same time, the real transformation is in our natures. Moreover, without the anchor of a deep spiritual tradition, we will only achieve superficial and unreliable change and have the constant risk of dissolution and co-optation.
 
 *Edited by Brigitte Arndt*
-
