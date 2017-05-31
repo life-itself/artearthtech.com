@@ -15,6 +15,9 @@ We want to create an ecosystem and culture in which we can transform both produc
 
 <img src="/images/Nine_Theses.jpg">
 
+*Photograph by [Sarah Hickson](https://sarahhickson.shootproof.com/)*
+
+
 ## The Nine Theses
 
 *by Rufus Pollock*

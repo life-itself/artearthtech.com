@@ -15,6 +15,8 @@ imagePath: The_Way_We_Live.jpg
 
 <img src="/images/The_Way_We_Live.jpg">
 
+*Photograph by [Sarah Hickson](https://sarahhickson.shootproof.com/)*
+
 ## The Way We Live Now
 
 *by Rufus Pollock and Liam Kavanagh*
