@@ -15,8 +15,8 @@ Our approach focuses on fostering a community of people seeking a wiser world. W
 
 We are practical and natural. We connect the ancient and the modern. Our interests ranges from nature to neuroscience, Dada to data. We seek harmony and balance: art and techne, earth and spirit, science and wisdom, freedom and  discipline, mindfulness and  intention. Our name reflects this commitment to a holistic approach.
 
-**Art**: because it develops self-expression -  our the fundamental need to express ourselves and to explore what it means to be human.
+**Art**: because it develops self-expression -  our fundamental need to express ourselves and to explore what it means to be human.
 
-**Earth**: because to understand the earth is to see oneself as part of something both greater and something whole. To find respect the earth is to find respect for ourselves.
+**Earth**: because to understand the earth is to see oneself as part of something both greater and something whole. To find respect for the earth is to find respect for ourselves.
 
 **Tech**: because our techniques and technologies delimit and create our present and future. Tech is both a question of developing our craft but also of shaping what we create.
