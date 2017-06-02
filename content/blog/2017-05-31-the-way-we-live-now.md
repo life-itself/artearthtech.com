@@ -48,7 +48,7 @@ In short, intellectual, emotional, & spiritual progress has been insufficient to
 
 A sense of direction and purpose in “modernity” has given way to a “postmodern” world that is bewilderingly complex, ambiguous and, impersonal. The psychological strain is evidenced in the explosion of mental illness in the most “developed” sections of the world.
 
-Despite the longstanding feeling that something is wrong, widespread acceptance of the ascendancy of market-based consumerist capitalism has largely eliminated the space for experimentation with alternatives Most traditional opposition movements have lost their charisma due to in-effectiveness and/or inactivity in recent times.
+Despite the longstanding feeling that something is wrong, widespread acceptance of the ascendancy of market-based consumerist capitalism has largely eliminated the space for experimentation with alternatives. Most traditional opposition movements have lost their charisma due to in-effectiveness and/or inactivity in recent times.
 
 One potentially effective form of resistance to the anesthesia of alternatives has lain in the spiritually informed activism embraced by Gandhi, King and Buddhists more broadly. There is a rising western Buddhism which is more compatible with modern science, but this focuses more on coping and sanctuary rather than directly challenging the nature of reality or society’s values and organization. Its practices are in danger of being coopted as a technology for the use of the ego (to “accomplish”), rather, than a means of escaping it.
 
