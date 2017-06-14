@@ -16,15 +16,44 @@ imagePath: Sketches.jpg
 
 *Photographs by [Sarah Hickson](https://sarahhickson.shootproof.com/)*
 
+In the next two weeks we want to paint a vision of the future. Here the ground is less certain. Our proposal is necessarily incomplete. We ask you to bring a spirit of openness: this is an area where it is easy to critique and hard to create. Take what is presented as indicating direction rather than detailed prescription. At the same time, though this is about vision we still seek be as concrete as possible. The devil is often in the details and it is important to tease out the implications of a particular path and fine-sounding pronouncements must yield a concrete course of action to be useful.
+
 ## Sketches of a Future Culture
 
 *by Rufus Pollock and Liam Kavanagh*
+
+### The Solution
+
+> Man does not live on bread alone
+>
+> Nor on spirit alone!
+
+We have need of both material and spiritual sustenance[^spiritual]. Neglect either and we grow sick.
+
+[^spiritual]: I use spiritual in a non-religious sense -- it is a coverall phrase for our spirit, for our being, for our psyche.
+
+Moreover, the two are mutually supporting and reinforcing.
+
+On the material level, certainty of our daily bread provides necessary foundation and space from which to act and reflect. Confident of our necessities we are able to look beyond our immediate needs for food and shelter. Satisfied, we are in a position to enlarge our locus of concern, moving our attention beyond ourselves and our immediate surroundings. We have space to engage in the deeper development of our being.
+
+Likewise, on the spiritual side a sound base gives us the tools and resources to handle the slings and arrows of life. To apply ourselves with diligence and balance, to work productively and harmoniously with ourselves and others.
+
+And the converse is also true. Without a spiritual grounding even the greatest material achievements are empty and hollow. We live in a constant fear for the precariousness of what we have. We run ever after something else. Meanwhile, only the very strongest spiritual practice can withstand extended material hardship.
+
+For centuries a lack of sufficient material resources has been a constant worry. At any given time, a good portion of humanity has gone hungry or homeless -- or both. Today that is changing. In some countries we are already a half-century into a world of plenty where no-one need worry for essentials.
+
+However, in one of those cruel ironies, material wealth has been matched by spiritual poverty. In the west the "death of god" led either to hedonistic materialist individualism or to reaction and a retreat into fundamentalism and righteousness. The great bulk of us fell into a moral and spiritual torpor, our minds numbed by the new opium of endless "entertainment" from TV to online games.
+
+Moreover, in recent times, climate change and other existential challenges such as genetic engineering and artificial intelligence have raised profound questions about the viability of our current system. Prompting by these, we have begun to wonder whether we have sufficient capacity to address collective challenges that require cooperation rather than capitalistic competition? More deeply, how much of our growth has been based on an unsustainable use of natural resources as opposed to genuine gains in productivity?
 
 ### New Possibilities  
 
 Two possibilities have been recently emerging that hold great promise.
 
 On the material side, the digital revolution means a move to information as the primary means and result of production. This can be transformative in two ways. First, simple material abundance. Information is costlessly copyable: have one book or app and you have a million. Moreover this is a plenty that need not exhaust the planet: that all of us can read Shakespeare is not the kind of ecological impossibility as all of us driving a Ferrari.
+
+
+
 Second, the move to an information-based economy has large implications for culture. Information's natural state is to be shared, to be copied. Furthermore, its creation is done most naturally by collaboration -- collaboration that can even be distributed. This is a different kind of culture of making and using than we have in our current system of competitive, individualistic, consumerist capitalism. Put simply, our way of producing shapes our way of being. An economy built on individualistic competition and an obsession with the profit motive yields beings in its image: individualistic, competitive, acquisitive and materialistic. The combination of information's ethereality, its abundance and shareability offers the possibility of a new, better culture based on collaboration, generosity and creativity.
 
 
