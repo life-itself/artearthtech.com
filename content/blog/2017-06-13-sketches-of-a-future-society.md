@@ -1,14 +1,14 @@
 ---
 date: 2017-06-13
-title: Sketches of a Future Culture
-slug: sketchesofafutureculture
+title: Sketches of a Future Society [Part One]
+slug: sketchesofafuturesociety
 eventdate: 2017-06-13
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: Sketches.jpg
 ---
 
-*The Gathering is approaching, and as part of our series of blogposts this week’s is titled ‘Sketches of a Future Culture’. Previously, Rufus and Liam reflected on the way we live now, our biggest challenges and the questions this investigation lead them to ask. This week they look at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built. The following week they will discuss what an economy shaped by this culture would look like.*
+*The Gathering is approaching, and as part of our series of blogposts this week’s is titled ‘Sketches of a Future Society’. Previously, Rufus and Liam reflected on the way we live now, our biggest challenges and the questions this investigation lead them to ask. This week they look at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built. The following week they will discuss what an economy shaped by this culture would look like.*
 
 
 
