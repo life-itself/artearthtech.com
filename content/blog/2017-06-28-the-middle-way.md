@@ -1,6 +1,6 @@
 ---
 date: 2017-06-28
-title: The Middle Way: What We're About
+title: 'The Middle Way: What We're About'
 slug: themiddleway
 eventdate: 2017-06-28
 section: projects
@@ -17,7 +17,7 @@ imagePath: Two_Streets.jpg
 <img src="/images/Two_Streets.jpg">
 
 
-## The Middle Way: What We're About
+## 'The Middle Way: What We're About'
 
 We provide a middle way. The gathering reflects this.
 
