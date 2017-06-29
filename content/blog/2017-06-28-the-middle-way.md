@@ -8,7 +8,7 @@ logoPath: logo-aet-gathering02.png
 imagePath: Two_Streets.jpg
 ---
 
-*Art Earth Tech’s Gathering is taking place from 23 - 30 July 2017, and this week Institute member Rufus Pollock gives a synopsis of what we are about and how The Gathering reflects this.*
+*Art Earth Tech’s Gathering is taking place from 22 - 29 July 2017, and this week Institute member Rufus Pollock gives a synopsis of what we are about and how The Gathering reflects this.*
 
 
 
