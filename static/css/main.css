@@ -3625,29 +3625,29 @@ body {
     font-style: italic; }
 
 @font-face {
-  font-family: "novecento-sans-wide-light";
+  font-family: "open-sans-light";
   font-style: normal;
   font-weight: light;
-  src: url("../fonts/Novecentosanswide-Light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Novecentosanswide-Light-webfont.woff2") format("woff2"), url("../fonts/Novecentosanswide-Light-webfont.woff") format("woff"), url("../fonts/Novecentosanswide-Light-webfont.ttf") format("truetype"), url("../fonts/Novecentosanswide-Light-webfont.svg#novecento-sans-wide-light") format("svg"); }
+  src: url("../fonts/OpenSans-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans-Light.woff2") format("woff2"), url("../fonts/OpenSans-Light.woff") format("woff"), url("../fonts/OpenSans-Light.ttf") format("truetype"), url("../fonts/OpenSans-Light.svg#open-sans-light") format("svg"); }
 @font-face {
-  font-family: "novecento-sans-wide";
+  font-family: "open-sans";
   font-style: normal;
-  font-weight: medium;
-  src: url("../fonts/Novecentosanswide-Medium-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Novecentosanswide-Medium-webfont.woff2") format("woff2"), url("../fonts/Novecentosanswide-Medium-webfont.woff") format("woff"), url("../fonts/Novecentosanswide-Medium-webfont.ttf") format("truetype"), url("../fonts/Novecentosanswide-Medium-webfont.svg#novecento-sans-wide") format("svg"); }
+  font-weight: normal;
+  src: url("../fonts/OpenSans-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans-Regular.woff2") format("woff2"), url("../fonts/OpenSans-Regular.woff") format("woff"), url("../fonts/OpenSans-Regular.ttf") format("truetype"), url("../fonts/OpenSans-Regular.svg#open-sans") format("svg"); }
 @font-face {
   font-family: "didot";
   font-style: normal;
   font-weight: normal;
   src: url("../fonts/GFSDidot-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/GFSDidot-Regular.woff2") format("woff2"), url("../fonts/GFSDidot-Regular.woff") format("woff"), url("../fonts/GFSDidot-Regular.ttf") format("truetype"), url("../fonts/GFSDidot-Regular.svg#didot") format("svg"); }
 body h1.large-title {
-  font-family: "novecento-sans-wide";
+  font-family: "open-sans";
   font-size: 72px;
   font-weight: 700;
   margin: 0 0 20px 0; }
 body h1 {
-  font-family: "novecento-sans-wide"; }
+  font-family: "open-sans"; }
 body h2 {
-  font-family: "novecento-sans-wide";
+  font-family: "open-sans";
   font-size: 1.6em;
   font-weight: 500; }
 body h2.section-title {
@@ -3656,11 +3656,16 @@ body h2.section-title {
     body h2.section-title {
       font-size: 2em; } }
 body h3 {
-  font-family: "novecento-sans-wide-light";
+  font-family: "open-sans-light";
   font-size: 1.4em;
   font-weight: 300; }
 body p {
   font-family: "didot"; }
+body section ul {
+  font-family: "didot";
+  font-size: 20px;
+  line-height: 1.625;
+  margin: 0 0 20px 0; }
 body a {
   color: #0FB3FF; }
 body a:visited {
@@ -4129,7 +4134,7 @@ div.toc {
     max-width: 100%;
     color: white; }
     .home-template .hero .hero-content h1 {
-      font-family: "novecento-sans-wide";
+      font-family: "open-sans";
       font-size: 1.4em;
       letter-spacing: 0;
       margin-bottom: 10px;
@@ -4141,7 +4146,7 @@ div.toc {
       margin: 0 0 2em 0;
       line-height: 1.2; }
     .home-template .hero .hero-content h2.info {
-      font-family: "novecento-sans-wide";
+      font-family: "open-sans";
       font-size: 1.6em;
       letter-spacing: 0;
       line-height: 1.2;
@@ -4154,7 +4159,7 @@ div.toc {
     .home-template .hero .hero-content p.blurb2 {
       font-size: 1.2em;
       color: white;
-      padding: 0 2em; }
+      padding: 0 12em; }
     .home-template .hero .hero-content a.button {
       font-family: "didot";
       font-weight: bold;
@@ -4405,7 +4410,7 @@ div.toc {
   margin-bottom: 1.5;
   overflow: auto;
   padding: 0;
-  margin-top: 3em; }
+  margin-top: 0; }
   .bullets .bullet {
     flex-basis: 20em;
     flex-grow: 1; }
@@ -4429,7 +4434,7 @@ div.toc {
     .bullets .bullet-icon a {
       text-decoration: none; }
     .bullets .bullet-icon h3 {
-      font-family: "novecento-sans-wide-light";
+      font-family: "open-sans-light";
       display: flex;
       width: 100%;
       font-size: 1.57143em;
@@ -4474,6 +4479,10 @@ div.toc {
     line-height: 1.5; }
   .bullets img {
     max-width: 100%; }
+
+h1.bullets-title {
+  padding-left: 32px;
+  margin-bottom: 0; }
 
 .bullets-small {
   display: flex;
