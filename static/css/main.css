@@ -4868,6 +4868,11 @@ section.other-pages {
     line-height: 1.625;
     margin: 0 0 20px 0;
     font-weight: 300; }
+  section.other-pages p.date {
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.75em;
+    font-weight: 400;
+    margin-bottom: 0.5em; }
 
 form {
   width: 100%;
