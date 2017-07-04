@@ -1,7 +1,8 @@
 ---
 date: 2017-06-28
 title: "The Middle Way: What We're About"
-slug: themiddleway
+slug: the-middle-way
+aliases: ['/blog/themiddleway/']
 eventdate: 2017-06-28
 section: projects
 logoPath: logo-aet-gathering02.png

@@ -1,7 +1,8 @@
 ---
 date: 2017-06-19
 title: Sketches of a Future Society [Part Two]
-slug: sketchesofafuturesocietyparttwo
+slug: sketches-of-a-future-society-part-two
+aliases: ['/blog/sketchesofafuturesocietyparttwo/']
 eventdate: 2017-06-19
 section: projects
 logoPath: logo-aet-gathering02.png

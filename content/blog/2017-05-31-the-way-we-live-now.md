@@ -1,7 +1,8 @@
 ---
 date: 2017-05-31
 title: The Way We Live Now
-slug: thewaywelivenow
+slug: the-way-we-live-now
+aliases: ['/blog/thewaywelivenow/']
 eventdate: 2017-05-31
 section: projects
 logoPath: logo-aet-gathering02.png

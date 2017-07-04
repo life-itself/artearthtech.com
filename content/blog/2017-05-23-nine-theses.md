@@ -1,7 +1,8 @@
 ---
 date: 2017-05-23
 title: Nine Theses
-slug: ninetheses
+slug: nine-theses
+aliases: ['/blog/ninetheses/']
 eventdate: 2017-05-23
 section: projects
 logoPath: logo-aet-gathering02.png

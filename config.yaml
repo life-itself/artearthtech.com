@@ -4,7 +4,7 @@ baseURL: "/"
 googleAnalytics: "UA-102022428-1"
 
 permalinks:
-  post: /:year/:month/:day/:slug/
+  blog: /:year/:month/:day/:slug/
 
 params:
   github: https://github.com/artearthtech
