@@ -6,14 +6,14 @@ aliases: ['/blog/sketchesofafuturesocietypartone/']
 eventdate: 2017-06-13
 section: projects
 logoPath: logo-aet-gathering02.png
-imagePath: Sketches.jpg
+imagePath: Sketches_PO_Adj.jpg
 ---
 
 *The Gathering is approaching, and as part of our series of blogposts this week’s is titled ‘Sketches of a Future Society’. Previously, Rufus and Liam reflected on the way we live now, our biggest challenges and the questions this investigation lead them to ask. This week they look at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built. The following week they will discuss what an economy shaped by this culture would look like.*
 
 
 
-<img src="/images/Sketches.jpg">
+<img src="/images/Sketches_PO_Adj.jpg">
 
 *Photographs by [Sarah Hickson](https://sarahhickson.shootproof.com/)*
 

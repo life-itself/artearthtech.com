@@ -6,7 +6,7 @@ aliases: ['/blog/thewaywelivenow/']
 eventdate: 2017-05-31
 section: projects
 logoPath: logo-aet-gathering02.png
-imagePath: The_Way_We_Live.jpg
+imagePath: Way_We_Live_Adj.jpg
 ---
 
 *Leading up to The Gathering at the end of July we are sharing weekly blogposts written by [Art Earth Tech Institute][institute] members Rufus Pollock and Liam Kavanagh. This week’s post is titled ‘The Way We Live Now’ and is a reflection on the world’s current situation and its shortcomings.*
@@ -15,7 +15,7 @@ imagePath: The_Way_We_Live.jpg
 
 
 
-<img src="/images/The_Way_We_Live.jpg">
+<img src="/images/Way_We_Live_Adj.jpg">
 
 *Photograph by [Sarah Hickson](https://sarahhickson.shootproof.com/)*
 
