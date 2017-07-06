@@ -1,22 +1,22 @@
 $small-screen: em(400);
 $extra-large-screen: em(1280);
 
-@include font-face("novecento-sans-wide-light", "../fonts/Novecentosanswide-Light-webfont", light);
-@include font-face("novecento-sans-wide", "../fonts/Novecentosanswide-Medium-webfont", medium);
+@include font-face("open-sans-light", "../fonts/OpenSans-Light", light);
+@include font-face("open-sans", "../fonts/OpenSans-Regular");
 @include font-face("didot", "../fonts/GFSDidot-Regular");
 
 body {
   h1.large-title {
-    font-family: "novecento-sans-wide";
+    font-family: "open-sans";
     font-size: 72px;
     font-weight: 700;
     margin: 0 0 20px 0;
   }
   h1 {
-    font-family: "novecento-sans-wide";
+    font-family: "open-sans";
   }
   h2 {
-    font-family: "novecento-sans-wide";
+    font-family: "open-sans";
     font-size: 1.6em;
     font-weight: 500;
   }
@@ -27,12 +27,20 @@ body {
     }
   }
   h3 {
-    font-family: "novecento-sans-wide-light";
+    font-family: "open-sans-light";
     font-size: 1.4em;
     font-weight: 300;
   }
   p {
     font-family: "didot";
+  }
+  section {
+    ul {
+      font-family: "didot";
+      font-size: 20px;
+      line-height: 1.625;
+      margin: 0 0 20px 0;
+    }
   }
   a {
     color: #0FB3FF;

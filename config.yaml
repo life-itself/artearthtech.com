@@ -1,10 +1,10 @@
 languageCode: "en-us"
 title: "Art / Earth / Tech"
 baseURL: "/"
-googleAnalytics: "UA-35035650-4"
+googleAnalytics: "UA-102022428-1"
 
 permalinks:
-  post: /:year/:month/:day/:slug/
+  blog: /:year/:month/:day/:slug/
 
 params:
   github: https://github.com/artearthtech

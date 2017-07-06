@@ -1,7 +1,8 @@
 ---
 date: 2017-06-06
 title: "Examining 'The Way We Live Now': What do we really want?"
-slug: examining
+slug: examining-what-do-we-want
+aliases: ['/blog/examining/']
 eventdate: 2017-06-06
 section: projects
 logoPath: logo-aet-gathering02.png

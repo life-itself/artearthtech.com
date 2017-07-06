@@ -10,6 +10,12 @@
                       <h1 class="large-title">{{ . }}</h1>
                     {{ end }}
                     <h1>{{ .Title }}</h1>
+                    <p class="date">
+                      {{ upper (.Date.Format "January 2, 2006") }}
+                      {{ with .Params.author }}
+                        by {{ upper . }}
+                      {{ end }}
+                    </p>
                     {{ .Content }}
                     {{ if eq .Params.news true }}
                     <article class="type-system-rounded">

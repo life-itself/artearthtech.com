@@ -10,7 +10,7 @@
   margin-bottom: $base-line-height;
   overflow: auto;
   padding: 0;
-  margin-top: 3em;
+  margin-top: 0;
 
   .bullet {
     flex-basis: 20em;
@@ -39,7 +39,7 @@
       text-decoration: none;
     }
     h3 {
-      font-family: "novecento-sans-wide-light";
+      font-family: "open-sans-light";
       display: flex;
       width: 100%;
       font-size: $icon-bullet-size / 3.5;
@@ -103,4 +103,9 @@
   img {
     max-width: 100%;
   }
+}
+
+h1.bullets-title {
+  padding-left: 32px;
+  margin-bottom: 0;
 }
