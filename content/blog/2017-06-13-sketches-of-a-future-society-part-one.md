@@ -1,6 +1,7 @@
 ---
 date: 2017-06-13
 title: Sketches of a Future Society [Part One]
+author: Rufus Pollock
 slug: sketches-of-a-future-society-part-one
 aliases: ['/blog/sketchesofafuturesocietypartone/']
 eventdate: 2017-06-13
@@ -9,69 +10,70 @@ logoPath: logo-aet-gathering02.png
 imagePath: Sketches_PO_Adj.jpg
 ---
 
-*The Gathering is approaching, and as part of our series of blogposts this week’s is titled ‘Sketches of a Future Society’. Previously, Rufus and Liam reflected on the way we live now, our biggest challenges and the questions this investigation lead them to ask. This week they look at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built. The following week they will discuss what an economy shaped by this culture would look like.*
+*The [Gathering][] is approaching. As part of our series of blogposts this week’s is titled ‘Sketches of a Future Society' by Rufus Pollock. Previously, Rufus and Liam reflected on [the way we live now][waywelive]. This week they look at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built. The following week they will discuss what an economy shaped by this culture would look like.*
 
+[Gathering]: /gathering/
+[waywelive]: /2017/05/31/the-way-we-live-now/
 
+## Preface
 
-<img src="/images/Sketches_PO_Adj.jpg">
+In the next two weeks we want to paint a vision of the future. Here the ground is less certain and our proposal necessarily incomplete. We invite you to bring a spirit of openness: this is an area where it is easy to critique and hard to create. Take what is presented as indicating direction rather than detailed prescription. At the same time, we still seek be as concrete as possible. The devil is often in the details and it is important to tease out the implications of a particular path. To be useful, fine-sounding pronouncements must yield a concrete course of action.
 
-*Photographs by [Sarah Hickson](https://sarahhickson.shootproof.com/)*
+## Introduction
 
-In the next two weeks we want to paint a vision of the future. Here the ground is less certain. Our proposal is necessarily incomplete. We ask you to bring a spirit of openness: this is an area where it is easy to critique and hard to create. Take what is presented as indicating direction rather than detailed prescription. At the same time, though this is about vision we still seek be as concrete as possible. The devil is often in the details and it is important to tease out the implications of a particular path and fine-sounding pronouncements must yield a concrete course of action to be useful.
-
-## Sketches of a Future Society
-
-*by Rufus Pollock and Liam Kavanagh*
-
-### The Solution
-
-> Man does not live on bread alone
+> ***Man does not live on bread alone***
 >
-> Nor on spirit alone!
+> ***Nor on spirit alone!***
 
-We have need of both material and spiritual sustenance[^spiritual]. Neglect either and we grow sick.
+We have need of both material and spiritual sustenance. Neglect either and we grow sick.
 
-[^spiritual]: I use spiritual in a non-religious sense -- it is a coverall phrase for our spirit, for our being, for our psyche.
+<p style="font-size: 85%; font-style: italic;">Note: Throughout I will use the term spiritual in a non-religious sense -- as a catch-all phrase to denote our spirit, our being, our psyche.</p>
 
-Moreover, the two are mutually supporting and reinforcing.
+Furthermore, the two reinforce and support each other.
 
-On the material level, certainty of our daily bread provides necessary foundation and space from which to act and reflect. Confident of our necessities we are able to look beyond our immediate needs for food and shelter. Satisfied, we are in a position to enlarge our locus of concern, moving our attention beyond ourselves and our immediate surroundings. We have space to engage in the deeper development of our being.
+On the material level, certainty of our daily bread provides necessary foundation and space from which to act and reflect. Confident of our necessities we are able to look beyond our immediate needs for food and shelter. Satisfied, we are in a position to enlarge our locus of concern, moving our attention beyond ourselves and our immediate surroundings to others and our environment. Fed and clothed we have space to engage in the deeper development of our being.
 
-Likewise, on the spiritual side a sound base gives us the tools and resources to handle the slings and arrows of life. To apply ourselves with diligence and balance, to work productively and harmoniously with ourselves and others.
+Likewise, on the spiritual side. Here a sound base gives us the tools and resources to handle the slings and arrows of outrageous fortune. The strength to apply ourselves with diligence and balance, to work productively and harmoniously with ourselves and others. The presence and mindfulness to savour the beauty of being, the contentment of suffiency, the opportunity of leisure.
 
-And the converse is also true. Without a spiritual grounding even the greatest material achievements are empty and hollow. We live in a constant fear for the precariousness of what we have. We run ever after something else. Meanwhile, only the very strongest spiritual practice can withstand extended material hardship.
+And just as they mutually reinforce, so the lack of one of these undermines the other.  Without a spiritual grounding even the greatest material achievements become empty and hollow. Living in constant fear for the precariousness of what we have we can never truly enjoy it. We run ever after something else. Conversely, only the very strongest spiritual practice can withstand extended material hardship.
 
-For centuries a lack of sufficient material resources has been a constant worry. At any given time, a good portion of humanity has gone hungry or homeless -- or both. Today that is changing. In some countries we are already a half-century into a world of plenty where no-one need worry for essentials.
+For centuries a lack of sufficient material resources has been a constant worry. At any given time, a good portion of humanity has gone hungry or homeless -- or both. Today that is changing. In some countries we are already a half-century into a world of plenty where no-one need have a daily worry for essentials.
 
-However, in one of those cruel ironies, material wealth has been matched by spiritual poverty. In the west the "death of god" led either to hedonistic materialist individualism or to reaction and a retreat into fundamentalism and righteousness. The great bulk of us fell into a moral and spiritual torpor, our minds numbed by the new opium of endless "entertainment" from TV to online games.
+However, in one of those cruel ironies, material wealth has been matched by spiritual poverty. In the west especially, the "death of god" led either to materialist individualistic hedonism or to reaction and a retreat into fundamentalism and righteousness. The great bulk of us fell into a moral and spiritual torpor, our minds numbed by the new opium of endless "entertainment" from TV to online games.
 
-Moreover, in recent times, climate change and other existential challenges such as genetic engineering and artificial intelligence have raised profound questions about the viability of our current system. Prompting by these, we have begun to wonder whether we have sufficient capacity to address collective challenges that require cooperation rather than capitalistic competition? More deeply, how much of our growth has been based on an unsustainable use of natural resources as opposed to genuine gains in productivity?
+Moreover, in recent times, climate change and other existential challenges such as genetic engineering and artificial intelligence have raised profound questions about the viability of our current system. Prompted by these, we have begun to wonder whether we have sufficient capacity to address collective challenges that require cooperation more than competition? More deeply, how much of our growth has been based on an unsustainable use of natural resources as opposed to genuine gains in productivity?
 
-### New Possibilities  
+## New Possibilities  
 
 Two possibilities have been recently emerging that hold great promise.
 
+### Material
+
 On the material side, the digital revolution means a move to information as the primary means and result of production. This can be transformative in two ways. First, simple material abundance. Information is costlessly copyable: have one book or app and you have a million. Moreover this is a plenty that need not exhaust the planet: that all of us can read Shakespeare is not the kind of ecological impossibility as all of us driving a Ferrari.
 
+Second, the move to an information-based economy has large implications for culture. Information's natural state is to be shared, to be copied. Furthermore, its creation is done most naturally by collaboration -- collaboration that can even be physically distributed. This is a different kind of culture of making and using than we have in our current system of competitive, individualistic, consumerist capitalism. Put simply, our way of producing shapes our way of being. An economy built on individualistic competition and an obsession with the profit motive yields beings in its image: individualistic, competitive, acquisitive and materialistic. The combination of information's ethereality, its abundance and shareability offers the possibility of a new, better culture based on collaboration, generosity and creativity.
 
-
-Second, the move to an information-based economy has large implications for culture. Information's natural state is to be shared, to be copied. Furthermore, its creation is done most naturally by collaboration -- collaboration that can even be distributed. This is a different kind of culture of making and using than we have in our current system of competitive, individualistic, consumerist capitalism. Put simply, our way of producing shapes our way of being. An economy built on individualistic competition and an obsession with the profit motive yields beings in its image: individualistic, competitive, acquisitive and materialistic. The combination of information's ethereality, its abundance and shareability offers the possibility of a new, better culture based on collaboration, generosity and creativity.
-
-
+### Spiritual
 
 On the spiritual side, there has also been a revolution. Hard scientific materialism is converging with ancient wisdom. Basic practices such as meditation -- common across many traditions for millennia -- find increasing support in "hard" scientific evidence. This is driving widespread adoption, especially in the west where these traditions were less developed and less well known.
 
-On the ethical side, there has been a growth in universalism especially since the second world war. By universalism we mean a universal respect for all human beings irrespective of their race, gender or station in life. There is even a trend to extend our concern beyond our own species to animals and all "beings". Again, this development would wed the ancient spiritual wisdom with modern science. Many spiritual traditions such as Buddhism include "love and respect for all living beings". In science, breakthroughs of the last two centuries have shown not only that all humans are fundamentally similar but with Darwinian evolution that we share a common genetic ancestry that with all living things. Even more recently, research has shown us that features like language and consciousness, once considered human only, may actually be shared by other animals. Modern psychology, neuroscience and computing have highlighted limits of our cognition breeding a new sense of humility. And as we delve into the mystery of consciousness they are finding much in common with old spiritual-philosophical traditions especially Buddhist-influenced phenomenology.
+On the ethical side, there has been a growth in universalism especially since the second world war. By universalism we mean a universal respect for all human beings irrespective of their race, gender or station in life. There is even a trend to extend our concern beyond our own species to animals and all "beings".
 
-We would also like to comment on impact of physics and modern science generally. A move away from certainty to a sense of how much we do NOT know and how “weird” and non-deterministic the world is.
+This development would wed ancient spiritual wisdom with modern science. Many traditions such as Buddhism include "love and respect for all living beings". In science, breakthroughs of the last two centuries have shown not only that all humans are fundamentally similar, but, with Darwinian evolution, that we share a common genetic ancestry with all living things.
 
-### Future Culture
+Even more recently, research has shown us that features like language and consciousness, once considered human only, may actually be shared by other animals. Modern psychology, neuroscience and computing have highlighted limits of our cognition breeding a new sense of humility. And as we delve into the mystery of consciousness they are finding much in common with old spiritual-philosophical traditions especially Buddhist-influenced phenomenology.[^physics]
+
+[^physics]: This goes beyond neuroscience to the impact of physics and modern science generally. Quantum physics and other discoveries have heralded a move away from simplistic certainty, requiring us to acknowledge just how much we do *not* know and how "weird", and non-deterministic, the world is.
+
+## From Possibility to Breakthrough
 
 These developments are promising. However, as yet, they remain possibilities rather than concrete breakthroughs.
 
 What will it take for us then to see them realized?
 
-We need to create a new kind of culture and a new economy to go with it. A culture and economy that is materially and spiritually sustainable. That trace a middle way between the rat-race and the retreat. That seek to be in the world rather than apart from it.
+The answer is that we need to create a new kind of culture, and a new economy to go with it. A culture and economy that are materially *and* spiritually sustainable. That trace a middle way between the rat-race and the retreat. That seek to be in the world rather than apart from it.
+
+### A New Culture
 
 Culture and economy are interdependent. However, we start with culture since it is the base on which an economy builds. Culture is invisible structure. Hard to define and very hard to change. Get culture wrong and it is almost impossible to go back. By contrast, our economies are much easier to alter.
 
@@ -93,5 +95,10 @@ The senses are appreciated but not indulged. Whether with food, with sex, with n
 
 This then is our culture. Imagined as the trunk of a tree, what are the roots, what are the leaves? These are our economy. For a tree to grow and survive it must must grow good roots deep into the ground. It must cast up branches into the sky and fill them with leaves. So our culture must have an economy. A material and spiritual economy with the roots that provide nutrients and leaves that provide energy.
 
+[Read Part Two of the Sketches of a Future Society &raquo;][partii]
+
+<img src="/images/Transform.jpg" />
+
+[partii]: /2017/06/19/sketches-of-a-future-society-part-two/
 
 *Edited by Brigitte Arndt*
