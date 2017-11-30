@@ -1,7 +1,7 @@
 ---
 title: Mindfulness
 slug: mindfulness-primer
-date: 2016-04-14T16:40:51
+date: 2017-04-14T16:40:51
 ---
 
 Literally we have mindfulness when we are being mindful of the present moment -- we aware of and present to what is occurring in and around us, from breathing to the fluttering of the leaves on the trees.
