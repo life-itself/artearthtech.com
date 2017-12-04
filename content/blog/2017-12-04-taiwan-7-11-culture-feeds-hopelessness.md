@@ -1,6 +1,6 @@
 ---
 date: 2017-12-04
-title: TAIWAN’S 7-11 CULTURE FEEDS HOPELESSNESS
+title: Taiwan’s 7-11 culture feeds hopelessness
 publishDate: 2017-12-04
 slug: taiwan-7-11-culture-feeds-hopelessness
 eventdate: 2017-12-04
@@ -11,7 +11,7 @@ imagePath: 7_11_culture.png
 
 
 
-*I want to be a mindful Taiwanese citizen in action. I long for a Taiwanese society that has hope of a better future, a future we all feel powerful enough to build through our mindful actions.  To this end, we must put an end to our 7-11 culture, because it is a mindful-action-killer. My own mindful action is to build a curriculum that will coach Taiwanese students to build their own“mindful project.”*<br/>
+*I want to be a mindful Taiwanese citizen in action. I long for a Taiwanese society that has hope of a better future, a future we all feel powerful enough to build through our mindful actions.  To this end, we must put an end to our 7-11 culture, because it is a mindful-action-killer. My own mindful action is to build a curriculum that will coach Taiwanese students to build their own“mindful project.”*
 
 
 ## 7-11 CULTURE
@@ -70,3 +70,8 @@ Rudolf Steiner was the one to point to the value of teaching handcraft to childr
 
 <img src="/images/7_11_culture_2.png">
 Ceramic Handcraft workshop at La Chéraille
+
+
+
+
+*Edited by Ninon Godefroy*

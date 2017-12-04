@@ -9,7 +9,7 @@ logoPath: logo-aet-gathering02.png
 
 ---
 
- *My thoughts on the film straight after seeing it by Tamara Karni Cohen*
+ *My thoughts on the film straight after seeing it*
 
 (NB - spoiler alert, does not give away whole plot but some key moments, so do not read if you want to watch the film).
 
@@ -41,3 +41,4 @@ I give it an easy Five stars. I didn’t fidget during the film - for me that is
 
 Oh and lastly - peaches will never be the same again!
 
+*Edited by Tamara Karni Cohen*
