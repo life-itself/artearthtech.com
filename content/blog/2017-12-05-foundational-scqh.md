@@ -37,4 +37,4 @@ Develop a community of people based on a shared culture and shared views that in
 
 
 
-*Edited by Rufus Pollock, Sylvie Barbier, Liam Kavanagh, Ninon Godfrey*
+*Rufus Pollock, Sylvie Barbier, Liam Kavanagh, Ninon Godefroy*
