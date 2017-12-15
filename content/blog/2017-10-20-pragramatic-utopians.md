@@ -2,6 +2,7 @@
 title: Pragmatic Utopians
 date: 2017-10-20
 author: Rufus Pollock
+imagePath: pragmatic.jpg
 ---
 
 *I like to describe myself as a pragmatic utopian -- and Art Earth Tech as an exercise in pragmatic utopianism. Utopianism seems to have a bad name today. I wrote this as a response to that presumption of guilt during the first Art Earth Tech nucleus retreat. ~ Rufus Pollock.*
@@ -19,4 +20,3 @@ Utopia is a "mountain with no top", an endless gesturing towards an impossible p
 Furthermore, utopianism should be, in a profound sense, realistic. It is not simply idle dreaming or an impossible ideal. It is intended to be realised, albeit incrementally and approximately. It should also be deeply pragmatic: concerned with means as well as ends, open to the possibility of the multiplicity of both, seeking evolution rather than revolution. Most importantly it means being experimental and open-minded. In short, if utopia is a mountain with no top, then utopians are happy to explore different paths up the mountain.
 
 The reassertion of our utopianism matters because we have forgotten our imaginations. We have not dared to dream because too many of our dreams became nightmares. Now, too often, we sleepwalk, already robots, waiting for the robots to come. But we can come awake. We can renew our visions, believe again, and do so without the arrogance of certainty, but sustained by open-minded faith.
-
