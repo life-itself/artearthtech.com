@@ -295,3 +295,12 @@
     @include reset-display();
   }
 }
+
+.home-template-special {
+  @extend .home-template;
+  .side-image-content {
+    a {
+      color: darken(#0FB3FF, 15%) !important;
+    }
+  }
+}

@@ -4028,18 +4028,18 @@ div.toc {
     border: 1px solid #e6e6e6;
     width: auto; }
 
-.home-template .flex-boxes {
+.home-template .flex-boxes, .home-template-special .flex-boxes {
   align-items: stretch;
   clear: both;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   text-align: center; }
-  .home-template .flex-boxes::after {
+  .home-template .flex-boxes::after, .home-template-special .flex-boxes::after {
     clear: both;
     content: "";
     display: table; }
-  .home-template .flex-boxes .flex-box {
+  .home-template .flex-boxes .flex-box, .home-template-special .flex-boxes .flex-box {
     align-self: stretch;
     background: white;
     border-radius: 3px;
@@ -4050,46 +4050,46 @@ div.toc {
     padding: 2em 2em 3em 2em;
     text-decoration: none;
     transition: all 0.2s ease-in-out; }
-    .home-template .flex-boxes .flex-box:nth-child(1) {
+    .home-template .flex-boxes .flex-box:nth-child(1), .home-template-special .flex-boxes .flex-box:nth-child(1) {
       border-top: 6px solid tomato; }
-      .home-template .flex-boxes .flex-box:nth-child(1):focus, .home-template .flex-boxes .flex-box:nth-child(1):hover {
+      .home-template .flex-boxes .flex-box:nth-child(1):focus, .home-template-special .flex-boxes .flex-box:nth-child(1):focus, .home-template .flex-boxes .flex-box:nth-child(1):hover, .home-template-special .flex-boxes .flex-box:nth-child(1):hover {
         background-color: rgba(255, 99, 71, 0.1); }
-    .home-template .flex-boxes .flex-box:nth-child(2) {
+    .home-template .flex-boxes .flex-box:nth-child(2), .home-template-special .flex-boxes .flex-box:nth-child(2) {
       border-top: 6px solid #72BFBF; }
-      .home-template .flex-boxes .flex-box:nth-child(2):focus, .home-template .flex-boxes .flex-box:nth-child(2):hover {
+      .home-template .flex-boxes .flex-box:nth-child(2):focus, .home-template-special .flex-boxes .flex-box:nth-child(2):focus, .home-template .flex-boxes .flex-box:nth-child(2):hover, .home-template-special .flex-boxes .flex-box:nth-child(2):hover {
         background-color: rgba(114, 191, 191, 0.1); }
-    .home-template .flex-boxes .flex-box:nth-child(3) {
+    .home-template .flex-boxes .flex-box:nth-child(3), .home-template-special .flex-boxes .flex-box:nth-child(3) {
       border-top: 6px solid #92B1E3; }
-      .home-template .flex-boxes .flex-box:nth-child(3):focus, .home-template .flex-boxes .flex-box:nth-child(3):hover {
+      .home-template .flex-boxes .flex-box:nth-child(3):focus, .home-template-special .flex-boxes .flex-box:nth-child(3):focus, .home-template .flex-boxes .flex-box:nth-child(3):hover, .home-template-special .flex-boxes .flex-box:nth-child(3):hover {
         background-color: rgba(146, 177, 227, 0.1); }
-    .home-template .flex-boxes .flex-box:nth-child(4) {
+    .home-template .flex-boxes .flex-box:nth-child(4), .home-template-special .flex-boxes .flex-box:nth-child(4) {
       border-top: 6px solid #E3D743; }
-      .home-template .flex-boxes .flex-box:nth-child(4):focus, .home-template .flex-boxes .flex-box:nth-child(4):hover {
+      .home-template .flex-boxes .flex-box:nth-child(4):focus, .home-template-special .flex-boxes .flex-box:nth-child(4):focus, .home-template .flex-boxes .flex-box:nth-child(4):hover, .home-template-special .flex-boxes .flex-box:nth-child(4):hover {
         background-color: rgba(227, 215, 67, 0.1); }
-    .home-template .flex-boxes .flex-box:nth-child(5) {
+    .home-template .flex-boxes .flex-box:nth-child(5), .home-template-special .flex-boxes .flex-box:nth-child(5) {
       border-top: 6px solid #CCC; }
-      .home-template .flex-boxes .flex-box:nth-child(5):focus, .home-template .flex-boxes .flex-box:nth-child(5):hover {
+      .home-template .flex-boxes .flex-box:nth-child(5):focus, .home-template-special .flex-boxes .flex-box:nth-child(5):focus, .home-template .flex-boxes .flex-box:nth-child(5):hover, .home-template-special .flex-boxes .flex-box:nth-child(5):hover {
         background-color: rgba(204, 204, 204, 0.1); }
-    .home-template .flex-boxes .flex-box:nth-child(6) {
+    .home-template .flex-boxes .flex-box:nth-child(6), .home-template-special .flex-boxes .flex-box:nth-child(6) {
       border-top: 6px solid #F6C05C; }
-      .home-template .flex-boxes .flex-box:nth-child(6):focus, .home-template .flex-boxes .flex-box:nth-child(6):hover {
+      .home-template .flex-boxes .flex-box:nth-child(6):focus, .home-template-special .flex-boxes .flex-box:nth-child(6):focus, .home-template .flex-boxes .flex-box:nth-child(6):hover, .home-template-special .flex-boxes .flex-box:nth-child(6):hover {
         background-color: rgba(246, 192, 92, 0.1); }
-    .home-template .flex-boxes .flex-box img {
+    .home-template .flex-boxes .flex-box img, .home-template-special .flex-boxes .flex-box img {
       display: block;
       height: 3em;
       margin: 0 auto 1em;
       opacity: 0.4; }
-    .home-template .flex-boxes .flex-box .flex-title {
+    .home-template .flex-boxes .flex-box .flex-title, .home-template-special .flex-boxes .flex-box .flex-title {
       color: rgba(51, 51, 51, 0.7);
       font-size: 1.2em;
       margin-bottom: 0.5em; }
-    .home-template .flex-boxes .flex-box p {
+    .home-template .flex-boxes .flex-box p, .home-template-special .flex-boxes .flex-box p {
       color: rgba(51, 51, 51, 0.6);
       line-height: 1.5em;
       margin: auto; }
-  .home-template .flex-boxes .flex-box-big {
+  .home-template .flex-boxes .flex-box-big, .home-template-special .flex-boxes .flex-box-big {
     flex: 1 1 40em; }
-.home-template .hero {
+.home-template .hero, .home-template-special .hero {
   align-items: center;
   background: image-url("background-image.png");
   background-position: right;
@@ -4099,19 +4099,19 @@ div.toc {
   min-height: 25em;
   padding: 2em; }
   @media screen and (min-width: 53.75em) {
-    .home-template .hero {
+    .home-template .hero, .home-template-special .hero {
       background-position: left;
       background-size: cover;
       justify-content: flex-end; } }
-  .home-template .hero .hero-content {
+  .home-template .hero .hero-content, .home-template-special .hero .hero-content {
     max-width: 20em;
     text-align: center; }
     @media screen and (min-width: 53.75em) {
-      .home-template .hero .hero-content {
+      .home-template .hero .hero-content, .home-template-special .hero .hero-content {
         text-align: left; } }
-  .home-template .hero .hero-logo {
+  .home-template .hero .hero-logo, .home-template-special .hero .hero-logo {
     margin: auto; }
-.home-template .hero {
+.home-template .hero, .home-template-special .hero {
   align-items: center;
   background-size: none;
   background-repeat: no-repeat;
@@ -4119,48 +4119,48 @@ div.toc {
   justify-content: center;
   padding: 2em 3em; }
   @media screen and (min-width: 40em) {
-    .home-template .hero {
+    .home-template .hero, .home-template-special .hero {
       padding: 0 8em; } }
   @media screen and (min-width: 53.75em) {
-    .home-template .hero {
+    .home-template .hero, .home-template-special .hero {
       min-height: 38em;
       background-size: cover;
       padding: 25vh 5%;
       height: calc(100vh + 2em); }
-      .home-template .hero img {
+      .home-template .hero img, .home-template-special .hero img {
         height: 20%;
         width: 20%; } }
-  .home-template .hero .hero-content {
+  .home-template .hero .hero-content, .home-template-special .hero .hero-content {
     max-width: 100%;
     color: white; }
-    .home-template .hero .hero-content h1 {
+    .home-template .hero .hero-content h1, .home-template-special .hero .hero-content h1 {
       font-family: "open-sans";
       font-size: 1.4em;
       letter-spacing: 0;
       margin-bottom: 10px;
       line-height: 1.2; }
-    .home-template .hero .hero-content h2 {
+    .home-template .hero .hero-content h2, .home-template-special .hero .hero-content h2 {
       font-family: "didot";
       font-size: 1.25em;
       font-weight: bold;
       margin: 0 0 2em 0;
       line-height: 1.2; }
-    .home-template .hero .hero-content h2.info {
+    .home-template .hero .hero-content h2.info, .home-template-special .hero .hero-content h2.info {
       font-family: "open-sans";
       font-size: 1.6em;
       letter-spacing: 0;
       line-height: 1.2;
       margin-bottom: 0; }
-    .home-template .hero .hero-content p.blurb {
+    .home-template .hero .hero-content p.blurb, .home-template-special .hero .hero-content p.blurb {
       font-size: 1.6em;
       font-style: italic;
       color: white;
       padding: 0 2em; }
-    .home-template .hero .hero-content p.blurb2 {
+    .home-template .hero .hero-content p.blurb2, .home-template-special .hero .hero-content p.blurb2 {
       font-size: 1.2em;
       color: white;
       padding: 0 12em; }
-    .home-template .hero .hero-content a.button {
+    .home-template .hero .hero-content a.button, .home-template-special .hero .hero-content a.button {
       font-family: "didot";
       font-weight: bold;
       margin: 25px 10px 20px 0;
@@ -4171,69 +4171,73 @@ div.toc {
       font-size: 1.25em;
       letter-spacing: 1px;
       background-color: transparent; }
-      .home-template .hero .hero-content a.button:focus, .home-template .hero .hero-content a.button:hover {
+      .home-template .hero .hero-content a.button:focus, .home-template-special .hero .hero-content a.button:focus, .home-template .hero .hero-content a.button:hover, .home-template-special .hero .hero-content a.button:hover {
         text-decoration: none;
         background-color: white;
         color: black; }
-    .home-template .hero .hero-content a i {
+    .home-template .hero .hero-content a i, .home-template-special .hero .hero-content a i {
       color: white;
       font-size: 25px;
       margin-right: 6px; }
     @media screen and (min-width: 53.75em) {
-      .home-template .hero .hero-content {
+      .home-template .hero .hero-content, .home-template-special .hero .hero-content {
         text-align: center; } }
-  .home-template .hero .call-to-action {
+  .home-template .hero .call-to-action, .home-template-special .hero .call-to-action {
     display: none; }
     @media screen and (min-width: 53.75em) {
-      .home-template .hero .call-to-action {
+      .home-template .hero .call-to-action, .home-template-special .hero .call-to-action {
         display: block;
         position: absolute;
         top: 88%;
         left: 25%;
         height: 12%;
         width: 50%; }
-        .home-template .hero .call-to-action p {
+        .home-template .hero .call-to-action p, .home-template-special .hero .call-to-action p {
           color: white;
           text-align: center;
           align-items: center;
           margin: 0; }
-        .home-template .hero .call-to-action .arrow-down {
+        .home-template .hero .call-to-action .arrow-down, .home-template-special .hero .call-to-action .arrow-down {
           font-size: 2.6em; }
-          .home-template .hero .call-to-action .arrow-down a {
+          .home-template .hero .call-to-action .arrow-down a, .home-template-special .hero .call-to-action .arrow-down a {
             color: white; } }
-.home-template #next-section {
+.home-template #next-section, .home-template-special #next-section {
   min-height: 500px; }
-.home-template .video {
+.home-template .video, .home-template-special .video {
   overflow: hidden;
   position: relative;
   margin-bottom: 0; }
   @media screen and (min-width: 53.75em) {
-    .home-template .video {
+    .home-template .video, .home-template-special .video {
       margin-bottom: 3em; } }
-  .home-template .video .video-wrapper embed,
+  .home-template .video .video-wrapper embed, .home-template-special .video .video-wrapper embed,
   .home-template .video .video-wrapper object,
-  .home-template .video .video-wrapper iframe {
+  .home-template-special .video .video-wrapper object,
+  .home-template .video .video-wrapper iframe,
+  .home-template-special .video .video-wrapper iframe {
     height: calc((100vw - 40px) * 0.562);
     width: 100%; }
     @media screen and (min-width: 53.75em) {
-      .home-template .video .video-wrapper embed,
+      .home-template .video .video-wrapper embed, .home-template-special .video .video-wrapper embed,
       .home-template .video .video-wrapper object,
-      .home-template .video .video-wrapper iframe {
+      .home-template-special .video .video-wrapper object,
+      .home-template .video .video-wrapper iframe,
+      .home-template-special .video .video-wrapper iframe {
         position: relative;
         top: 0;
         height: 382px;
         width: 680px; } }
-  .home-template .video .video-text {
+  .home-template .video .video-text, .home-template-special .video .video-text {
     text-align: center; }
-    .home-template .video .video-text h2 {
+    .home-template .video .video-text h2, .home-template-special .video .video-text h2 {
       font-size: 24px;
       letter-spacing: 1;
       margin-bottom: 20px;
       font-weight: 400;
       line-height: 1.2; }
-    .home-template .video .video-text p.narrow {
+    .home-template .video .video-text p.narrow, .home-template-special .video .video-text p.narrow {
       width: 70%; }
-    .home-template .video .video-text p {
+    .home-template .video .video-text p, .home-template-special .video .video-text p {
       font-size: 16px;
       font-weight: 300;
       color: #333;
@@ -4241,16 +4245,16 @@ div.toc {
       margin-bottom: 30px;
       line-height: 1.625; }
     @media screen and (min-width: 53.75em) {
-      .home-template .video .video-text {
+      .home-template .video .video-text, .home-template-special .video .video-text {
         padding: 0;
         position: relative;
         left: 2.5%;
         width: 95%; } }
-.home-template .grid-items::after {
+.home-template .grid-items::after, .home-template-special .grid-items::after {
   clear: both;
   content: "";
   display: table; }
-.home-template .grid-items .grid-item {
+.home-template .grid-items .grid-item, .home-template-special .grid-items .grid-item {
   background: black;
   border-bottom: 9px solid #fff;
   border-left: 4.5px solid #fff;
@@ -4266,132 +4270,132 @@ div.toc {
   transition: all 0.2s ease-in-out;
   width: 100%; }
   @media screen and (min-width: 53.75em) {
-    .home-template .grid-items .grid-item {
+    .home-template .grid-items .grid-item, .home-template-special .grid-items .grid-item {
       width: 33.33333%; } }
-.home-template .grid-items .grid-item img {
+.home-template .grid-items .grid-item img, .home-template-special .grid-items .grid-item img {
   display: block;
   height: 3em;
   margin: 0 auto 1em; }
-.home-template .grid-items .grid-item h1 {
+.home-template .grid-items .grid-item h1, .home-template-special .grid-items .grid-item h1 {
   color: white;
   font-size: 1.3em;
   margin-bottom: 0.4em; }
-.home-template .grid-items .grid-item p {
+.home-template .grid-items .grid-item p, .home-template-special .grid-items .grid-item p {
   color: rgba(255, 255, 255, 0.7);
   line-height: 1.5em;
   margin: auto; }
   @media screen and (min-width: 40em) {
-    .home-template .grid-items .grid-item p {
+    .home-template .grid-items .grid-item p, .home-template-special .grid-items .grid-item p {
       max-width: 70%; } }
 @media screen and (min-width: 53.75em) {
-  .home-template .grid-items .grid-item-big {
+  .home-template .grid-items .grid-item-big, .home-template-special .grid-items .grid-item-big {
     width: 66.66667%; } }
 @media screen and (min-width: 40em) {
-  .home-template .grid-items .grid-item-big p {
+  .home-template .grid-items .grid-item-big p, .home-template-special .grid-items .grid-item-big p {
     max-width: 60%; } }
-.home-template .grid-items .grid-item-image {
+.home-template .grid-items .grid-item-image, .home-template-special .grid-items .grid-item-image {
   background: url("https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png");
   background-color: black;
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover; }
-.home-template .grid-items .grid-item {
+.home-template .grid-items .grid-item, .home-template-special .grid-items .grid-item {
   background-color: transparent;
   border: none; }
-  .home-template .grid-items .grid-item h4, .home-template .grid-items .grid-item p, .home-template .grid-items .grid-item i {
+  .home-template .grid-items .grid-item h4, .home-template-special .grid-items .grid-item h4, .home-template .grid-items .grid-item p, .home-template-special .grid-items .grid-item p, .home-template .grid-items .grid-item i, .home-template-special .grid-items .grid-item i {
     color: #333 !important;
     margin-top: 15px;
     margin-bottom: 20px; }
-  .home-template .grid-items .grid-item h4 {
+  .home-template .grid-items .grid-item h4, .home-template-special .grid-items .grid-item h4 {
     font-size: 16px;
     letter-spacing: 1px;
     font-weight: 400; }
-  .home-template .grid-items .grid-item p {
+  .home-template .grid-items .grid-item p, .home-template-special .grid-items .grid-item p {
     max-width: 90%;
     font-size: 16px;
     font-weight: 300;
     line-height: 1.625; }
-  .home-template .grid-items .grid-item i {
+  .home-template .grid-items .grid-item i, .home-template-special .grid-items .grid-item i {
     font-size: 2em; }
-.home-template .fellow {
+.home-template .fellow, .home-template-special .fellow {
   max-width: 90%;
   margin-left: auto;
   margin-right: auto;
   padding-top: 3em; }
-  .home-template .fellow::after {
+  .home-template .fellow::after, .home-template-special .fellow::after {
     clear: both;
     content: "";
     display: table; }
-  .home-template .fellow .logo-section {
+  .home-template .fellow .logo-section, .home-template-special .fellow .logo-section {
     display: flex;
     flex-wrap: wrap;
     justify-content: left; }
-    .home-template .fellow .logo-section li {
+    .home-template .fellow .logo-section li, .home-template-special .fellow .logo-section li {
       align-self: center;
       list-style: none;
       padding: 2em;
       text-align: center; }
-      .home-template .fellow .logo-section li .square-logo {
+      .home-template .fellow .logo-section li .square-logo, .home-template-special .fellow .logo-section li .square-logo {
         max-height: 5em; }
-      .home-template .fellow .logo-section li .wide-logo {
+      .home-template .fellow .logo-section li .wide-logo, .home-template-special .fellow .logo-section li .wide-logo {
         max-width: 10em; }
-      .home-template .fellow .logo-section li .wider-logo {
+      .home-template .fellow .logo-section li .wider-logo, .home-template-special .fellow .logo-section li .wider-logo {
         max-width: 15em; }
-.home-template .side-image {
+.home-template .side-image, .home-template-special .side-image {
   background: white; }
-  .home-template .side-image div.images-wrapper.last {
+  .home-template .side-image div.images-wrapper.last, .home-template-special .side-image div.images-wrapper.last {
     display: none; }
   @media screen and (min-width: 53.75em) {
-    .home-template .side-image {
+    .home-template .side-image, .home-template-special .side-image {
       display: table;
       width: 100%;
       table-layout: fixed;
       height: 640px; }
-      .home-template .side-image div.images-wrapper.last {
+      .home-template .side-image div.images-wrapper.last, .home-template-special .side-image div.images-wrapper.last {
         display: table-cell; } }
-  .home-template .side-image .images-wrapper {
+  .home-template .side-image .images-wrapper, .home-template-special .side-image .images-wrapper {
     background: url("../images/wise.jpg"), linear-gradient(#B5EBEB, #5DAC5D), no-repeat #B5EBEB scroll;
     background-color: #B5EBEB;
     background-size: 100vw 100vw;
     min-height: 100vw;
     display: block; }
     @media screen and (min-width: 53.75em) {
-      .home-template .side-image .images-wrapper {
+      .home-template .side-image .images-wrapper, .home-template-special .side-image .images-wrapper {
         background-size: cover;
         padding: 3em;
         min-height: 12em; } }
     @media screen and (min-width: 53.75em) {
-      .home-template .side-image .images-wrapper {
+      .home-template .side-image .images-wrapper, .home-template-special .side-image .images-wrapper {
         display: table-cell;
         width: 50%;
         background-position: right;
         background-size: cover; } }
-  .home-template .side-image .side-image-content {
+  .home-template .side-image .side-image-content, .home-template-special .side-image .side-image-content {
     display: table-cell;
     width: 100%;
     padding: 1em 1em 4em 1em; }
     @media screen and (min-width: 53.75em) {
-      .home-template .side-image .side-image-content {
+      .home-template .side-image .side-image-content, .home-template-special .side-image .side-image-content {
         display: table-cell;
         width: 50%;
         padding: 6% 7.5% 0 7.5%; } }
-    .home-template .side-image .side-image-content h2 {
+    .home-template .side-image .side-image-content h2, .home-template-special .side-image .side-image-content h2 {
       margin-bottom: 0 0 20px 0;
       font-size: 20px;
       font-weight: 700;
       letter-spacing: 0.5px;
       line-height: 1.2; }
-    .home-template .side-image .side-image-content p {
+    .home-template .side-image .side-image-content p, .home-template-special .side-image .side-image-content p {
       color: #333;
       font-size: 18px;
       margin: 0 0 30px 0;
       font-weight: 300;
       line-height: 1.625; }
-    .home-template .side-image .side-image-content a {
+    .home-template .side-image .side-image-content a, .home-template-special .side-image .side-image-content a {
       color: #333;
       text-decoration: none;
       border-bottom: 0; }
-    .home-template .side-image .side-image-content a.button {
+    .home-template .side-image .side-image-content a.button, .home-template-special .side-image .side-image-content a.button {
       padding: 16px 24px;
       color: #34313b;
       border: 1px solid #34313b;
@@ -4399,10 +4403,13 @@ div.toc {
       border-radius: 0;
       font-size: 14px;
       font-weight: 400; }
-      .home-template .side-image .side-image-content a.button:focus, .home-template .side-image .side-image-content a.button:hover {
+      .home-template .side-image .side-image-content a.button:focus, .home-template-special .side-image .side-image-content a.button:focus, .home-template .side-image .side-image-content a.button:hover, .home-template-special .side-image .side-image-content a.button:hover {
         text-decoration: none;
         background-color: #34313b;
         color: white; }
+
+.home-template-special .side-image-content a {
+  color: #0084c2 !important; }
 
 .bullets {
   display: flex;
@@ -4821,67 +4828,73 @@ section.location {
         height: 400px;
         width: 400px; } }
 
-section.other-pages {
+section.other-pages, section.other-pages-special {
   max-width: 90%;
   margin-left: auto;
   margin-right: auto;
   padding-top: 3em; }
-  section.other-pages::after {
+  section.other-pages::after, section.other-pages-special::after {
     clear: both;
     content: "";
     display: table; }
-  section.other-pages .logo-section {
+  section.other-pages .logo-section, section.other-pages-special .logo-section {
     display: flex;
     flex-wrap: wrap;
     justify-content: left; }
-    section.other-pages .logo-section li {
+    section.other-pages .logo-section li, section.other-pages-special .logo-section li {
       align-self: center;
       list-style: none;
       padding: 2em;
       text-align: center; }
-      section.other-pages .logo-section li .square-logo {
+      section.other-pages .logo-section li .square-logo, section.other-pages-special .logo-section li .square-logo {
         max-height: 5em; }
-      section.other-pages .logo-section li .wide-logo {
+      section.other-pages .logo-section li .wide-logo, section.other-pages-special .logo-section li .wide-logo {
         max-width: 10em; }
-      section.other-pages .logo-section li .wider-logo {
+      section.other-pages .logo-section li .wider-logo, section.other-pages-special .logo-section li .wider-logo {
         max-width: 15em; }
   @media screen and (min-width: 53.75em) {
-    section.other-pages {
+    section.other-pages, section.other-pages-special {
       max-width: 768px; } }
-  section.other-pages .news .single-news {
+  section.other-pages .news .single-news, section.other-pages-special .news .single-news {
     padding: 2em 2.5em 2em 2em;
     margin: 0 0 1em 0;
     border: 1px solid #e4e4e4; }
-  section.other-pages .post-single {
+  section.other-pages .post-single, section.other-pages-special .post-single {
     max-width: 700px; }
-  section.other-pages form > input, section.other-pages form > textarea {
+  section.other-pages form > input, section.other-pages-special form > input, section.other-pages form > textarea, section.other-pages-special form > textarea {
     border-radius: 0; }
-  section.other-pages h1 {
+  section.other-pages h1, section.other-pages-special h1 {
     font-size: 36px;
     font-weight: 400;
     line-height: 1.2;
     margin: 0 0 20px 0;
     color: #333; }
-  section.other-pages h1.large-title {
+  section.other-pages h1.large-title, section.other-pages-special h1.large-title {
     font-size: 48px; }
-  section.other-pages h3 {
+  section.other-pages h3, section.other-pages-special h3 {
     font-size: 28px;
     font-weight: 400;
     line-height: 1.2;
     margin: 0 0 20px 0;
     color: #333;
     text-transform: none; }
-  section.other-pages p {
+  section.other-pages p, section.other-pages-special p {
     font-size: 20px;
     color: #333;
     line-height: 1.625;
     margin: 0 0 20px 0;
     font-weight: 300; }
-  section.other-pages p.date {
+  section.other-pages p.date, section.other-pages-special p.date {
     font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 0.75em;
     font-weight: 400;
     margin-bottom: 0.5em; }
+
+section.other-pages-special img {
+  width: 200px;
+  height: 200px; }
+section.other-pages-special .side-image-content a {
+  color: #0084c2 !important; }
 
 form {
   width: 100%;
