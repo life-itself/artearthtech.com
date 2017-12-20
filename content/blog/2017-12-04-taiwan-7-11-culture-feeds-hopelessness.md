@@ -13,7 +13,6 @@ imagePath: 7_11_culture.png
 
 *I want to be a mindful Taiwanese citizen in action. I long for a Taiwanese society that has hope of a better future, a future we all feel powerful enough to build through our mindful actions.  To this end, we must put an end to our 7-11 culture, because it is a mindful-action-killer. My own mindful action is to build a curriculum that will coach Taiwanese students to build their own“mindful project.”*
 
-
 ## 7-11 CULTURE
 
 
@@ -25,7 +24,7 @@ Convenience(方便) is what we, as Taiwanese, value the most. Taiwan prides itse
 
 My issue with our 7-11 culture is that it kills what I call mindful actions – a personal action taken to impact positively the world around us. In mindful action I attach as much importance to the word “mindful” as well as the word “action.”
 
-To be “mindful” means to be conscious or aware of the world around us. A mindful person is a person aware of the (positive or negative) impact his behaviour has on the world. A mindful person knows that if he beats his kid, there are high chances the kid will end-up having low self-confidence. A mindful person knows that if he drives his car instead of taking public transports, he contributes to higher levels of pollution.
+To be “mindful” means to be conscious or aware of the world around us. A mindful person is a person aware of the (positive or negative) impact his/her behaviour has on the world. A mindful person knows that if he/she beats his/her kid, there are high chances the kid will end-up having low self-confidence. A mindful person knows that if he/she drives his car instead of taking public transports, he/she contributes to higher levels of pollution.
 
 By “action” I refer to personal human action. Action is about practicality. “Action” is to be contrasted  with “talk” and “thoughts.” Even if we can just think or talk about how we want things to change, we need to put thoughts and words into action to be able to change things. I can’t just think that beating my kid is a bad idea. If I care about his level of self-confidence, I should also stop beating him. I can’t just complain about the pollution in Taipei city.  I also need to stop using my car and take public transports (and maybe convince other people around me to do the same). Thus, an “action” relates to the present, while talk and thoughts relate to the future. Action bridges the present and the future, giving humans the proof and confidence that they can do things, and change things.
 
