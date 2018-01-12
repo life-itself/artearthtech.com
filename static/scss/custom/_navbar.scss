@@ -5,7 +5,7 @@ header.navigation {
   $navigation-height: 60px;
   $horizontal-bar-mode: $large-screen;
   $navigation-submenu-width: 12em;
-  $container: 90%;
+  $container: 94%;
 
   .navigation-wrapper {
     @include outer-container($container);
