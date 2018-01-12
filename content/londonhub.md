@@ -1,7 +1,7 @@
 ---
 title: Art Earth Tech London Hub
 type: hubs
-url: londonhub
+path: www.artearthtech.com/londonhub
 ---
 
 The Art Earth Tech London Hub in Shoreditch is a refuge from the dreary busyness of city life but retains all the excitement, energy and drive of London’s fast lane. It’s a place to connect and laugh, to learn and share. A space to discuss the trends shaping our society and the ideas that will determine our future; where networks are created to support one another in the projects that evolving our economy and society towards a wiser, greener and weller world. 
