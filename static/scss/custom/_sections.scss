@@ -148,3 +148,16 @@ section.other-pages {
     margin-bottom: 0.5em;
   }
 }
+section.other-pages-special {
+  img {
+    width: 200px;
+    height: 200px;
+  }
+  @extend section.other-pages;
+  .side-image-content {
+    a {
+      color: darken(#0FB3FF, 15%) !important;
+    }
+    
+  }
+}

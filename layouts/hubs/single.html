@@ -1,0 +1,29 @@
+{{ partial "head.html" . }}
+    <body>
+        <div class="content-wrapper">
+            <div class="content-wrapper__inner">
+                <div>
+                  {{ partial "navbar.html" . }}
+
+                  <section class="other-pages">
+                    <article class="type-system-rounded">
+                      <div class="post-single">
+                        <div class="post-heading">
+                          <h1>{{ .Title }}</h1>
+                        </div>
+                        <div class="post-body">
+                          <div class="news-content">
+                            <p>{{ .Content | markdownify }}</p>
+                          </div>
+                        </div>
+                      </div>
+                    </article>
+                  </section>
+
+                </div>
+            </div>
+        </div>
+        {{ partial "footer.html" . }}
+    </body>
+    {{ partial "script.html" .}}
+</html>
