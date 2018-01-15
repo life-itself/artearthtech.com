@@ -149,10 +149,6 @@ section.other-pages {
   }
 }
 section.other-pages-special {
-  img {
-    width: 200px;
-    height: 200px;
-  }
   @extend section.other-pages;
   .side-image-content {
     a {
