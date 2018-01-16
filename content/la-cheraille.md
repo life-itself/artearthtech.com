@@ -8,7 +8,7 @@ We are based La Cheraille, a small farming hamlet near Paris. It is beautiful, n
 
 The community includes artists, technologists, farmers and researchers.
 
-<img src="/images/la_cheraille2_768x574.png">
+<img src="/images/la_cheraille2_768x574.jpg">
 
 ## Location
 
@@ -21,8 +21,8 @@ La Cheraille, 78120 Sonchamp, France.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d168429.23446498803!2d2.1464563156773004!3d48.73019408239067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e4245e8d738939%3A0x34b08f1a22c1cd5b!2sLa+Cheraille%2C+78120+Sonchamp%2C+France!5e0!3m2!1sen!2suk!4v1457889186272" style="border:0" allowfullscreen="" width="450" height="337" frameborder="0"></iframe>
 
 <img src="/images/DSC_8791_Sarah_Hickson_768x512.jpg">
-<img src="/images/la_cheraille1_768x577.png">
-<img src="/images/la_cheraille2_768x574.png">
+<img src="/images/la_cheraille1_768x577.jpg">
+<img src="/images/la_cheraille2_768x574.jpg">
 <img src="/images/DSC_8829_Sarah_Hickson1_768x512.jpg">
 <img src="/images/DSC_8796_Sarah_Hickson_768x512.jpg">
 <img src="/images/DSC_0070_Sarah_Hickson_768x512.jpg">
