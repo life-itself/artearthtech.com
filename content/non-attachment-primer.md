@@ -6,8 +6,8 @@ date: 2017-04-15T16:40:51
 
  >_…Seeing that harmful actions arise from anger, fear, greed, and intolerance, which in turn come from dualistic and discriminative thinking, I will cultivate openness, non-discrimination, and non-attachment to views in order to transform violence, fanaticism, and dogmatism in myself and in the world._
 
-***Thich Nhat Hanh, First Mindfulness Training “Reverence for Life”***[^1]
->
+***Thich Nhat Hanh, First Mindfulness Training “Reverence for Life”*** [^1]
+
 
 >*The human understanding when it has once adopted an opinion draws all things else to support and agree with it. And though there be a greater number and weight of instances to be found on the other side, yet these it either neglects and despises, or else by some distinction sets aside and rejects, in order that by this great and pernicious predetermination the authority of its former conclusion may remain inviolate.*
 
@@ -83,46 +83,42 @@ After telling the story, the Buddha said, ‘If at some point in your lifeyou ad
 
 ## Links
 
--   [I Don’t Want to Be Right - New Yorker]
-     [*http://www.newyorker.com/science/maria-konnikova/i-dont-want-to-be-right*](http://www.newyorker.com/science/maria-konnikova/i-dont-want-to-be-right)
+-  I Don’t Want to Be Right - New Yorker *http://www.newyorker.com/science/maria-konnikova/i-dont-want-to-be-right*
 
 -   Memory for Fact, Fiction, and Misinformation: The Iraq War 2003 Psychological Science March 2005 16: 190-195
 
--   Nyhan, Brendan, Jason Reifler, and Peter A. Ubel. 2013. ‘The Hazards of Correcting Myths About Health Care Reform’: *Medical Care* 51 (2): 127–32. doi:10.1097/MLR.0b013e318279486b.
-    [*http://journals.lww.com/lww-medicalcare/Abstract/2013/02000/The\_Hazards\_of\_Correcting\_Myths\_About\_Health\_Care.2.aspx*](http://journals.lww.com/lww-medicalcare/Abstract/2013/02000/The_Hazards_of_Correcting_Myths_About_Health_Care.2.aspx)
--   Misinformation and Its Correction: Continued Influence and
-    > Successful Debiasing Psychological Science in the Public Interest
-    > December 2012 13: 106-131,
-    > [*http://psi.sagepub.com/content/13/3/106.full*](http://psi.sagepub.com/content/13/3/106.full)
+-  Nyhan, Brendan, Jason Reifler, and Peter A. Ubel. 2013. ‘The Hazards of Correcting Myths About Health Care Reform’: *Medical Care* 51 (2): 127–32. doi:10.1097/MLR.0b013e318279486b. 
+  -   *http://journals.lww.com/lww-medicalcare/Abstract/2013/02000/The\_Hazards\_of\_Correcting\_Myths\_About\_Health\_Care.2.aspx*
 
--   Lord C, Lepper MR, Ross L. Biased assimilation and
-    > attitude polarization. The effects of prior theories on
-    > subsequently considered evidence. *Journal of Personality and
-    > Social Psychology* 1979; 37: 2098-2110.
+-  Misinformation and Its Correction: Continued Influence and
 
-    -   [*http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.372.1743&rep=rep1&type=pdf*](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.372.1743&rep=rep1&type=pdf)
+> Successful Debiasing Psychological Science in the Public Interest December 2012 13: 106-131, *http://psi.sagepub.com/content/13/3/106.full*
 
--   Hart, P. Sol, and Erik C. Nisbet. 2012. ‘Boomerang Effects in Science Communication How Motivated Reasoning and Identity Cues Amplify Opinion Polarization About Climate Mitigation Policies’. Communication Research 39 (6): 701–23. doi:10.1177/0093650211416646.
+-  Lord C, Lepper MR, Ross L. Biased assimilation and
 
-    -   [*http://crx.sagepub.com/content/39/6/701*](http://crx.sagepub.com/content/39/6/701)
+> attitude polarization. The effects of prior theories on subsequently considered evidence. *Journal of Personality and Social Psychology* 1979; 37: 2098-2110.
 
+  -   *http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.372.1743&rep=rep1&type=pdf*
 
--   Fishing a Superfund Site: Dissonance and Risk Perception of Environmental Hazards by Fishermen in Puerto Rico
+-  Hart, P. Sol, and Erik C. Nisbet. 2012. ‘Boomerang Effects in Science Communication How Motivated Reasoning and Identity Cues Amplify Opinion Polarization About Climate Mitigation Policies’. Communication Research 39 (6): 701–23. doi:10.1177/0093650211416646.
 
-    -   [*http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.1991.tb00603.x/full*](http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.1991.tb00603.x/full)
+  -  *http://crx.sagepub.com/content/39/6/701*
 
--   Garrett, R. Kelly, and Brian E. Weeks. 2013. ‘The Promise and Peril of Real-Time Corrections to Political Misperceptions’. In *Proceedings of the 2013 Conference on Computer Supported Cooperative Work*, 1047–1058. CSCW ’13. New York, NY, USA: ACM. doi:10.1145/2441776.2441895.
+-  Fishing a Superfund Site: Dissonance and Risk Perception of Environmental Hazards by Fishermen in Puerto Rico
 
-    -   [*http://dl.acm.org/citation.cfm?id=2441895*](http://dl.acm.org/citation.cfm?id=2441895)
+  -   *http://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.1991.tb00603.x/full*
 
--   Lewandowsky, Stephan, Michael E. Mann, Nicholas J. L. Brown, and Harris Friedman. 2016. ‘Science and the Public: Debate, Denial, and Skepticism’. *Journal of Social and Political Psychology* 4 (2): 537–53. doi:10.5964/jspp.v4i2.604.
+-  Garrett, R. Kelly, and Brian E. Weeks. 2013. ‘The Promise and Peril of Real-Time Corrections to Political Misperceptions’. In *Proceedings of the 2013 Conference on Computer Supported Cooperative Work*, 1047–1058. CSCW ’13. New York, NY, USA: ACM. doi:10.1145/2441776.2441895.
+
+  -  *http://dl.acm.org/citation.cfm?id=2441895*
+
+-  Lewandowsky, Stephan, Michael E. Mann, Nicholas J. L. Brown, and Harris Friedman. 2016. ‘Science and the Public: Debate, Denial, and Skepticism’. *Journal of Social and Political Psychology* 4 (2): 537–53. doi:10.5964/jspp.v4i2.604.
 
 
-[^1]: [*http://plumvillage.org/mindfulness-practice/the-5-mindfulness-trainings/*](http://plumvillage.org/mindfulness-practice/the-5-mindfulness-trainings/)
+[^1]: *http://plumvillage.org/mindfulness-practice/the-5-mindfulness-trainings/*
 
 [^2]: Taken from the definition of “ontological addiction” in Shonin, E., Van Gordon, W., & Griffiths, M. D. (2013a). Buddhist philosophy for the treatment of problem gambling. Journal of Behavioral Addictions, 2, 63–71.
 
-[^3]: See e.g. [*http://www.buddhaweb.org/*](http://www.buddhaweb.org/),
-    [*http://gretachristina.typepad.com/greta\_christinas\_weblog/2010/03/secular-buddhism.html*](http://gretachristina.typepad.com/greta_christinas_weblog/2010/03/secular-buddhism.html)
+[^3]: See e.g. *http://www.buddhaweb.org/*, *http://gretachristina.typepad.com/greta\_christinas\_weblog/2010/03/secular-buddhism.html*
 
-[^4]: [How Does Mindfulness Meditation Work? Proposing Mechanisms of Action From a Conceptual and Neural Perspective, ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.477.2270&rep=rep1&type=pdf) Perspectives on Psychological Science , 2011 6: 537, Britta K. Hölzel, Sara W. Lazar, Tim Gard, Zev Schuman-Olivier, David R. Vago and Ulrich Ott] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.477.2270&rep=rep1&type=pdf
+[^4]: [How Does Mindfulness Meditation Work? Proposing Mechanisms of Action From a Conceptual and Neural Perspective](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.477.2270&rep=rep1&type=pdf),  [Perspectives on Psychological Science , 2011 6: 537, Britta K. Hölzel, Sara W. Lazar, Tim Gard, Zev Schuman-Olivier, David R. Vago and Ulrich Ott] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.477.2270&rep=rep1&type=pdf)

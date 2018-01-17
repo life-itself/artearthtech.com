@@ -4889,6 +4889,13 @@ section.other-pages, section.other-pages-special {
     font-size: 0.75em;
     font-weight: 400;
     margin-bottom: 0.5em; }
+  section.other-pages blockquote, section.other-pages-special blockquote {
+    font: 14px/22px normal helvetica, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding-left: 15px;
+    border-left: 3px solid #ccc; }
 
 section.other-pages-special .side-image-content a {
   color: #0084c2 !important; }
