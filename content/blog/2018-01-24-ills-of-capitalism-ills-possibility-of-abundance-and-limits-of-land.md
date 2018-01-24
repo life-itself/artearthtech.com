@@ -4,9 +4,15 @@ date: 2018-01-24
 author: Rufus Pollock
 ---
 
-## Private-Property, Market-Oriented, Consumerist Capitalism
+*Man does not live on bread alone. Capitalism's material productivity has been matched by a desolation of spirit. This is not accidental: capitalism's material success requires and rewards behaviours such as competitiveness, acquisitiveness, individualism and materialism. Capitalism is so successful because it is material-spiritual system that is both expansive and creates the conditions for its own expansion. Just as jellyfish (unintentionally) desolate and acidify their ecosystem, making it hostile to other species and hospitable to themselves, so capitalism (unintentionally) takes over socio-economic ecosystems remaking them in its own image.*
 
-*Or the way we live now*
+*The spiritual desolation of capitalism provides the opportunity for alternatives, but its material robustness make it hard to supersede. However, there is hope based on the arrival of an age of abundance and the opportunities of an information age and its costless copying. The latter is especially crucial as it offers a new alignment of material and spiritual productivity based on a culture of sharing, collaboration and community. The greatest potential obstacle is the limit of land: the ultimate rival, physical good. Nevertheless, there are good reasons this limitation can be resolved either technologically or politically.*
+
+## The Desolation of Consumerist Capitalism
+
+*They made a desert and called it peace. Tacitus*
+
+*Or the way we live now* Trollope
 
 Consider the sweep of recorded history. The vast majority is dominated by hunger, incurable disease and grinding poverty. Looked at plainly, we must be impressed by the incredible transformative power of market-based, individualistic capitalism to drive improvements in our material well-being over the last two centuries. Improvements that have substantially eliminated huge obstacles to our collective welfare.
 
@@ -14,7 +20,7 @@ Through dynamic competition, specialization, capital growth and innovation, capi
 
 But! All those questioners from Buddha through Marx were on to something.
 
-At its heart, and at its most dynamic, individualistic, competitive, capitalism is fantastically materially productive but simultaneously spiritually desolate.[^command-and-control]
+At its heart, and at its most dynamic, individualistic, competitive, consumerist capitalism is fantastically materially productive but simultaneously spiritually desolate.[^command-and-control]
 
 [^command-and-control]: Moreover, as Coase so neatly pointed out, even in its most individualistic, market-oriented form, most production takes place inside firms or institutions that most closely resemble command-and-control. We atomize our production and consumption not to gain freedom but to embed ourselves in hierarchy. Jefferson's yeoman farmers are a far cry from the realities of industrial capitalism.
 
@@ -48,12 +54,12 @@ The challenge traditionally of any alternatives to capitalism is that they have 
 
 ## Possibilities of Abundance
 
-BUT! This is changing for twO, linked, reasons:
+But! This is changing for two, linked, reasons:
 
 - Abundance -- growing wealth and the machine age
 - The digital, data revolution and its costless sharing
 
-First, we have (growing) abundance -- at least in some significant portions of the world. In it simplest form abundance is the fact that we have grown dramatically materially and technologically wealthier. As we get materially wealthier, new material wealth will do ever less for our well-being -- compare a man needing the food to keep him alive and a man needing to have an extra vacation. In addition, our systems of production have gradually evolved so that we have machines (ever more cheaply) to help perform the production.
+First, we have (growing) abundance -- at least in some significant portions of the world. In it simplest form abundance is the fact that we have grown dramatically materially and technologically wealthier. As we get materially wealthier, new material wealth will do ever less for our well-being -- compare a man needing the food to keep him alive and a man "needing" an extra car. In addition, our systems of production have gradually evolved so that we have ever cheaper machines to help perform production ever more cheaply -- and machines that make machines.
 
 The second point is the digital, data revolution.[^is-it-diff] Data is different. It reproduces costlessly and is naturally shared. It is fundamentally different from the physical economy we have been in for the last ten thousand years.
 
@@ -71,9 +77,9 @@ We must put some flesh on the bones of this bare outline.
 
 In addition, we must address some of the obvious objections to this roseate and optimistic vision. Most specifically: human beings do not subsist on bits -- they need food and shelter. Both of these lead back to land -- whether for housing or for crops. And land is most definitely physical and "rival" -- in fact, it is the ultimate rival good -- along with people (and their attention). This is an important point to consider.
 
-The current individualistic, capitalistic system has been utilizing the earth's core core physical resources -- agricultural land, water etc -- inefficiently and destructively. This is for a simple "economic"[^term-econ] reason: externalities.
+The current individualistic, capitalistic system has been utilizing the earth's core physical resources -- agricultural land, water etc -- inefficiently and destructively. This is for a simple "economic"[^term-econ] reason: externalities.
 
-Externality is a fancy sounding term for a simple idea: that I do something but there is an effect on you that I don't account for (and account for would mean (usually) pay for or be paid for). For example, suppose I play my music very loud on Saturday night and keep you up: that would be an externality. Or suppose I run a chemical plant and produce toxic waste that I pour out into the neighbouring river without telling anyone: that would be an externality because I do not bear the cost of that pollution but others do. Or, suppose we graze sheep together on some shared land, the result will be overgrazing because each of us will add sheep ignoring the impact that has on the other's sheep (this is the famous "tragedy of the commons"). 
+Externality is a fancy sounding term for a simple idea: that I do something but there is an effect on you that I don't account for (and account for would mean (usually) pay for or be paid for). For example, suppose I play my music very loud on Saturday night and keep you up: that would be an externality. Or suppose I run a chemical plant and produce toxic waste that I pour out into the neighbouring river without telling anyone: that would be an externality because I do not bear the cost of that pollution but others do. Or, suppose we both fish the same stream,  the result may be overgrazing because each of us ignore the impact of our fishing on our neighbour's catch (this is the famous "tragedy of the commons"). 
 
 These are examples of negative externalities -- whilst producing a benefit for myself I impose a cost on you. Externalities can be positive too: suppose I plant a beautiful tree in my back garden and it brings shade and beauty not just to me but to my neighbours. Or suppose I install security cameras to prevent break-ins on my house and they deter thieves from the whole street. Or, relating back to the digital and the non-rival, suppose I come up with a new scientific advance or great new joke: this will benefit lots of other people as well as myself (and is very hard to charge for!).
 
@@ -85,9 +91,9 @@ Focusing first on the negative externality: by their definition they involve me 
 
 [^econ-flaw]: along with the technical sounding non-convexity, externalities are the dirty little secret of economics. Once allowed for they disrupt the more elegant and important results, for example the major first and second laws of welfare economics which posit, first that an equilibrium exists in a pure market system, and second that the outecomes produced are efficient (and any efficient outcome is achievable with appropriate initial redistribution). 
 
-And the result of failing to take account of those external costs should be very obvious: I will over "produce" or over "use" whatever is the benefit to me. I will play ("produce"/"use") my music for longer, my chemical plant will (over) produce ("good") chemicals (and hence over "produce" "bad" chemicals -- aka toxic waste), I will over-graze ("use") the common land, over-fish the shared fishery, and over-pump the oil well that connects into the (shared) pool of oil (the "pooling" externality).[^oil-pool]
+And the result of failing to take account of those external costs should be very obvious: I will over produce or over use whatever is the benefit to me. I will play my music for longer, my chemical plant will (over) produce ("good") chemicals (and hence over "produce" "bad" chemicals -- aka toxic waste), I will over-fish the shared fishery and over-pump the oil well.[^oil-pool]
 
-[^oil-pool]: one needs to understand here that oil forms in large pools (somewhat like water aquifers) deep under the ground. Thus, unless I control all of the area above the pool I will not be the only one who can drill a well into the pool and extract oil from it. In competition with others to extract the oil from the shared pool I will pump and sell oil faster (and perhaps more cheaply) than would be desirable if I owned the entire oilfield (and faster than is socially desirable).
+[^oil-pool]: Oil forms in large pools (somewhat like water aquifers) deep under the ground. Thus, unless I control all of the area above the pool I will not be the only one who can drill a well into the pool and extract oil from it. In competition with others to extract the oil from the shared pool I will pump and sell oil faster (and perhaps more cheaply) than would be desirable if I owned the entire oilfield or than is socially desirable.
 
 Externalities are seriously problematic for modern, individualistic, market-driven systems for three reasons: first, because they are "outside" the market and hence "unpriced", faced with externalities market-driven systems are likely to produce suboptimal outcomes -- the river will get polluted, music will keep you up at night. Second, the individualism, profit-orientation and scale of capitalism combine both to incentivize ever-increasing production -- which worsen the problem -- and undermine alternative ("collective-based") mechanisms one might use to address the problem.
 
@@ -111,7 +117,7 @@ Let us focus back on the "land" problem, after our detour into externalities and
 
 Put succinctly the "land" problem is that man cannot live on bits alone. At the minimum, we need physical space in which to live and shelter from the elements, and we need sustenance for our body in the form of food and water. Thus, whilst bits may gradually take over regarding what we produce, until the day comes when we upload to silicon, the future of bits does not remove these core needs that come back to land.
 
-Now, in the first instance we could look to the abundance point (the first of the two we made about the change for capitalism). The change we are seeing is not just about bits: wealth has grown extraordinarily (at least for a sizeable minority of the planet -- and many others are moving that way). Abundance certainly has relevance to the question of food: we have got vastly more efficient and effective at producing food[^agric-ext]. The abundance here is very literal: a peasant from the middle ages transported to a modern supermarket would certainly think they had arrived in the land of Cockaigne.[^cockaigne]
+Now, in the first instance we could look to the abundance point (the first of the two we made about the change for capitalism). The change we are seeing is not just about bits: wealth has grown extraordinarily (at least for a sizeable minority of the planet -- and many others are moving that way). Abundance certainly has relevance to the question of food: we have got vastly more efficient and effective at producing food[^agric-ext]. The abundance here is very literal: a peasant from the middle ages transported to a modern supermarket would certainly think they had arrived in Cockaigne, the mythical land of plenty.[^cockaigne]
 
 In real terms, or as a proportion of average income, food costs have been constantly diminishing for the last two centuries or more -- at least, in the west. The number of people who go hungry or who are malnourished has been reducing -- and this in the face of an extraordinary increase in population of 10x or more. We even have -- or could imagine -- radically new techniques for making or growing food that reduce the dependence on prime agricultural land -- for example, farming algae in the oceans.
 
@@ -127,15 +133,15 @@ With land being fixed, and increasing demand both from population growth and the
 
 Of course, there are some supply factors: humans can create new space, whether through reclaiming land or moving vertically by creating multi-storey buildings etc. We may also, at some point, be able to create space on other planets or worlds -- though this still seems a very distant prospect and one with phenomenal costs.
 
-Overall, these supply factors would likely be less powerful than demand, especially when we see that generating new space tends to be itself resource intensive (skyscrapers need a lot of concrete!). We can check this intuition against the data which bears this out. Knoll et al create a long-term time series of housing prices for fourteen countries and show house prices rose rapidly above inflation in the last fifty years:[^housing-prices]
+Overall, these supply factors would likely be less powerful than demand, especially when we see that generating new space tends to be itself resource intensive (skyscrapers need a lot of concrete!). We can check this intuition against the data which bears this out. Knoll, Schularik and Steger (2017) present a long-term time series of housing prices for fourteen countries, showing that house prices have risen rapidly above inflation in the last fifty years:[^housing-prices]
 
 <img src="/images/house-prices-cpi-deflated-1870-2012.png" alt="" />
 
 [^housing-prices]: See Knoll, Katharina, Moritz Schularick, and Thomas Steger. 2017. "No Price Like Home: Global House Prices, 1870-2012." American Economic Review, 107(2): 331-53. https://www.aeaweb.org/articles?id=10.1257/aer.20150501
 
-This is a very real constraint. We could imagine a future where bits, and even many physical objects that can be made by machines, are increasingly costless but land prices are astronomical and swallow up practically the entire portion of your income (with the remainder going on food).
+This is a very real constraint. We could imagine a future where bits, and even many physical objects that can be made by machines, are increasingly costless. But land prices are astronomical and swallow up practically the entire portion of your income (with the remainder going on food).
 
-First, we should ask: is this a problem? Second, are there likely to be changes to ameliorate or avoid this future? Third, if it is likely to be an issue: what can we do about it?
+Is this a problem? Are there changes that could ameliorate or avoid this future? Finally, if it is a problem: what can we do about it?
 
 ### 1. Is this a problem?
 
@@ -170,4 +176,6 @@ Finally, what happens if the "land issue" is a problem and no technological or o
 There are several obvious potential answers. The most obvious is that States acting on behalf of the great bulk of their populace would take over or otherwise heavily regulate land ownership and rent in order to ensure its affordability, availability and fair distribution. The model might be more one of cooperative group ownership with some kind of rent oversight rather than outright nationalisation or classic rent control to avoid corruption and minimize the distortion of incentives which are so often attendant upon regulation in this area.
 
 For example, we still want choice to operate, for "price" to reflect choice (i.e. if everyone lives by the sea, prices are higher there), for price to incentivize the "creation" of new land or new alternatives to land, and for quality of land and housing to be maintained and improved. At the same time, cooperative living -- perhaps even mass communal living -- may not only be effective as a way of allocating this scarce resource most effectively but also offer its own benefits in terms of connection and mutual support, especially in a world increasingly dominated by the digital where we risk retreating into our isolated cocoons with other human contact increasingly infrequent.
+
+## Footnotes
 
