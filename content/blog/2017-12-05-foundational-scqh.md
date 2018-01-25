@@ -1,6 +1,6 @@
 ---
 date: 2017-12-05
-title: Foundational S.C.Q.H. : Situation, Complication, Question, Hypothesis
+title: Foundational SCQH - Situation, Complication, Question & Hypothesis 
 publishDate: 2017-12-05
 slug: foundational-scqh
 eventdate: 2017-12-05
