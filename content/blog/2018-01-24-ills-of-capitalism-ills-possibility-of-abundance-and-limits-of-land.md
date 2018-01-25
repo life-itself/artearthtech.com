@@ -2,11 +2,17 @@
 title: The Ills of Capitalism, the Possibilities of Abundance and the Limits of Land
 date: 2018-01-24
 author: Rufus Pollock
+imagePath: ills-of-cap.jpg
 ---
+
+<img src="/images/ills-of-cap.jpg"><br/><br/>
+
 
 *Man does not live on bread alone. Capitalism's material productivity has been matched by a desolation of spirit. This is not accidental: capitalism's material success requires and rewards behaviours such as competitiveness, acquisitiveness, individualism and materialism. Capitalism is so successful because it is material-spiritual system that is both expansive and creates the conditions for its own expansion. Just as jellyfish (unintentionally) desolate and acidify their ecosystem, making it hostile to other species and hospitable to themselves, so capitalism (unintentionally) takes over socio-economic ecosystems remaking them in its own image.*
 
 *The spiritual desolation of capitalism provides the opportunity for alternatives, but its material robustness make it hard to supersede. However, there is hope based on the arrival of an age of abundance and the opportunities of an information age and its costless copying. The latter is especially crucial as it offers a new alignment of material and spiritual productivity based on a culture of sharing, collaboration and community. The greatest potential obstacle is the limit of land: the ultimate rival, physical good. Nevertheless, there are good reasons this limitation can be resolved either technologically or politically.*
+
+
 
 ## The Desolation of Consumerist Capitalism
 
@@ -67,7 +73,7 @@ The second point is the digital, data revolution.[^is-it-diff] Data is different
 
 In a data age, the "good" that we are producing is data[^produce-itself] and this good has a nature that is a natural fit for completely different forms of productions and consumption to the ones we are used to. In particular, the tension between "spiritually" attractive ways of doing things -- based on sharing, mutual support, collaboration -- and the productive way of doing things (exclusivity, conflict, individualistic) dissolves and we are left with a complementarity rather than a conflict.
 
-[^produce-itself]: and using to produce itself -- data plus processing (minds or machines) is what we use to create new data) 
+[^produce-itself]: and using to produce itself -- data plus processing (minds or machines) is what we use to create new data)
 
 Thus, the data revolution offers itself as a resolution to the contradictions of capitalism and a way to create a new future that is beyond any of the "isms" that we have become inured to.
 
@@ -79,7 +85,7 @@ In addition, we must address some of the obvious objections to this roseate and 
 
 The current individualistic, capitalistic system has been utilizing the earth's core physical resources -- agricultural land, water etc -- inefficiently and destructively. This is for a simple "economic"[^term-econ] reason: externalities.
 
-Externality is a fancy sounding term for a simple idea: that I do something but there is an effect on you that I don't account for (and account for would mean (usually) pay for or be paid for). For example, suppose I play my music very loud on Saturday night and keep you up: that would be an externality. Or suppose I run a chemical plant and produce toxic waste that I pour out into the neighbouring river without telling anyone: that would be an externality because I do not bear the cost of that pollution but others do. Or, suppose we both fish the same stream,  the result may be overgrazing because each of us ignore the impact of our fishing on our neighbour's catch (this is the famous "tragedy of the commons"). 
+Externality is a fancy sounding term for a simple idea: that I do something but there is an effect on you that I don't account for (and account for would mean (usually) pay for or be paid for). For example, suppose I play my music very loud on Saturday night and keep you up: that would be an externality. Or suppose I run a chemical plant and produce toxic waste that I pour out into the neighbouring river without telling anyone: that would be an externality because I do not bear the cost of that pollution but others do. Or, suppose we both fish the same stream,  the result may be overgrazing because each of us ignore the impact of our fishing on our neighbour's catch (this is the famous "tragedy of the commons").
 
 These are examples of negative externalities -- whilst producing a benefit for myself I impose a cost on you. Externalities can be positive too: suppose I plant a beautiful tree in my back garden and it brings shade and beauty not just to me but to my neighbours. Or suppose I install security cameras to prevent break-ins on my house and they deter thieves from the whole street. Or, relating back to the digital and the non-rival, suppose I come up with a new scientific advance or great new joke: this will benefit lots of other people as well as myself (and is very hard to charge for!).
 
@@ -89,7 +95,7 @@ Focusing first on the negative externality: by their definition they involve me 
 
 [^term-econ]: The term economics is a loaded one in everyday speech -- often connoting a focus on money, profit and business. "Real" economics, of the kind actually practiced by academic economists is different. Its central focus is *total* societal welfare composed of both "consumer surplus" and "producer surplus" (profit) and in in which consumer surplus is normally by far the most important part. For economists "perfect markets" would usually involve perfect competition and zero profits and the most important thing would be consumer surplus. For economists, a book that enters the public domain after the expiry of copyright obviously produces more social welfare even though revenue is lower. For economists the airline industry with its zero net industry profits over the last fifty years is probably one of the best industries we have ever had in terms of generating consumer surplus and societal welfare. For economists highly profitable firms or industries are not a sign of success but an indicator of the failure of competition. This is a far cry from the business pages.
 
-[^econ-flaw]: along with the technical sounding non-convexity, externalities are the dirty little secret of economics. Once allowed for they disrupt the more elegant and important results, for example the major first and second laws of welfare economics which posit, first that an equilibrium exists in a pure market system, and second that the outecomes produced are efficient (and any efficient outcome is achievable with appropriate initial redistribution). 
+[^econ-flaw]: along with the technical sounding non-convexity, externalities are the dirty little secret of economics. Once allowed for they disrupt the more elegant and important results, for example the major first and second laws of welfare economics which posit, first that an equilibrium exists in a pure market system, and second that the outecomes produced are efficient (and any efficient outcome is achievable with appropriate initial redistribution).
 
 And the result of failing to take account of those external costs should be very obvious: I will over produce or over use whatever is the benefit to me. I will play my music for longer, my chemical plant will (over) produce ("good") chemicals (and hence over "produce" "bad" chemicals -- aka toxic waste), I will over-fish the shared fishery and over-pump the oil well.[^oil-pool]
 
@@ -178,4 +184,3 @@ There are several obvious potential answers. The most obvious is that States act
 For example, we still want choice to operate, for "price" to reflect choice (i.e. if everyone lives by the sea, prices are higher there), for price to incentivize the "creation" of new land or new alternatives to land, and for quality of land and housing to be maintained and improved. At the same time, cooperative living -- perhaps even mass communal living -- may not only be effective as a way of allocating this scarce resource most effectively but also offer its own benefits in terms of connection and mutual support, especially in a world increasingly dominated by the digital where we risk retreating into our isolated cocoons with other human contact increasingly infrequent.
 
 ## Footnotes
-

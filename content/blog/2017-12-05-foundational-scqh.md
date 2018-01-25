@@ -1,6 +1,6 @@
 ---
 date: 2017-12-05
-title: Foundational SCQH
+title: Foundational S.C.Q.H. : Situation, Complication, Question, Hypothesis
 publishDate: 2017-12-05
 slug: foundational-scqh
 eventdate: 2017-12-05
@@ -13,7 +13,7 @@ imagePath: foundational_scqh.png
 
 *In October, we met on the beautiful hills of Tuscany. We reflected on our intuition that something is deeply the matter, and on the need for a big vision as well as practical actions to realize it (including the development of a large-scale political movement).*
 
-Here is our SCQH.
+Here is our SCQH: Situation, Complication, Question, Hypothesis
 
 # Situation
 
