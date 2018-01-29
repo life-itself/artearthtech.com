@@ -161,7 +161,7 @@ section.news {
   padding-top: 9em;
   
   .content-wrapper {
-    max-width: 960px;
+    max-width: 67%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -192,7 +192,7 @@ section.news {
     width:140px; 
     margin-right:20px; 
     margin-top:20px; 
-    margin-bottom:20px; 
+    margin-bottom:30px; 
     float:left
   }
   .avatar { 
@@ -215,11 +215,9 @@ section.news {
     font-size: 28px;
     font-weight: normal;
     line-height:1.1;
-    font-family: $heading-font-family;
     color: #000;
   }
   ul {
-    font-family: $heading-font-family;
     list-style-type: none;
     font-size: 16px;
   }

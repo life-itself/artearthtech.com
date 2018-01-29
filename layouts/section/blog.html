@@ -11,9 +11,9 @@
           <li style="margin-bottom:40px; clear:both">
             <div>
               <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
-              <!-- {{if ( (isset .Params "imagepath"))}}
-              <img src="{{ $.Site.BaseURL }}img/{{ .Params.imagepath }}"/>
-              {{ end }} -->
+              {{if ( (isset .Params "imagepath"))}}
+              <img src="{{ $.Site.BaseURL }}images/{{ .Params.imagepath }}"/>
+              {{ end }}
               <div>
                 <p class="date">
                   <i class="icon ion-calendar"></i> {{ .Date.Format "2 January 2006" }}
@@ -31,12 +31,11 @@
               </div>
             </div>
             <div>
-              {{ if gt (len .Summary) 250 }}
-                {{ slicestr .Summary 0 250 }}...
+              {{ if gt (len .Summary) 200 }}
+                {{ slicestr .Summary 0 200 | markdownify}}...
               {{ else }}
-                {{ .Summary }}...
+                {{ .Summary | markdownify}}...
               {{ end }}
-            </br>
                 <a class= "readmore" href="{{ .Permalink }}">Read more <span>&rsaquo;</span></a>
             </div>    
           </li>
