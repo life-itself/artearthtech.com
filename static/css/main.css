@@ -4906,6 +4906,61 @@ section.other-pages, section.other-pages-special {
 section.other-pages-special .side-image-content a {
   color: #0084c2 !important; }
 
+section.news {
+  padding-top: 9em; }
+  section.news .content-wrapper {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto; }
+  section.news a {
+    font-weight: 500;
+    border-bottom: none; }
+  section.news a.readmore {
+    color: #0084c2; }
+  section.news p.date {
+    color: #333;
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    margin: -5px 0 10px 0; }
+  section.news p {
+    overflow-wrap: break-word; }
+    section.news p span {
+      font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 400;
+      text-transform: none; }
+  section.news img {
+    width: 140px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: left; }
+  section.news .avatar {
+    background-color: #F5F5F5;
+    border: none;
+    border-radius: 50% 50% 50% 50%;
+    padding: 0px;
+    width: 22px;
+    float: none;
+    margin-bottom: -6px;
+    margin-right: 2px;
+    margin-left: 10px; }
+  section.news h1 {
+    font-size: 36px;
+    font-weight: 400; }
+  section.news h2 {
+    margin-bottom: 0px;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 1.1;
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000; }
+  section.news ul {
+    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    list-style-type: none;
+    font-size: 16px; }
+
 form {
   width: 100%;
   max-width: 900px;
