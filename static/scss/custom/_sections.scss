@@ -221,5 +221,20 @@ section.news {
     list-style-type: none;
     font-size: 16px;
   }
-  
+}
+section.who-we-are {
+  padding-top: 9em;
+  .event{
+    display: flex;
+  }
+  h1 {
+    font-size: 1.7em;
+  }
+  .img-circular-square {
+    padding: 8px 30px;
+    width: 10em;
+  }
+  p {
+    max-width: 650px;
+  }
 }

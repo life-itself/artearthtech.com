@@ -4440,7 +4440,7 @@ div.toc {
         padding: 0 8em; } }
     @media screen and (min-width: 53.75em) {
       .bullets .bullet {
-        max-width: 33.33%;
+        max-width: 25%;
         padding: 0 2em;
         margin-top: 4em; } }
   .bullets .bullet-icon {
@@ -4471,8 +4471,8 @@ div.toc {
         border-bottom: 1px solid black; }
   @media screen and (min-width: 53.75em) {
     .bullets .portrait {
-      height: calc((100vw - 120px - 2em * 6) / 3);
-      width: calc((100vw - 120px - 2em * 6) / 3); } }
+      height: calc((100vw - 120px - 2em * 6) / 4);
+      width: calc((100vw - 120px - 2em * 6) / 4); } }
   .bullets .bullet-image {
     overflow: hidden;
     border: 0;
@@ -4746,17 +4746,14 @@ h1.bullets-title {
     max-width: 50%; }
 .themes-section .event {
   display: table;
-  margin-bottom: 1.5em;
-  margin-top: 3em;
-  padding-bottom: 1em;
-  width: 90%; }
+  padding: 2em 10%;
+  width: 100%; }
   .themes-section .event .event-content {
     display: table-cell;
-    vertical-align: top; }
+    vertical-align: middle; }
   .themes-section .event .event-image {
     display: none;
-    vertical-align: top;
-    padding-right: 1.4em; }
+    vertical-align: middle; }
     @media screen and (min-width: 53.75em) {
       .themes-section .event .event-image {
         display: table-cell; } }
@@ -4764,9 +4761,13 @@ h1.bullets-title {
       display: block;
       height: auto;
       max-width: none;
-      width: 25em; }
+      width: 10em;
+      padding-left: 1em; }
   .themes-section .event .event-content {
     width: 100%; }
+  .themes-section .event h2 {
+    margin: 0 0 2em 0;
+    font-size: 1.4em; }
 
 section {
   padding: 50px 20px 20px; }
@@ -4958,6 +4959,18 @@ section.news {
   section.news ul {
     list-style-type: none;
     font-size: 16px; }
+
+section.who-we-are {
+  padding-top: 9em; }
+  section.who-we-are .event {
+    display: flex; }
+  section.who-we-are h1 {
+    font-size: 1.7em; }
+  section.who-we-are .img-circular-square {
+    padding: 8px 30px;
+    width: 10em; }
+  section.who-we-are p {
+    max-width: 650px; }
 
 form {
   width: 100%;
