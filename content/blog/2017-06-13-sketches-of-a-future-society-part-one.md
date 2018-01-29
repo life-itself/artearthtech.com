@@ -8,6 +8,7 @@ eventdate: 2017-06-13
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: Sketches_PO_Adj.jpg
+authors: [brigittearndt]
 ---
 
 *The [Gathering][] is approaching. As part of our series of blogposts this week’s is titled ‘Sketches of a Future Society' by Rufus Pollock. Previously, Rufus and Liam reflected on [the way we live now][waywelive]. This week they look at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built. The following week they will discuss what an economy shaped by this culture would look like.*

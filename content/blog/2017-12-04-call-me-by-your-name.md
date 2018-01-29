@@ -7,6 +7,7 @@ eventdate: 2017-12-04
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: call_me.jpg
+authors: [tamarakarnicohen]
 
 ---
 

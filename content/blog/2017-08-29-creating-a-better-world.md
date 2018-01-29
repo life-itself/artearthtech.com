@@ -7,6 +7,7 @@ section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: Better_World.png
 image: /images/Better_World.png
+authors: [brigittearndt]
 ---
 
 *[Art Earth Tech Institute][institute] member [Rufus Pollock][rufuspollock] speaking about building a better, wiser and weller, world.*

@@ -11,3 +11,26 @@ params:
   twitter: https://twitter.com/ArtEarthTech
   facebook: https://www.facebook.com/ArtEarthTech/
   instagram: https://www.instagram.com/artearthtech/
+  rufuspollock:
+    path: rufus-pollock.png
+    fullname: Rufus Pollock
+  sylviebarbier:
+    path: sylvie-barbier.jpg
+    fullname: Sylvie barbier
+  ninongodefroy:
+    path: ninon-godefroy.png
+    fullname: Ninon Godefroy
+  liamkavanagh:
+    path: liam-kavanagh.png
+    fullname: Liam Kavanagh
+  tamarakarnicohen:
+    fullname: Tamara Karni Cohen
+  sarahhickson:
+    fullname: Sarah Hickson
+  brigittearndt:
+    path: brigitte-arndt.jpg
+    fullname: Brigitte Arndt
+  viktoriamahrberg:
+    path: viktoria-mahrberg.jpg
+    fullname: Viktoria Mahrberg
+  

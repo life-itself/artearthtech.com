@@ -7,6 +7,7 @@ eventdate: 2017-10-10
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: Liam_2.jpg
+authors: [liamkavanagh]
 ---
 
 *This week we share an untitled poem by [Art Earth Tech Institute](http://artearthtech.com/institute/) member Liam Kavanagh.*

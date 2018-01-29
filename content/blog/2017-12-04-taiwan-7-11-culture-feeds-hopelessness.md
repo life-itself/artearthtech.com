@@ -7,6 +7,7 @@ eventdate: 2017-12-04
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: 7_11_culture.png
+authors: [ninongodefroy]
 ---
 
 

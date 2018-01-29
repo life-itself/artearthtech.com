@@ -7,6 +7,7 @@ eventdate: 2017-09-26
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: A_State_1.jpg
+authors: [sylviebarbier]
 ---
 
 *This week we share a blogpost by [Art Earth Tech Institute](http://artearthtech.com/institute/) member [Sylvie Barbier](http://www.sylviebarbier.com/) titled ‘A State with Wisdom at its Heart’. In it she explores the following questions: “What would a political system look like that allowed our politicians to make wise decisions? What would its values and actions be? How would it work?”.*

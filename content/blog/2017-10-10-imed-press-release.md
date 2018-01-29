@@ -7,6 +7,7 @@ eventdate: 2017-10-10
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: imed-logo04.png
+authors: [viktoriamahrberg]
 ---
 
 *Art / Earth / Tech are delighted to announce that they have received a grant of $199,975 from The Rockefeller Foundation. The grant will be used to launch the first phase of iMED (Innovating Medical Entrepreneurship and Delivery). The pro feject will focus on the research and design of alternative funding mechanisms to the monopoly rights system we have today.*

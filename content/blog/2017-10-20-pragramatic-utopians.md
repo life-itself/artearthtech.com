@@ -1,7 +1,7 @@
 ---
 title: Pragmatic Utopians
 date: 2017-10-20
-author: Rufus Pollock
+authors: [rufuspollock]
 imagePath: pragmatic.jpg
 ---
 

@@ -6,6 +6,7 @@ eventdate: 2017-09-12
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: Sarah_Poem.jpg
+authors: [sarahhickson]
 ---
 
 *This week we share a poem written by [Art Earth Tech](http://artearthtech.com/) member Sarah Hickson, titled 'First Light'.*

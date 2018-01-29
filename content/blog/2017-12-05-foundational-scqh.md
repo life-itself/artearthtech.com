@@ -7,6 +7,7 @@ eventdate: 2017-12-05
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: foundational_scqh.png
+authors: [rufuspollock, sylviebarbier, liamkavanagh, ninongodefroy]
 ---
 
 <img src="/images/foundational_scqh.png"><br/><br/>

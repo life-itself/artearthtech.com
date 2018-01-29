@@ -7,6 +7,7 @@ eventdate: 2017-06-19
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: Sketches_2.jpg
+authors: [brigittearndt]
 ---
 
 *This week we share Part Two of ‘Sketches of a Future Society’. Last week Liam and Rufus looked at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built. This week they discuss what a material economy, shaped by this culture, would look like.*

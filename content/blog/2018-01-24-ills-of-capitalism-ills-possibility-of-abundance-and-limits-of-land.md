@@ -1,7 +1,7 @@
 ---
 title: The Ills of Capitalism, the Possibilities of Abundance and the Limits of Land
 date: 2018-01-24
-author: Rufus Pollock
+authors: [rufuspollock]
 imagePath: ills-of-cap.jpg
 ---
 
