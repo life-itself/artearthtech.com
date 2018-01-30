@@ -43,6 +43,11 @@ section.what-we-do {
       margin-top: 0;
     }
   }
+  li.bullet {
+    @include media($large-screen) {
+      max-width: 33.3%;
+    }
+  }
   a {
     border-bottom: 0;
   }
@@ -229,6 +234,17 @@ section.who-we-are {
   }
   h1 {
     font-size: 1.7em;
+  }
+  h2 {
+    font-size: 1.5em;
+  }
+  h3 {
+    font-size: 1.0em;
+  }
+  .bullet-content {
+    p {
+      text-align: center;
+    }
   }
   .img-circular-square {
     padding: 8px 30px;

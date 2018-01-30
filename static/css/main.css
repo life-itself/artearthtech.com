@@ -4804,6 +4804,9 @@ section.what-we-do {
     @media screen and (min-width: 53.75em) {
       section.what-we-do ul.bullets {
         margin-top: 0; } }
+  @media screen and (min-width: 53.75em) {
+    section.what-we-do li.bullet {
+      max-width: 33.3%; } }
   section.what-we-do a {
     border-bottom: 0; }
 
@@ -4966,6 +4969,12 @@ section.who-we-are {
     display: flex; }
   section.who-we-are h1 {
     font-size: 1.7em; }
+  section.who-we-are h2 {
+    font-size: 1.5em; }
+  section.who-we-are h3 {
+    font-size: 1.0em; }
+  section.who-we-are .bullet-content p {
+    text-align: center; }
   section.who-we-are .img-circular-square {
     padding: 8px 30px;
     width: 10em; }
