@@ -152,6 +152,35 @@ section.other-pages {
     font-weight: 400;
     margin-bottom: 0.5em;
   }
+  .page-header {
+    h1 {
+      text-align: center;
+    }
+    p {
+      text-align: center;
+      font-size: 12px;
+      span {
+        font-family: $sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        text-transform: none;
+      }
+    }
+    p.date {
+      margin-bottom: 3.5em;
+    }
+  }
+  .avatar { 
+  background-color: #F5F5F5;      
+  border: none;      
+  border-radius: 50% 50% 50% 50%;      
+  padding: 0px;
+  width:22px;
+  float:none;
+  margin-bottom: -6px;
+  margin-right: 2px;
+  margin-left: 10px;
+  }
 }
 section.other-pages-special {
   @extend section.other-pages;

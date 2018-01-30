@@ -4,18 +4,27 @@
             <div class="content-wrapper__inner">
                 <div>
                   {{ partial "navbar.html" . }}
-
                   <section class="other-pages">
-                    {{ with .Params.supertitle }}
-                      <h1 class="large-title">{{ . }}</h1>
-                    {{ end }}
-                    <h1>{{ .Title }}</h1>
-                    <p class="date">
-                      {{ upper (.Date.Format "January 2, 2006") }}
-                      {{ with .Params.author }}
-                        by {{ upper . }}
-                      {{ end }}
-                    </p>
+                    <div class="page-header">
+                      <h1>{{ .Title }}</h1>
+                      <p class="date">
+                        <i class="icon ion-calendar" aria-hidden="true"></i> {{ .Date.Format "2 January 2006" }}
+                        {{if gt (len .Params.authors) 1 }}
+                        <br />
+                        {{ end }}
+                        {{ range $index,$item := .Params.authors }}
+                          
+                          {{ $author := index $.Site.Params $item}}
+                          {{if $author.path}}
+                          <img src="{{ $.Site.BaseURL }}images/blog/{{$author.path}}" class="avatar" />
+                          <span>{{ $author.fullname }}</span>
+                          {{else}}
+                          <img src="{{ $.Site.BaseURL }}images/blog/default-avatar.png" class="avatar" />
+                            <span>{{ $author.fullname }}</span>
+                          {{end}}
+                        {{end}}
+                      </p>
+                    </div>
                     {{ .Content }}
                     {{ if eq .Params.news true }}
                     <article class="type-system-rounded">

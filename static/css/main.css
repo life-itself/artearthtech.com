@@ -4906,6 +4906,28 @@ section.other-pages, section.other-pages-special {
     font-size: 0.75em;
     font-weight: 400;
     margin-bottom: 0.5em; }
+  section.other-pages .page-header h1, section.other-pages-special .page-header h1 {
+    text-align: center; }
+  section.other-pages .page-header p, section.other-pages-special .page-header p {
+    text-align: center;
+    font-size: 12px; }
+    section.other-pages .page-header p span, section.other-pages-special .page-header p span {
+      font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      font-weight: 400;
+      text-transform: none; }
+  section.other-pages .page-header p.date, section.other-pages-special .page-header p.date {
+    margin-bottom: 3.5em; }
+  section.other-pages .avatar, section.other-pages-special .avatar {
+    background-color: #F5F5F5;
+    border: none;
+    border-radius: 50% 50% 50% 50%;
+    padding: 0px;
+    width: 22px;
+    float: none;
+    margin-bottom: -6px;
+    margin-right: 2px;
+    margin-left: 10px; }
 
 section.other-pages-special .side-image-content a {
   color: #0084c2 !important; }
