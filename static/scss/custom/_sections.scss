@@ -170,6 +170,16 @@ section.other-pages {
       margin-bottom: 3.5em;
     }
   }
+  p.info {
+    text-align: center;
+    font-size: 12px;
+    border-top: 1px solid black;
+    margin: 50px 0;
+    a {
+      color: #0084c2;
+      border-bottom: none;
+    }
+  }
   .avatar { 
   background-color: #F5F5F5;      
   border: none;      

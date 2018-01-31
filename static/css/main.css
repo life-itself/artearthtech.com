@@ -4918,6 +4918,14 @@ section.other-pages, section.other-pages-special {
       text-transform: none; }
   section.other-pages .page-header p.date, section.other-pages-special .page-header p.date {
     margin-bottom: 3.5em; }
+  section.other-pages p.info, section.other-pages-special p.info {
+    text-align: center;
+    font-size: 12px;
+    border-top: 1px solid black;
+    margin: 50px 0; }
+    section.other-pages p.info a, section.other-pages-special p.info a {
+      color: #0084c2;
+      border-bottom: none; }
   section.other-pages .avatar, section.other-pages-special .avatar {
     background-color: #F5F5F5;
     border: none;
