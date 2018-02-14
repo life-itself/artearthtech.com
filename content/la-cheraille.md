@@ -4,7 +4,7 @@ slug: la-cheraille
 date: 2017-01-21T13:47:50
 ---
 
-We are based La Cheraille, a small farming hamlet near Paris. It is beautiful, natural and secluded -- and easy to get to! Matching our ethos it provides a great environment for reflection, experimentation and collaboration.
+Our mothership hub is based La Cheraille, a small farming hamlet near Paris. It is beautiful, natural and secluded -- and easy to get to! Matching our ethos it provides a great environment for reflection, experimentation and collaboration.
 
 The community includes artists, technologists, farmers and researchers.
 
@@ -49,15 +49,15 @@ You can find the [train timetable link here](https://www.horairetrain.net/horair
 
 ### From Orly airport
 
-- You want to buy your ticket from Orly airport to St Remy Les Chevreuse (cost about 12euros). 
-- Take the Orly shuttle to Antony. 
-- At Antony you take the RER B in the direction of St Remy les Chevreuse. 
+- You want to buy your ticket from Orly airport to St Remy Les Chevreuse (cost about 12euros).
+- Take the Orly shuttle to Antony.
+- At Antony you take the RER B in the direction of St Remy les Chevreuse.
 - Get off at St Remy les Chevreuse and get a taxi to La Cheraille (taxi cost 50 euros before 7pm, 70euros after 7pm, to book in advance and give them the approximate time of your arrival) it take about 45min from Orly airport to St Remy Les Chevreuse station without counting check out time).
 
 ### From Gare the Nord (Eurostar)
 
-- At Gare du Nord you buy a ticket Paris to Rambouillet (cost about 8euros). 
-- You take the metro Ligne 4 in the direction of Marie de Mont rouge, you get off at Gare Montparnasse. 
+- At Gare du Nord you buy a ticket Paris to Rambouillet (cost about 8euros).
+- You take the metro Ligne 4 in the direction of Marie de Mont rouge, you get off at Gare Montparnasse.
 - At Gare Montparnassse  go to the platforms to "Les trains grandes lignes" take a train to Rambouillet (they are usually in the direction of Chartres, they will either be direct which will only take 30min or slow 1h, don't hesitate to ask the information desk to know when is the next one departing it is not always clear on the boards).
 - Once you are at Rambouillet take a taxi (before 7pm should be around 12euros, after 7pm 25euros, best to book in advance specially if coming at night)
 
@@ -68,7 +68,7 @@ You can find the [train timetable link here](https://www.horairetrain.net/horair
 
 ### Taxis from Rambouillet
 
-Here are few Rambouillet taxi phone numbers, please make a reservation in advance especially if you come from St-Remy les Chevreuse and at night. 
+Here are few Rambouillet taxi phone numbers, please make a reservation in advance especially if you come from St-Remy les Chevreuse and at night.
 
 Best two:
 
