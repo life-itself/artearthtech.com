@@ -8,7 +8,7 @@ image: BC06_640x640.jpg
 weight: 500
 ---
 
-Here are some examples of the practical workshops that will take place in the afternoons:
+Here are some examples of the practical workshops that will take place during the gathering:
 
 <b>Introduction to Permaculture:</b> The technology of nature.
 
@@ -21,3 +21,5 @@ Here are some examples of the practical workshops that will take place in the af
 <b>Sound and body:</b> Connecting human sound with slow movement.
 
 <b>Interactive Painting:</b> Eye gazing, spontaneous play with painting.
+
+<b>Meditation:</b> Follow your breath and watch your thoughts.

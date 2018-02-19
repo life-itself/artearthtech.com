@@ -10,6 +10,10 @@ weight: 200
 
 The week will include meditation and discussions, workshops and storytelling — plus food from the gardens and a late night bonfire.
 
-Mornings will be dedicated to discussion around wisdom in specific areas such as Wise Metrics or Wisdom tomorrow. The afternoons will be dedicated to workshops and expeditions such as communication through play, Ecstatic Dance and exploration of the local countryside.
+The week will include meditation and discussions, workshops and storytelling — plus food from the gardens and a late night bonfire.
+
+During the Gathering we will come together to share our vision of Art / Earth / Tech. It will also be a moment to support each other to fulfill our collective and individual dreams. We will have moments to explore specific areas such as Collective Intelligence,  Beyond mind perception play, Art / Earth / Tech issue tree the road map.
+
+The Gathering is a moment for the mind, heart, soul and body to meet through a powerful shared experience.
 
 We will preserve space in the program to allow for suggestions during the week and we welcome ideas for new topics and activities both in advance.

@@ -18,3 +18,4 @@ In Taiwan, we work hard. But while we spend long hours at school, we often spend
 We believe in an education that nurtures strong, independent spirits, and a pedagogy which stimulates rather than intimidates. We have built a program that teaches both socio-professional and life skills.
 
 **The LEAP is the Life Expression and Aspiration Project** – and a new model for education in Taiwan.
+https://www.theleap-tw.com/
