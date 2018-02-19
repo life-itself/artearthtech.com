@@ -10,8 +10,6 @@ weight: 200
 
 The week will include meditation and discussions, workshops and storytelling — plus food from the gardens and a late night bonfire.
 
-The week will include meditation and discussions, workshops and storytelling — plus food from the gardens and a late night bonfire.
-
 During the Gathering we will come together to share our vision of Art / Earth / Tech. It will also be a moment to support each other to fulfill our collective and individual dreams. We will have moments to explore specific areas such as Collective Intelligence,  Beyond mind perception play, Art / Earth / Tech issue tree the road map.
 
 The Gathering is a moment for the mind, heart, soul and body to meet through a powerful shared experience.

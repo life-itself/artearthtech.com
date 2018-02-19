@@ -2,10 +2,7 @@
 title: The Ills of Capitalism, the Possibilities of Abundance and the Limits of Land
 date: 2018-01-24
 authors: [rufuspollock]
-imagePath: ills-of-cap.jpg
 ---
-
-<img src="/images/ills-of-cap.jpg"><br/><br/>
 
 
 *Man does not live on bread alone. Capitalism's material productivity has been matched by a desolation of spirit. This is not accidental: capitalism's material success requires and rewards behaviours such as competitiveness, acquisitiveness, individualism and materialism. Capitalism is so successful because it is material-spiritual system that is both expansive and creates the conditions for its own expansion. Just as jellyfish (unintentionally) desolate and acidify their ecosystem, making it hostile to other species and hospitable to themselves, so capitalism (unintentionally) takes over socio-economic ecosystems remaking them in its own image.*
