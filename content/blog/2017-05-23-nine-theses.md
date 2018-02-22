@@ -7,7 +7,7 @@ eventdate: 2017-05-23
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: Nine_Theses.jpg
-authors: [brigittearndt]
+authors: [rufuspollock]
 ---
 
 *Throughout the six weeks leading up to The Gathering we will be sharing some of our vision for a wiser, weller world. This will includes pieces by [Art Earth Tech Institute][institute] members Rufus Pollock and Liam Kavanagh on topics like "The Way We Live Now" and "Sketches of a Future Society".*
