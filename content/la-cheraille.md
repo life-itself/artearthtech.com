@@ -4,7 +4,7 @@ slug: la-cheraille
 date: 2017-01-21T13:47:50
 ---
 
-Our mothership hub is based La Cheraille, a small farming hamlet near Paris. It is beautiful, natural and secluded -- and easy to get to! Matching our ethos it provides a great environment for reflection, experimentation and collaboration.
+Our main hub is based at La Cheraille, a small farming hamlet near Paris. It is beautiful, natural and secluded -- and easy to get to! Matching our ethos it provides a great environment for reflection, experimentation and collaboration.
 
 The community includes artists, technologists, farmers and researchers.
 
