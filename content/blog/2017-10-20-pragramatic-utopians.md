@@ -13,7 +13,7 @@ We are utopians. We should be able to say this proudly and without explanation b
 
 We therefore should make clear what a utopian is and is not.
 
-For example, a utopian does not believe there is only one true way, or, seek the ultimate perfect state (after which comes the end of history).
+For example, a utopian does not believe there is only one true way or that there is the ultimate perfect state (after which comes the end of history).
 
 Utopia is a "mountain with no top", an endless gesturing towards an impossible perfection. The utopian believes in the possibility of a radically better future: for ourselves, for our societies, for our planet. And, most importantly, that this future is realisable.
 
