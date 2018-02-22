@@ -1,6 +1,6 @@
 ---
 date: 2016-07-28
-title: "Co-X: What is all this Co-X Stuff (Co-living, Co-working, Coops) and Why Do We Care?
+title: "Co-X: What is all this Co-X Stuff (Co-living, Co-working, Coops) and Why Do We Care?"
 slug: co-x-coliving-coworking-coops-gathering-2016
 authors: [rufuspollock]
 ---
