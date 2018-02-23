@@ -18,9 +18,10 @@ Please fill in the following form: https://docs.google.com/forms/d/e/1FAIpQLSdRk
 ## More Information
 
 The cost of each residency is as follows (well below market rates in each case):
-* London(hyperlink) (near Old Street): €700 per month (€23 per night)
-* Taipei: €1000 per month for two people (€16,5 per night per person) 
-* La Cheraille (Flower farm 45 minutes from Paris): €525 per month (€17 per night)
+
+* [London](/londonhub) (near Old Street): €700 per month (€23 per night)
+* [Taipei](javascript:void(0)): €1000 per month for two people (€16,5 per night per person) 
+* [La Cheraille](/la-cheraille) (Flower farm 45 minutes from Paris): €525 per month (€17 per night)
 
 
 Residency program are for 2 weeks minimum to 2 months maximum.  There are no specific dates, please put the date for which you would like to come.
