@@ -6,7 +6,7 @@ aliases: ['/blog/sketchesofafuturesocietyparttwo/']
 eventdate: 2017-06-19
 section: projects
 logoPath: logo-aet-gathering02.png
-imagePath: Sketches_2.jpg
+imagePath: nasa-63032-unsplash.jpg
 authors: [brigittearndt]
 ---
 
@@ -65,7 +65,7 @@ In addition, as we pointed out, a piece information is costlessly copyable once 
 Finally, we reiterate the importance of culture. An open information economy fosters collaboration, sharing and creativity - in contrast, to a tendency today to individualistic competition, greed and domination. Thus the very structure of the economy supports our new culture. Conversely, our new culture supports the very mechanisms we seek. A growing emphasis on intrinsic and non-material rewards, a recognition of innovation and creativity combined with egalitarian collaboration. Thus, the two developments in a move to an open information economy and the development of a new mindful culture go hand in hand.
 
 
-
+Image by Nasa unsplash.jpg
 
 
 *Edited by Brigitte Arndt*

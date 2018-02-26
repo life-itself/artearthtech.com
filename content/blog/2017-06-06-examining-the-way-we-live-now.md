@@ -6,7 +6,7 @@ aliases: ['/blog/examining/']
 eventdate: 2017-06-06
 section: projects
 logoPath: logo-aet-gathering02.png
-imagePath: Examining_TWWL.jpg
+imagePath: jj-ying-215316-unsplash.jpg
 authors: [brigittearndt]
 ---
 
@@ -34,6 +34,6 @@ Relatedly, how do we, going forward, reckon with the legacy of Marxism? It seems
 Another set of questions surrounds technology. Does the technology-enabled transition to an age of abundance and an age of information make a different world possible? What kinds of worlds? Can we choose them, or is tech diffusion too inevitable and unpredictable to be managed? If we don’t have an answer here, how do we go about finding one? Conversation on this very important topic has been stilted for some time. To the extent that we have solutions, partial solutions, or even provisional approaches to getting closer to solutions, how do we go about disseminating these?
 
 
-
+Image by JJ Ying unsplash
 
 *Edited by Brigitte Arndt*

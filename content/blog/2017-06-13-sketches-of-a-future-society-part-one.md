@@ -7,7 +7,7 @@ aliases: ['/blog/sketchesofafuturesocietypartone/']
 eventdate: 2017-06-13
 section: projects
 logoPath: logo-aet-gathering02.png
-imagePath: Sketches_PO_Adj.jpg
+imagePath: adi-constantin-65004-unsplash.jpg
 authors: [brigittearndt]
 ---
 

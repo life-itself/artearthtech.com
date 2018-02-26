@@ -6,7 +6,7 @@ aliases: ['/blog/ninetheses/']
 eventdate: 2017-05-23
 section: projects
 logoPath: logo-aet-gathering02.png
-imagePath: Nine_Theses.jpg
+imagePath: debby-hudson-544369-unsplash.jpg
 authors: [rufuspollock]
 ---
 
@@ -44,5 +44,7 @@ We want to create an ecosystem and culture in which we can transform both produc
 9. We therefore seek to marry the possibilities of abundance and the digital revolution with deep spiritual truth and traditions in pursuit of the transformation of our societies and ourselves.
 
 In summary, we are marrying the digital revolution with a deep spiritual truth and tradition in pursuit of transforming our societies. Both parts are needed: we want to break out of the spiritual "ghetto" and transform broad swathes of society. To do that we have to transform methods of production and organization. The digital provides the means. At the same time, the real transformation is in our natures. Moreover, without the anchor of a deep spiritual tradition, we will only achieve superficial and unreliable change and have the constant risk of dissolution and co-optation.
+
+Images by Debby Hudson unsplash
 
 *Edited by Brigitte Arndt*

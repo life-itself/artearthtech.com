@@ -6,7 +6,7 @@ aliases: ['/blog/thewaywelivenow/']
 eventdate: 2017-05-31
 section: projects
 logoPath: logo-aet-gathering02.png
-imagePath: Way_We_Live_Adj.jpg
+imagePath: davide-ragusa-24118-unsplash.jpg
 authors: [brigittearndt]
 ---
 
@@ -59,6 +59,6 @@ Science which is one of the most successful of modernity’s projects has seen i
 Almost paradoxically, at the same time driven by enlightenment ideals of equality, the scope of empathy is broadening, encompassing women & reaching across ethnicities. This has been seen as a necessity to make democracy and meritocratic international capitalism work, and may give opportunity for broad cooperation across nations.
 
 
-
+Image by Davide Ragusa unsplash
 
 *Edited by Brigitte Arndt*
