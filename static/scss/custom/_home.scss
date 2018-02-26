@@ -303,4 +303,15 @@
       color: darken(#0FB3FF, 15%) !important;
     }
   }
+  .hero-content {
+    h1,p.blurb,p.blurb2 {
+      font-family: "open-sans" !important;
+      color: #333 !important;
+    }
+    a {
+      i {
+        color: #333 !important;
+      }
+    }
+  }
 }
