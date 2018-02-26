@@ -19,18 +19,18 @@ Please fill in the following form: https://docs.google.com/forms/d/e/1FAIpQLSdRk
 
 The cost of each residency is as follows (well below market rates in each case):
 
-* [London](/londonhub) (near Old Street): €700 per month (€23 per night)
-* [Taipei](javascript:void(0)): €1000 per month for two people (€16,5 per night per person) 
-* [La Cheraille](/la-cheraille) (Flower farm 45 minutes from Paris): €525 per month (€17 per night)
+* <a href="/londonhub" target="_blank">London</a> (near Old Street): €700 per month (€23 per night)
+* <a href="javascript:void(0)" target="_blank">Taipei</a> €1000 per month for two people (€16,5 per night per person)
+* <a href="/la-cheraille" target="_blank">La Cheraille</a> (Flower farm 45 minutes from Paris): €525 per month (€17 per night)
 
 
 Residency program are for 2 weeks minimum to 2 months maximum.  There are no specific dates, please put the date for which you would like to come.
 
 See each differents HUBs page for details about their location and ethos.
 
-* [London](/londonhub)
-* [Taipei](javascript:void(0))
-* [La Cheraille](/la-cheraille)
+* <a href="/londonhub" target="_blank">London</a>
+* <a href="javascript:void(0)" target="_blank">Taipei</a>
+* <a href="/la-cheraille" target="_blank">La Cheraille</a>
 
 As conditions of the residency:
 
