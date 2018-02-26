@@ -4423,6 +4423,11 @@ div.toc {
 
 .home-template-special .side-image-content a {
   color: #0084c2 !important; }
+.home-template-special .hero-content h1, .home-template-special .hero-content p.blurb, .home-template-special .hero-content p.blurb2 {
+  font-family: "open-sans" !important;
+  color: #333 !important; }
+.home-template-special .hero-content a i {
+  color: #333 !important; }
 
 .bullets {
   display: flex;
