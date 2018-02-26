@@ -1,6 +1,8 @@
 <div class="hero" style="background-image: url({{ $.Site.BaseURL }}images/{{ .Params.background }})">
   <div class="hero-content">
+    {{ if .Params.logo }}
     <img src="{{ $.Site.BaseURL }}images/{{ .Params.logo }}">
+    {{ end }}
     <h1>{{ .Params.title }}</h1>
     <h2>{{ .Params.subtitle }}</h2>
     {{ with .Params.info }}
