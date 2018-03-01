@@ -7,7 +7,7 @@ eventdate: 2017-05-31
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: davide-ragusa-24118-unsplash.jpg
-authors: [brigittearndt]
+authors: [rufuspollock]
 ---
 
 *Leading up to The Gathering at the end of July we are sharing weekly blogposts written by [Art Earth Tech Institute][institute] members Rufus Pollock and Liam Kavanagh. This week’s post is titled ‘The Way We Live Now’ and is a reflection on the world’s current situation and its shortcomings.*

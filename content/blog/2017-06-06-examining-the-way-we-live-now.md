@@ -7,7 +7,7 @@ eventdate: 2017-06-06
 section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: jj-ying-215316-unsplash.jpg
-authors: [brigittearndt]
+authors: [rufuspollock]
 ---
 
 *Leading up to The Gathering at the end of July we are sharing weekly blogposts written by [Art Earth Tech Institute](http://artearthtech.com/institute/) members Rufus Pollock and Liam Kavanagh. This week’s post is a follow up on ‘The Way We Live Now’ and the questions that examination lead them to ask.*

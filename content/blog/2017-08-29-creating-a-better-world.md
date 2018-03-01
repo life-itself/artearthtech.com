@@ -7,7 +7,7 @@ section: projects
 logoPath: logo-aet-gathering02.png
 imagePath: nicole-harrington-483074-unsplash.jpg
 image: nicole-harrington-483074-unsplash.jpg
-authors: [brigittearndt]
+authors: [rufuspollock]
 ---
 
 *[Art Earth Tech Institute][institute] member [Rufus Pollock][rufuspollock] speaking about building a better, wiser and weller, world.*
