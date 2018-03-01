@@ -2,7 +2,7 @@
 title: Pragmatic Utopians
 date: 2017-10-20
 authors: [rufuspollock]
-imagePath: pragmatic.jpg
+imagePath: sharosh-rajasekher-383453-unsplash.jpg
 ---
 
 *I like to describe myself as a pragmatic utopian -- and Art Earth Tech as an exercise in pragmatic utopianism. Utopianism seems to have a bad name today. I wrote this as a response to that presumption of guilt during the first Art Earth Tech nucleus retreat. ~ Rufus Pollock.*
@@ -21,5 +21,6 @@ Furthermore, utopianism should be, in a profound sense, realistic. It is not sim
 
 The reassertion of our utopianism matters because we have forgotten our imaginations. We have not dared to dream because too many of our dreams became nightmares. Now, too often, we sleepwalk, already robots, waiting for the robots to come. But we can come awake. We can renew our visions, believe again, and do so without the arrogance of certainty, but sustained by open-minded faith.
 
-*Epilogue: to reflect this reclamation of a positive utopianism perhaps we should rename it: from utopia to eutopia -- from "no place" to a "well place".*
+Image by Sharosh Rajasekher unsplash
 
+*Epilogue: to reflect this reclamation of a positive utopianism perhaps we should rename it: from utopia to eutopia -- from "no place" to a "well place".*

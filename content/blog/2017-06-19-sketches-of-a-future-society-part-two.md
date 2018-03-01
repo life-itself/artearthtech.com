@@ -14,9 +14,9 @@ authors: [brigittearndt]
 
 
 
-<img src="/images/Sketches_2.jpg">
+<img src="/images/nasa-63032-unsplash.jpg">
 
-*Photographs by [Sarah Hickson](https://sarahhickson.shootproof.com/)*
+*Photographs by Nasa unsplash*
 
 We want to paint a vision of the future. Here the ground is less certain. Our proposal is necessarily incomplete. We ask you to bring a spirit of openness: this is an area where it is easy to critique and hard to create. Take what is presented as indicating direction rather than detailed prescription. At the same time, though this is about vision we still seek be as concrete as possible. The devil is often in the details and it is important to tease out the implications of a particular path and fine-sounding pronouncements must yield a concrete course of action to be useful.
 

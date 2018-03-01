@@ -5,8 +5,8 @@ publishDate: 2017-10-10
 slug: untitled-poem-by-liam
 eventdate: 2017-10-10
 section: projects
-logoPath: logo-aet-gathering02.png
-imagePath: Liam_2.jpg
+logoPath: alvaro-serrano-133360-unsplash.jpg
+imagePath: alvaro-serrano-133360-unsplash.jpg
 authors: [liamkavanagh]
 ---
 
@@ -14,9 +14,6 @@ authors: [liamkavanagh]
 
 
 
-<img src="/images/Liam_2.jpg">
-
-*Photographs by [Sarah Hickson](https://sarahhickson.shootproof.com/)*
 
 ### Untitled
 
@@ -49,7 +46,10 @@ Towards that full and simple silence
 
 Here we are.
 
+<img src="/images/alvaro-serrano-133360-unsplash.jpg">
 
-<img src="/images/Liam_1.jpg">
+*Photographs by Alvaro Serrano Unsplash*
+
+
 
 *© Liam Kavanagh*

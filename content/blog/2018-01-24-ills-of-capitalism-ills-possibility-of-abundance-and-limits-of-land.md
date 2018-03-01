@@ -2,6 +2,7 @@
 title: The Ills of Capitalism, the Possibilities of Abundance and the Limits of Land
 date: 2018-01-24
 authors: [rufuspollock]
+imagePath: jomjakkapat-parrueng-460441-unsplash.jpg
 ---
 
 
@@ -9,6 +10,11 @@ authors: [rufuspollock]
 
 *The spiritual desolation of capitalism provides the opportunity for alternatives, but its material robustness make it hard to supersede. However, there is hope based on the arrival of an age of abundance and the opportunities of an information age and its costless copying. The latter is especially crucial as it offers a new alignment of material and spiritual productivity based on a culture of sharing, collaboration and community. The greatest potential obstacle is the limit of land: the ultimate rival, physical good. Nevertheless, there are good reasons this limitation can be resolved either technologically or politically.*
 
+
+
+<img src="/images/jomjakkapat-parrueng-460441-unsplash.jpg">
+
+*Photographs by Jomjakkapat Parrueng unsplash*
 
 
 ## The Desolation of Consumerist Capitalism

@@ -3,6 +3,7 @@ title: "Summary: How Much is Enough? Money and the Good Life"
 date: 2017-02-05
 slug: summary-how-much-is-enough-skidelsky-2012
 authors: [rufuspollock]
+imagePath: how-much-is-enough_2256291b.jpg
 ---
 
 This is a summary of the Skidelskys 2012 book *How Much is Enough: Money and the Good Life*. The book is important for three main reasons.
@@ -12,6 +13,12 @@ First, its argument for the importance of identifying clear end "goods" beyond m
 Second, that the good life is identifiable and is universal (though they are careful to emphasize that their particular set of goods need not be the final set). This reasoned defence of tolerant universalism is a valuable rebuttal of relativism.
 
 Third, that to move from where we are today towards this "good life" will requires active coordination including intervention by the state (e.g. consumption taxes to prevent over-consumption). This is important, as it rebuts a commonly held view that we can "just rely on the market".
+
+
+<img src="/images/how-much-is-enough_2256291b.jpg">
+
+*Image cover for the book How Much is Enough*
+
 
 ## Overview
 
@@ -338,4 +345,3 @@ Comparison [in a table](http://drive.google.com/open?id=1ovCln-ZZyNSbH-l-L65REcb
 -   The overall picture is not encouraging for the advocates of growth at all cost. Despite the doubling of UK per capita income, we possess no more of the basic goods than we did in 1974; in certain respects, we possess less of them. We have chased after superfluities and neglected necessities. This, incidentally, may explain the ”flat line” of happiness discussed in Chapter 4, if indeed it is anything more than a statistical artifact. It could be that people sense, correctly, that their lives are objectively no better now than they were then. Jil Matheson, head of the UK Office for National Statistics, has identified the things that matter most for happiness as ”health, relationships, work and the environment”—a list that tallies closely with our basic goods.<sup>55</sup> Given that our lives have not noticeably improved in these respects since 1974, it is hardly surprising that we do not feel any happier.
 
 ## Chapter 7:  Exits from the Rat Race
-

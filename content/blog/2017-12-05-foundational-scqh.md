@@ -1,12 +1,12 @@
 ---
 date: 2017-12-05
-title: Foundational SCQH - Situation, Complication, Question & Hypothesis 
+title: Foundational SCQH - Situation, Complication, Question & Hypothesis
 publishDate: 2017-12-05
 slug: foundational-scqh
 eventdate: 2017-12-05
 section: projects
 logoPath: logo-aet-gathering02.png
-imagePath: foundational_scqh.png
+imagePath: sebastien-gabriel-232361-unsplash.jpg
 authors: [rufuspollock, sylviebarbier, liamkavanagh, ninongodefroy]
 ---
 
@@ -36,6 +36,6 @@ What are the foundational values and views, a big vision and its associated road
 
 Develop a community of people based on a shared culture and shared views that include the possibility of transformation, the primacy of being, getting shit done and [tolerant universalism]; and with a focus on the development of a big vision and committed to powerful, practical action to realise it [including the development of a large-scale political movement] [on the timescale of our lifetimes and those of our children].
 
-
+Image by Sebastien Gabriel unsplash
 
 *Rufus Pollock, Sylvie Barbier, Liam Kavanagh, Ninon Godefroy*

@@ -20,6 +20,13 @@ authors: [brigittearndt]
 
 In the next two weeks we want to paint a vision of the future. Here the ground is less certain and our proposal necessarily incomplete. We invite you to bring a spirit of openness: this is an area where it is easy to critique and hard to create. Take what is presented as indicating direction rather than detailed prescription. At the same time, we still seek be as concrete as possible. The devil is often in the details and it is important to tease out the implications of a particular path. To be useful, fine-sounding pronouncements must yield a concrete course of action.
 
+
+<img src="/images/adi-constantin-65004-unsplash.jpg">
+
+*Photographs by Adi Constantin unsplash*
+
+
+
 ## Introduction
 
 > ***Man does not live on bread alone***

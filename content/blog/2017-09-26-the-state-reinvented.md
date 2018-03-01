@@ -5,8 +5,8 @@ publishDate: 2017-09-26
 slug: the-state-reinvented
 eventdate: 2017-09-26
 section: projects
-logoPath: logo-aet-gathering02.png
-imagePath: A_State_1.jpg
+logoPath: lemmad-mazhari-196223-unsplash.jpg
+imagePath: emmad-mazhari-196223-unsplash.jpg
 authors: [sylviebarbier]
 ---
 
@@ -14,9 +14,9 @@ authors: [sylviebarbier]
 
 
 
-<img src="/images/A_State_1.jpg">
+<img src="/images/emmad-mazhari-196223-unsplash.jpg">
 
-*Photographs by [Sarah Hickson](https://sarahhickson.shootproof.com/)*
+*Photographs by Emma Mazhari unsplash*
 
 What would a political system look like that allowed our politicians to make wise decisions? What would its values and actions be? How would it work? Our citizens crave a leader, a leader who will drive them out of these crises, someone authentic who would stand for them. We long for heroes but what we truly need is to transform ourselves, for each citizen to be fully responsible, so that we may see the birth of a new state built around wisdom.
 
@@ -77,7 +77,10 @@ In summary, the human being is a physical entity and architecture and design of 
 
 ### Politics and Nature - A Loving Ecology
 
-<img src="/images/A_State_2.jpg">
+
+<img src="/images/ales-krivec-2892-unsplash.jpg">
+
+*Image by Ales Krivex unsplash*
 
 Today, ecology is presented as a threat not as an opportunity — as a heavy wooden stick with which we will be beaten either today or someday soon. What good can come from such a narrative and violence of force? And how can we expect citizens and politicians to take wise decisions and actions when they are completely disconnected from nature?
 
@@ -97,6 +100,10 @@ For politicians to serve, they should give up all their belongings, both as a si
 
 In addition, and complementarily, in order to foster a greater understanding of the devastating consequences of war, if a politician chooses  to go to war they must send two thirds of their family members to fight in it, whether women or men. In addition they will be required to be physically present on the land in which the war happens so that they experience and see the consequences of their choices and are compelled to reflect upon them.
 
+<img src="/images/igor-ovsyannykov-417115-unsplash.jpg">
+
+*Image by Igor Ovsyannykov unsplash*
+
 ## The Wisdom Program
 (The Citizen and the State)
 
@@ -113,7 +120,9 @@ Interaction with different communities should be supported so that it happens re
 
 ### Parenting and Population
 
-<img src="/images/A_State_3.jpg">
+<img src="/images/thiago-cerqueira-191866-unsplash.jpg">
+
+*Image by Thiago Cerqueira unsplash*
 
 Why parenting? Because it’s our most profound contribution to society.
 
@@ -131,7 +140,12 @@ Art should be made open like science since it’s role is to touch and inspire a
 
 ### Education
 
+
 Inspired by education methods such as Steiner and Montessori, children should have plenty of time to play, to learn naturally how to live and how to find one another. The goal for the educator would not to be to teach them a “topic” but rather to develop in them a sense of purpose and joy.
+
+<img src="/images/larm-rmah-216854-unsplash.jpg">
+
+*Image by Larm Rmah unsplash*
 
 What makes us human is also our philosophical reflection, thus practical philosophical discussion should have a large part in education so the natural wisdom of the child is nurtured from early age. If the mind is important the body also has a unique intelligence and needs to be equally trained, thus work with the hands on the land and on craft should be taught. This will give them a sense of  gratitude for the material and good labor but mostly it will empower them by making them able to create with their own hands.
 
@@ -143,7 +157,7 @@ Looking at how many pills we take reflects poorly on our current situation. Taki
 
 ## Wisdom is Possible
 
-<img src="/images/A_State_4.jpg">
+
 
 A wise state is possible. Wisdom is universal and this voice has not been heard for a long time. We can re-invent a state whose purpose is different from our current materialistic ways of relating to the world. We can give a new meaning to the role of the state.
 
