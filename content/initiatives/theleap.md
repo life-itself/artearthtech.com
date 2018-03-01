@@ -3,13 +3,13 @@ title: The Leap
 slug: theleap
 section: projects
 date: 2017-12-11
-logoPath: leap04.jpg
-imagePath: leap04.jpg
+logoPath: leap-logo.png
+imagePath: leap-logo.png
 ---
 ##### The Life Expression and Aspiration Project
 
 </br>
-<img src="/images/leap04.jpg">
+<img src="/images/leap-logo.png">
 
 In Taiwan, we work hard. But while we spend long hours at school, we often spend far too little time building the soft skills necessary to thrive in today’s society: self-confidence, self-expression, creativity, autonomy, and curiosity.
 
