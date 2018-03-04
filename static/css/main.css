@@ -3705,6 +3705,9 @@ a.button, input[type="submit"] {
 .content-wrapper {
   min-height: calc(100vh - 4.8em); }
 
+.speakerdeck-iframe {
+  margin-bottom: 30px; }
+
 header.navigation {
   background-color: #fff;
   border-bottom: 1px solid #e6e6e6;
