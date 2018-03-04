@@ -36,7 +36,7 @@ To build the CSS from the SASS:
 1. Install sass (e.g. `brew install sass`)
 2. Run:
 
-   `sass --watch public/sass:public/stylesheets`
+   `sass --watch static/scss:static/css`
 
 
 ### Deploying the website
