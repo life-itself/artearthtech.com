@@ -4927,8 +4927,7 @@ section.other-pages, section.other-pages-special {
   section.other-pages .page-header p.date, section.other-pages-special .page-header p.date {
     margin-bottom: 3.5em; }
   section.other-pages p.info, section.other-pages-special p.info {
-    text-align: center;
-    font-size: 12px;
+    font-size: 13px;
     border-top: 1px solid black;
     margin: 50px 0; }
     section.other-pages p.info a, section.other-pages-special p.info a {
