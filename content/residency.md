@@ -20,7 +20,7 @@ Please fill in the following form: https://docs.google.com/forms/d/e/1FAIpQLSdRk
 The cost of each residency is as follows (well below market rates in each case):
 
 * <a href="/londonhub" target="_blank">London</a> (near Old Street): €700 per month (€23 per night)
-* <a href="javascript:void(0)" target="_blank">Taipei</a> €1000 per month for two people (€16,5 per night per person)
+* <a href="/taipeihub" target="_blank">Taipei</a> €1000 per month for two people (€16,5 per night per person)
 * <a href="/la-cheraille" target="_blank">La Cheraille</a> (Flower farm 45 minutes from Paris): €525 per month (€17 per night)
 
 
@@ -29,7 +29,7 @@ Residency program are for 2 weeks minimum to 2 months maximum.  There are no spe
 See each differents HUBs page for details about their location and ethos.
 
 * <a href="/londonhub" target="_blank">London</a>
-* <a href="javascript:void(0)" target="_blank">Taipei</a>
+* <a href="/taipeihub" target="_blank">Taipei</a>
 * <a href="/la-cheraille" target="_blank">La Cheraille</a>
 
 As conditions of the residency:
@@ -43,3 +43,5 @@ As conditions of the residency:
 * Payment is by bank transfer or paypal within two weeks of acceptance to the residency (If this is a problem this can be discussed).
 * Partners: residencies are for individuals. If you want to come with a partner please contact us and we can discuss this.
 * You are responsible for obtaining any relevant travel permissions including visas. (Art / Earth / Tech may be able to provide you with a letter of support).
+
+Here is a link to the London house agreement <a href="/london-agreement">London house agreement</a></li>
