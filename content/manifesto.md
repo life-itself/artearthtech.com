@@ -11,7 +11,7 @@ Though living in societies which have never been so rich our sense of purpose an
 
 With Art / Earth / Tech we want to offer a way to combine wiser and weller ways of living whilst remaining engaged in conventional society.
 
-Our approach focuses on fostering a community of people seeking a wiser world. We do this by providing space, a network and  knowledge. Space in the form of physical places that can act as homes for our community members to work, meet and stay. Space in the form of gatherings that bring the community together to reflect, learn and connect.  Knowledge in the form of education and research to develop and share ideas, approaches and best practices.
+Our approach focuses on fostering a community of people seeking a wiser world. We do this by providing space, a network and  knowledge. Space in the form of physical places that can act as homes for our community members to work, meet and stay. Network in the form of gatherings that bring the community together to reflect, learn and connect.  Knowledge in the form of education and research to develop and share ideas, approaches and best practices.
 
 We are practical and natural. We connect the ancient and the modern. Our interests ranges from nature to neuroscience, Dada to data. We seek harmony and balance: art and techne, earth and spirit, science and wisdom, freedom and  discipline, mindfulness and  intention. Our name reflects this commitment to a holistic approach.
 
