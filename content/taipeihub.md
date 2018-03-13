@@ -3,7 +3,7 @@ title: Art Earth Tech Taipei Hub
 type: hubs
 ---
 
-The Art Earth Tech Taipei Hub in is a place to experience Taiwanese hospitality and wisdom; a place to discuss the trends shaping our society and the ideas that will determine our future; and a place where networks are created to support one another in the possibility of creating an exciting future.
+The Art Earth Tech Taipei Hub is a place to experience Taiwanese hospitality and wisdom; a place to discuss the trends shaping our society; and a place where networks are created to support one another in the possibility of creating an exciting future.
 
 <img src="/images/taipei-hub-01.jpg">
 
