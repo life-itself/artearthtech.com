@@ -3,8 +3,8 @@ title: Life Cloud
 slug: Life Cloud
 section: projects
 date: 2018-03-18
-logoPath:lifecloud.png
-imagePath:lifecloud.png
+logoPath: lifecloud.png
+imagePath: lifecloud.png
 ---
 
 ##### Life Cloud: Beyond wellbeing
