@@ -1,8 +1,10 @@
-function scrollDown(el) {
-  document.querySelector(el.attributes.href.value).scrollIntoView({
-    behavior: 'smooth'
-  });
-}
+$(document).on('click', 'a[href^="#"]', function (event) {
+    event.preventDefault();
+
+    $('html, body').animate({
+        scrollTop: $($.attr(this, 'href')).offset().top
+    }, 500);
+});
 
 $(window).resize(function() {
   var more = document.getElementById("js-navigation-more");
