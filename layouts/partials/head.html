@@ -20,4 +20,7 @@
     <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/main.css" />
 
     <meta name="google-site-verification" content="SBKnjLpgAmZYm6nKcTJ2ED_g31VYRTsVR3jeM9oIhYc" />
+    {{ range .AlternativeOutputFormats -}}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{ $.Site.Title }}">
+    {{ end -}}
 </head>
