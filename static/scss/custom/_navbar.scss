@@ -39,9 +39,14 @@ header.navigation {
     @include media($large-screen) {
       width: auto;
       margin: 0;
-      padding: 0 0.75em;
+      padding: 0 0.4em;
       img {
         display: block;
+        max-width: none;
+        max-height: none;
+        height: 55px;
+        padding: 0;
+        padding-top: 8px;
       }
     }
   }

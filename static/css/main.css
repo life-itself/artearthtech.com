@@ -3965,9 +3965,14 @@ header.navigation a.logo {
     header.navigation a.logo {
       width: auto;
       margin: 0;
-      padding: 0 0.75em; }
+      padding: 0 0.4em; }
       header.navigation a.logo img {
-        display: block; } }
+        display: block;
+        max-width: none;
+        max-height: none;
+        height: 55px;
+        padding: 0;
+        padding-top: 8px; } }
 header.navigation a.navigation-menu-button {
   line-height: normal;
   float: none;
