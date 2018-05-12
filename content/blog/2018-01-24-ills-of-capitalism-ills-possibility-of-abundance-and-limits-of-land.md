@@ -19,39 +19,39 @@ imagePath: jomjakkapat-parrueng-460441-unsplash.jpg
 
 ## The Desolation of Consumerist Capitalism
 
-*They made a desert and called it peace. Tacitus*
+> *They made a desert and called it peace. Tacitus*
+>
+> *The way we live now. Trollope*
 
-*Or the way we live now* Trollope
-
-Consider the sweep of recorded history. The vast majority is dominated by hunger, incurable disease and grinding poverty. Looked at plainly, we must be impressed by the incredible transformative power of market-based, individualistic capitalism to drive improvements in our material well-being over the last two centuries. Improvements that have substantially eliminated huge obstacles to our collective welfare.
+Consider the sweep of recorded history, the vast majority of it dominated by hunger, incurable disease and grinding poverty. Against this canvas, we cannot but be impressed by the incredible, transformative power of market-based, individualistic capitalism to drive improvements in our material well-being over the last two centuries. Improvements that have substantially eliminated huge obstacles to our collective welfare.
 
 Through dynamic competition, specialization, capital growth and innovation, capitalism has wrought rapid and dramatic changes in our quality of material life that now extend to almost every person on this planet.
 
 But! All those questioners from Buddha through Marx were on to something.
 
-At its heart, and at its most dynamic, individualistic, competitive, consumerist capitalism is fantastically materially productive but simultaneously spiritually desolate.[^command-and-control]
+At its heart, capitalism -- individualistic, competitive, consumerist capitalism -- is fantastically materially productive but simultaneously spiritually desolate.[^command-and-control]
 
-[^command-and-control]: Moreover, as Coase so neatly pointed out, even in its most individualistic, market-oriented form, most production takes place inside firms or institutions that most closely resemble command-and-control. We atomize our production and consumption not to gain freedom but to embed ourselves in hierarchy. Jefferson's yeoman farmers are a far cry from the realities of industrial capitalism.
+[^command-and-control]: As an aside we note that capitalism is not without its contractions. For example, capitalism is closely associated with markets: capitalism is often short-hand for free-market capitalism. But, as Coase so neatly pointed out, even in its most individualistic, market-oriented form, most production under capitalism takes place inside firms or institutions that most closely resemble command-and-control. We atomize our production and consumption not to gain freedom but to embed ourselves in hierarchy. Jefferson's yeoman farmers are a far cry from the realities of industrial capitalism.
 
-The challenge for critics has been that while it has been easy to diagnose the ills, it has proved hard indeed to find treatments that help rather than harm the patient. The experiments we have seen over the last two centuries have not given us great confidence. The largest and most aggressive of them, in the form of communist dictatorships, have powerfully demonstrated the appalling costs that can result from sacrificing individual freedom and liberty for an (often sham) communal solidarity and greater good.[^3]
+The challenge for critics has been that though easy to diagnose the ills, it has proved hard indeed to find cures that help rather than harm the patient. The experiments we have witnessed in the last two centuries have not given us great confidence. The largest and most aggressive of them, in the form of communist dictatorships, have powerfully demonstrated the appalling costs that can result from sacrificing individual freedom and liberty for an (often sham) communal solidarity and greater good.[^3]
 
 [^3]: This is not the place to offer an exhaustive analysis of the wrongs or rights of these experiments, or their relation to socialistic approaches to organizing the economy or society. However, as one aside, it is arguable that the terrible authoritarian experiences in Russia and China under communisum owed much to their prior authoratarian histories rather than socialism or communism itself. Communitarian experiments on Israeli Kibbutzs and a socialised wartime economy in the US and the UK during the second world war did not result in dicatorship or gulags.
 
 But this does not change the fact that something is wrong.
 
-Here, I want to focus on the "spiritual" problem: the disjunction of capitalism with the human spirit. I therefore also locate the solution in the same place. There are many great socio-spiritual philosophies which we can look to, whether emanating from specific figures such as Buddha, Confucius, Jesus, Mohammed or from entire traditions such as the Pali Canon, the Vedas or the Judao-Christian Testaments. Of these all, the teachings of Buddhism, which themselves share much with many other traditions, offer the most powerful insights for our time.
+In this essay, I want to focus on the "spiritual" problem: the disjunction of capitalism with the human spirit. I therefore also locate the solution in the same place. There are many great socio-spiritual philosophies which we can look to, whether emanating from specific figures such as Buddha, Confucius, Jesus, Mohammed or from entire traditions such as the Pali Canon, the Vedas or the Judao-Christian Testaments. Of these all, the teachings of Buddhism, which themselves share much with many other traditions, offer the most powerful insights for our time.
 
 Why? We are (gradually) reaching a point where the essential needs -- food, shelter, healthcare -- are being met. Yet, in the most (materially) "developed" societies, wants continue to multiply. We seem stuck on a hedonic treadmill, where each need satisfied only breeds another and where despite all our successes we must each still confront the fundamental fact of our ultimate individual death and extinction.
 
 A good part of my contention here, is that the very process of modern capitalism results in the continuation of this spiritually unrewarding cycle. Whilst compensating us with materialities that are of ever diminshing value,[^5] capitalism enshrines virtues and attitudes that are, in a world of increasing abundance, ever less useful. Virtues and attitudes which are, in fact, positively harmful to our spiritual and mental well-being, whilst diminishing or discarding virtues and attitudes which would be of greatest value to us.
 
-For example, in its promotion of competition and dimunution of community. In its protestant promotion of dutiful labour and joyless leisure, all oriented on an imaginary future whether old-age or the afterlife, over meaningful work and a joyful life in the present. In its promotion of acquisitiveness and its dimunution of satisfaction. In its preference for money and goods over people and ideas.
+For example, in its promotion of competition and dimunution of community. In its protestant promotion of dutiful labour and joyless leisure, both oriented to an imaginary future whether old-age or the afterlife, over meaningful work and a joyful life in the present. In its promotion of acquisitiveness and its dimunution of satisfaction. In its preference for money and goods over people and ideas.
 
 [^5]: In fact, given the level of wealth in the most well-off societies, there are only two possible reasons for continuing the current system. First, healthcare improvements tending to some kind of immortality (an obvious craving of humans for thousands of years). Second, technological progress as some kind of end in itself, or perhaps with the end of creating some kind of being that supersedes us (likely, at least initially, a silicon-based computerized one). Neither desire seems deeply well (both seek to cheat death rather than face it).
 
 The problem is that capitalism is very infectious. It is so productive, at least in a material sense, that it is very difficult to (want to) resist. More significantly, it remakes what it touches in its own image and undermines the ability of alternatives to exist. It is like the situation in certain ecosystems, where a certain species, once it has a toehold, by its very existence, by the things it consumes and excretes, remakes the ecosystem to favour itself -- making its inhospitable for other creatures but ever more suitable for itself.[^jellyfish]
 
-[^jellyfish]: TODO -- reference that story about jellyfish ecosystems from the LRB.
+[^jellyfish]: https://www.lrb.co.uk/v36/n05/theo-tait/water-borne-zombies "According to Lisa-Ann Gershwin's disturbing book, the jellyfish is an ‘angel of death’, a harbinger of ‘planetary doom’ likely to be the ‘last man standing’ in what she describes as our 'gelatinous future'."
 
 To pursuse the analogy. Capitalism remakes its "ecosystem" in at least three ways. First, its incredible material productivity acts as a constant incentive for defection from other ways of life. Second, the basic ethical and spiritual philosophy of capitalism undermines alternatives -- especially collective ones -- by detaching the least attached adherents, and undermining the productivity of those alternatives (for example, moving collective groups to marginal land, by accumulating more weaponry for capitalist-based groups etc). Third, capitalism creates an environment for its own participants that favours certain ways of being and acting, e.g. acquisitiveness, individualism, materialism reinforcing these behaviours, even, one could say, addicting individuals to those ways and makes them ever more resistant to alternatives. For example, a profit-oriented social network may engage wish users to spend as much time as possible on their platform in order to maximize the attention they can sell to advertisers.[^lewis]
 
