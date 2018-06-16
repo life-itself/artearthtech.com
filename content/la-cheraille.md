@@ -44,7 +44,7 @@ You can find the [train timetable link here](https://www.horairetrain.net/horair
 ### From Charles De Gaulle Airport
 
 - You want to buy at ticket from CDG airport to St Remy les Chevreuse (cost about 20euros).
-- Take the RER B in the direction of St Remy les Chevreuse (be carful RER B has train going to several destination, you want to make ure you take one in direction of St Remy les Chevreuse).
+- Take the RER B in the direction of St Remy les Chevreuse (be carful RER B has train going to several destination, you want to make sure you take one in direction of St Remy les Chevreuse).
 - Get off at St Remy les Chevreuse and get a taxi to La Cheraille.
 (taxi cost 50 euros before 7pm, 70euros after 7pm, book in advance and give them the approximate time of your arrival) it take about 1h45 from CDG to St Remy les Chevreuse station (without counting check out time).
 
