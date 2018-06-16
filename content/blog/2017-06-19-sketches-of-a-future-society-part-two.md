@@ -10,13 +10,11 @@ imagePath: nasa-63032-unsplash.jpg
 authors: [rufuspollock]
 ---
 
-*This week we share Part Two of ‘Sketches of a Future Society’. Last week Liam and Rufus looked at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built. This week they discuss what a material economy, shaped by this culture, would look like.*
+*This week we share Part Two of ‘Sketches of a Future Society’. Last week, in [Part One we looked at new possibilities for a future society, with an emphasis on culture as the invisible structure on which economies are built][part-i]. This week they discuss what a material economy, shaped by this culture, would look like.*
 
+[part-i]: /2017/06/13/sketches-of-a-future-society-part-one/
 
-
-<img src="/images/nasa-63032-unsplash.jpg">
-
-*Photographs by Nasa unsplash*
+<img src="/images/nasa-63032-unsplash.jpg" />
 
 We want to paint a vision of the future. Here the ground is less certain. Our proposal is necessarily incomplete. We ask you to bring a spirit of openness: this is an area where it is easy to critique and hard to create. Take what is presented as indicating direction rather than detailed prescription. At the same time, though this is about vision we still seek be as concrete as possible. The devil is often in the details and it is important to tease out the implications of a particular path and fine-sounding pronouncements must yield a concrete course of action to be useful.
 
@@ -63,9 +61,5 @@ We can already see the beginning of our transition to an information economy. We
 In addition, as we pointed out, a piece information is costlessly copyable once created. This makes software or novels or anything made of information fundamentally different from traditional physical things such as bread or iron. Not only does this contribute to our abundance - make one copy of an app or a song and the whole world can have it. But it also supports a much fairer and more egalitarian economy. It is simply not possible for everyone to have Ferraris but it is possible for everyone to have a copy of Harry Potter, Breaking Bad or Microsoft Word. However, the true benefits of the information economy for fairness, freedom and innovation are only realised if we adopt a wholesale policy of openness where everyone has freedom to access, use, build on and share any piece of non-personal information. At the same time, creating information is costly. Whether it is a writer who spends a year laboring over a novel or the billions we spend finding new cures for cancer or finding the Higgs Boson. Going forward we should resource these efforts out of collective funds raised for this purpose. Distribution of the funds can combine a mix of expert-selection and demand-driven market-oriented processes. For example, universal basic income would support those like artists and mathematicians  who only need their own labour to pursue their creative endeavors. For projects requiring creating capital and team coordination we would use a combination of up-front funding via expert selection and demand-based market mechanisms using remuneration rights. The former approach is what we already do today in much of research, whilst the market-oriented approach has long been used in areas like music and is also being pioneered (in a privatized form) by the likes of platforms like Spotify.
 
 Finally, we reiterate the importance of culture. An open information economy fosters collaboration, sharing and creativity - in contrast, to a tendency today to individualistic competition, greed and domination. Thus the very structure of the economy supports our new culture. Conversely, our new culture supports the very mechanisms we seek. A growing emphasis on intrinsic and non-material rewards, a recognition of innovation and creativity combined with egalitarian collaboration. Thus, the two developments in a move to an open information economy and the development of a new mindful culture go hand in hand.
-
-
-Image by Nasa unsplash.jpg
-
 
 *Edited by Brigitte Arndt*
