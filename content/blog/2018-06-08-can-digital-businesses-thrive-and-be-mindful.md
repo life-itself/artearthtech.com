@@ -9,11 +9,11 @@ authors: [rufuspollock]
 >
 > Thich Nhat Hanh. "The Art of Power"
 
-This piece talks to the desire of individuals and companies in the digital sector to find better, more mindful ways of operating. It argues that it is next to impossible to create a mindful culture in digital companies given the current structure of the digital economy.
+This piece talks to the desire of individuals and companies in the digital sector to find better, more mindful ways of operating. It argues that with the current structure of the digital economy, it will be hard, if not impossible, to create and sustain truly mindful culture in tech companies.
 
-As it stands, basic aspects of that economy serve to create an environment that is anti-mindful in key ways: stressed, obsessed with achievement and money, ego-oriented, and short-term. These pressures are not simply cultural, they flow from the basic structures of the current digital economy. For example, the winner-takes-all dynamic makes it necessary to raise large sums from investors and to target breakneck growth ("grow or die").
+This is because core aspects of the digital economy create an environment that is anti-mindful in key ways: stressed, obsessed with achievement and money, ego-oriented, and short-term. These pressures are not simply cultural, they flow from the basic structures of the current digital economy. For example, the winner-takes-all dynamic that make it necessary to raise large sums from investors and to target breakneck growth ("grow or die").
 
-To have a weller, more mindful culture in the digital sector requres a change the way the digital economy works. Conversely, the more mindful and aware of these issues we are the easier it will be to create these changes in the economy. Thus, the "transformation of being" and "transformation of production" need to go together (cf [Sketches of a Future Society - Part II][sketches-ii]).
+Thus, to have a weller, more mindful culture in the digital sector requres a change the way the digital economy works. Conversely, the more mindful and aware of these issues we are the easier it will be to create these changes in the economy. Thus, the "transformation of being" and "transformation of production" need to go together (cf [Sketches of a Future Society - Part II][sketches-ii]).
 
 [sketches-ii]: /2017/06/19/sketches-of-a-future-society-part-two/
 
