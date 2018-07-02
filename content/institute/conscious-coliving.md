@@ -1,7 +1,6 @@
 ---
 date: 2017-12-15 00:00:00 +0000
 title: " Conscious Co-living Manifesto"
-draft: true
 
 ---
 ## Reconnecting with ourselves, others, and the wider world
