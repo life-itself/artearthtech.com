@@ -1,0 +1,35 @@
+---
+title: Techno-solutionism
+authors: [ninongodefroy,rufuspollock]
+date: 2017-09-18
+slug: techno-solutionism
+---
+
+Rufus and I are starting a mini research project on "Techno-solutionism" – What we see as the (oft-fallacious) belief that "Tech" (alone) can solve our hard societal problems. 
+
+We plan to gather examples of Techno-solutionism in a couple of specific areas such as democracy / trust and global warming / environment. For example:
+
+*	The belief that Block Chain, Civic Tech stuff can help “fix” democracy, keep politician accountable and increase voter participation … 
+* The belief that energy generation/storage technologies, Tesla, 3D printing (…) will be sufficient to help us fight climate change.
+
+**_We would be happy to have your ideas & inputs on this topic. And if anyone wants to contribute to the research, please let us know !_** 
+
+For the moment, Here is a great take-down on civic Tech:
+
+https://medium.com/civic-tech-thoughts-from-joshdata/so-you-want-to-reform-democracy-7f3b1ef10597
+
+And here is Rufus’ anti- blockchain rant: http://rufuspollock.com/2017/05/11/thoughts-on-blockchain-in-geneva/
+
+See also the recent post setting out a typology of problems which is directly relevant here: [The Four Types of Problem][4-types]
+
+[4-types]: /2017/09/10/four-types-of-problem/
+
+For me, a big problem is that Technosolutionism leads us to believe that personal sacrifices won’t be necessary to solve these hard societal problems: 
+
+*	"I won’t have to spend too much time reading through the presidential candidate’s proposal – an algorithm will tell me what my preferences are"
+* "I prefer flying to New York to do an internship on the use of new materials in renewable energy rather than staying in La Cheraille to reduce my carbon footprint."
+
+But, we will have a hard time solving climate change if we continue to put all of our resources into finding ways to produce MORE energy, rather than trying to consume less ourselves.
+
+**Our hypothesis**: Rather than more tech innovations; hard societal problems like climate change and democracy require innovation in human coordination mechanisms, a transformation of our desires -- a "transformation of our being".
+
