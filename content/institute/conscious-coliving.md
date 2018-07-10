@@ -13,6 +13,6 @@ We define conscious co-living as a modern form of housing where residents share 
 
 Conscious co-living challenges the status quo of materialism, ownership, and individualism and offers a new way of living which is geared towards sharing, community and environmental sustainability.
 
-### **_Conscious Co-Living: Reconnecting a disconnected world_**
+#### **Conscious Co-Living: Reconnecting a disconnected world**
 
 <img src="/uploads/2018/07/10/Coliving Manifesto Diagram 7.jpg"><br/><br/>
