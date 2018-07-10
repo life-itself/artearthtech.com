@@ -5,7 +5,7 @@ title: " The Conscious Co-living Manifesto"
 ---
 ### Reconnecting with ourselves, others, and the wider world
 
-<img src="/uploads/2018/07/10/Coliving Manifesto Diagram 7.jpg"><br/><br/>
+<img src="/uploads/2018/07/10/Coliving Manifesto Diagram 7.jpg"><br/>
 
 ##### Through this manifesto we wish to promote a form of co-living which has connection at its heart.
 
