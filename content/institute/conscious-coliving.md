@@ -3,7 +3,7 @@ date: 2017-12-15 00:00:00 +0000
 title: " The Conscious Co-living Manifesto"
 
 ---
-## Reconnecting with ourselves, others, and the wider world
+#### Reconnecting with ourselves, others, and the wider world
 
 Through this manifesto we wish to promote a form of co-living which has _connection_ at its heart.
 
