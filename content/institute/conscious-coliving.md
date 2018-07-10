@@ -15,4 +15,4 @@ title: " The Conscious Co-living Manifesto"
 
 ##### Conscious co-living challenges the status quo of materialism, ownership, and individualism and offers a new way of living which is geared towards sharing, community and environmental sustainability.
 
-### **Conscious Co-Living: Reconnecting a disconnected world**
+### Conscious Co-Living: Reconnecting a disconnected world
