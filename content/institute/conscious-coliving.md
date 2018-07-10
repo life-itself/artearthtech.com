@@ -15,4 +15,4 @@ Conscious co-living challenges the status quo of materialism, ownership, and ind
 
 ### **_Conscious Co-Living: Reconnecting a disconnected world_**
 
-<img src="/uploads/2018/06/29/Coliving Manifesto Diagram 6.jpg"><br/><br/>
+<img src="/uploads/2018/07/10/Coliving Manifesto Diagram 7.jpg"><br/><br/>
