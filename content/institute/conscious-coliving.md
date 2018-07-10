@@ -5,6 +5,8 @@ title: " The Conscious Co-living Manifesto"
 ---
 #### Reconnecting with ourselves, others, and the wider world
 
+<img src="/uploads/2018/07/10/Coliving Manifesto Diagram 7.pdf"><br/><br/>
+
 Through this manifesto we wish to promote a form of co-living which has _connection_ at its heart.
 
 We believe conscious co-living can have a transformative impact on our society by tackling loneliness, providing spaces to connect with our authentic selves, and encouraging us to live in a way which is more aligned with our planet’s natural systems.
@@ -14,5 +16,3 @@ We define conscious co-living as a modern form of housing where residents share 
 Conscious co-living challenges the status quo of materialism, ownership, and individualism and offers a new way of living which is geared towards sharing, community and environmental sustainability.
 
 #### **Conscious Co-Living: Reconnecting a disconnected world**
-
-<img src="/uploads/2018/07/10/Coliving Manifesto Diagram 7.pdf"><br/><br/>
