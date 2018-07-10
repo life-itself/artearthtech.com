@@ -7,7 +7,7 @@ title: " The Conscious Co-living Manifesto"
 
 <img src="/uploads/2018/07/10/Coliving Manifesto Diagram 7.pdf"><br/><br/>
 
-Through this manifesto we wish to promote a form of co-living which has _connection_ at its heart.
+Through this manifesto we wish to promote a form of co-living which has connection at its heart.
 
 We believe conscious co-living can have a transformative impact on our society by tackling loneliness, providing spaces to connect with our authentic selves, and encouraging us to live in a way which is more aligned with our planet’s natural systems.
 
