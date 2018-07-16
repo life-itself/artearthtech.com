@@ -36,3 +36,19 @@ div.toc {
     width: auto;
   }
 }
+
+#coliving-daigram {
+
+	@media screen and (min-width:1024px){
+		img {
+			max-width:150%;
+			margin-left:-25%;
+		}
+	}
+	
+	p { 
+		font-size: 1em;
+		line-height: 1.3em;
+		font-family: "open-sans";
+	}
+}	
