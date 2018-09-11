@@ -18,3 +18,5 @@ fields:
   label: Imagepath
   config:
     required: false
+pages:
+- content/blog/why-i-do-the-leap.md
