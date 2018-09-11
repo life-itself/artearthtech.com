@@ -18,6 +18,7 @@ fields:
   label: Imagepath
   config:
     required: false
+  hidden: true
 - type: tag_list
   name: authors
   label: Authors
