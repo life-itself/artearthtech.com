@@ -1,4 +1,5 @@
 +++
+authors = []
 date = "2018-09-11T15:03:16+00:00"
 imagePath = ""
 title = "Why I do The LEAP"
@@ -16,7 +17,7 @@ In the past two years, I discovered the possibility of a different learning envi
 
 Bringing people together in their humanity is very simple but also difficult to put into words because it cannot be crammed - it can only be experienced. I want to bring these human experiences to others. Beyond that, I want an education system that considers education as a human experience above all.
 
-With the LEAP, I want to imagine a different environment for teenagers and young adults: a refuge where they are not driven by external standards, or pushed to produce the “correct” behaviour required for approval. Instead, the LEAP is a space for them to be driven by what is within, and for the expression that results to be heard, discovered and trusted -- creating a unity and no conflict between themselves and others’ perceptions.
+With the LEAP, I want to imagine a different environment for teenagers and young adults: a refuge where they are not driven by external standards, or pushed to produce the “correct” behaviour required for approval. Instead, the LEAP is a space for them to be driven by what is within, and for the expression that results to be heard, discovered and trusted - creating a unity and no conflict between themselves and others’ perceptions.
 
 But all this would be incomplete without mentioning that my love for Taiwan. Obviously, the cram mentality is very persistent in large parts of Asia, but the reason why I’ve made The LEAP my vocation is because I am concerned that it gets the Taiwanese out of touch with the precious thing they can offer. Taiwan has something very special and unique to express - and although I don’t have any words for it, I saw it  in our students.
 
