@@ -4,33 +4,51 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- path: content/blog
+- type: directory
+  path: content/blog
   label: Blog
   create: all
-- path: content/contact
+  match: "**/*"
+- type: directory
+  path: content/contact
   label: Contact
   create: all
-- path: content/gathering
+  match: "**/*"
+- type: directory
+  path: content/gathering
   label: Gathering
   create: all
-- path: content/hubs
+  match: "**/*"
+- type: directory
+  path: content/hubs
   label: Hubs
   create: all
-- path: content/initiatives
+  match: "**/*"
+- type: directory
+  path: content/initiatives
   label: Initiatives
   create: all
-- path: content/institute
+  match: "**/*"
+- type: directory
+  path: content/institute
   label: Institute
   create: all
-- path: content/news
+  match: "**/*"
+- type: directory
+  path: content/news
   label: News
   create: all
-- path: content/people
+  match: "**/*"
+- type: directory
+  path: content/people
   label: People
   create: all
-- path: content
+  match: "**/*"
+- type: directory
+  path: content
   label: Pages
   create: all
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
