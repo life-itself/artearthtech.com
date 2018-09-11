@@ -18,5 +18,8 @@ fields:
   label: Imagepath
   config:
     required: false
+- type: tag_list
+  name: authors
+  label: Authors
 pages:
 - content/blog/why-i-do-the-leap.md
