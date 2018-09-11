@@ -5,8 +5,6 @@ imagePath = ""
 title = "Why I do The LEAP"
 
 +++
-### Why I do The LEAP
-
 I have a problem with the cram mentality. I know what it is to be a crammer: to succeed, to live, to be praised for having crammed and to have a life driven by the praise for having stuffed facts into my head and dutifully reproduced them to get good grades.
 
 The cram system got me to the best schools and the best jobs. But my problem with the cram system is that it is profoundly violent against the vitality inside of you. All it does is make you adapt to the desires of the outside, programming you according to narrow-minded notions of efficiency and achievement, and as a result, making you lose touch with the creativity within you. 
