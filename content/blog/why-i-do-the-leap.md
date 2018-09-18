@@ -2,11 +2,11 @@
 authors = []
 date = "2018-09-11T15:03:16+00:00"
 image = "/uploads/2018/09/18/LEAP.png"
-imagePath = "/uploads/LEAP.png"
+imagePath = "static/uploads/LEAP.png"
 title = "Why I do The LEAP"
 
 +++
-I have a problem with the cram mentality. I know what it is to be a crammer: to succeed, to live, to be praised for having crammed and to have a life driven by the praise for having stuffed facts into my head and dutifully reproduced them to get good grades.
+![](/uploads/2018/09/18/LEAP.png)I have a problem with the cram mentality. I know what it is to be a crammer: to succeed, to live, to be praised for having crammed and to have a life driven by the praise for having stuffed facts into my head and dutifully reproduced them to get good grades.
 
 The cram mentality got me to the best schools and the best jobs. But my problem with it is that it is profoundly violent against the vitality inside of you. All it does is make you adapt to the desires of the outside, programming you according to narrow-minded notions of efficiency and achievement, and as a result, making you lose touch with the creativity within you.
 
