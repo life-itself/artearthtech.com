@@ -6,10 +6,6 @@ imagePath = ""
 title = "Our 2018 Gathering"
 
 +++
-# The A/E/T 2018 Gathering 
-
-_By Liam Kavanagh_
-
 In 2018 the Art Earth Tech annual gathering became a tradition as, for the third time, people came from all around the world to La Cheraille, an intimate tuft of eccentric beauty that protrudes from vast flat expanse of wheat fields outside Rambouillet, France, an hour from Paris. Here Christophe Godefroy has over thirty years created an oasis of forested and flowering gardens on a property his family has been intertwined with over five generations.
 
 After introductions, Sylvie and Rufus introduced participants to the Art Earth Tech philosophy, which includes devotion to a larger vision of life that accepts the primacy of being, of beauty, presence and our subjective quality of life. The A/E/T vision also includes the necessity of community to keep this priority in mind, and fulfilling life in general, the cheerful embrace of the realities of material sustenance, and intellectual engagement with issues of our day. 
@@ -37,3 +33,6 @@ In the same presentation Rufus and Iwe discussed the perils of “techno-solutio
 Laurie Parma and I lead a discussion on the well being movement which aims to refocus on what really matters in life, but often seems confined helping workers to keep functioning. The  pursuit of well-being brings forces us discuss topics and practices that were historically religious matters, and not fit for open discussed. Along with Naima Ritter we asked audience members to reflect on how truly radical pursuit of well-being can be undertaken, and what role spirituality might play in this.
 
 In addition to all these presentations, we had group discussions about a wiser relationship with wealth and with technology, education, and the in depth discussion of the realities of co-living as well Art Earth Tech’s specific efforts in these areas.
+
+  
+Liam Kavanagh
