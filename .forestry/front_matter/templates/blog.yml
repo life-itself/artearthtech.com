@@ -23,4 +23,5 @@ fields:
   name: authors
   label: Authors
 pages:
+- content/blog/our-2018-gathering.md
 - content/blog/why-i-do-the-leap.md
