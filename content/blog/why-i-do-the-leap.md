@@ -2,7 +2,7 @@
 authors = []
 date = "2018-09-11T15:03:16+00:00"
 image = "/uploads/2018/09/18/LEAP.png"
-imagePath = ""
+imagePath = "/uploads/LEAP.png"
 title = "Why I do The LEAP"
 
 +++
