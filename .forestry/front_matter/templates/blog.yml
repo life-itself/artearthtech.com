@@ -23,5 +23,4 @@ fields:
   name: authors
   label: Authors
 pages:
-- content/blog/test-blog.md
 - content/blog/why-i-do-the-leap.md
