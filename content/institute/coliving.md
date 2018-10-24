@@ -3,7 +3,7 @@ date: 2017-12-15 00:00:00 +0000
 title: Co-Living Research
 
 ---
-## The connection between cities, shared-living and sustainability.
+## The connection between cities, shared-living and sustainability
 
 <img src="/images/co_living_Sarah_Hickson.jpg"><br/><br/>
 
