@@ -6,16 +6,11 @@ imagePath: jomjakkapat-parrueng-460441-unsplash.jpg
 ---
 
 
-*Man does not live on bread alone. Capitalism's material productivity has been matched by a desolation of spirit. This is not accidental: capitalism's material success requires and rewards behaviours such as competitiveness, acquisitiveness, individualism and materialism. Capitalism is so successful because it is material-spiritual system that is both expansive and creates the conditions for its own expansion. Just as jellyfish (unintentionally) desolate and acidify their ecosystem, making it hostile to other species and hospitable to themselves, so capitalism (unintentionally) takes over socio-economic ecosystems remaking them in its own image.*
+*Man does not live on bread alone. Capitalism's material productivity has been matched by a desolation of spirit. This is not accidental: capitalism's material success requires and rewards behaviours such as competitiveness, acquisitiveness, individualism and materialism. Capitalism is so successful because it is a self-sustaining material-spiritual system that is both aggressively expansive and able to transform its environment in order to create the conditions for its own expansion. Just as jellyfish (unintentionally) desolate and acidify their ecosystem, making it hostile to other species and hospitable to themselves, so capitalism (unintentionally) takes over socio-economic ecosystems remaking them in its own image.*
 
-*The spiritual desolation of capitalism provides the opportunity for alternatives, but its material robustness make it hard to supersede. However, there is hope based on the arrival of an age of abundance and the opportunities of an information age and its costless copying. The latter is especially crucial as it offers a new alignment of material and spiritual productivity based on a culture of sharing, collaboration and community. The greatest potential obstacle is the limit of land: the ultimate rival, physical good. Nevertheless, there are good reasons this limitation can be resolved either technologically or politically.*
-
-
+*The spiritual desolation of capitalism provides the opportunity for alternatives, but its material robustness make it hard to supersede. However, there is hope based on the arrival of an age of abundance and the opportunities of an information age with its costless copying. The latter is especially crucial as it offers a new alignment of material and spiritual productivity based on a culture of sharing, collaboration and community. The greatest potential obstacle is the limit of land: the ultimate rival, physical good. Nevertheless, there are good reasons to belive this limitation can be resolved either technologically or politically.*
 
 <img src="/images/jomjakkapat-parrueng-460441-unsplash.jpg">
-
-*Photographs by Jomjakkapat Parrueng unsplash*
-
 
 ## The Desolation of Consumerist Capitalism
 
@@ -23,9 +18,9 @@ imagePath: jomjakkapat-parrueng-460441-unsplash.jpg
 >
 > *The way we live now. Trollope*
 
-Consider the sweep of recorded history, the vast majority of it dominated by hunger, incurable disease and grinding poverty. Against this canvas, we cannot but be impressed by the incredible, transformative power of market-based, individualistic capitalism to drive improvements in our material well-being over the last two centuries. Improvements that have substantially eliminated huge obstacles to our collective welfare.
+Consider the sweep of recorded history, the vast majority of it dominated by hunger, incurable disease and grinding poverty. Against this canvas, we cannot but be impressed by the incredible, transformative power of market-based, individualistic capitalism and the improvements it has brought to in our material well-being in the last two centuries.
 
-Through dynamic competition, specialization, capital growth and innovation, capitalism has wrought rapid and dramatic changes in our quality of material life that now extend to almost every person on this planet.
+Through dynamic competition, specialization, capital growth and innovation capitalism has wrought rapid and dramatic changes in our quality of life that now extend to almost every person on this planet.
 
 But! All those questioners from Buddha through Marx were on to something.
 
@@ -33,13 +28,13 @@ At its heart, capitalism -- individualistic, competitive, consumerist capitalism
 
 [^command-and-control]: As an aside we note that capitalism is not without its contractions. For example, capitalism is closely associated with markets: capitalism is often short-hand for free-market capitalism. But, as Coase so neatly pointed out, even in its most individualistic, market-oriented form, most production under capitalism takes place inside firms or institutions that most closely resemble command-and-control. We atomize our production and consumption not to gain freedom but to embed ourselves in hierarchy. Jefferson's yeoman farmers are a far cry from the realities of industrial capitalism.
 
-The challenge for critics has been that though easy to diagnose the ills, it has proved hard indeed to find cures that help rather than harm the patient. The experiments we have witnessed in the last two centuries have not given us great confidence. The largest and most aggressive of them, in the form of communist dictatorships, have powerfully demonstrated the appalling costs that can result from sacrificing individual freedom and liberty for an (often sham) communal solidarity and greater good.[^3]
+The challenge for critics has been that whilst it is easy to diagnose the ills, it has proved hard indeed to find cures that help rather than harm the patient. The experiments we have witnessed in the last two centuries have not given us great confidence. The largest and most aggressive of them, in the form of communist dictatorships, have powerfully demonstrated the appalling costs that can result from sacrificing individual freedom and liberty for an (often sham) communal solidarity and greater good.[^3]
 
 [^3]: This is not the place to offer an exhaustive analysis of the wrongs or rights of these experiments, or their relation to socialistic approaches to organizing the economy or society. However, as one aside, it is arguable that the terrible authoritarian experiences in Russia and China under communisum owed much to their prior authoratarian histories rather than socialism or communism itself. Communitarian experiments on Israeli Kibbutzs and a socialised wartime economy in the US and the UK during the second world war did not result in dicatorship or gulags.
 
 But this does not change the fact that something is wrong.
 
-In this essay, I want to focus on the "spiritual" problem: the disjunction of capitalism with the human spirit. I therefore also locate the solution in the same place. There are many great socio-spiritual philosophies which we can look to, whether emanating from specific figures such as Buddha, Confucius, Jesus, Mohammed or from entire traditions such as the Pali Canon, the Vedas or the Judao-Christian Testaments. Of these all, the teachings of Buddhism, which themselves share much with many other traditions, offer the most powerful insights for our time.
+In this essay, I focus on the "spiritual" problem: the disjunction of capitalism with the human spirit. I therefore also locate the solution in the same place. There are many great socio-spiritual philosophies which we can look to, whether emanating from specific figures such as Buddha, Confucius, Jesus, Mohammed or from entire traditions such as the Pali Canon, the Vedas or the Judao-Christian Testaments. Of these all, the teachings of Buddhism, which themselves share much with many other traditions, offer the most powerful insights for our time.
 
 Why? We are (gradually) reaching a point where the essential needs -- food, shelter, healthcare -- are being met. Yet, in the most (materially) "developed" societies, wants continue to multiply. We seem stuck on a hedonic treadmill, where each need satisfied only breeds another and where despite all our successes we must each still confront the fundamental fact of our ultimate individual death and extinction.
 
@@ -185,5 +180,9 @@ Finally, what happens if the "land issue" is a problem and no technological or o
 There are several obvious potential answers. The most obvious is that States acting on behalf of the great bulk of their populace would take over or otherwise heavily regulate land ownership and rent in order to ensure its affordability, availability and fair distribution. The model might be more one of cooperative group ownership with some kind of rent oversight rather than outright nationalisation or classic rent control to avoid corruption and minimize the distortion of incentives which are so often attendant upon regulation in this area.
 
 For example, we still want choice to operate, for "price" to reflect choice (i.e. if everyone lives by the sea, prices are higher there), for price to incentivize the "creation" of new land or new alternatives to land, and for quality of land and housing to be maintained and improved. At the same time, cooperative living -- perhaps even mass communal living -- may not only be effective as a way of allocating this scarce resource most effectively but also offer its own benefits in terms of connection and mutual support, especially in a world increasingly dominated by the digital where we risk retreating into our isolated cocoons with other human contact increasingly infrequent.
+
+## Credits
+
+*Photographs by Jomjakkapat Parrueng unsplash*
 
 ## Footnotes
