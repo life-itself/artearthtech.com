@@ -1,8 +1,9 @@
 ---
 title: La Cheraille
-slug: la-cheraille
 date: 2017-01-21T13:47:50
 type: hubs
+aliases:
+  - /la-cheraille
 ---
 
 Our main hub is based at La Cheraille, a small farming hamlet near Paris. It is beautiful, natural and secluded -- and easy to get to! Matching our ethos it provides a great environment for reflection, experimentation and collaboration.

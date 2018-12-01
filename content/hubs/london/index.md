@@ -1,6 +1,8 @@
 ---
 title: Art Earth Tech London Hub
 type: hubs
+aliases:
+  - /londonhub
 ---
 
 The Art Earth Tech London Hub in Shoreditch is a refuge from the dreary busyness of city life but retains all the excitement, energy and drive of London’s fast lane. It’s a place to connect and laugh, to learn and share. A space to discuss the trends shaping our society and the ideas that will determine our future; where networks are created to support one another in the projects that evolving our economy and society towards a wiser, greener and weller world.
@@ -20,8 +22,10 @@ If you want to know more about our community please get in touch or join one of 
 
 Please email londonhub@artearthtech.com if you want to chat. We’re a friendly bunch.
 
-<a target="_blank" href="https://www.facebook.com/groups/1474244892695937/about/"> <i class="icon ion-social-facebook" ></i></a> /  <a target="_blank" href="javascript:void(0)"> <i class="icon ion-social-instagram" ></i></a>
+<a target="_blank" href="https://www.facebook.com/groups/1474244892695937/about/"> <i class="icon ion-social-facebook" ></i></a> /
+<a target="_blank" href="https://instagram.com/artearthtech/"> <i class="icon ion-social-instagram" ></i></a>
 
 ## Residency
 
-When applying to the London residency please check <a href="/london-agreement">London house agreement</a></li>.
+When applying to the London residency please check <a href="hub-agreement/">London Hub house agreement</a>.
+
