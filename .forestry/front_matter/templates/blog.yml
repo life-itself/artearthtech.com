@@ -23,4 +23,5 @@ fields:
   name: authors
   label: Authors
 pages:
+- content/blog/the-bitcoin-and-trump-manias-share-a-similar-source.md
 - content/blog/why-i-do-the-leap.md
