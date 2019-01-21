@@ -3,12 +3,13 @@ title: The Bitcoin and Trump Manias Share a Similar Source
 date: 2019-01-06 23:00:00 +0000
 imagePath: roschach-mod.png
 authors: [liamkavanagh]
-
-
 ---
+
 Bitcoin rose to prominence in the last year, like Donald Trump’s came to power the year before, with no track record of delivering what it promised -- but the similarities do not end there. Trump’s supporters attempted to address political powerlessness by relying on a famous political outsider, even one without technical expertise in running a government. Bitcoin was really an untested and purely technological solution to the excessive power of mistrusted governments -- it is supposed to take away their control of information and money, the substance that “makes the world go around.” Both promised to address powerlessness in the political sphere, which we normally rely on to accomplish societal goals, through extra-ordinary abilities.
 
 Trump’s election made a mockery of both traditional pundits and statistical models that, a few short years earlier, had made those pundits look obsolete. Whereas both humans and statistical models expected the future to look like the past, the population was sick of the past. The belief that American politics was capable of delivering change had persisted through many election cycles, but beliefs are like bridges, they are quite stable until sufficiently strained. In face of past results, Americans put their hopes in somebody who looked, sounded and acted differently than most politicians. Donald Trump combines wealth and media exposure, two election-season essentials that act to keep most outsiders away from power. Most importantly, he was such an outsider that he hadn’t had any chance at all to fail voters, yet.
+
+<img src="/images/roschach-mod.png">
 
 It is often what we don’t know about technology that makes us think it can solve social problem. Like a Rorschach inkblot test -- what is seen in unproven tech reflects the perceiver’s inner life. The visions seen by a core group of tech savvy early adopter/investors were the initial driver of Bitcoin’s attention grabbing price rise. They saw, in this nebulous invention of the anonymous legend Satoshi Nakamoto, the possibility to decentralise money and buy anonymously, thereby loosening government control of money and information -- two pillars of power. Early investor/adopters’ purchases of Bitcoin brought its price up, appearing to validate the idea that it could be accepted as a currency (though few products are bought with Bitcoin), which in turn, drove imitation of their investment by less technologically informed investors. Bitcoin prices were then driven further upwards by a mix of actual usage (especially on the dark web), news coverage and the desire to get rich.
 
