@@ -1,6 +1,7 @@
 ---
 title: Synthesis and the Middle Way
 date: 2018-06-22
+imagePath: middle.jpg
 authors: [rufuspollock]
 ---
 
@@ -21,4 +22,3 @@ We seek a [middle way][], a synthesis ...
 
           Collective                        Individual
 </pre>
-

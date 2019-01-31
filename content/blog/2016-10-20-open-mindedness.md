@@ -4,6 +4,7 @@ slug: open-mindedness
 authors: ['rufuspollock']
 date: 2016-10-20
 category: ['institute', 'primers']
+imagePath: open.jpg
 ---
 
 > … Seeing that harmful actions arise from anger, fear, greed, and intolerance, which in turn come from dualistic and discriminative thinking, I will cultivate openness, non-discrimination, and non-attachment to views in order to transform violence, fanaticism, and dogmatism in myself and in the world.
@@ -83,7 +84,7 @@ After telling the story, the Buddha said, ‘If at some point in your lifeyou ad
 
 -   Memory for Fact, Fiction, and Misinformation: The Iraq War 2003 Psychological Science March 2005 16: 190-195
 
--  Nyhan, Brendan, Jason Reifler, and Peter A. Ubel. 2013. ‘The Hazards of Correcting Myths About Health Care Reform’: *Medical Care* 51 (2): 127–32. doi:10.1097/MLR.0b013e318279486b. 
+-  Nyhan, Brendan, Jason Reifler, and Peter A. Ubel. 2013. ‘The Hazards of Correcting Myths About Health Care Reform’: *Medical Care* 51 (2): 127–32. doi:10.1097/MLR.0b013e318279486b.
   -   *http://journals.lww.com/lww-medicalcare/Abstract/2013/02000/The\_Hazards\_of\_Correcting\_Myths\_About\_Health\_Care.2.aspx*
 
 -  Misinformation and Its Correction: Continued Influence and
@@ -116,4 +117,3 @@ After telling the story, the Buddha said, ‘If at some point in your lifeyou ad
 [^3]: See e.g. *http://www.buddhaweb.org/*, *http://gretachristina.typepad.com/greta\_christinas\_weblog/2010/03/secular-buddhism.html*
 
 [^4]: [How Does Mindfulness Meditation Work? Proposing Mechanisms of Action From a Conceptual and Neural Perspective](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.477.2270&rep=rep1&type=pdf),  [Perspectives on Psychological Science , 2011 6: 537, Britta K. Hölzel, Sara W. Lazar, Tim Gard, Zev Schuman-Olivier, David R. Vago and Ulrich Ott] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.477.2270&rep=rep1&type=pdf)
-

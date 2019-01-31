@@ -3,6 +3,7 @@ title: The Four Types of Problems
 date: 2017-09-10
 slug: four-types-of-problem
 authors: [rufuspollock]
+imagePath: four.jpg
 ---
 
 There are four types of problem. Problems of:
@@ -27,4 +28,3 @@ I would argue that progress on the last 3 really comes from the "transformation 
 *A version of this typology first appeared in our post back in April on the ["Logic of Our Purpose and the Reason for our Existence"][purpose] and was earlier posted on http://rufuspollock.com/2017/02/10/two-arms-of-transformation/*
 
 [purpose]: /2017/04/20/logic-of-our-purpose-and-reason-for-our-existence-scqh/
-

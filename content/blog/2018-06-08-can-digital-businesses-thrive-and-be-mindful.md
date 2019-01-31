@@ -2,6 +2,7 @@
 date: 2018-06-08
 title: Can digital businesses thrive and have a mindful culture?
 slug: can-digital-businesses-thrive-and-be-mindful
+imagePath: vr.jpg
 authors: [rufuspollock]
 ---
 
@@ -135,4 +136,3 @@ What can we do to implement the above? We suggest concentrating corporate and pe
 > We know that the bottom line of business is profit. But to *profit* means “to benefit from.” There are many ways one can benefit from being a bodhisattva. If our work brings about well-being, there’s nothing wrong with making money. It’s possible to make money in a way that is not destructive, that promotes more social justice and more understanding and lessens the suffering that exists all around us. To do this, we need to be free from the pursuit of power, wealth, fame, and sex. These four go together. If you don’t practice mindfulness, you’ll be the victim of these four lures. Looking deeply, we see that it’s possible to work in the corporate world in a way that brings a lot of happiness, both to other people and to us. When we’re doing something for the benefit of all humankind and the environment, our work has meaning. Even if it’s also making money, it has meaning, because it can bring well-being to the world.
 
 *Excerpt From: Thich Nhat Hanh. "The Art of Power" Chapter Four*
-
