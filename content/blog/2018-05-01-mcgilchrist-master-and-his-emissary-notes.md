@@ -1,6 +1,7 @@
 ---
 title: Notes on McGilchrist's The Master and His Emissary
 date: 2018-05-01
+imagePath: mcgilchrist.jpg
 slug: mcgilchrist-master-and-his-emissary-notes
 authors: [rufuspollock]
 ---
@@ -101,7 +102,7 @@ My thesis is that for us as human beings there are two fundamentally opposed rea
 
 **Right is whole, left is parts**
 
-One of the more durable generalisations about the hemispheres has been the finding that the left hemisphere tends to deal more with pieces of information in isolation, and the right hemisphere with the entity as a whole, the so-called Gestalt – possibly underlying and helping to explain the apparent verbal/visual dichotomy, since words are processed serially, while pictures are taken in all at once. 
+One of the more durable generalisations about the hemispheres has been the finding that the left hemisphere tends to deal more with pieces of information in isolation, and the right hemisphere with the entity as a whole, the so-called Gestalt – possibly underlying and helping to explain the apparent verbal/visual dichotomy, since words are processed serially, while pictures are taken in all at once.
 
 One of the more durable generalisations about the hemispheres has been the finding that the left hemisphere tends to deal more with pieces of information in isolation, and the right hemisphere with the entity as a whole, the so-called Gestalt – possibly underlying and helping to explain the apparent verbal/visual dichotomy, since words are processed serially, while pictures are taken in all at once
 
@@ -166,7 +167,7 @@ The next paragraphy follows on but is worth taking separately as it flows on its
 
 > Music – like narrative, like the experience of our lives as we live them – unfolds in time. The movement of time is what makes music what it is. Not just that it has ictus and rhythm; its structure extends through and across time, depending on memory to hold it together.
 >
-> Time is the context that gives meaning to everything in this world, and conversely everything that has meaning for us in this world, everything that has a place in our lives, exists in time. This is not true of abstractions and re- presentations of entities, but all that is is subject to time. The sense of time passing is associated with sustained attention, and even if for that reason alone, it is only to be expected that this arises in the right hemisphere, subserved by the right prefrontal cortex and inferior parietal lobe.408 
+> Time is the context that gives meaning to everything in this world, and conversely everything that has meaning for us in this world, everything that has a place in our lives, exists in time. This is not true of abstractions and re- presentations of entities, but all that is is subject to time. The sense of time passing is associated with sustained attention, and even if for that reason alone, it is only to be expected that this arises in the right hemisphere, subserved by the right prefrontal cortex and inferior parietal lobe.408
 
 It is a great illustration of the wonderful mix of poetical philosophy and "hard" aseptic science that is a constant feature of this marvellous book.
 
@@ -177,9 +178,9 @@ The section concludes with this brilliantly constructed climax:
 #### Self-awareness and emotional timbre
 
 > The right hemisphere is also more realistic about how it stands in relation to the world at large, less grandiose, more self-aware, than the left hemisphere.452 The left hemisphere is ever optimistic, but unrealistic about its short-comings.
-> 
+>
 > ...
-> 
+>
 > Denial is a left-hemisphere speciality: in states of relative right-hemisphere inactivation, in which there is therefore a bias toward the left hemisphere, subjects tend to evaluate themselves optimistically, view pictures more positively, and are more apt to stick to their existing point of view.467 In the presence of a right-hemisphere stroke, the left hemisphere is ‘crippled by naively optimistic forecasting of outcomes’.468 It is always a winner: winning is associated with activation of the left amygdala, losing with right amygdala activation.469
 
 #### Conclusion
@@ -215,7 +216,7 @@ A succint encapsulation of a commitment to meaningful enquiry and that there is 
 > *The left hemisphere knows things the right hemisphere does not know*, just as the right knows things of which the left hemisphere is ignorant. But it is only, as I have tried to suggest in earlier chapters, the right hemisphere that is in direct contact with the embodied lived world: the left hemisphere world is, by comparison, a virtual, bloodless affair. In this sense, the left hemisphere is ‘parasitic’ on the right. It does not itself have life: its life comes from the right hemisphere, to which it can only say ‘no’ or not say ‘no’.
 >
 > ...
-> 
+>
 > [p.391] [Romanticism] [it] is the only term we have to refer to a philosophical, as much as cultural, revolution which heralded the beginnings of a reawareness of the power of metaphorical thought, of the limitations of classical, non-paraconsistent logic, and the adoption of non-mechanistic ways of thinking about the world, which belatedly enabled us to **catch up with ideas that have been for centuries, if not millennia, current in Eastern cultures**. With the advent of Romanticism, paradox became once more not a sign of error, but, as it had been seen by Western philosophers before Plato, and by all the major schools of thought in the East before and since, as a sign of the necessary limitation of our customary modes of language and thought, to be welcomed, rather than rejected, on the path towards truth. ‘Paradox is everything simultaneously good and great’, wrote Friedrich Schlegel.96
 
 #### REINTEGRATION AS AUFHEBUNG
@@ -345,7 +346,7 @@ A beautiful, poetic, philosophical piece that is, as usual, rather dense:
 The danger and self-delusion of the left hemisphere:
 
 > Although the left hemisphere does not see and cannot understand what the right hemisphere understands, it is expert at pretending that it does, at finding quite plausible, but bogus, explanations for the evidence that does not fit its version of events. It will be remembered from the experiments of Deglin and Kinsbourne that the left hemisphere would rather believe authority, ‘what it says on this piece of paper’, than the evidence of its own senses. And remember how it is willing to deny a paralysed limb, even when it is confronted with indisputable evidence?
-> 
+>
 > Ramachandran puts the problem with his customary vividness:
 >
 > In the most extreme cases, a patient will not only deny that the arm (or leg) is paralysed, but assert that the arm lying in the bed next to him, his own paralysed arm, doesn't belong to him! There's an unbridled willingness to accept absurd ideas.
@@ -384,7 +385,7 @@ A #cri-de-couer from McGilchrist
 
 ### CHAPTER 12: THE MODERN AND POST-MODERN WORLD
 
-> Capitalism and consumerism, ways of conceiving human relationships based on little more than utility, greed, and competition, came to supplant those based on felt connection and cultural continuity. 
+> Capitalism and consumerism, ways of conceiving human relationships based on little more than utility, greed, and competition, came to supplant those based on felt connection and cultural continuity.
 
 #### SELF-REFERENTIALITY AND THE LOSS OF MEANING
 
@@ -400,7 +401,7 @@ The broader quote (worth adding I think):
 
 Interesting data on rise of schizophrenia with the industrial revolution and other matters:
 
-> What is beyond reasonable doubt, however, since it has been established by repeated research over at least half a century, is that schizophrenia increased pari passu with industrialisation; that the form in which schizophrenia exists is more severe and has a clearly worse outcome in Western countries; and that, as recent research confirms, prevalence by country increases in proportion to the degree that the country is ‘developed’, which in practice means Westernised.59 
+> What is beyond reasonable doubt, however, since it has been established by repeated research over at least half a century, is that schizophrenia increased pari passu with industrialisation; that the form in which schizophrenia exists is more severe and has a clearly worse outcome in Western countries; and that, as recent research confirms, prevalence by country increases in proportion to the degree that the country is ‘developed’, which in practice means Westernised.59
 
 59. Saha, Chant, Welham et al., 2005. Saha, S., Chant, D., Welham, J. et al., ‘A systematic review of the prevalence of schizophrenia’, PLoS Medicine, 2 2005, 2(5), p. e141
 
@@ -412,7 +413,7 @@ Fascinating data point:
 
 The entire section is worth quoting:
 
-> After controlling for all confounding factors, mental health is better in rural than non-rural populations and deteriorates in tandem with population density.60 City dwelling is associated with higher rates of depression, certainly, but even more with schizophrenia, in the genesis, or expression, of which it is the most potent environmental factor.61 The relative risk of developing schizophrenia in an urban rather than a rural setting is nearly double, and the evidence suggests that it is more likely that the urban environment causes psychosis than that high-risk individuals migrate to urban areas.62 The concept of ‘social defeat’ has been developed as an explanation of the high levels of schizophrenia in immigrant populations, particularly those from the West Indies into Britain.63 It is acknowledged that urban environments are more competitive. This is in part a reflection of capitalist culture, which is always most strongly expressed in cities for a host of obvious reasons. It is also because the kind of social order that would have valued an individual for anything other than their earning power has been lost. It's a culture, if that is still the right word for it, of ‘winners’ and ‘losers’. 
+> After controlling for all confounding factors, mental health is better in rural than non-rural populations and deteriorates in tandem with population density.60 City dwelling is associated with higher rates of depression, certainly, but even more with schizophrenia, in the genesis, or expression, of which it is the most potent environmental factor.61 The relative risk of developing schizophrenia in an urban rather than a rural setting is nearly double, and the evidence suggests that it is more likely that the urban environment causes psychosis than that high-risk individuals migrate to urban areas.62 The concept of ‘social defeat’ has been developed as an explanation of the high levels of schizophrenia in immigrant populations, particularly those from the West Indies into Britain.63 It is acknowledged that urban environments are more competitive. This is in part a reflection of capitalist culture, which is always most strongly expressed in cities for a host of obvious reasons. It is also because the kind of social order that would have valued an individual for anything other than their earning power has been lost. It's a culture, if that is still the right word for it, of ‘winners’ and ‘losers’.
 
 Interesting evidence that anorexia is associated with right hemisphere deficits and left hemisphere dominance.
 
@@ -423,7 +424,7 @@ Being begets culture begets being:
 > Thus a culture with prominent ‘schizoid’ characteristics attracts to positions of influence individuals who will help it ever further down the same path. And the increasing domination of life by both technology and bureaucracy helps to erode the more integrative modes of attention to people and things which might help us to resist the advances of technology and bureaucracy, much as they erode the social and cultural structures that would have facilitated other ways of being, so that in this way they aid their own replication.
 
 
-### THE SUCCESS OF MODERNISM 
+### THE SUCCESS OF MODERNISM
 
 Beauty, music and universals
 
@@ -482,27 +483,27 @@ Beauty and the good are real and clear (the left hemisphere's need for precise d
 
 
 > Be that as it may, the left hemisphere loves straight lines, not curves or circles. It can approximate a curve, however closely, only by the expedient of laying ever more tangents. No straight lines are to be found in the natural world. Everything that really exists follows a series of curved shapes to which the logical products of the human mind can only ever approach tangentially – flow, once again, reduced to a series of points. Leonard Shlain has pointed out that the only apparently straight line in the natural world is that of the horizon; but of course that too turns out to be a section of a curve.38 Even space, it turns out, is curved. Rectilinearity, as Ruskin had similarly demonstrated of clarity, is illusory, and can only be approximated, like clarity, by narrowing the breadth, and limiting the depth, of the perceptual field. Straight lines are prevalent wherever the left hemisphere predominates, in the late Roman Empire (whose towns and roads are laid out like grids), in Classicism (by contrast with the Baroque, which had everywhere celebrated the curve), in the Industrial Revolution (the Victorian emphasis on ornament and Gothicism being an ultimately futile nostalgic pretence occasioned by the functional brutality and invariance of the rectilinear productions of machines) and in the grid-like environment of the modern city, where that pretence has been dropped.
-> 
+>
 > By contrast the shape that is suggested by the processing of the right hemisphere is that of the circle, and its movement is characteristically ‘in the round’, the phrase we use to describe something that is seen as a whole, and in depth. Circular motion accommodates, as rectilinearity does not, the coming together of opposites. Cognition in the right hemisphere is not a process of something coming into being through adding piece to piece in a sequence, but of something that is out of focus coming into focus, as a whole. Everything is understood within its penumbra of significances, in its context – all that encircles it. There are strong affinities between the idea of wholeness and roundedness. The movement of the right hemisphere is not the unidirectional, instrumental gesture of grasp, but the musical, whole-bodied, socially generative, movement of dance, which is never in a straight line towards something, but always ultimately returns to its origins.
 
 #### The glint in the maiden's eye [or reasons for hope]
 
 > Similarly in the fruitfulness of opposition, of dialectical growth – what Nietzsche, like Heraclitus, simply calls war – there is hope, since the worse it gets, the better it gets. He quotes, as having long been his motto, Increscunt animi, virescit volnere virtus: ‘The spirit grows, [and] strength is restored, by wounding.’48 And the obvious inauthenticity of the left-hemisphere world we have come to inhabit may in itself lead us to seek to change it. In the past that would appear to have been the most important factor, and I hope I may be wrong in seeing the present situation as different. In any case, understanding the nature of the problem has to be the first step towards change. Change, however, would require a willingness to accept being seen as naïve for not getting caught up in the dialectic of the clever ironies, on the one hand, or of scientific materialism, on the other.
-> 
+>
 > Now, says Hegel, that ‘the oracles … no longer speak to men’, and ‘the statues have become stone corpses’ (there is much in that phrase alone), the remnants of the past, the glories of its art, history and culture, are like ‘beautiful fruit broken off a tree; a kindly fate has passed those works on to us, much as a girl might offer us such fruit’.49 The tree, and the earth in which it grew, and the climate in which the fruit ripened, are no longer available to us except as a ‘veiled remembrance’, something we represent to ourselves by picturing it. Yet, Hegel says, the knowingness with which we now have to recapture this, is like the ‘glint of self-awareness’ in the eye of the beautiful maiden who offers us the fruit; it is the same Nature that produced those fruit, but ‘at a higher level’, and it can add as well as take away.
-> 
+>
 > The contrast is like that between the country folk at the fair which Wordsworth sees from Helvellyn, and Wordsworth's poem on the subject, which, though it lacks an unrecapturable quality of the ‘self unseeing’ that is still available to its subject, is itself a great work at a higher level of self-awareness, which the country folk could not achieve. Of what the ancients were happily unconscious, we are necessarily conscious, Hegel seems to say, but we see more: perhaps as the innocence of the adult, where it is achieved, is greater than the innocence of a child, though bought at the cost of much painful awareness.
-> 
+>
 > But such innocence is rare. Age has a chance of bringing it only if we are very lucky or very disciplined. Wordsworth's achievement, like that of Blake and Keats, is that he retains a degree of innocence despite his experience, an innocence which all three evidence in what one might call their vulnerability. Through it alone they are enabled to achieve an inspired quality which could be mistaken by the foolish, at times, for foolishness. The price of their achievement is that they must make themselves open, even to ridicule, rather than shelter behind a self-protective carapace of ironic knowingness and cynicism.50
-> 
+>
 > Excessive self-consciousness, like the mental world of schizophrenia, is a prison: its inbuilt reflexivity – the hall of mirrors – sends the mind ever back into itself. **Breaking out of the prison presents a problem, since self-consciousness cannot be curbed by a conscious act of will, any more than we can succeed in trying not to think of little green apples. The apple of knowledge, once eaten, cannot become once more ‘unbitten in the palm’. Nonetheless conscious reflection, the root of the problem, may itself provide the antidote to its own effects. Heidegger, Wittgenstein, and Merleau-Ponty, all of them critics of reflection, embodied in their writing a reflective attempt to surmount reflection. Hölderlin's lines once again come to mind: ‘Where there is danger, that which will save us also grows’** (see p. 232).
-> 
+>
 > This is because philosophy does not answer our questions but shakes our belief that there are answers to be had; and in doing so it forces us to look beyond its own system to another way of understanding. One of the reasons reading Heidegger is at the same time so riveting and such a painful experience is that he never ceases to struggle to transcend the Cartesian divisions which analytic language entails, in order to demonstrate that there is a path, a way through the forest, the travelling of which is in itself the goal of human thinking. Though we can emerge into a ‘clearing’, we cannot hope to reach the clear light of the Empyrean, which as Hölderlin's devastating poem Hyperions Schicksalslied makes plain, is reserved only for the gods. Perhaps inevitably Heidegger's last writings are in the form of poems. Wittgenstein also saw the true process of philosophy as a way of transcending or healing the effects of philosophy in the philosophical mind: philosophy is itself a disease, as Karl Kraus said of psychoanalysis, for which it purports to be the cure.51 Merleau-Ponty, more explicitly than either, held out the hope that we could learn to see things again by a process of surréflexion, hyper-reflection, which would help to redress the distorting effects of consciousness by making us conscious of them. This idea had already occurred to the Romantics. At the end of his famous essay ‘On the Puppet Theatre’, Kleist offers the possibility that the crippling effects of self-consciousness may be transcended through a form of still further heightened consciousness, by which we might regain a form of innocence.
-> 
+>
 > ‘Grace appears purest in that human form which has either no consciousness or an infinite one, that is, in a puppet or in a god.’
-> 
+>
 > ‘Therefore’, I said, somewhat bewildered, ‘we would have to eat again from the Tree of Knowledge in order to return to the state of innocence?’
-> 
+>
 > ‘Quite right’, he answered. ‘And that's the last chapter in the history of the world.
 >
 > With that his essay closes. In this last phrase Kleist may be warning us, as Hölderlin does, that what we crave can be had only in another world, where there are gods. But his essay also confirms that we can move only onward, not backward, and that by doing so we might transcend our situation and in this way return to something lost. Perhaps the very emptiness of self-reflection, what Vico called ‘the barbarism of reflection’, may push us towards the necessary leap of faith that alone will allow us to escape. After all, even the emptying out of consciousness achieved by Zen is not a random gift but achieved by years of consciously embraced self-discipline.
@@ -559,7 +560,7 @@ The true value of a man is not determined by his possession, supposed or real, o
 
 #### Key point that is what is offered may be a metaphor (he is not attached to lateralisation)
 
-> If it could eventually be shown definitively that the two major ways, not just of thinking, but of being in the world, are not related to the two cerebral hemispheres, I would be surprised, but not unhappy. Ultimately what I have tried to point to is that the apparently separate ‘functions’ in each hemisphere fit together intelligently to form in each case a single coherent entity; that there are, not just currents here and there in the history of ideas, but consistent ways of being that persist across the history of the Western world, that are fundamentally opposed, though complementary, in what they reveal to us; and that the hemispheres of the brain can be seen as, at the very least, a metaphor for these. 
+> If it could eventually be shown definitively that the two major ways, not just of thinking, but of being in the world, are not related to the two cerebral hemispheres, I would be surprised, but not unhappy. Ultimately what I have tried to point to is that the apparently separate ‘functions’ in each hemisphere fit together intelligently to form in each case a single coherent entity; that there are, not just currents here and there in the history of ideas, but consistent ways of being that persist across the history of the Western world, that are fundamentally opposed, though complementary, in what they reveal to us; and that the hemispheres of the brain can be seen as, at the very least, a metaphor for these.
 
 #### In summation ...
 
@@ -582,7 +583,7 @@ Examples of the connection:
 
 * Interest in phenomenology. Phenomenological thinking has much in common with Buddhist thought, esp as presented by IM.
 * Discussion of interdependency of the hemispheres, the specifics and the whole, context and causation has direct analogy in much of Buddhist thought. Specific example (from the conclusion):
-  
+
   > If one imagines Pavlov's dog, in a different experiment, having repeated experience of the bell being rung after it has started eating, rather than just before it gets food, one would have to say that, when the dog hears the bell in the absence of food, it experiences an association (a mini-context) in which these two events tend to co-occur. It would have as much reason to start to salivate when it heard the bell, but in doing so it would appear less mechanical, less as though its behaviour were caused by the bell. The dog is reduced to a mechanism by the temporal sequencing, an essential part of the concept of causation, and by the stripping away of the context to focus on a sequence. Imagine the smell of alcohol to an alcoholic. Does the smell cause the alcoholic to take a drink – or set up a set of associations, a surrounding context, in which wanting, and having, a drink are part? The dog, too, is appreciating associations or contexts (a right-hemisphere function), not just acting like a left-hemisphere machine: we know, for example, that the sound of its master's voice evokes to a dog an image of its master's face, not because the voice ‘causes’ the face but because they are part of a whole experience.37 Perhaps all cause and effect might be thought of in this way. **A bat striking a ball necessitates the ball flying off suddenly at great speed in a certain direction. But equally the ball flying off suddenly at great speed in a certain direction necessitates the bat striking it in a certain way. One could say that the bat and the ball have a sort of stickiness, a tendency for their movements to cohere in a certain kind of context.**
 
   That last (bolded) sentence especially is very similar to Buddhist ideas around dependent co-arising.
@@ -600,7 +601,7 @@ Examples of the connection:
   > Water is distinct from ice, but in the ice cube it is present: not as a fly might be trapped there, but in the very ice. It is the ice. And yet when the ice cube is gone, the water remains. Although we see water in the ice, we do so not because it is there separately, to be seen behind or apart from the cube. Body and soul, metaphor and sense, myth and reality, the work of art and its meaning – in fact the whole phenomenological world, is just what it is and no more, not one thing hiding another; and yet the hard thing is the seemingly easy business, just ‘seeing what it is’
 * The world both exists and is created by us. Buddhist dependent coarising. e.g. from the Introduction:
 
-  > ... the world is not independent of our observation of it, attention to it, and interaction with it, ... 
+  > ... the world is not independent of our observation of it, attention to it, and interaction with it, ...
 
   > The kind of attention we pay actually alters the world: we are, literally, partners in creation [of the world]
 
@@ -674,4 +675,3 @@ I agree with the thesis here but the evidence that life-satisfaction has *declin
 Again here the obvious argument would be that people report happiness based on comparison -- post WWII happiness levels were v high as people compared the present with the recent terrible past. Today people are comparing with a good past. Plus people's estimate of happiness is based on what they perceive/know. We have much more knowledge today of problems etc etc.
 
 The irony here is i generally agree with McGilchrist but I find the evidence presented in this section [one where i know the evidence well] much less robust and convincing than other sections of the book.
-

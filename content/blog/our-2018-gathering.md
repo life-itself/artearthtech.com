@@ -1,13 +1,15 @@
-+++
-authors = []
-date = "2018-09-18T11:40:41+00:00"
-imagePath = ""
-title = "Our 2018 Gathering"
 
-+++
+---
+title: Our 2018 Gathering
+slug: our-2018-gathering
+date: 2018-09-06 23:00:00 +0000
+imagePath: co_living_Sarah_Hickson.jpg
+authors: [liamkavanagh]
+---
+
 In 2018 the Art Earth Tech annual gathering became a tradition as, for the third time, people came from all around the world to La Cheraille, an intimate tuft of eccentric beauty that protrudes from vast flat expanse of wheat fields outside Rambouillet, France, an hour from Paris. Here Christophe Godefroy has over thirty years created an oasis of forested and flowering gardens on a property his family has been intertwined with over five generations.
 
-After introductions, Sylvie and Rufus introduced participants to the Art Earth Tech philosophy, which includes devotion to a larger vision of life that accepts the primacy of being, of beauty, presence and our subjective quality of life. The A/E/T vision also includes the necessity of community to keep this priority in mind, and fulfilling life in general, the cheerful embrace of the realities of material sustenance, and intellectual engagement with issues of our day. 
+After introductions, Sylvie and Rufus introduced participants to the Art Earth Tech philosophy, which includes devotion to a larger vision of life that accepts the primacy of being, of beauty, presence and our subjective quality of life. The A/E/T vision also includes the necessity of community to keep this priority in mind, and fulfilling life in general, the cheerful embrace of the realities of material sustenance, and intellectual engagement with issues of our day.
 
 The gathering is curated with a view to balancing the intellectual and intuitive by interspersing talks and discussions with “embodiment activities” including morning meditation and yoga, blindfolded exploration and running, ecstatic dancing, meditation, sharing circles, and a workshop on healing touch. This record focuses on talks not because they are more important but because words can’t do justice to the rest.
 
@@ -17,7 +19,7 @@ Naima Ritter Figures, Penny Clark, Tom Manwell and, Noah Walton, discussed consc
 
 Noah Walton discussed his project of creating the first eco-hostel in London: Eco Soul. The envisioned project would target people who are good co-livers and interested in ecological issues to create a hostel with a real sense of community, and an atmosphere that would attract regulars, of all ages who travel frequently to London.  Noah who is an experienced architect and co-liver, answered numerous questions from the audience about the funding, business plan and means of finding clientele, as well as discussing the success of similar projects in other European capitals.
 
-In perhaps the most memorable presentation, the duo of Mark and Poppy, partners in life and aesthetic obsession, shared their struggle to inject their philosophy and artistic sensibility, into the interior of the AET London Hub. Their look, like that of La Cheraille, has much to do with the Japanese idea of Wabi Sabi — a beauty of “asymmetry, roughness, simplicity, economy, and appreciation of the ingenuous integrity of natural objects and processes.” Their craft, developed over itinerant years, is reflected in buildings and interiors in Canada, the US, and Europe and their always just-running 1962 Triumph, and two contrapuntal dogs, Pixie and Boy. 
+In perhaps the most memorable presentation, the duo of Mark and Poppy, partners in life and aesthetic obsession, shared their struggle to inject their philosophy and artistic sensibility, into the interior of the AET London Hub. Their look, like that of La Cheraille, has much to do with the Japanese idea of Wabi Sabi — a beauty of “asymmetry, roughness, simplicity, economy, and appreciation of the ingenuous integrity of natural objects and processes.” Their craft, developed over itinerant years, is reflected in buildings and interiors in Canada, the US, and Europe and their always just-running 1962 Triumph, and two contrapuntal dogs, Pixie and Boy.
 
 Creating this feel in the recently purchased London hub, which serves as the permanent residence of three community members and an active meeting place in London, and which was, upon its recent purchase, a monument to bland cost efficiency, was hard. Mark and Poppy vulnerably shared the tension that developed between their artistic devotion and another core value of AET “shipping on time.” Their recounting of the ultimate resolution of this tension after deep and raw communication with the community drew laughs and warmed the hearts of all present.
 
@@ -33,5 +35,5 @@ Laurie Parma and I lead a discussion on the well being movement which aims to re
 
 In addition to all these presentations, we had group discussions about a wiser relationship with wealth and with technology, education, and the in depth discussion of the realities of co-living as well Art Earth Tech’s specific efforts in these areas.
 
-  
+
 Liam Kavanagh
