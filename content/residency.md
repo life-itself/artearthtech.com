@@ -19,7 +19,7 @@ Please fill in the following form: https://docs.google.com/forms/d/e/1FAIpQLSdRk
 
 The cost of each residency is as follows (well below market rates in each case):
 
-* <a href="/londonhub" target="_blank">London</a> (near Old Street): €700 per month (€23 per night)
+* <a href="/londonhub" target="_blank">London</a> (near Old Street): €770 per month
 * <a href="/taipeihub" target="_blank">Taipei</a> €1000 per month for two people (€16,5 per night per person)
 * <a href="/la-cheraille" target="_blank">La Cheraille</a> (Flower farm 45 minutes from Paris): €525 per month (€17 per night)
 
