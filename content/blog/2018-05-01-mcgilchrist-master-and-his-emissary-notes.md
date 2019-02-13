@@ -8,7 +8,7 @@ authors: [rufuspollock]
 
 Notes on McGilchrist's *The Master and His Emissary: The Divided Brain and the Making of the Western World*.
 
-This is an extraordinary book. Its breadth and learning are awe-inspiring, its topic of profound importance, its argument fascinating, thought-provoking and compelling. It defies categorisation: it is a work of reasoned ontology that bridges science and philosophy, history and literary criticism. It talks about the most important questions of how we "be in the world", using reason and language but transcending them, a worthy exemplar of a "finger pointing at the moon".
+This is an exceptional and extraordinary book. Its breadth and learning are awe-inspiring. Its topic of profound importance, its argument fascinating, thought-provoking and compelling. It defies categorisation: it is a work of reasoned ontology that bridges science and philosophy, history and literary criticism. It talks about the most important questions of how we "be in the world", using reason and language but transcending them, a worthy exemplar of a "finger pointing at the moon".
 
 # Summary
 
@@ -18,24 +18,25 @@ Brain lateralization exists i.e. that there are differences in function and cons
 
 ## 2. Brain lateralization is significant
 
-Significant not just in the basic sense that, say, language is left-lateralized but in the deeper sense that there is, crudely, a left-brain and right-brain way of seeing and being in the world. (Note: the two hemispheres work in collaboration and almost no function is completely lateralized)
+Brain lateralization is significant. Significant not just in the basic sense that, say, language is left-lateralized but in the deeper sense that there is, crudely, a left-brain and right-brain way of seeing and being in the world. (Note: the two hemispheres work in collaboration and almost no function is completely lateralized)
 
-* Left-brain: perceive in pieces, serially. Analytical, logical, dislikes paradox. Focused on the familiar, on categorising. Language and symbols. Grabbing, controlling, goal-oriented (it controls the right hand which is usually dominant).
-* Right-brain: gestalt, sees a whole, all at once. Experiencing, comprehending, happy with contradiction, common-sense. Focused on the new, on discovery, on relations and connectedness (rather than difference and categories). Handles metaphor and music.
+**Left-brain**: the left brain perceives in pieces, serially. Analytical, logical, dislikes paradox. Focused on the familiar, on categorising. Language and symbols. Grabbing, controlling, goal-oriented (it controls the right hand which is usually dominant).
+
+**Right-brain**: the right brain is gestalt, it sees as a whole, all at once. It is the source of experiencing and comprehending. It is happy with contradiction, the seat of common-sense. Focused on the new, on discovery, on relations and connectedness (rather than difference and categories). Handles metaphor and music.
 
 ## 3. The left-brain should be the servant of the right brain.
 
-The left-brain should be the servant of the right brain.  It is the right brain that sees the world as a whole.
+The left-brain should be the servant of the right brain. It is the right brain that sees the world as a whole.
 
 As McGilchrist puts it: the right brain experience goes out into the left brain and then comes back to form a coherent whole in the right brain ...
 
 ## 4. But the left brain is taking over
 
-But, at least in western culture, the left brain (or the left brain way of seeing the world) has been taking over. The servant is usurping the master -- the emissary has taken over from the master.
+But, at least in western culture, the left brain (or the left brain way of seeing the world) has been taking over. The servant is usurping the master -- the emissary has become the master.
 
 We can trace periods where the balance between the hemispheres has changed with the left or right more dominant. Part II of the book provides fascinating argument and evidence for this claim.
 
-[ed: necessarily this section is much more speculative: McGilchrist is  talking about vast swathes of human history in all its complexity and then seeking to demonstrate a connection with the initial speculation about hemisphere based ways of seeing the world. I see this section as more fascinating than convincing -- and as somewhat secondary to the main thrust of the argument. This is something McGilchrist himself acknowledge: "These thoughts [in Part II] are inevitably contingent, to some extent fragmentary and rudimental. [Introduction]"
+[ed: necessarily this section is much more speculative: McGilchrist is  talking about vast swathes of human history in all its complexity and then seeking to demonstrate a connection with the initial evidence for hemispherical differences in ways of seeing the world. I see this section as more fascinating than convincing -- and as somewhat secondary to the main thrust of the argument. This is something McGilchrist himself acknowledge: "These thoughts [in Part II] are inevitably contingent, to some extent fragmentary and rudimental. [Introduction]"
 
 ## 5. Especially in the West
 
@@ -47,8 +48,6 @@ In the West today "left-hemisphere" ways of thinking and being have taken over (
 
 This is so problematic because the hemispheres literally create [our perception of] the world and so if the left hemisphere takes over it can blind us to its own errors -- creating the world in its own image.
 
-...
-
 > Here I suggest that it is as if the left hemisphere, which creates a sort of self-reflexive virtual world, has blocked off the available exits, the ways out of the hall of mirrors, into a reality which the right hemisphere could enable us to understand. In the past, this tendency was counterbalanced by forces from outside the enclosed system of the self-conscious mind; apart from the history incarnated in our culture, and the natural world itself, from both of which we are increasingly alienated, these were principally the embodied nature of our existence, the arts and religion. In our time each of these has been subverted and the routes of escape from the virtual world have been closed off. An increasingly mechanistic, fragmented, decontextualised world, marked by unwarranted optimism mixed with paranoia and a feeling of emptiness, has come about, reflecting, I believe, the unopposed action of a dysfunctional left hemisphere.
 
 ## 7. There is room for hope
@@ -57,7 +56,7 @@ There is room for hope, not least the existence of other cultures less infected 
 
 ## (My) Conclusion
 
-There is much serious ontology in the book, in fact you could think of the entire book as entirely dedicated to a kind of scientific ontology. Scientific not simply in the sense of using neuroscience but in the way buddhism is scientific: in being critically open-minded, in being based in reason rather than rationality. The position McGilchrist reaches, heavily grounded in phenomenology, is one that is very close to Buddhist ontology [ed: and one I largely agree with]:
+There is much serious ontology in the book, in fact you could think of the entire book as dedicated to a kind of scientific ontology. Scientific not simply in the sense of using neuroscience but in the way buddhism is scientific: in being critically open-minded, in being based in reason rather than rationality. The position McGilchrist reaches, heavily grounded in phenomenology, is one that is very close to Buddhist ontology e.g. interdependent co-arising [ed: and one I largely agree with]:
 
 > "... the world is not independent of our observation of it, attention to it, and interaction with it, ..."
 >
@@ -65,7 +64,9 @@ There is much serious ontology in the book, in fact you could think of the entir
 
 ## My Comments
 
-McGilchrist spends half the book (Part I) setting out evidence on differences between the hemispheres and their way of seeing the world. However, ultimately the lateralisation point is secondary to the central argument that there are different ways of seeing the world and that one of these (the right brain version) is preferable / better / more correct. In this sense the lateralisation analysis serves more as a motivation and basis for enquiry. The latter in the sense that the neuroscience helps us build up a picture of these two different ways of seeing the world which might be difficult other cf (from the Introduction) " ... why do I not just deal with mind, and forget about the brain? And in particular why should we be concerned with the brain's structure? ... After all, my pancreas is doing fine, without my being able to remember much about its structure. ... [but] the structure of the brain is likely to tell us something we otherwise could not so easily see."
+McGilchrist spends half the book (Part I) setting out evidence on differences between the hemispheres and their way of seeing the world. However, ultimately the lateralisation point is secondary to the central argument that there are different ways of seeing the world and that one of these (the right brain version) is preferable / better / more correct. 
+
+In this sense the lateralisation analysis serves more as a motivation and basis for enquiry than the main point. For example, the (lateralisation) neuroscience helps us build up a picture of these two different ways of seeing the world which might be difficult otherwise: (from the Introduction) " ... why do I not just deal with mind, and forget about the brain? And in particular why should we be concerned with the brain's structure? ... After all, my pancreas is doing fine, without my being able to remember much about its structure. ... [but] the structure of the brain is likely to tell us something we otherwise could not so easily see."
 
 Connection with Buddhism: there is a huge overlap with Buddhist teaching but one that McGilchrist seems only vaguely aware of. He gets closest to making a connection in a section of the conclusion on "The Oriental Mind" which suggests that Oriental thinking is more right brain and offers hope for the west.
 
@@ -75,11 +76,11 @@ The book also includes one of the most beautiful expositions in a "western style
 
 ----
 
-*Note on page numbering: the various PDFs I have differ in their total number of pages. My desktop copy has 1094 whilst my mobile has around 868*
-
 # Excerpts and Commentary
 
 *What follows below are excerpts from particular sections of the book with occasional comments. Note excerpting is somewhat sporadic depending less on the importance or interest of a section and more to the coincidence of reading and having my laptop to hand.*
+
+*Note on page numbering: the various PDFs I have differ in their total number of pages. My desktop copy has 1094 whilst my mobile has around 868.*
 
 ## Introduction
 
@@ -97,7 +98,7 @@ My thesis is that for us as human beings there are two fundamentally opposed rea
 
 *Here he sets out in summary much of the thesis about brain lateralization and its relation to "ways of being" in the world.*
 
-> What is it they do that is so different? Well, I will argue, nothing much: it is quite true that almost everything we once thought went on in one or other hemisphere alone is now known to go on in both.5 So where does that leave the pursuit of hemisphere differences? Right on track. The whole problem is that we are obsessed, because of what I argue is our affiliation to left-hemisphere modes of thought, with ‘what’ the brain does – after all, isn't the brain a machine, and like any machine, the value of it lies in what it does? I happen to think this machine model gets us only some of the way; and like a train that drops one in the middle of the night far from one's destination, a train of thought that gets one only some of the way is a liability. The difference, I shall argue, is not in the ‘what’, but in the ‘how’ – by which I don't mean ‘the means by which’ (machine model again), but ‘the manner in which’, something no one ever asked of a machine. I am not interested purely in ‘functions’ but in ways of being, something only living things can have.
+What is it they do that is so different? Well, I will argue, nothing much: it is quite true that almost everything we once thought went on in one or other hemisphere alone is now known to go on in both.5 So where does that leave the pursuit of hemisphere differences? Right on track. The whole problem is that we are obsessed, because of what I argue is our affiliation to left-hemisphere modes of thought, with ‘what’ the brain does – after all, isn't the brain a machine, and like any machine, the value of it lies in what it does? I happen to think this machine model gets us only some of the way; and like a train that drops one in the middle of the night far from one's destination, a train of thought that gets one only some of the way is a liability. The difference, I shall argue, is not in the ‘what’, but in the ‘how’ – by which I don't mean ‘the means by which’ (machine model again), but ‘the manner in which’, something no one ever asked of a machine. I am not interested purely in ‘functions’ but in ways of being, something only living things can have.
 
 
 **Right is whole, left is parts**
@@ -134,7 +135,7 @@ Because I am involved in redressing a balance, I may at times seem to be sceptic
 
 > Self-awareness, empathy, identification with others, and more generally inter-subjective processes, are largely dependent upon … right hemisphere resources.’194 When we put ourselves in others' shoes, we are using the right inferior parietal lobe, and the right lateral prefrontal cortex, which is involved in inhibiting the automatic tendency to espouse one's own point of view.195 In circumstances of right-hemisphere activation, subjects are more favourably disposed towards others and more readily convinced by arguments in favour of positions that they have not previously supported.196
 
-Assuming you are autistic that means you are more in my left than than in my right hemisphere (equivalently you are more left brain than right brain). It explains much - eg a propensity to cataloging things such as datasets.
+Assuming you are autistic that means you are more in your left than than in your right hemisphere (equivalently you are more left brain than right brain). It explains much - eg a propensity to cataloging things such as datasets.
 
 Aside: given right hemisphere concern with "living things" and left with inanimate I wonder where robots and computers go.
 
@@ -149,13 +150,13 @@ But is this changing as computers become more lifelike?
 
 #### Music and Time
 
-* Music lives in right hemisphere even though language is in the left
+Music lives in right hemisphere even though language is in the left
 
-Music and our physiology
+Music and our physiology:
 
 > We are all aware of the many ways in which music affects us physically through our emotions. Musical phrases act like metaphors emanating from, and enormously expanding the meaning of, movement in and of the body: rising, falling, pulsing, breathing. Many features of music, including obviously syncopations, but also melodic appoggiaturas and enharmonic changes, set up patterns of expectation which are ultimately either confirmed or disappointed;381 and this process leads to physiological reactions such as alterations in breathing, or changes in heart rate, in blood pressure, and even in temperature, as well as bringing us out in a sweat, bringing tears to our eyes, or making our hair stand on end.382 Such changes are again mediated through the right hemisphere's vital connection with subcortical centres, with the hypothalamus, and with the body in general.
 
-On sadness and music
+On sadness and music:
 
 > It has been said that music, like poetry, is intrinsically sad,383 and a survey of music from many parts of the world would bear that out – not, of course, that there is no joyful music, but that even such music often appears to be joy torn from the teeth of sadness, a sort of holiday of the minor key. It is what we would expect in view of the emotional timbre of the right hemisphere; and there is a stronger affinity between the right hemisphere and the minor key, as well as between the left hemisphere and the major key.384 The pre-Socratic philosopher Gorgias wrote that ‘awe [phrike] and tearful pity and mournful desire enter those who listen to poetry’, and at this time poetry and song were one.385
 
