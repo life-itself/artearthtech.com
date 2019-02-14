@@ -1,13 +1,15 @@
 ---
 title: Notes on Ken Wilber's Integral Spirituality
 date: 2019-01-22
-imagePath: mcgilchrist.jpg
+imagePath: ken-wilber.jpg
 slug: ken-wilber-integral-spirituality
 notebook: yes
 authors: [rufuspollock]
 ---
 
 Reading Integral Spirituality. Really amazing. I suspect the casual writing, poor editing and poor branding (name and cover) get in the way of Wilber's monumental achievement. It is overbrimming with insight, rich in depth and packed with structural insights into the nature of knowing and being that keep having me repeatedly going "oh yes, now that makes sense." Once you've got it you never go back.
+
+<img src="/images/ken-wilber-quote.jpg">
 
 I can try summarizing quickly some of the main things:
 
@@ -35,6 +37,8 @@ Just labellign all this stuff is helpful:
 
 He also has inside and outside on each of these to give 8 zones (I'm still working this one out fully).
 
+<img src="/images/ken-wilber-map.jpg">
+
 ### Wilber-Coombs lattice
 
 Wilber-Coombs lattice. A super useful distinction of states vs stages. States = states of "consciousness/awareness" from egoic out to full non-duality whilst stages correspond to value paradigms. Seeing these as two independent, orthogonal axes of development was like "Oh yeah" and helps clear up a lot of confusion e.g. enlightenment being used for states but not stages (so it explains why you can have people who are very advanced in e.g. meditation but who are not advanced in stages). This allows Wilber to define "full" enlightenment as all states, all stages.
@@ -60,6 +64,8 @@ An explanation of the (missing) role of spirituality -- crudely in transition to
 - 4 judgments / dimensions of: spirituality, morals, aesthetics and science
 - Why missing spirituality is such a big deal and is causing such friction: "amber" crashing into "orange" and "green". "Level-line" dysfunction: in orange spirituality has been eliminated and science has taken over everything.
 
+
+
 ### Plural parallels singular and society is not a super-organism
 
 That plural parallels singular rather than extending it. Put simply: societies are not the next level up from organisms (in the way organisms are the next level up from cells). So leviathan style metaphors are misleading. And "Gaia" style paradigms: atom => molecule => ... => cell => organism => family => tribe => society are fundamentally flawed. Plurals parallels I but they are not extensions. Basic argument is that I items (e.g. atom, molecule, cell, organism) have a "dominant monad" -- the thing moves together e.g. if i walk over there every cell in my body walks over there. This is not generally true of collections of organisms e.g. human societies.
@@ -72,7 +78,7 @@ He has the cultural trauma idea (western orange (i.e. enlightenment) repression 
 
 Asides/improvements (mainly of communication):
 
-- is the colour spectrum the best communication model for stages (which I think comes from Graves and spiral dynamics) 
+- is the colour spectrum the best communication model for stages (which I think comes from Graves and spiral dynamics)
 - reduce the chattiness
 - reduce the critique of other models (often spot on but unnecessary and somehow diminishing even if correct)
 - so many ideas in one place (with a lot of notation and abbreviations!)
@@ -96,7 +102,7 @@ And finally this linked up with my interest in group both for the practicality a
 To summarize, all roads led to culture:
 
 * Ontology (own well-being and phenomenology, meditation, landmark etc) => we don't exist in a vacuum, our "being" (and esp views) come from our ancestors, friends, school ... => culture
-* History, economics, anthropology etc (my attraction to deep, simple explanations (e.g. plate tectonics) of human phenomena a la annales school, evolutionary psych, what are the possible orderings of a society and e.g. why does patriarchy happen so much etc) => culture 
+* History, economics, anthropology etc (my attraction to deep, simple explanations (e.g. plate tectonics) of human phenomena a la annales school, evolutionary psych, what are the possible orderings of a society and e.g. why does patriarchy happen so much etc) => culture
 * Politics and social change => collective action and collective view problems (why do people believe the things they do? Well, it is socially co-created ...) => culture (values, shared assumptions, ways of working, sense of identity "imagined communities")
 * Practical community building => why do people struggle to live and align together => culture (esp values and practices)
 * Practical business building => why do companies succeed / fail => economic niche (monopolies are great however you are) + culture + strategy. But economic niches are hard to find (everyone is looking for them and often only obvious in retrospect and culture dominates strategy so in any semi-competitive environment (not an economic niche) culture is probably decisive over the longer run => culture
@@ -116,4 +122,3 @@ More intellectually (i.e. of less immediate practical importance)
 - How did we come to be the way we are? And how contingent vs inevitable was that (markov chains theorm). Specifically, around our political, social and economic institutions and, at the personal level, our being. cf Albion's Seed.
 - How do ontology and culturology interact? How does individual being come from group and (of lesser interest actually) the group from the individual (though this latter is important when it comes to collective action problems)
 - Is the limit of the consensual state the imagined community and how has (and how can) that grow over time and are their limits to that? And can we alter them by our own efforts either via psycho-spiritual means e.g. meditation, spiritual development; social means e.g. institutions or technological means e.g. trust metrics (on these latter i am super sceptical). Practically, this relates to my current hypothesis that the limits of the social democratic state is in the low tens of millions and that ultra-large "democratic" states such as the US, Brazil or the EU are necessarily dysfunctional at our current state of psycho-social development and group identification.
-
