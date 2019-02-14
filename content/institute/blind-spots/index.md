@@ -7,7 +7,8 @@ aliases:
 
 Blind Spots is our new series of conversations exploring the collective blind spots of our society.
 
-What is holding us back from creating a powerful vision for our future? What's behind the rise in populism? What's stopping us addressing climate change effectively? Why is it that we often react with skepticism and fear to words such as "utopia", "spritituality" or "big vision"?
+What is holding us back from creating a powerful vision for our future? What's behind the rise in populism? What's stopping us addressing climate change effectively?
+
 
 ## What is a blind spot?
 
@@ -15,9 +16,14 @@ Literally a blind spot is a part of our visual field we can't see -- and which w
 
 More generally, imagine you are in your car parking at the supermarket, you look around, check, then back up and CRASH! You've driven into a pole. When you get home, your partner says "Didn’t you look and check your mirrors?!" You say "Of course I did! But it was in my blind spot!"
 
+<img src="/images/carcrash.jpg">
+
 Our blind spots are not only what we can’t see but what we can’t see that we can’t see. What we don’t know and that we don’t know that we don’t know.
 
 In this series we are interested in our **collective** blind spots: those things that are collectively invisible to us, but which are holding us back. For example, why can’t we envision anything better than slight upgrades from capitalism 2.0 to 2.1? Why is it that the words such as "utopia", "community", "spirituality" or "big vision" are met automatically with skepticism or fear?
+
+
+
 
 ## Why is looking at our blind spots important?
 
@@ -31,11 +37,8 @@ There is a longing for community and belongingness yet there is a huge fear of c
 
 Why is it we can't talk about politics and religion in a civilised way?
 
-TODO: insert image from this [link1][]
+<img src="/images/pub.jpg">
 
-TODO / Aside: the concept of trauma as applied to the collective
-
-[link1]: https://www.google.fr/search?q=pub+sign+no+politics+religion&client=opera&hs=uzW&source=lnms&tbm=isch&sa=X&ved=0ahUKEwie4L6Wm7HgAhWJLVAKHQEECLYQ_AUIDigB&biw=1372&bih=780#imgrc=_
 
 ## Blind Spots event series
 
@@ -56,4 +59,3 @@ Coming soon
 Contact [Liam Kavanagh][liam], Director of the AET Institute.
 
 [liam]: /people/
-
