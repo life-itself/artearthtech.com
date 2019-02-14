@@ -1,38 +1,53 @@
 ---
 date: 2019-02-06
-title: Blind Spots Conference with Roberto Unger Sunday 17th March
+title: "Blind Spots #1: From Brexit to Bolsonaro - A Conversation with Roberto Unger on the Knowledge Economy and the Rise of Populism"
 publishDate: 2017-10-10
-slug: blind-spots-conference-roberto-unger
+slug: blind-spots-roberto-unger-from-brexit-to-bolsonaro
 eventdate: 2019-02-06
 section: events
-logoPath: blindspots.jpg
-imagePath: blindspots.jpg
-authors: [Sylvie Barbier]
+logoPath: blindspots05.jpg
+imagePath: blindspots05.jpg
+authors: [SylvieBarbier]
 ---
 
-Blind Spots is our new serie of conferences on what are the collective Blind spots of our society?
-Why are we hold back from powerfully creating an inspiring vision for our world?
-Why is it that our world seems to be in a vicious circle of capitalism 1.0 to 2.3 with just better management?
-Why is it that the words "Utopia, commmnity, spritituality or Big vision" people react with skepticism and fear?
+
+Blind Spots is [our new series of conferences][blindspots] exploring the collective blind spots of our society.
+
+***[Book your ticket now &raquo;][book]***
+
+
+What is holding us back from creating a powerful and inspiring vision for our future? Why do we seem stuck in making minor upgrades to managerial capitalism?
+
+<img src="/images/blindspots05.jpg">
+
+[blindspots]: /institute/blind-spots/
+[unger]: http://www.robertounger.com/en/
+
+For our first event on Sunday 17th March we are excited to welcome [Professor Roberto Unger][unger] of Harvard Law School. One of the youngest law professors in Harvard's history at 29, he played a significant role in bringing democracy back to Brazil, served in Lula's government as a minister and has been called “a prophet” by the famed philosopher Richard Rorty. A key influence and inspiration to Obama he was also one of Obama's toughest critics, memorably arguing against Obama's second term.
 
 <img src="/images/roberto-unger.jpg">
 
-On Sunday 17th March we will have the privilege to have a special guest Dr Roberto Unger profesor at Havard Law school and
-who's political activity helped the transition to democracy in Brazil.
+Unger is the author of several important and groundbreaking works, most recently “The Future of American Progressivism” and “The Knowledge Economy". For decades, he has been a [pragmatic utopian][utopian], working to envision a practical path to a radically better future at a time when such political dreams were unfashionable. An outspoken critic of neoliberalism and a prophet before his time, he early identified the ideological bankruptcy of managerial capitalism. Now, at a time when history seems to be proving him right, we should learn all what  we can from this pioneering voice.
 
-The event will be an space for authentic share of differents view to what has lead us to Trump, the Brazilian election and Brexit?
+[utopian]: /2017/10/20/pragmatic-utopians/
 
-At Art/ Earth / Tech we believe that it is important and crucial to engage in these big conversation to look at what is in our way as a society to come up with a New Big Vision and act powerfully on it.
+***[Book your ticket now for £5 &raquo;][book]***
 
-<img src="/images/blindspots.jpg">
+At Art / Earth / Tech we believe that it is crucial to engage in big conversations to examine what is in our way as a society and how we can create a big vision for our future and act powerfully on it.
 
-The conference will be facilitated by Dr Rufus Pollock an Economist and Technologist founder of Open Knowledge and Dr Liam Kavanagh cognitive scientist and Director of the Art / Earth / Tech institute.
+The conference will be facilitated by Dr Rufus Pollock, economists, technologist and author of the [Open Revolution][openrev] and Dr Liam Kavanagh cognitive scientist and Director of the Art / Earth / Tech institute.
 
-The Event will take place on **Sunday the 17th of March 4-6pm at Newspeak House, 133 Bethnal Green Rd,
+The Event will take place on **Sunday the 17th of March 4-6pm at Newspeak House, 133 Bethnal Green Road,
 London E2 7DG.**
 
-Tickets are available here: https://ti.to/art-earth-tech/blind-spots-18th-feb-2019
+***[Book your ticket now &raquo;][book]***
+
 
 Facebook event: https://www.facebook.com/events/238314347057170/
 
-Come join us for two hours of intellectual discovery where we travel with our minds to place we usually never go,discovering what are our blind-spots.
+Come join us for two hours of intellectual discovery where we travel with our minds to place we usually never go and discover our collective blind spots.
+
+
+[book]: https://ti.to/art-earth-tech/blind-spots-17-march-2019
+
+[openrev]: https://openrevolution.net/
