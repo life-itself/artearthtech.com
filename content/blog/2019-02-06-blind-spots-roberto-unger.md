@@ -1,15 +1,13 @@
 ---
 date: 2019-02-06
-title: "Blind Spots #1: From Brexit to Bolsonaro - A Conversation with Roberto Unger on the Knowledge Economy and the Rise of Populism"
-publishDate: 2017-10-10
-slug: blind-spots-roberto-unger-from-brexit-to-bolsonaro
+title: "Blind Spots #1: The knowledge economy, the progressive project and the future of Britain with Roberto Unger"
+slug: blind-spots-roberto-unger-future-of-britain
 eventdate: 2019-02-06
 section: events
-logoPath: blindspots05.jpg
-imagePath: blindspots05.jpg
-authors: [SylvieBarbier]
+logoPath: blindspots06.jpg
+imagePath: blindspots06.jpg
+authors: [sylviebarbier]
 ---
-
 
 Blind Spots is [our new series of conferences][blindspots] exploring the collective blind spots of our society.
 
@@ -18,7 +16,7 @@ Blind Spots is [our new series of conferences][blindspots] exploring the collect
 
 What is holding us back from creating a powerful and inspiring vision for our future? Why do we seem stuck in making minor upgrades to managerial capitalism?
 
-<img src="/images/blindspots05.jpg">
+<img src="/images/blindspots06.jpg">
 
 [blindspots]: /institute/blind-spots/
 [unger]: http://www.robertounger.com/en/

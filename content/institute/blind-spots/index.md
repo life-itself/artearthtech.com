@@ -44,7 +44,7 @@ Why is it we can't talk about politics and religion in a civilised way?
 
 As part of our work on Blind Spots we are organizing a series of conversations.
 
-* #1 The Rise of Populism and the Bankruptcy of Vision of Managerial Capitalism - Roberto Unger
+* #1 The Bankruptcy of Vision of Managerial Capitalism - Roberto Unger
 * #2 Respiritualising Society - why are we scared of religion and disconnnected from our spirituality?
 * #3 2019 Gathering - our annual [gathering][] will explore blind spots ranging from the myth of equality to techno-solutionism
 
