@@ -13,7 +13,6 @@ Blind Spots is [our new series of conferences][blindspots] exploring the collect
 
 ***[Book your ticket now &raquo;][book]***
 
-
 What is holding us back from creating a powerful and inspiring vision for our future? Why do we seem stuck in making minor upgrades to managerial capitalism?
 
 <img src="/images/blindspots06.jpg">
@@ -33,13 +32,11 @@ Unger is the author of several important and groundbreaking works, most recently
 
 At Art / Earth / Tech we believe that it is crucial to engage in big conversations to examine what is in our way as a society and how we can create a big vision for our future and act powerfully on it.
 
-The conference will be facilitated by Dr Rufus Pollock, economists, technologist and author of the [Open Revolution][openrev] and Dr Liam Kavanagh cognitive scientist and Director of the Art / Earth / Tech institute.
+The conference will be facilitated by Dr Rufus Pollock, economist, technologist and author of the [Open Revolution][openrev] and Dr Liam Kavanagh cognitive scientist and Director of the Art / Earth / Tech institute.
 
-The Event will take place on **Sunday the 17th of March 4-6pm at Newspeak House, 133 Bethnal Green Road,
-London E2 7DG.**
+The Event will take place on **Sunday the 17th of March 4-6pm at Newspeak House, 133 Bethnal Green Road, London E2 7DG.**
 
 ***[Book your ticket now &raquo;][book]***
-
 
 Facebook event: https://www.facebook.com/events/238314347057170/
 
