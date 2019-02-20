@@ -1,6 +1,6 @@
 ---
 date: 2019-02-06
-title: "Blind Spots #1: The knowledge economy, the progressive project and the future of Britain with Roberto Unger"
+title: "Blind Spots #1: The Knowledge Economy, the Progressive Project and the Future of Britain with Roberto Unger"
 slug: blind-spots-roberto-unger-future-of-britain
 eventdate: 2019-02-06
 section: events
@@ -29,7 +29,7 @@ Unger is the author of several important and groundbreaking works, most recently
 
 [utopian]: /2017/10/20/pragmatic-utopians/
 
-***[Book your ticket now for £5 &raquo;][book]***
+***[Book your ticket now for £8 &raquo;][book]***
 
 At Art / Earth / Tech we believe that it is crucial to engage in big conversations to examine what is in our way as a society and how we can create a big vision for our future and act powerfully on it.
 
