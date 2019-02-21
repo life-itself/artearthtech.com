@@ -40,15 +40,38 @@ Why is it we can't talk about politics and religion in a civilised way?
 <img src="/images/pub.jpg">
 
 
+## Blind Spot Examples
+
+**Disbelief in Politics & Distrust of the State**
+<p> What is our incapacity to act on climate change other than the symptom of a blind spot? How come there is such disbelief in political answers and institutions? A disbelief which leads to a chronic scepticism in our society about organised group action. Today, instead of politics and the state we are entrusting our collective future to individual initiative, NGOs and private corporations. What is the source of this distrust in the state, in organized collective action, of disbelief politics? And where is it holding us back? </p>
+
+**The Rise of Populism**
+<p> Trump, Brexit, Bolsonaro … For many, these results were unexpected, even unimaginable – symptomatic of a collective blind spot.  Conventional party politics is being disrupted, dictatorship is on the rise, and 30 years after the fall of the Berlin wall we are a far cry from Fukayama’s end of history. What were we missing not to see this coming? How could we have been so blind-sided? And what does the future hold? </p>
+
+**The Knowledge Economy**
+<p> In the last few years the techno-optimism surrounding the digital revolution has given way to dystopia. Rather than a force for economic and social democracy, digital now seems to mean monopoly and manipulation. What have we been missing for this to happen? </p>
+
+**Belief in Individualism**
+<p> We tend to believe that we are individuals, who act the way we do because of something called a personality which is unique to us. In reality, we are very social. We often like things or laugh simply because other people do, and can’t avoid receiving emotions from other people. Community is necessary for satisfaction, and act collectively, so how can a society of individuals accomplish its dreams? </p>
+
+**The Equality Complex**
+<p> We might be equally human or valuable, but the equality complex is the belief that we are all basically the same. Of course, people vary in culture and experience as well as talents, and the genders have some differences as well. How can we be aware of these differences while maintaining respect for all people? What are we afraid of giving up or of getting, if we acknowledge that equality is dogma? </p>
+
+**Faith in rationality and progress**
+<p> We are supposedly leaving the notion of progress behind in the postmodernism era, but it is still here with us. Do we have too much faith in our technology because its dazzling past? Do we overrate what computers can do for us? Is it still something of a religion to believe in science and in technology as solutions to our problems? How do we let go of this, if it blinds us? Does it create a spirituality vacuum? </p>
+
+
+
 ## Blind Spots event series
 
 As part of our work on Blind Spots we are organizing a series of conversations.
 
-* #1 The Bankruptcy of Vision of Managerial Capitalism - Roberto Unger
-* #2 Respiritualising Society - why are we scared of religion and disconnnected from our spirituality?
+* #1 The Bankruptcy of Vision of Managerial Capitalism - Roberto Unger - [17th of March @New Speak House 4-6pm]
+* #2 Respiritualising Society - why are we scared of religion and disconnnected from our spirituality? - 18th of May (location to be confirmed)
 * #3 2019 Gathering - our annual [gathering][] will explore blind spots ranging from the myth of equality to techno-solutionism
 
 [gathering]: /gathering/
+[17th of March @New Speak House 4-6pm]: /2019/02/06/blind-spots-roberto-unger-future-of-britain/
 
 ## Blog posts
 
