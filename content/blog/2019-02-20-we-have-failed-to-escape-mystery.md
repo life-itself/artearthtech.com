@@ -9,7 +9,7 @@ authors: [liamkavanagh]
 
 # We Have Failed to Escape Mystery
 
-Is it possible to escape “spiritual” or “mystical” experience? “Mysticism” is an uncomfortable word for many of us, but it has the same root and probably the same experiential source as *mystery*. Mystery will be there as long as there are things larger than us, things that are significant and beyond our comprehension. Some things seem irreducibly mysterious. For example, nobody has ever found a way to explain conscious experience as the outcome concrete pieces of analytically understandable process. Some things are just too large to understand, like the whole of history and our place in it. We must relate to all of this, somehow, but … how? Mysticism is an ancient answer, and one definition of the term is:
+Is it possible to escape “spiritual” or “mystical” experience? “Mysticism” is an uncomfortable word for many of us, but it has the same root and probably the same experiential source as *mystery*. Mystery will be there as long as there are things larger than us, things that are significant and beyond our comprehension. Some things seem irreducibly mysterious. For example, nobody has ever found a way to explain conscious experience as the outcome of an analytically understandable process. Some things are just too large to understand, like the whole of history and our place in it. We must relate to all of this, somehow, but … how? Mysticism is an ancient answer, and one definition of the term is:
 
 ## 1. belief that … the spiritual apprehension of knowledge inaccessible to the intellect, may be attained through contemplation and self-surrender.”
 
