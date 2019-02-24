@@ -28,7 +28,7 @@ Unger is the author of several important and groundbreaking works, most recently
 
 [utopian]: /2017/10/20/pragmatic-utopians/
 
-***[Book your ticket now for £8 &raquo;][book]***
+***[Book your ticket now for £5 &raquo;][book]***
 
 At Art / Earth / Tech we believe that it is crucial to engage in big conversations to examine what is in our way as a society and how we can create a big vision for our future and act powerfully on it.
 
