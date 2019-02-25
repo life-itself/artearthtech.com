@@ -4,8 +4,8 @@ title: "Blind Spots #1: The Knowledge Economy, the Progressive Project and the F
 slug: blind-spots-roberto-unger-future-of-britain
 eventdate: 2019-02-06
 section: events
-logoPath: blindspots06.jpg
-imagePath: blindspots06.jpg
+logoPath: blindspots08.jpg
+imagePath: blindspots08.jpg
 authors: [sylviebarbier]
 ---
 
@@ -15,12 +15,12 @@ Blind Spots is [our new series of conferences][blindspots] exploring the collect
 
 What is holding us back from creating a powerful and inspiring vision for our future? Why do we seem stuck in making minor upgrades to managerial capitalism?
 
-<img src="/images/blindspots06.jpg">
+<img src="/images/blindspots08.jpg">
 
 [blindspots]: /institute/blind-spots/
 [unger]: http://www.robertounger.com/en/
 
-For our first event on Sunday 17th March we are excited to welcome [Professor Roberto Unger][unger] of Harvard Law School. One of the youngest law professors in Harvard's history at 29, he played a significant role in bringing democracy back to Brazil, served in Lula's government as a minister and has been called “a prophet” by the famed philosopher Richard Rorty. A key influence and inspiration to Obama he was also one of Obama's toughest critics, memorably arguing against Obama's second term.
+For our first event on Sunday 17th March, held with the Institute for Public Policy Research, we are excited to welcome [Professor Roberto Unger][unger] of Harvard Law School. One of the youngest law professors in Harvard's history at 29, he played a significant role in bringing democracy back to Brazil, served in Lula's government as a minister and has been called “a prophet” by the famed philosopher Richard Rorty. A key influence and inspiration to Obama he was also one of Obama's toughest critics, memorably arguing against Obama's second term.
 
 <img src="/images/roberto-unger.jpg">
 
