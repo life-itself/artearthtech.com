@@ -38,7 +38,7 @@ The Event will take place on **Sunday the 17th of March 4-6pm at Newspeak House,
 
 ***[Book your ticket now &raquo;][book]***
 
-Facebook event: https://www.facebook.com/events/238314347057170/
+Facebook event: https://www.facebook.com/events/2184564291858979/
 
 Come join us for two hours of intellectual discovery where we travel with our minds to place we usually never go and discover our collective blind spots.
 
