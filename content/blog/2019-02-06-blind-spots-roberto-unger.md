@@ -4,8 +4,8 @@ title: "Blind Spots #1: The Knowledge Economy, the Progressive Project and the F
 slug: blind-spots-roberto-unger-future-of-britain
 eventdate: 2019-02-06
 section: events
-logoPath: blindspots08.jpg
-imagePath: blindspots08.jpg
+logoPath: blindspots10.jpg
+imagePath: blindspots10.jpg
 authors: [sylviebarbier]
 ---
 
@@ -15,7 +15,7 @@ Blind Spots is [our new series of conferences][blindspots] exploring the collect
 
 What is holding us back from creating a powerful and inspiring vision for our future? Why do we seem stuck in making minor upgrades to managerial capitalism?
 
-<img src="/images/blindspots08.jpg">
+<img src="/images/blindspots10.jpg">
 
 [blindspots]: /institute/blind-spots/
 [unger]: http://www.robertounger.com/en/
