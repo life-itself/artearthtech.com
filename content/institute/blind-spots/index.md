@@ -7,11 +7,8 @@ aliases:
 
 ## Coming up
 
-Our next **Blind Spots Event with Roberto Unger will take place on the 17th of March from 4-6pm** at Newspeak House, 133 Bethnal Green Road, London E2 7DG.
+Our next **Blind Spots Event  will take place on the 19th of May from 4-6pm**
 
-**Book your ticket here for £5: https://ti.to/art-earth-tech/blind-spots-17-march-2019**
-
-Check our event page: http://artearthtech.com/2019/02/06/blind-spots-roberto-unger-future-of-britain/
 
 
 ## About Blind Spots
