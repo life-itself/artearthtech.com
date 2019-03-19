@@ -1,13 +1,12 @@
+---
+title: Respiritualising Society
+---
 
 
-
-
-Respiritualising Society -
 
 Why are we scared of religion and disconnnected from our spirituality?
 
 Our next **Blind Spots Event will take place on the 19th of May from 4-6pm**
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKVpHV9EInw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
