@@ -3,6 +3,7 @@ title: Blind Spots
 aliases:
   - /blind-spots/
   - /blindspots/
+layout: single
 ---
 
 ## Coming up
