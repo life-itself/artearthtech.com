@@ -32,4 +32,9 @@ For me, a big problem is that Technosolutionism leads us to believe that persona
 
 But, we will have a hard time solving climate change if we continue to put all of our resources into finding ways to produce MORE energy, rather than trying to consume less ourselves.
 
-**Our hypothesis**: Rather than more tech innovations; hard societal problems like climate change and democracy require innovation in human coordination mechanisms, a transformation of our desires -- a "transformation of our being".
+**Our hypothesis**: Rather than more tech innovations; hard societal problems like climate change and democracy require innovation in human coordination mechanisms and a transformation of our desires -- a "transformation of our being".
+
+## Appendix: Examples
+
+* https://www.techrepublic.com/article/how-self-driving-tractors-ai-and-precision-agriculture-will-save-us-from-the-impending-food-crisis/
+
