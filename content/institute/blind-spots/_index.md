@@ -8,7 +8,12 @@ layout: single
 
 ## Coming up
 
-Our next **Blind Spots Event  will take place on the 19th of May from 4-6pm**
+On the 19th of May from 3.30pm-5h30pm we will have our second Blind Spots conversation on Re-spiritualising society and mourning the dream of knowledge. The event will take place at St. Ethelburga’s Centre for Peace and Reconcilliation, 78 Bishopsgate, London, UK, EC2N 4AG.
+
+**Book your Ticket now 5£: https://ti.to/art-earth-tech/respiritualizing-society**
+
+
+**Blind Spots Event  will take place on the 19th of May from 4-6pm**
 
 
 
