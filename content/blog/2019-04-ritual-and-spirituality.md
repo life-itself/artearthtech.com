@@ -34,7 +34,7 @@ Across the art world, many artists have by, engaging in ritual, discovered direc
 
 In this post, I have to ask for patience while I connect ritual to another recent trend. One element that helps to distinguish ritual from mindless social routine is mindfulness. I imagine some eyes rolling as I write that, but reflect for a moment on the idea that mindfulness is not fundamentally a marketing buzz word or the name of a meditation method, not even a behaviour, but a quality that the mind sometimes has. We are culturally averse to relying on subjective experiences, so this element of the ancient Buddhist tradition is not discussed prominently, but really we know when we are being mindfulness because there is a way that our mind feels when it is totally absorbed with what is going on right now. And this quality of experience arises very naturally within a ritual.
 
-<img src="/images/Marina-Abramović-Balkan-Baroque-1997-.jpg">
+<img src="/images/marina-a.jpg">
 
 *Performance Balkan-Baroque by Marina Abramović 1997*
 
@@ -53,9 +53,9 @@ Meditation practice can be seen as a ritual, itself. Traditionally, mindfulness 
 
 <img src="/images/evan-krause-443469-unsplash.jpg">
 
-The point of course, it to carry this state beyond our time on the meditation cushion, beyond this ritual, if I might call it that. But means of absorption do not go away,. Even for monks there is a story, teachers have always encouraged their students to see themselves as parts of an ancient tradition, reliving the ancient sufferings and struggles of man, and to notice how what they do can affect so many others. They have also encouraged their students to create an island of stillness that they can reach through a repetitive act and to practice as community, and to notice how every moment is unique. To reach that island of stillness, the intellectual generalities about the island of stillness, such as I have just been making, must be left behind.
+The point of course, it to carry this state beyond our time on the meditation cushion, beyond this ritual, if I might call it that. But means of absorption do not go away. Even for monks there is a story, teachers have always encouraged their students to see themselves as parts of an ancient tradition, reliving the ancient sufferings and struggles of man, and to notice how what they do can affect so many others. They have also encouraged their students to create an island of stillness that they can reach through a repetitive act and to practice as community, and to notice how every moment is unique. To reach that island of stillness, the intellectual generalities about the island of stillness, such as I have just been making, must be left behind.
 
 So mindfulness meditation can be approached as a ritual, but it is not the only one. We can use it to rediscover the means to live in the mysterious moment, as a gateway experience to ritual. There are many rituals that could be made to help our awareness of many different things. In upcoming posts I will talk with Marisa Garefa, who uses ritual as part of an art practice that helps her to recover from personal trauma. I will also talk with Jamilah Sabur creates rituals that help to explore her relationship with geography and history, that of Florida and of her own family. More widely, practices of ritual include the mourning of a loved one and the celebration of a marriage or graduation. The art of using ritual to create moments of unusual depth is not one that we should ever scoff at, or let it lose its mystery.
 
-
 <img src="/images/cole-keister-291568-unsplash.jpg">
+
