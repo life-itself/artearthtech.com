@@ -7,7 +7,7 @@ aliases:
 
 The Art Earth Tech London Hub in Shoreditch is a refuge from the busyness of city life but retains all the excitement, energy and drive of London’s fast lane. It’s a place to connect and laugh, to learn and share. A space to discuss the trends shaping our society and the ideas that will determine our future; where networks are created to support one another in the projects that evolving our economy and society towards a wiser, greener and weller world.
 
-{{< imgresize sitting-room 800x >}}
+{{< imgresize src="sitting-room.png" size="800x" >}}
 
 {{< toc >}}
 
@@ -17,14 +17,9 @@ The hub is a home for Londoners looking to find a middle-way between the hamster
 
 [wheel]: http://www.wishbop.com/images/201110/source_img/Handmade_Tibetan_Prayer_Wheel_Turner_Buddhist_Prayer_Wheel_original_img_gallery_1318990124_747__1.jpg
 
-{{< imgresize sitting-room-couch 800x >}}
+{{< imgresize src="sitting-room-couch" size="800x" >}}
 
-{{< imgresize kitchen 800x >}}
-
-{{< imgresize shower 800x >}}
-
-{{< imgresize sink 800x >}}
-
+{{< imgresize src="kitchen" size="800x" >}}
 
 # Location
 
@@ -48,4 +43,14 @@ Please email londonhub@artearthtech.com if you want to chat. We’re a friendly 
 # Residency
 
 When applying to the London residency please check <a href="hub-agreement/">London Hub house agreement</a>.
+
+# Pictures
+
+{{< imgresize src="sitting-room-couch" size="800x" >}}
+
+{{< imgresize src="kitchen" size="800x" >}}
+
+{{< imgresize src="shower" size="800x" >}}
+
+{{< imgresize src="sink" size="800x" >}}
 

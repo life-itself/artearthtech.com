@@ -1,5 +1,5 @@
-{{ $original := .Page.Resources.GetMatch (printf "%s.*" (.Get 0)) }}
-{{ $options := .Get 1 }}
+{{ $original := .Page.Resources.GetMatch (printf "%s*" (.Get "src")) }}
+{{ $options := .Get "size" }}
 {{ .Scratch.Set "image" ($original.Resize $options) }}
 {{ $image := .Scratch.Get "image" }}
 <img src="{{ $image.RelPermalink }}" />

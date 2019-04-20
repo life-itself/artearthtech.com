@@ -1,5 +1,29 @@
 Art / Earth / Tech website: http://artearthtech.com/
 
+## Content Team Guide
+
+### Image Resizing
+
+We have created an `imgresize` shortcode which will automatically do image resizing for you.
+
+Suppose you have an image in `images` directory named:
+
+`sitting-room.jpg`
+
+Rather than embedding this in your post by doing:
+
+```
+<img src="/images/sitting-room.jpg" />
+```
+
+You would do:
+
+```
+{{< imgresize src="sitting-room.jpg" size="800x" >}}
+```
+
+Where `800x` means width of 800px. If you want height of 800px you would do `x800`. For more information on this option see image resizing in hugo see: https://gohugo.io/content-management/image-processing/
+
 ## Assets
 
 All assets for the site are stored in [this drive folder](https://drive.google.com/drive/u/1/folders/0B4VpjxPkN_XccDdOOGNVZlo1VXM).
