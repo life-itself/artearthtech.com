@@ -7,11 +7,9 @@ notebook: yes
 authors: [rufuspollock]
 ---
 
-Reading Integral Spirituality. Really amazing. I suspect the casual writing, poor editing and poor branding (name and cover) get in the way of Wilber's monumental achievement. It is overbrimming with insight, rich in depth and packed with structural insights into the nature of knowing and being that keep having me repeatedly going "oh yes, now that makes sense." Once you've got it you never go back.
+Just read Integral Spirituality which is excellent. I suspect the casual writing, poor editing and poor branding (name and cover) get in the way of Wilber's monumental achievement. It is overbrimming with insight, rich in depth and packed with structural insights into the nature of knowing and being that kept having me repeatedly going "oh yes, now that makes sense." Once you've got it you never go back. Below I summarize some of the main points.
 
 <img src="/images/ken-wilber-quote.jpg">
-
-I can try summarizing quickly some of the main things:
 
 ## Summary and Excerpts
 
@@ -26,14 +24,12 @@ AQAL (all quadrants, all lines) model with 4 quadrants and its lines of developm
       Plural       We     |    Its
 </pre>
 
-For me distinguishing the interiority of contemplative / meditative vs the exteriority of say neuroscience was really useful.
+For me, distinguishing, say, the interiority of the contemplative / meditative vs the exteriority of say neuroscience was really useful. And simply,  labelling all of this is very helpful (how many debates arise out of poor term definition):
 
-Just labellign all this stuff is helpful:
-
-  - I = subjective, lived experience (of the individual)
-  - It = individual external i.e. behaviour, neuroscience, atoms etc
-  - We = culture (subjective group experience, shared meaning etc)
-  - Its = systems (economies, group dynamics etc)
+- I = subjective, lived experience (of the individual)
+- It = individual external i.e. behaviour, neuroscience, atoms etc
+- We = culture (subjective group experience, shared meaning etc)
+- Its = systems (economies, group dynamics etc)
 
 He also has inside and outside on each of these to give 8 zones (I'm still working this one out fully).
 
@@ -41,17 +37,19 @@ He also has inside and outside on each of these to give 8 zones (I'm still worki
 
 ### Wilber-Coombs lattice
 
-Wilber-Coombs lattice. A super useful distinction of states vs stages. States = states of "consciousness/awareness" from egoic out to full non-duality whilst stages correspond to value paradigms. Seeing these as two independent, orthogonal axes of development was like "Oh yeah" and helps clear up a lot of confusion e.g. enlightenment being used for states but not stages (so it explains why you can have people who are very advanced in e.g. meditation but who are not advanced in stages). This allows Wilber to define "full" enlightenment as all states, all stages.
+Wilber-Coombs lattice. Another useful distinction of states vs stages. States = states of "consciousness/awareness" from egoic out to full non-duality whilst stages correspond to value paradigms. Seeing these as two independent, orthogonal axes of development was like "Oh yeah" and helps clear up a lot of confusion e.g. enlightenment being used for states but not stages (so it explains why you can have people who are very advanced in e.g. meditation but who are not advanced in stages). This allows Wilber to define "full" enlightenment as all states, all stages.
+
+<img src="/images/wilber-coombs-lattice-4x7.jpg" />
 
 ### 3S = stages, states, shadows
 
 3S = stages, states, shadows
 
-Distinction of shadows. A shadown is something like trauma, psychological dysfunction due to disidentification (suppression, repression, othering) of self with some part of oneself -- the turning of an I into an it. Makes clear why you can have people advanced in contemplation who still have a lot of sh** to deal with.
+Distinction of shadows. A shadow is something like trauma, psychological dysfunction due to disidentification (suppression, repression, othering) of self with some part of oneself -- the turning of an I into an it. Makes clear why you can have people advanced in contemplation who still have a lot of sh** to deal with.
 
 ### Boomeritis
 
-Confusion of states with stages and unawareness of stage. Turning contemplative development into an ego trip and a justification for onanism (I get to do whatever I want, there are no rules ("right actions") no right views. Trivial pluralism / relativism).
+Confusion of states with stages and unawareness of stage. Turning contemplative development into an ego trip and a justification for onanism: I get to do whatever I want, there are no rules (no "right actions", no "right views"). It also gives rise to trivial pluralism / relativism.
 
 ### Modernity and Post-modernity
 
@@ -95,14 +93,14 @@ Personally it helps frame and extend my current focus on culture. I'm currently 
 
 This then combined with my long-term interest in history, economics, politics etc which is all about group. In addition, i grokked that individual being is fundamentally intertwined with collective being i.e. culture.
 
-Meanwhile my long-running interst and ambitions around social/political change had, for some time, been running up against the reality that we aren't all perfect rational beings ("dad and his newspapers", "X and the iraq war", evidence from endless discussions with others, the news, open knowledge is not much without open minds etc). I'd already been grounding / getting major insights on that at the individual psychological level out of buddhism ("non-attachment to views") and modern cogsci but I always felt there was something missing about the group ("GDP is not a just a view it is a co-created view of the group").
+Meanwhile my long-running interest and ambitions around social/political change had, for some time, been running up against the reality that we aren't all perfect rational beings ("dad and his newspapers", "X and the iraq war", evidence from endless discussions with others, the news, open knowledge is not much without open minds etc). I'd already been grounding / getting major insights on that at the individual psychological level out of Buddhism ("non-attachment to views") and modern cog-sci but I always felt there was something missing about the group ("GDP is not a just a view it is a co-created view of the group").
 
 And finally this linked up with my interest in group both for the practicality and richness of community and community living in my own life (it's something about upbringing -- look at my sister and me both living in community!) but also for its importance in group coordination to solve collective action problems and to ground awakening ("you need a sangha", "the tiger that goes to the lowlands dies", my own struggles to meditate on my own etc).
 
 To summarize, all roads led to culture:
 
 * Ontology (own well-being and phenomenology, meditation, landmark etc) => we don't exist in a vacuum, our "being" (and esp views) come from our ancestors, friends, school ... => culture
-* History, economics, anthropology etc (my attraction to deep, simple explanations (e.g. plate tectonics) of human phenomena a la annales school, evolutionary psych, what are the possible orderings of a society and e.g. why does patriarchy happen so much etc) => culture
+* History, economics, anthropology etc (my attraction to deep, simple explanations (e.g. plate tectonics) of human phenomena a la Annales school, evolutionary psych, what are the possible orderings of a society and e.g. why does patriarchy happen so much etc) => culture
 * Politics and social change => collective action and collective view problems (why do people believe the things they do? Well, it is socially co-created ...) => culture (values, shared assumptions, ways of working, sense of identity "imagined communities")
 * Practical community building => why do people struggle to live and align together => culture (esp values and practices)
 * Practical business building => why do companies succeed / fail => economic niche (monopolies are great however you are) + culture + strategy. But economic niches are hard to find (everyone is looking for them and often only obvious in retrospect and culture dominates strategy so in any semi-competitive environment (not an economic niche) culture is probably decisive over the longer run => culture
