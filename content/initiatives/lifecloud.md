@@ -9,6 +9,8 @@ imagePath: lifecloud.png
 
 ##### Life Cloud: Beyond wellbeing
 
+Art / Earth / Tech provided supported to Laurie Parma and Life Cloud in well-being research. 
+
 <img src="/images/lifecloud.png">
 
 In the midst of highest technological advances and human tightest interconnectedness: it’s incredible that depression would be a worldwide epidemic. Cities are the loneliest places in the world, and an entire generation is going through a purpose crisis. With a lack of inspiring vision, people are not quite sure where to start amongst the many philosophies and 'ought to'.

@@ -8,11 +8,11 @@ imagePath: ippr.png
 ---
 
 
-For our Blind Spot Event with Roberto Unger we were happy to work with the IPPR, you can read more about the event here: http://artearthtech.com/2019/02/06/blind-spots-roberto-unger-future-of-britain/
-
-IPPR is a registered charity and the UK’s pre-eminent progressive think tank.
+For our Blind Spot Event with Roberto Unger we were delighted to collaborate with the IPPR, the UK’s pre-eminent progressive think tank. You can read more about the event here: http://artearthtech.com/2019/02/06/blind-spots-roberto-unger-future-of-britain/
 
 
-<img src="/images/ippr.png">
+
+
+<img style="width:270px" src="/images/ippr.png"/>
 
 http://www.ippr.org/

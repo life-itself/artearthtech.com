@@ -8,7 +8,7 @@ imagePath: lse.png
 ---
 
 
-We had the pleasure to collaborate with LSE in teaching a meditation classes to it's students.
+We had the pleasure to collaborate with LSE in teaching meditation classes to its students.
 
 London School of Economics is unique in its concentration on teaching and research across the full range of social, political and economic sciences.
 

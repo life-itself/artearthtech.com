@@ -6,11 +6,11 @@ date: 2019-01-01
 logoPath: ecosoulhostel.png
 imagePath: ecosoulhostel.png
 ---
-A hostel in London where people who share values of social change, sustainability and inner wellbeing can connect and inspire each other
+Ecosoul is building a hostel in London where people who share values of social change, sustainability and inner wellbeing can connect and inspire each other.
 
 <img src="/images/ecosoulhostel.png">
 
-The hostel is run with love by volunteers. They live here for up to a year, cooking, cleaning and hosting the community.
+The hostel will be run with love by volunteers. They live here for up to a year, cooking, cleaning and hosting the community.
 
 We positively welcome people of all genders, sexual orientations and ethnic backgrounds.
 

@@ -6,7 +6,7 @@ date: 2019-03-20T15:03:36
 logoPath: rockefeller.jpeg
 imagePath: rockefeller.jpeg
 ---
-The Rockefeller foundation gave Art / Earth / Tech a grant for the iMed project.
+The Rockefeller foundation gave Art / Earth / Tech a grant for the iMed project, which explored new and better ways to pay innovators for their work in producing medicines that save and improve lives.
 
 You can find more about the project here: http://imedproject.org/
 
