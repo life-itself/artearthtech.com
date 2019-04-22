@@ -8,7 +8,7 @@
 
   <section id="next-section" class="wisdom-today">
     <div class="video">
-      <h2 class="video-text section-title">- WISDOM TODAY -</h2>
+      <h2 class="video-text section-title">WISDOM TODAY</h2>
       <div class="video-wrapper centered">
         <iframe src="https://www.youtube.com/embed/HB6dpaGQlsg" frameborder="0" allowfullscreen=""></iframe>
       </div>
@@ -21,43 +21,105 @@
   </section>
 
   <section class="what-we-do">
-    <h2 class="section-title centered">- WHAT WE DO -</h2>
+    <h2 class="section-title centered"> WHAT WE DO</h2>
     <ul class="bullets">
       <li class="bullet">
         <div class="bullet-icon">
           <img src="{{ $.Site.BaseURL }}images/aet-logo-02.svg">
-          <a href="/institute/"><h3>INSTITUTE</h3></a>
+          <a href="/institute/"><h3>ENVISIONING</h3></a>
         </div>
+        We are committed to open-mindedly engage in a conversation about a new big vision. The Art / Earth / Tech Institute exists to identify the principles that can guide us to this wiser vision.
+
         <div class="bullet-content">
-          The Art / Earth / Tech Institute exists to identify the principles that can guide us to a wiser, weller world, and apply these to living projects. Breadth of thought should be combined with localized, focused action. This means we believe in having both application and reflection under one roof and that learning is a cycle of reflection and experience.
+
         </div>
       </li>
 
       <li class="bullet">
         <div class="bullet-icon">
           <img src="{{ $.Site.BaseURL }}images/aet-logo-02.svg">
-          <a href="/sprints/"><h3>SPRINTS</h3></a>
+          <a href="/sprints/"><h3>COMMUNITY</h3></a>
         </div>
         <div class="bullet-content">
-          Sprints are an opportunity to take time away from your everyday engagements to reflect and focus on a project of your choice surrounded by an amazing community in an incredible environment. The sprints take place at La Cheraille, a secluded farming hamlet just outside Paris that is the perfect space for reflection, concentration and collaboration.
+          We believe a wiser way of living requires us to go beyond individualism and collectivism. Our Hubs experiment with a new path of living together as community by connecting cities with rural places.
         </div>
       </li>
 
       <li class="bullet">
         <div class="bullet-icon">
           <img src="{{ $.Site.BaseURL }}images/aet-logo-02.svg">
-          <a href="/gathering/"><h3>GATHERING</h3></a>
+          <a href="/gathering/"><h3>livelihood</h3></a>
         </div>
         <div class="bullet-content">
-          Once a year at the end of July we come together for a week as a community, to network, share knowledge and continue to reflect on what is wisdom in the 21st century. We spend time together, relax and consider ways we can be intentional and well in our life both as individual and as a society.
+           The ability to have a community depends on livelihood on which we spend much of our lives. Art / Earth / Tech thrives to create well buisness culture so we can materially and emotionally suppport ourselves.
         </div>
       </li>
     </ul>
   </section>
 
-  <section class="who-we-are">
-    {{ partial "people.html" . }}
+  <section>
+    <div class="wrapper" style="margin-bottom:40px; margin-top:20px">
+        <h2 style="color:#162935;; font-size:40px;margin-bottom:30px;margin-left:40px">Collaborators</h2>
+        <img style="width:100px;margin-right:40px;margin-left:50px" src="/images/lse-black.png"/>
+        <img style="width:80px;margin-right:40px;" src="/images/ippr-black.png"/>
+        <img style="width:320px;margin-right:40px;" src="/images/plumvillage-black.png"/>
+            <img style="width:100px;margin-right:40px;" src="/images/cri-black.png"/>
+        <img style="width:250px;margin-right:40px;" src="/images/rockefeller-black.jpeg"/>
+        <img style="width:150px;margin-right:40px;" src="/images/okfn-black.png"/>
   </section>
+
+
+  <section class="who-we-are">
+    <h2 class="section-title centered">PEOPLE</h2>
+    <ul class="bullets">
+      <li class="bullet">
+        <div class="bullet-image portrait">
+          <img src="{{ $.Site.BaseURL }}images/Sylvie-Barbier-800x800.png" alt="">
+        </div>
+        <div class="bullet-content">
+          <h2>SYLVIE BARBIER</h2>
+          <h3>ARTIST</h3>
+          <p>Sylvie Barbier is a French-Taiwanese performance artist, entrepreneur and educator. She is the Co-founder of Art/ Earth / Tech. Compassion and openness are at the heart of her interdisciplinary practice.</p>
+        </div>
+      </li>
+      <li class="bullet">
+        <div class="bullet-image portrait">
+          <img src="{{ $.Site.BaseURL }}images/Rufus-Pollock-684x684.png" alt="">
+        </div>
+        <div class="bullet-content">
+          <h2>RUFUS POLLOCK</h2>
+          <h3>TECHNOLOGIST</h3>
+          <p>Rufus Pollock is a Founder of <em>Open Knowledge</em>, an award-winning international digital non-profit. Formerly a Shuttleworth Fellow,  the Mead Fellow in Economics at Cambridge University.</p>
+        </div>
+      </li>
+
+
+      <li class="bullet">
+        <div class="bullet-image portrait">
+          <img src="{{ $.Site.BaseURL }}images/Liam-Kavanagh-800x800.png" alt="">
+        </div>
+        <div class="bullet-content">
+          <h2>LIAM KAVANAGH</h2>
+          <h3>COGNITIVE SCIENTIST</h3>
+          <p>Liam Kavanagh is a cognitive scientist who studies how our body and feelings interact with our thoughts, both within the individual and within social groups. Liam studied Economics at Cambridge University, and holds a PhD in Psychology and Cognitive Science from UCSD. </p>
+        </div>
+      </li>
+
+    <li class="bullet">
+      <div class="bullet-image portrait">
+        <img src="{{ $.Site.BaseURL }}images/esteban-portrait.jpg" alt="">
+      </div>
+      <div class="bullet-content">
+        <h2>ESTEBAN RUSELER</h2>
+        <h3>ENTREPRENEUR</h3>
+        <p>Esteban is inspired by the possibilities that a more conscious and wholesome relationship with tech can bring to society; he writes, consults and creates in this space. He’s also passionate about fostering real community and how we can create a wiser world together. </p>
+      </div>
+    </li>
+    </ul>
+
+  </section>
+
+
 
   {{ partial "footer.html" . }}
 
