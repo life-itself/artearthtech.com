@@ -2,7 +2,7 @@
 title: Life Cloud
 slug: Life Cloud
 section: projects
-date: 2018-03-18
+date: 2017-03-18
 logoPath: lifecloud.png
 imagePath: lifecloud.png
 ---

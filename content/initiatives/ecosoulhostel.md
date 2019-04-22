@@ -2,7 +2,7 @@
 title: Eco soul hostel
 slug: ecosoulhostel
 section: projects
-date: 2018-03-11
+date: 2019-01-01
 logoPath: ecosoulhostel.png
 imagePath: ecosoulhostel.png
 ---

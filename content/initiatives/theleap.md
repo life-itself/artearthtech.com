@@ -2,7 +2,7 @@
 title: The Leap
 slug: theleap
 section: projects
-date: 2017-12-11
+date: 2019-01-11
 logoPath: leap-logo.png
 imagePath: leap-logo.png
 ---
