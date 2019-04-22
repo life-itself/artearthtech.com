@@ -9,7 +9,7 @@ authors: [rufuspollock]
 
 Just read Integral Spirituality which is excellent. I suspect the casual writing, poor editing and poor branding (name and cover) get in the way of Wilber's monumental achievement. It is overbrimming with insight, rich in depth and packed with structural insights into the nature of knowing and being that kept having me repeatedly going "oh yes, now that makes sense." Once you've got it you never go back. Below I summarize some of the main points.
 
-<img src="/images/ken-wilber-quote.jpg">
+<img src="ken-wilber-quote.jpg">
 
 ## Summary and Excerpts
 
@@ -33,19 +33,25 @@ For me, distinguishing, say, the interiority of the contemplative / meditative v
 
 He also has inside and outside on each of these to give 8 zones (I'm still working this one out fully).
 
-<img src="/images/ken-wilber-map.jpg">
+<img src="ken-wilber-map.jpg">
 
 ### Wilber-Coombs lattice
 
 Wilber-Coombs lattice. Another useful distinction of states vs stages. States = states of "consciousness/awareness" from egoic out to full non-duality whilst stages correspond to value paradigms. Seeing these as two independent, orthogonal axes of development was like "Oh yeah" and helps clear up a lot of confusion e.g. enlightenment being used for states but not stages (so it explains why you can have people who are very advanced in e.g. meditation but who are not advanced in stages). This allows Wilber to define "full" enlightenment as all states, all stages.
 
-<img src="/images/wilber-coombs-lattice-4x7.jpg" />
+<img src="wilber-coombs-lattice-4x7.jpg" />
 
 ### 3S = stages, states, shadows
 
 3S = stages, states, shadows
 
 Distinction of shadows. A shadow is something like trauma, psychological dysfunction due to disidentification (suppression, repression, othering) of self with some part of oneself -- the turning of an I into an it. Makes clear why you can have people advanced in contemplation who still have a lot of sh** to deal with.
+
+### Stages
+
+Here's the best summary I've found online:
+
+{{< pdf src="overview-of-developmental-levels-wilber-graves-etc.pdf" >}}
 
 ### Boomeritis
 
@@ -61,8 +67,6 @@ An explanation of the (missing) role of spirituality -- crudely in transition to
 
 - 4 judgments / dimensions of: spirituality, morals, aesthetics and science
 - Why missing spirituality is such a big deal and is causing such friction: "amber" crashing into "orange" and "green". "Level-line" dysfunction: in orange spirituality has been eliminated and science has taken over everything.
-
-
 
 ### Plural parallels singular and society is not a super-organism
 
