@@ -2,7 +2,7 @@
 title: "Blind Spots #2: Returning to Mystery"
 date: 2019-04-17
 imagePath: respiritualise-blindspots01.jpg
-slug:
+slug: blind-spots-2-returning-to-mystery
 notebook: yes
 authors: [liamkavanagh]
 ---
