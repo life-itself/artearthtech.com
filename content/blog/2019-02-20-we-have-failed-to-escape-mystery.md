@@ -15,7 +15,7 @@ So, put simply, one meaning of mysticism is simply the belief that contemplation
 
 <img src="/images/maninfog.jpg">
 
-Contemplation of mystery has a particular feeling, which we all know, which hints that something particular must be going on during the experience of it at a biological level (this is confirmed by neuroscience.) Darwin leads us to suspect that each of our unique capacities has some purpose or role to play in our continued existence. Perhaps the ability to contemplate deals with what reason just cannot. Perhaps contemplation and mysticism are awkward to talk about because they deal with the things that words cannot. All of this sounds good, even reasonable, but leaves the question of why the word “mystical” leaves a bad taste in so many mouths. We need look no further than the second definition of mysticism:
+Contemplation of mystery has a particular feeling, which we all know, which hints that something particular must be going on during the experience of it at a biological level (this is confirmed by neuroscience which shows different brain areas active during religious experience and analytical thought.) Darwin leads us to suspect that each of our unique capacities has some purpose or role to play in our continued existence. Perhaps the ability to contemplate deals with what reason just cannot. Perhaps contemplation and mysticism are awkward to talk about because they deal with the things that words cannot. All of this sounds good, even reasonable, but leaves the question of why the word “mystical” leaves a bad taste in so many mouths. We need look no further than the second definition of mysticism:
 
 <img src="/images/church.jpg">
 
@@ -31,10 +31,10 @@ Probably humans must approach mystery -- we are young specks of life in an ancie
 
 So, how to rekindle our relationship with mystery? If to learn from mystery is to reach beyond reason, maybe explanations are not helpful. More useful would be a cultural space in which to explore and reassert the worth of dwelling in mystery without judgement, and with awareness that our relationship with mystery is bound up with our relationship to particular religions. And this space must exist, even within a civilisation that has harbored hopes that science and reason can answer all our questions (implying that mystery is unnecessary).
 
-These hopes to escape mystery have failed, and various strands of science lead us to be sure that they will continue to fail.[^1] However, the injunction to “stop thinking” is not an answer -- as I mentioned above, all our abilities are there for a reason, and the ability to think is no exception. What is needed is skill in sensing where clear explanations should stop and reliance on mystery starts. In my [next blog post][next] I will collect some thought that I find  useful for guiding such an exploration.
+These hopes to escape mystery have failed, and various strands of science lead us to be sure that they will continue to fail.[^1] However, the injunction to “stop thinking” is not an answer -- as I mentioned above, all our abilities are there for a reason, and the ability to think is no exception. What is needed is skill in sensing where clear explanations should stop and reliance on mystery starts. In my future posts I will collect some thought that I find  useful for guiding such an exploration.
 
 <img src="/images/galaxy.jpg">
 
 [next]: /2019/04/10/ritual-and-the-return-to-mystery/
 
-[^1]: Godel's incompleteness and quantum physics to take two canonical exmamples.
+[^1]: Godel's incompleteness and various results from quantum physics provide famous exmamples.
