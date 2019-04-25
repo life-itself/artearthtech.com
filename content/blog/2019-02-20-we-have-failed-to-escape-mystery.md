@@ -31,8 +31,7 @@ Probably humans must approach mystery -- we are young specks of life in an ancie
 
 So, how to rekindle our relationship with mystery? If to learn from mystery is to reach beyond reason, maybe explanations are not helpful. More useful would be a cultural space in which to explore and reassert the worth of dwelling in mystery without judgement, and with awareness that our relationship with mystery is bound up with our relationship to particular religions. And this space must exist, even within a civilisation that has harbored hopes that science and reason can answer all our questions (implying that mystery is unnecessary).
 
-These hopes to escape mystery have failed, and various strands of science lead us to be sure that they will continue to fail.[^1] However, the injunction to “stop thinking” is not an answer -- as I mentioned above, all our abilities are there for a reason, and the ability to think is no exception. What is needed is skill in sensing where clear explanations should stop and reliance on mystery starts. In my future posts I will collect some thought that I find  useful for guiding such an exploration.
-
+These hopes to escape mystery have failed, and various strands of science lead us to be sure that they will continue to fail.[^1] However, the injunction to “stop thinking” is not an answer -- as I mentioned above, all our abilities are there for a reason, and the ability to think is no exception. What is needed is greater skill in sensing where clear explanations should stop and reliance on mystery starts, and respect for the answers that contemplation gives us in its domain.
 <img src="/images/galaxy.jpg">
 
 [next]: /2019/04/10/ritual-and-the-return-to-mystery/
