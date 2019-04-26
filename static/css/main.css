@@ -5029,11 +5029,7 @@ section.who-we-are {
 
 form {
   max-width: 900px;
-  padding: 0 0 4em;
   text-align: left; }
-  @media screen and (min-width: 53.75em) {
-    form {
-      padding: 2em 0 2em 2em; } }
   form input, form textarea {
     border-radius: 0 !important;
     border-color: #333; }

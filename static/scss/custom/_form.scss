@@ -1,9 +1,5 @@
 form {
     max-width: 900px;
-    padding: 0 0 4em;
-    @include media($large-screen) {
-      padding: 2em 0 2em 2em;
-    }
     text-align: left;
     input, textarea {
       border-radius: 0 !important;
