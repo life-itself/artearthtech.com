@@ -32,7 +32,7 @@ Across the art world, many artists have by, engaging in ritual, discovered direc
 
 *Performance I Like America and America Likes Me by Joseph Beuys 1974*
 
-In this post, I have to ask for patience while I connect ritual to another recent trend. One element that helps to distinguish ritual from mindless social routine is mindfulness. I imagine some eyes rolling as I write that, but reflect for a moment on the idea that mindfulness is not fundamentally a marketing buzz word or the name of a meditation method, not even a behaviour, but a quality that the mind sometimes has. We are culturally averse to relying on subjective experiences, so this element of the ancient Buddhist tradition is not discussed prominently, but really we know when we are being mindfulness because there is a way that our mind feels when it is totally absorbed with what is going on right now. And this quality of experience arises very naturally within a ritual.
+In this post, I have to ask for patience while I connect ritual to another recent trend. One element that helps to distinguish ritual from mindless social routine is mindfulness. I imagine some eyes rolling as I write that, but reflect for a moment on the idea that mindfulness is not fundamentally a marketing buzz word or the name of a meditation method, not even a behaviour, but a quality that the mind sometimes has. We are culturally averse to relying on subjective experiences, so this element of the ancient Buddhist tradition is not discussed prominently, but really we know when we are being mindful because there is a way that our mind feels when it is totally absorbed with what is going on right now. And this quality of experience arises very naturally within a ritual.
 
 <img src="/images/marina-a.jpg">
 
