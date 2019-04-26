@@ -15,7 +15,7 @@ The form of Catholic sacraments largely determined what would be associated with
 
 
 
-In the ancient book of Tao foreshadows these concerns:
+The ancient book of Tao foreshadows these concerns:
 
 …Failing Tao, man resorts to Virtue.
 Failing Virtue, man resorts to humanity.
