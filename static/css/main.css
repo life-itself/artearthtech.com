@@ -579,10 +579,10 @@ html {
   https://twitter.com/benjsperry  https://twitter.com/ionicframework
   MIT License: https://github.com/driftyco/ionicons
 
-  Android-style icons originally built by GoogleΓÇÖs
+  Android-style icons originally built by Google’s
   Material Design Icons: https://github.com/google/material-design-icons
   used under CC BY http://creativecommons.org/licenses/by/4.0/
-  Modified icons to fit ioniconΓÇÖs grid from original.
+  Modified icons to fit ionicon’s grid from original.
 */
 @font-face {
   font-family: "Ionicons";
@@ -3824,7 +3824,7 @@ header.navigation {
         header.navigation li.more > a {
           margin-right: 1em; } }
       header.navigation li.more > a::after {
-        content: "ΓÇ║";
+        content: "›";
         font-size: 1.2em;
         position: absolute;
         right: 0.5em; }
@@ -3859,7 +3859,7 @@ header.navigation {
       padding-right: 0; }
       @media screen and (min-width: 53.75em) {
         header.navigation ul.submenu li {
-          line-height: 46.1538461538px; }
+          line-height: 46.15385px; }
           header.navigation ul.submenu li:first-child > a {
             border-top-left-radius: 3px;
             border-top-right-radius: 3px; }
@@ -4012,7 +4012,7 @@ header.navigation ul.submenu {
 .post-content {
   float: left;
   display: block;
-  margin-right: 2.3576515979%;
+  margin-right: 2.35765%;
   width: 100%; }
   .post-content:last-child {
     margin-right: 0; }
@@ -4020,9 +4020,9 @@ header.navigation ul.submenu {
     .post-content {
       float: left;
       display: block;
-      margin-right: 2.3576515979%;
-      width: 82.9403914003%;
-      margin-left: 8.5298042998%; }
+      margin-right: 2.35765%;
+      width: 82.94039%;
+      margin-left: 8.5298%; }
       .post-content:last-child {
         margin-right: 0; } }
   .post-content:nth-child(n+2) {
@@ -4033,9 +4033,9 @@ header.navigation ul.submenu {
     .post-content {
       float: left;
       display: block;
-      margin-right: 2.3576515979%;
-      width: 65.8807828007%;
-      margin-left: 17.0596085997%; }
+      margin-right: 2.35765%;
+      width: 65.88078%;
+      margin-left: 17.05961%; }
       .post-content:last-child {
         margin-right: 0; } }
   @media screen and (min-width: 80em) {
@@ -4200,7 +4200,7 @@ div.toc {
       color: white;
       font-size: 1.25em;
       letter-spacing: 1px;
-      background-color: rgba(0, 0, 0, 0); }
+      background-color: transparent; }
       .home-template .hero .hero-content a.button:focus, .home-template-special .hero .hero-content a.button:focus, .home-template .hero .hero-content a.button:hover, .home-template-special .hero .hero-content a.button:hover {
         text-decoration: none;
         background-color: white;
@@ -4301,7 +4301,7 @@ div.toc {
   width: 100%; }
   @media screen and (min-width: 53.75em) {
     .home-template .grid-items .grid-item, .home-template-special .grid-items .grid-item {
-      width: 33.3333333333%; } }
+      width: 33.33333%; } }
 .home-template .grid-items .grid-item img, .home-template-special .grid-items .grid-item img {
   display: block;
   height: 3em;
@@ -4319,7 +4319,7 @@ div.toc {
       max-width: 70%; } }
 @media screen and (min-width: 53.75em) {
   .home-template .grid-items .grid-item-big, .home-template-special .grid-items .grid-item-big {
-    width: 66.6666666667%; } }
+    width: 66.66667%; } }
 @media screen and (min-width: 40em) {
   .home-template .grid-items .grid-item-big p, .home-template-special .grid-items .grid-item-big p {
     max-width: 60%; } }
@@ -4330,7 +4330,7 @@ div.toc {
   background-repeat: no-repeat;
   background-size: cover; }
 .home-template .grid-items .grid-item, .home-template-special .grid-items .grid-item {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: transparent;
   border: none; }
   .home-template .grid-items .grid-item h4, .home-template-special .grid-items .grid-item h4, .home-template .grid-items .grid-item p, .home-template-special .grid-items .grid-item p, .home-template .grid-items .grid-item i, .home-template-special .grid-items .grid-item i {
     color: #333 !important;
@@ -4479,7 +4479,7 @@ div.toc {
       font-family: "open-sans-light";
       display: flex;
       width: 100%;
-      font-size: 1.5714285714em;
+      font-size: 1.57143em;
       padding: 0;
       margin: 0 0 0 10%;
       color: #333;
@@ -4553,7 +4553,7 @@ h1.bullets-title {
     .bullets-small .bullet-icon-small h2 {
       display: flex;
       width: 100%;
-      font-size: 1.2222222222em;
+      font-size: 1.22222em;
       padding: 0;
       margin: 0 0 0 10%;
       color: #333;
@@ -4695,7 +4695,7 @@ h1.bullets-title {
         .themes-section .newhero .hero-body .video {
           display: table-cell;
           width: 50%;
-          margin-left: 12.7947064497%; } }
+          margin-left: 12.79471%; } }
   .themes-section .newhero .call-to-action {
     width: 50%;
     position: absolute;
@@ -4738,7 +4738,7 @@ h1.bullets-title {
     @media screen and (min-width: 53.75em) {
       .themes-section .side-image .images-wrapper {
         display: table-cell;
-        width: 83.3333333333%;
+        width: 83.33333%;
         background-position: center; } }
   .themes-section .side-image .side-image-content {
     display: table-cell;
@@ -4753,7 +4753,7 @@ h1.bullets-title {
     @media screen and (min-width: 53.75em) {
       .themes-section .side-image .side-image-content {
         display: table-cell;
-        width: 66.6666666667%;
+        width: 66.66667%;
         padding: 0em 4em 0em 0em; } }
 .themes-section .links {
   display: flex;
@@ -5028,13 +5028,9 @@ section.who-we-are {
     max-width: 650px; }
 
 form {
-  width: 100%;
   max-width: 900px;
   padding: 0 0 4em;
   text-align: left; }
-  @media screen and (min-width: 40em) {
-    form {
-      height: 40em; } }
   @media screen and (min-width: 53.75em) {
     form {
       padding: 2em 0 2em 2em; } }
@@ -5043,7 +5039,7 @@ form {
     border-color: #333; }
   form input[type="submit"] {
     float: left;
-    background-color: rgba(0, 0, 0, 0);
+    background-color: transparent;
     border: 1px solid #333;
     border-radius: 0;
     color: #333; }
