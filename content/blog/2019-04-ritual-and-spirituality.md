@@ -26,7 +26,7 @@ It is the beginning of all confusion and disorder…   ( Chapter 38)
 
 The trajectory of descent from engaged and subtle understanding to rigid rules, the slide from reckoning of unfathomable substance, to blind grasping at form is as old as humanity. But this passage raises an interesting question — where did the whole that gave rise to the husk come from? Is all ritual the same as the ceremony above — a “mere husk of faith and loyalty”?  .. or did the outward form of ceremony at some point contain something more deserving of the reputation that this husk evokes?
 
-Across the art world, many artists have by, engaging in ritual, discovered directedness, meaning, and concentration — and also, because they themselves create these rituals, an intense and even transgressive freedom. Josef Buys was one pioneer, and Marina Abromovic another, their work has shown possibilities that has caused many imaginations to run wild. In upcoming post, I will interview Artists who work in this space, because I suspect that the drive of these artists reflects a cultural alienation from important aspects of humans existence that we often feel bound up with.
+Across the art world, many artists have by, engaging in ritual, discovered directedness, meaning, and concentration — and also, because they themselves create these rituals, an intense and even transgressive freedom. Josef Buys was one pioneer, and Marina Abromovic another, their work has shown possibilities that has caused many imaginations to run wild. In upcoming post, I will interview Artists who work in this space, because I suspect that the drive of these artists reflects our cultural alienation from important aspects of human existence.
 
 <img src="/images/joseph_beuys_i_like_america_n_kidsofdada_article_grande.jpg">
 
@@ -42,8 +42,7 @@ The transition of mindfulness into a buzzword also has a lot to do with the old 
 
 A daily ritual might be the easiest way for most people nowadays to access the mindful “quality of experience”— or “qualia”, if you want to be scientific about it, (or “energy” if you want to be all new-agey about it). As mindfulness has acquired unfortunate associations, ritual might be more useful for explaining mindfulness than mindfulness is for explaining ritual.
 
-A ritual is not a ritual because we are doing something funny, or because there is a big story attached to the act. Many people like to call their morning or afternoon cup of coffee a ritual. Why? Drinking coffee is often a short time where people succeed in focusing on nothing at all but picking up the coffee, tipping it into their mouth, and tasting it. The drinking of coffee is all that there is for a few short moments, in the mind of a ritualistic coffee drinker. We are absorbed in drinking coffee. It is not ritual because it is
-repetitive, but because it never becomes simply routine.
+A ritual is not a ritual because we are doing something funny, or because there is a big story attached to the act. Many people like to call their morning or afternoon cup of coffee a ritual. Why? Drinking coffee is often a short time where people succeed in focusing on nothing at all but picking up the coffee, tipping it into their mouth, and tasting it. The drinking of coffee is all that there is for a few short moments, in the mind of a ritualistic coffee drinker. We are absorbed in drinking coffee. It is not ritual because it is repetitive, but because it never becomes simply routine.
 
 <img src="/images/danielle-macinnes-222441-unsplash.jpg">
 
