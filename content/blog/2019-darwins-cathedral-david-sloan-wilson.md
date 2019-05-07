@@ -8,6 +8,10 @@ authors: [rufuspollock]
 
 Fascinating book. Its argument for the functional role of religion has much to offer for our own interest in "re-spiritualising society". The detailed grounding of religious belief and organisation in evolutionary group-selection and the rich set of examples are the analogy of neuroscience (and positive psychology) for buddhist ontology: a modern scientific and utilitarian grounding for ancient wisdom and tradition.
 
+He also believes in the possibility of transformation (from Chapter 7):
+
+> One reason that I admire some aspects of religion is because I share some of its values. I have not attempted to hide this fact, and I hope that it has not intruded upon my science. Nor have I attempted to conceal my own basic optimism that the world can be a better place in the future than in the past or present—that there can be such a thing as a path to enlightenment. Being a scientist does not require becoming indifferent to human welfare.
+
 {{< toc >}}
 
 # Intro
