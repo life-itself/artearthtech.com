@@ -12,7 +12,7 @@ authors: [liamkavanagh]
 
 Our second Blind Spots event: Returning to mystery / Being unattached to certainty will take place on the 19th of May from 3.30pm-5h30pm at  St. Ethelburga’s Centre for Peace and Reconciliation, 78 Bishopsgate, London, EC2N 4AG.
 
-Artists, contemplatives, and scientists will explore similarities and differences between the many routes “out of our head” through art, mindfulness, nature, and therapy. We will also explore how our emotional attachment to knowledge and certainty keeps us in our heads and have an artistic ritual for the release of that attachment.
+Artists, therapists, activists and scientists will explore similarities and differences between the many routes “out of our head” through art, mindfulness, nature, and therapy and how these increase our awareness -- from personal trauma to climate change. We will also conclude with an artistic ritual for the release of impulse to grasp for certaintly and control, the impulse that keeps us out of the present.
 
 **Book your ticket now!**
 
