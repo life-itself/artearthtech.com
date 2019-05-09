@@ -1,7 +1,7 @@
 ---
 title: "Blind Spots #2: Returning to Mystery"
 date: 2019-04-17
-imagePath: respiritualise-blindspots01.jpg
+imagePath: respiritualise-blindspots03.jpg
 slug: blind-spots-2-returning-to-mystery
 notebook: yes
 authors: [liamkavanagh]
@@ -19,7 +19,7 @@ Artists, contemplatives, and scientists will explore similarities and difference
 <tito-widget event="art-earth-tech/respiritualizing-society"></tito-widget>
 
 
-<img src="/images/respiritualise-blindspots01.jpg">
+<img src="/images/respiritualise-blindspots03.jpg">
 
 ## Key Information:
 
