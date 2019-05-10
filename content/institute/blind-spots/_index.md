@@ -85,13 +85,12 @@ Why is it we can't talk about politics and religion in a civilised way?
 As part of our work on Blind Spots we are organizing a series of conversations.
 
 * #1 The Bankruptcy of Vision of Managerial Capitalism - Roberto Unger - [17th of March @New Speak House 4-6pm]
-* #2 [Returning to mystery, Saving Ourselves] - St. Ethelburga’s Centre for Peace and Reconcilliation, 78 Bishopsgate, London, UK, EC2N 4AG - 19th of May 
-* #3 2019 Gathering - our annual [gathering][] will explore blind spots ranging from the myth of equality to techno-solutionism
+* #2 [Returning to mystery, Saving Ourselves] - 19th of May - St. Ethelburga’s Centre for Peace and Reconcilliation, London 3:30-5:30 PM 
+* #3 2019 Gathering - our annual [gathering][] will explore the equality complex, and the myths of Individuality, and rationality.
 
 [gathering]: /gathering/
 [17th of March @New Speak House 4-6pm]: /2019/02/06/blind-spots-roberto-unger-future-of-britain/
-[Returning to mystery, Saving Ourselves]: /2019/04/10/ritual-and-the-return-to-mystery/
-
+[Returning to mystery, Saving Ourselves]: 2019/04/17/blind-spots-2-returning-to-mystery/
 ## Blog posts
 
 Coming soon
