@@ -35,17 +35,17 @@ Artists, activists, therapists, and scientists will explore similarities and dif
 
 ## Here are a list of presenters:
 
-**Science:** Dr. Liam Kavanagh will discuss the trouble that science has with studying the inner life, and consequences for our culture..
+**Science:** Dr. Liam Kavanagh will explain that escaping from conceptual knowledge has become such a fascination for the west. 
 
 **Performance Art:** Performance Artist Sylvie Barbier will lead the ritual for releasing the dream of certainty and control.
 
 **Therapy:**  Giselle Genillard is founder of Somatic Experiencing International, and one of the world's most sought after instructors for this method, she will discss the relation between inner and outer awareness.
 
-**Science:** Nafees Hamid studies radicalisation, and will tell us his work shows him that the west needs to reexamine itself to find answers.
+**Science:** Nafees Hamid interviews muslim youth at risk for radicalisation, and will reflect on what this has taught him about finding meaning life.
 
 **Activism:** Skeena Rathor of Extinction Rebellions vision sensing team who will talk about the role that mystery plays in XR.
 
-**Art:** Sam Winston is an artist will discuss how his artistic practice 
+**Art:** We will discsuss with acclaimed artist Sam Winston how his artistic practice relies on mystery.
 
 ## Why the return to mystery:
 
