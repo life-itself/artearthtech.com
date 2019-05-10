@@ -10,9 +10,11 @@ authors: [liamkavanagh]
 <!-- tito script so we can embed booking form -->
 <script src='https://js.tito.io/v1' async></script>
 
-Our second Blind Spots event: Returning to mystery / Being unattached to certainty will take place on the 19th of May from 3.30pm-5h30pm at  St. Ethelburga’s Centre for Peace and Reconciliation, 78 Bishopsgate, London, EC2N 4AG.
+Our second Blind Spots event: Returning to mystery: Saving Ourselves will take place on the 19th of May from 3.30pm-5h30pm at  St. Ethelburga’s Centre for Peace and Reconciliation, 78 Bishopsgate, London, EC2N 4AG.
 
-Artists, therapists, activists and scientists will explore similarities and differences between the many routes “out of our head” through art, mindfulness, nature, and therapy and how these increase our awareness -- from personal trauma to climate change. We will also conclude with an artistic ritual for the release of impulse to grasp for certaintly and control, the impulse that keeps us out of the present.
+Artists, activists, therapists, and scientists will explore similarities and differences between the many routes “out of our head” through art, mindfulness, nature, and therapy and how these increase our awareness -- from personal trauma to climate change. We will also conclude with an artistic ritual for the release of certaintly and control, the impulse that keeps us out of the present.
+
+<iframe width="560" height="315" src="https://youtu.be/kp6GT38-x8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Book your ticket now!**
 
@@ -33,17 +35,17 @@ Artists, therapists, activists and scientists will explore similarities and diff
 
 ## Here are a list of presenters:
 
-**Science:** Liam Kavanagh will discuss how science systematically fails to understand some aspects of experience, using perspectives from emotional cognitive science and non-western philosophy. Liam will draw on his experience in research and organising dialogues with scientists at Plum Village Buddhist Monastery.
+**Science:** Dr. Liam Kavanagh will discuss the trouble that science has with studying the inner life, and consequences for our culture..
 
-**Performance Art:** Sylvie Barbier is a performance artist and co-founder of Art / Earth / Tech.  She will lead the ritual of releasing the dream of knowing everything.
+**Performance Art:** Performance Artist Sylvie Barbier will lead the ritual for releasing the dream of certainty and control.
 
-**Public Policy:** Jamie Bristow runs the Mindfulness initiative which helps to introduce capacities of heart and mind part of public policy in the UK and around governments.
+**Therapy:**  Giselle Genillard is founder of Somatic Experiencing International, and one of the world's most sought after instructors for this method, she will discss the relation between inner and outer awareness.
 
-**Science:** Nafees Hamid is a researcher at University College London and a writer for New York reviews of Books. He studies how the West’s secular worldview affects our understanding of radicals and their sacred values.
+**Science:** Nafees Hamid studies radicalisation, and will tell us his work shows him that the west needs to reexamine itself to find answers.
 
-**Design:** Poppy Rose and Mark McGlynn are architects and designers. Partners both in life and in aesthetic devotion to the Wabi-Sabi sensibility which they inject into buildings and interiors across the world. Wabi Sabi is a beauty of “asymmetry, roughness, and the ingenuous integrity of natural objects and processes.
+**Activism:** Skeena Rathor of Extinction Rebellions vision sensing team who will talk about the role that mystery plays in XR.
 
-**Art:** Sam Winston is an artist whose practice is concerned with language not only as a carrier of messages but also as a visual form in and of itself. Initially known for his typography and artist’s books he employs a variety of different approaches including drawing, performance and poetry. He is also active in conflict resolution.
+**Art:** Sam Winston is an artist will discuss how his artistic practice 
 
 ## Why the return to mystery:
 
