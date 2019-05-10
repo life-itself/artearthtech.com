@@ -14,7 +14,7 @@ Our second Blind Spots event: Returning to mystery: Saving Ourselves will take p
 
 Artists, activists, therapists, and scientists will explore similarities and differences between the many routes “out of our head” through art, mindfulness, nature, and therapy and how these increase our awareness -- from personal trauma to climate change. We will also conclude with an artistic ritual for the release of certaintly and control, the impulse that keeps us out of the present.
 
-<iframe width="560" height="315" src="https://youtu.be/kp6GT38-x8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kp6GT38-x8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Book your ticket now!**
 
@@ -41,7 +41,7 @@ Artists, activists, therapists, and scientists will explore similarities and dif
 
 **Therapy:**  Giselle Genillard is founder of Somatic Experiencing International, and a world leading expert on recovery from Trauma, she will discss the relation between inner and outer awareness.
 
-**Science:** Nafees Hamid interviews muslim youth at risk for radicalisation, and will reflect on what this has taught him about finding meaning life.
+**Science:** Nafees Hamid work studying muslim youth at risk for radicalisation tells us how his work shows that the West needs to look closer for meaning.
 
 **Activism:** Skeena Rathor of Extinction Rebellion will talk about the role that mystery plays in this crucial movement.
 
