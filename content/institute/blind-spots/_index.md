@@ -8,7 +8,7 @@ layout: single
 
 ## Coming up
 
-On the 19th of May from 3.30pm-5h30pm we will have our second Blind Spots conversation on Re-spiritualising society and mourning the dream of knowledge. The event will take place at St. Ethelburga’s Centre for Peace and Reconcilliation, 78 Bishopsgate, London, UK, EC2N 4AG.
+On the 19th of May from 3.30pm-5h30pm (doors at 3:15) we will have our second Blind Spots conversation entitled [Returning to mystery, Saving Ourselves]. The event will take place at St. Ethelburga’s Centre for Peace and Reconcilliation, 78 Bishopsgate, London, UK, EC2N 4AG.
 
 
 <script src='https://js.tito.io/v1' async></script>
@@ -17,7 +17,7 @@ On the 19th of May from 3.30pm-5h30pm we will have our second Blind Spots conver
 <tito-widget event="art-earth-tech/respiritualizing-society"></tito-widget>
 
 
-**Blind Spots Event  will take place on the 19th of May from 4-6pm**
+
 
 
 
@@ -85,11 +85,12 @@ Why is it we can't talk about politics and religion in a civilised way?
 As part of our work on Blind Spots we are organizing a series of conversations.
 
 * #1 The Bankruptcy of Vision of Managerial Capitalism - Roberto Unger - [17th of March @New Speak House 4-6pm]
-* #2 Respiritualising Society - why are we scared of religion and disconnnected from our spirituality? - 18th of May (location to be confirmed)
+* #2 [Returning to mystery, Saving Ourselves] - ? - 19th of May 
 * #3 2019 Gathering - our annual [gathering][] will explore blind spots ranging from the myth of equality to techno-solutionism
 
 [gathering]: /gathering/
 [17th of March @New Speak House 4-6pm]: /2019/02/06/blind-spots-roberto-unger-future-of-britain/
+[Returning to mystery, Saving Ourselves]: /blog/2019-04-returning-to-mystery.md
 
 ## Blog posts
 
