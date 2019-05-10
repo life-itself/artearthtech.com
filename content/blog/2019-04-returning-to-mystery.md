@@ -35,17 +35,30 @@ Artists, activists, therapists, and scientists will explore similarities and dif
 
 ## Here are a list of presenters:
 
-**Science:** Dr. Liam Kavanagh will explain why escaping from conceptual knowledge has become such a fascination in the West. 
+<img style="width:300px"; src="/images/Liam-Kavanagh-800x800.png">
 
-**Performance:** Performance Artist Sylvie Barbier will lead the ritual for releasing the dream of certainty and control.
+**Science:** Dr. Liam Kavanagh will explain why escaping from conceptual knowledge has become such a fascination in the West.
+
+<img style="width:300px"; src="/images/giselle.jpg">
 
 **Therapy:**  Giselle Genillard is founder of Somatic Experiencing International, and a world leading expert on recovery from Trauma, she will discss the relation between inner and outer awareness.
 
+<img style="width:300px"; src="/images/nafeeshamid.png">
+
 **Science:** Nafees Hamid work studying muslim youth at risk for radicalisation tells us how his work shows that the West needs to look closer for meaning.
+
+<img style="width:300px"; src="/images/xr-skeena.jpeg">
 
 **Activism:** Skeena Rathor of Extinction Rebellion will talk about the role that mystery plays in this crucial movement.
 
+<img style="width:300px"; src="/images/samwinston.jpg">
+
 **Art:** We will discsuss with acclaimed artist Sam Winston how artistic practice relies on mystery.
+
+<img style="width:300px"; src="/images/Sylvie-Barbier-800x800.png">
+
+**Performance:** Performance Artist Sylvie Barbier will lead the ritual for releasing the dream of certainty and control.
+
 
 ## Why the return to mystery:
 
