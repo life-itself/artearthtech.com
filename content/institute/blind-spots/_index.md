@@ -90,7 +90,7 @@ As part of our work on Blind Spots we are organizing a series of conversations.
 
 [gathering]: /gathering/
 [17th of March @New Speak House 4-6pm]: /2019/02/06/blind-spots-roberto-unger-future-of-britain/
-[Returning to mystery, Saving Ourselves]: 2019/04/17/blind-spots-2-returning-to-mystery/
+[Returning to mystery, Saving Ourselves]: /2019/04/17/blind-spots-2-returning-to-mystery/
 ## Blog posts
 
 Coming soon
