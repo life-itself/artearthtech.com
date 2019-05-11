@@ -37,7 +37,7 @@ Artists, activists, therapists, and scientists will explore similarities and dif
 
 <img style="width:300px"; src="/images/Liam-Kavanagh-800x800.png">
 
-**Science:** Dr. Liam Kavanagh will explain why escaping from conceptual knowledge has become such a fascination in the West.
+**Science:** Cognitive scientist Liam Kavanagh will explain why escaping from conceptual knowledge has become such a fascination in the West.
 
 <img style="width:300px"; src="/images/giselle.jpg">
 
