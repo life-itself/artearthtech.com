@@ -44,7 +44,7 @@ lest one incline inconveniently
 
 Towards that full and simple silence
 
-Here we are.
+Here we are
 
 <img src="/images/skeena.jpg">
 
