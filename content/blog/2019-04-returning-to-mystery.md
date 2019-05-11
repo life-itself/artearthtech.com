@@ -41,7 +41,7 @@ Artists, activists, therapists, and scientists will connect the many routes “o
 
 <img style="width:300px"; src="/images/giselle.jpg">
 
-**Therapy:**  Giselle Genillard is founder of Somatic Experiencing International, and a world leading expert on recovery from Trauma, she will discss the relation between inner and outer awareness.
+**Therapy:**  Giselle Genillard is founder of Somatic Experiencing International, and a world leading expert on recovery from Trauma. She also has an MSc in sustainability. She'll discuss the relation between inner and outer awareness.
 
 <img style="width:300px"; src="/images/nafeeshamid.png">
 
@@ -49,7 +49,7 @@ Artists, activists, therapists, and scientists will connect the many routes “o
 
 <img style="width:300px"; src="/images/xr-skeena.jpeg">
 
-**Activism:** Skeena Rathor of Extinction Rebellion will talk about the role that mystery plays in this crucial movement.
+**Activism:** Skeena Rathor of Extinction Rebellion will discuss what the role that returning to mystery can play in this crucial movement.
 
 <img style="width:300px"; src="/images/samwinston.jpg">
 
