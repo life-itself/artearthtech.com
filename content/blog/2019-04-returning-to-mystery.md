@@ -47,7 +47,7 @@ Artists, activists, therapists, and scientists will explore similarities and dif
 
 **Science:** Nafees Hamid work studying muslim youth at risk for radicalisation tells us how his work shows that the West needs to look closer for meaning.
 
-<img style="width:300px"; src="/images/xr-skeena.jpeg">
+<img style="width:300px"; src="/images/skeena.jpg">
 
 **Activism:** Skeena Rathor of Extinction Rebellion will talk about the role that mystery plays in this crucial movement.
 
