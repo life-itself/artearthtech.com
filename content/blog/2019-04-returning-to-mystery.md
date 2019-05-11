@@ -12,7 +12,7 @@ authors: [liamkavanagh]
 
 Our second Blind Spots event: Returning to mystery, Saving Ourselves will take place on the 19th of May from 3.30pm-5h30pm (doors at 3:15) at  St. Ethelburga’s Centre for Peace and Reconciliation, 78 Bishopsgate, London, EC2N 4AG.
 
-Artists, activists, therapists, and scientists will explore similarities and differences between the many routes “out of our head” through art, mindfulness, nature, and therapy and how these increase our awareness -- from personal trauma to climate change. We will also conclude with an artistic ritual for the release of certaintly and control, the impulse that keeps us out of the present.
+Artists, activists, therapists, and scientists will connect the many routes “out of our head” through art, mindfulness, nature, and therapy. Our increased interest in these comes from a sense that is time to embrace awareness, from personal trauma to climate change. We will also conclude with an artistic ritual for the release of certaintly and control, the impulse that keeps us out of the present.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kp6GT38-x8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
