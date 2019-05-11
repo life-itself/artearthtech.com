@@ -57,7 +57,7 @@ Artists, activists, therapists, and scientists will explore similarities and dif
 
 <img style="width:300px"; src="/images/Sylvie-Barbier-800x800.png">
 
-**Performance:** Performance Artist Sylvie Barbier will lead the ritual for releasing the dream of certainty and control.
+**Performance:** Performance artist Sylvie Barbier will lead the ritual for releasing the dream of certainty and control.
 
 
 ## Why the return to mystery:
