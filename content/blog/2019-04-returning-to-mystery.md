@@ -53,7 +53,7 @@ Artists, activists, therapists, and scientists will explore similarities and dif
 
 <img style="width:300px"; src="/images/samwinston.jpg">
 
-**Art:** We will discsuss with acclaimed artist Sam Winston how artistic practice relies on mystery.
+**Art:** Acclaimed artist Sam Winston will discuss the role of mystery in artistic practice.
 
 <img style="width:300px"; src="/images/Sylvie-Barbier-800x800.png">
 
