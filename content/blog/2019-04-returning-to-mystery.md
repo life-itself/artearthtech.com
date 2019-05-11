@@ -1,5 +1,5 @@
 ---
-title: "Blind Spots #2: Returning to Mystery"
+title: "Blind Spots #2: Returning to Mystery, Saving Ourselves"
 date: 2019-04-17
 imagePath: respiritualise-blindspots03.jpg
 slug: blind-spots-2-returning-to-mystery
@@ -10,7 +10,7 @@ authors: [liamkavanagh]
 <!-- tito script so we can embed booking form -->
 <script src='https://js.tito.io/v1' async></script>
 
-Our second Blind Spots event: Returning to mystery: Saving Ourselves will take place on the 19th of May from 3.30pm-5h30pm at  St. Ethelburga’s Centre for Peace and Reconciliation, 78 Bishopsgate, London, EC2N 4AG.
+Our second Blind Spots event: Returning to mystery, Saving Ourselves will take place on the 19th of May from 3.30pm-5h30pm (doors at 3:15) at  St. Ethelburga’s Centre for Peace and Reconciliation, 78 Bishopsgate, London, EC2N 4AG.
 
 Artists, activists, therapists, and scientists will explore similarities and differences between the many routes “out of our head” through art, mindfulness, nature, and therapy and how these increase our awareness -- from personal trauma to climate change. We will also conclude with an artistic ritual for the release of certaintly and control, the impulse that keeps us out of the present.
 
