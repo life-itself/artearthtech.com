@@ -37,7 +37,7 @@ Artists, activists, therapists, and scientists will explore similarities and dif
 
 <img style="width:300px"; src="/images/Liam-Kavanagh-800x800.png">
 
-**Science:** Cognitive scientist Liam Kavanagh will explain why escaping from conceptual knowledge has become such a fascination in the West.
+**Contemplation:** Cognitive scientist and meditator Liam Kavanagh will explain why escaping from conceptual knowledge has become such a fascination in the West.
 
 <img style="width:300px"; src="/images/giselle.jpg">
 
@@ -45,7 +45,7 @@ Artists, activists, therapists, and scientists will explore similarities and dif
 
 <img style="width:300px"; src="/images/nafeeshamid.png">
 
-**Science:** Nafees Hamid work studying muslim youth at risk for radicalisation tells us how his work shows that the West needs to look closer for meaning.
+**Science:** Nafees Hamid works studying muslim youth at risk for radicalisation tells us how his work shows that the West needs to look closer for meaning.
 
 <img style="width:300px"; src="/images/xr-skeena.jpeg">
 
