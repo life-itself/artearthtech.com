@@ -45,7 +45,7 @@ Artists, activists, therapists, and scientists will explore similarities and dif
 
 <img style="width:300px"; src="/images/nafeeshamid.png">
 
-**Science:** Nafees Hamid works studying muslim youth at risk for radicalisation tells us how his work shows that the West needs to look closer for meaning.
+**Science:** Nafees Hamid studies youth at risk for (destructive) radicalisation, this work has shown him that the West needs to reassess its relationship with the sacred.
 
 <img style="width:300px"; src="/images/xr-skeena.jpeg">
 
