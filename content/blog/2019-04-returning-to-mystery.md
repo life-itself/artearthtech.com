@@ -1,5 +1,5 @@
 ---
-title: "Blind Spots #2: Returning to Mystery"
+title: "Blind Spots #2: Returning to Mystery, Saving Ourselves"
 date: 2019-04-17
 imagePath: respiritualise-blindspots03.jpg
 slug: blind-spots-2-returning-to-mystery
@@ -10,9 +10,9 @@ authors: [liamkavanagh]
 <!-- tito script so we can embed booking form -->
 <script src='https://js.tito.io/v1' async></script>
 
-Our second Blind Spots event: Returning to mystery: Saving Ourselves will take place on the 19th of May from 3.30pm-5h30pm at  St. Ethelburga’s Centre for Peace and Reconciliation, 78 Bishopsgate, London, EC2N 4AG.
+Our second Blind Spots event: Returning to mystery, Saving Ourselves will take place on the 19th of May from 3.30pm-5h30pm (doors at 3:15) at  St. Ethelburga’s Centre for Peace and Reconciliation, 78 Bishopsgate, London, EC2N 4AG.
 
-Artists, activists, therapists, and scientists will explore similarities and differences between the many routes “out of our head” through art, mindfulness, nature, and therapy and how these increase our awareness -- from personal trauma to climate change. We will also conclude with an artistic ritual for the release of certaintly and control, the impulse that keeps us out of the present.
+Artists, activists, therapists, and scientists will connect the many routes “out of our head” through art, mindfulness, nature, and therapy. Our increased interest in these comes from a sense that it is now time to embrace awareness, from personal trauma to climate change. We will also conclude with an artistic ritual for the release of certaintly and control, the impulse that keeps us out of the present.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kp6GT38-x8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -37,27 +37,27 @@ Artists, activists, therapists, and scientists will explore similarities and dif
 
 <img style="width:300px"; src="/images/Liam-Kavanagh-800x800.png">
 
-**Science:** Dr. Liam Kavanagh will explain why escaping from conceptual knowledge has become such a fascination in the West.
+**Contemplation:** Cognitive scientist and meditator Liam Kavanagh will explain why escaping from conceptual knowledge has become such a fascination in the West.
 
 <img style="width:300px"; src="/images/giselle.jpg">
 
-**Therapy:**  Giselle Genillard is founder of Somatic Experiencing International, and a world leading expert on recovery from Trauma, she will discss the relation between inner and outer awareness.
+**Therapy:**  Giselle Genillard is founder of Somatic Experiencing International, and a world leading expert on recovery from Trauma. She also has an MSc in sustainability. She'll discuss the relation between inner and outer awareness.
 
 <img style="width:300px"; src="/images/nafeeshamid.png">
 
-**Science:** Nafees Hamid work studying muslim youth at risk for radicalisation tells us how his work shows that the West needs to look closer for meaning.
+**Science:** Nafees Hamid studies youth at risk for (destructive) radicalisation, this work has shown him that the West needs to reassess its relationship with the sacred.
 
 <img style="width:300px"; src="/images/skeena.jpg">
 
-**Activism:** Skeena Rathor of Extinction Rebellion will talk about the role that mystery plays in this crucial movement.
+**Activism:** Skeena Rathor of Extinction Rebellion will discuss what the role that returning to mystery can play in this crucial movement.
 
 <img style="width:300px"; src="/images/samwinston.jpg">
 
-**Art:** We will discsuss with acclaimed artist Sam Winston how artistic practice relies on mystery.
+**Art:** Acclaimed artist Sam Winston will discuss the role of mystery in artistic practice.
 
 <img style="width:300px"; src="/images/Sylvie-Barbier-800x800.png">
 
-**Performance:** Performance Artist Sylvie Barbier will lead the ritual for releasing the dream of certainty and control.
+**Performance:** Performance artist Sylvie Barbier will lead the ritual for releasing the dream of certainty and control.
 
 
 ## Why the return to mystery:
