@@ -35,17 +35,17 @@ Artists, activists, therapists, and scientists will connect the many routes “o
 
 ## Here are a list of presenters:
 
-<img style="width:300px"; src="/images/Liam-Kavanagh-800x800.png">
-
-**Contemplation:** Cognitive scientist and meditator Liam Kavanagh will explain why escaping from conceptual knowledge has become such a fascination in the West.
-
 <img style="width:300px"; src="/images/giselle.jpg">
 
-**Therapy:**  Giselle Genillard is founder of Somatic Experiencing International, and a world leading expert on recovery from Trauma. She also has an MSc in sustainability. She'll discuss the relation between inner and outer awareness.
+**Therapy:**  Giselle Genillard, founder of SOS Internationale was criss-crossing the globe to shepherd people through recovery from trauma long before that became the hot new thing.  She’ll discuss the mysterious role of the therapist's presence and the relation between inner and outer awareness.
 
 <img style="width:300px"; src="/images/nafeeshamid.png">
 
 **Science:** Nafees Hamid studies youth at risk for (destructive) radicalisation, this work has shown him that the West needs to reassess its relationship with the sacred.
+
+<img style="width:300px"; src="/images/Liam-Kavanagh-800x800.png">
+
+**Contemplation:** Cognitive scientist and meditator Liam Kavanagh will explain why escaping from conceptual knowledge has become such a fascination in the West.
 
 <img style="width:300px"; src="/images/skeena.jpg">
 
