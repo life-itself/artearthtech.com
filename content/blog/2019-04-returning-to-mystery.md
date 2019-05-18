@@ -49,7 +49,7 @@ Artists, activists, therapists, and scientists will connect the many routes “o
 
 <img style="width:300px"; src="/images/skeena.jpg">
 
-**Activism:** Skeena Rathor of Extinction Rebellion will discuss what the role that returning to mystery can play in this crucial movement.
+**Activism:** Skeena Rathor and Mothiur Rahman of Extinction Rebellion will discuss what the role that returning to mystery can play in this crucial movement.
 
 <img style="width:300px"; src="/images/samwinston.jpg">
 
