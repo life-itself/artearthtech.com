@@ -47,7 +47,7 @@ Artists, activists, therapists, and scientists will connect the many routes “o
 
 **Contemplation:** Cognitive scientist and meditator Liam Kavanagh will explain why escaping from conceptual knowledge has become such a fascination in the West.
 
-<img style="width:300px"; src="/images/skeena.jpg">
+<img style="width:300px"; src="/images/xr-skeena.jpeg ">
 
 **Activism:** Skeena Rathor and Mothiur Rahman of Extinction Rebellion will discuss what the role that returning to mystery can play in this crucial movement.
 
