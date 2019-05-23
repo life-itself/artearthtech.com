@@ -42,7 +42,7 @@ Please email londonhub@artearthtech.com if you want to chat. We’re a friendly 
 
 # Residency
 
-When applying to the London residency please check <a href="hub-agreement/">London Hub house agreement</a>.
+When applying to the London residency please check www.artearthtech.com/files/london-hub-resident-agreements.pdf
 
 # Pictures
 
@@ -53,4 +53,3 @@ When applying to the London residency please check <a href="hub-agreement/">Lond
 {{< imgresize src="shower" size="800x" >}}
 
 {{< imgresize src="sink" size="800x" >}}
-
