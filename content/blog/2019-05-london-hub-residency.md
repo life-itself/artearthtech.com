@@ -7,7 +7,7 @@ notebook: yes
 authors: [sylviebarbier]
 ---
 Live in our new space in Hoxton in the heart of London, and connect to a growing network of rural-urban hubs across Europe.
-Our residency program at the London Hub is open from the 1st of July
+Our residency program at the London Hub is open from the 1st of August.
 
 
 <img src="/hubs/london/sitting-room-couch_hu271c426a86158d4fc85a3b4d17cee625_1137761_800x0_resize_box_2.png">
