@@ -7,7 +7,7 @@ notebook: yes
 authors: [sylviebarbier]
 ---
 
-Thy-Diep how has attended our gathering last year has release her book called Beautiful Brains change tomorrow... today, which is a collection of personal conversations with young and old change-makers from business and society.
+Thy-Diep has release her book called Beautiful Brains change tomorrow... today, which is a collection of personal conversations with young and old change-makers from business and society.
 Diving into their personal transformation stories, this book goes beyond
 the ever-present call for more compassion and globalized ethics in today’s
 world full of chaos and fear. You can read below a extract of the interview with Sylvie Barbier.
