@@ -13,7 +13,7 @@ Our residency program at the London Hub is open from the 1st of August.
 <img src="/hubs/london/sitting-room-couch_hu271c426a86158d4fc85a3b4d17cee625_1137761_800x0_resize_box_2.png">
 
 
-Come be part of a lovely community in the heart of London in Shoreditch for a residency of 1-3 months at the Art / Earth / Tech London Hub. The flat has been entirely renovated by artists and is only 10min walk from Old Street Station ( Northern Line). A single room is available from the 1st of July and we are keen to welcome people who are open minded, into mindfulness and co-living. Art / Earth / Tech is an international community who want to foster a weller wiser world.
+Come be part of a lovely community in the heart of London in Shoreditch for a residency of 1-3 months at the Art / Earth / Tech London Hub. The flat has been entirely renovated by artists and is only 10min walk from Old Street Station ( Northern Line). A single room is available from the 1st of August and we are keen to welcome people who are open minded, into mindfulness and co-living. Art / Earth / Tech is an international community who want to foster a weller wiser world.
 
 The residencies are open to people of all backgrounds, professions and ages.
 
