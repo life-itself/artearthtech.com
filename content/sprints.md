@@ -12,11 +12,6 @@ The sprints take place at [La Cheraille][], a secluded farming hamlet just outsi
 
 [La Cheraille]: /la-cheraille/
 
-## April 2017
-
-* When: Friday 7th-14th of April. You may come for all or part of the week.
-* Where: La Cheraille
-* Who: By application or invitation -- if you want to apply [please contact us][contact]
 
 [contact]: /contact/
 
