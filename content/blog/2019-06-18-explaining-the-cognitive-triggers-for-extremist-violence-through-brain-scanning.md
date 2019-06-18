@@ -6,9 +6,9 @@ notebook: yes
 authors: [sylviebarbier]
 ---
 
-Nafees Hamid has written a forthcoming paper published on June 12, 2019: Royal Society Open Science, Vol. 6,
-issue 7.  The paper reveal ground-breaking insights into the psychology of radicalisation and
-terrorist violence; gained by scanning the brains of men who support a terror organisation associated with Al Qaeda. </p>
+
+Long - time contributor to Art Earth Tech, Nafees Hamid has written a forthcoming paper for the Royal Society Open Science journal. The paper reveals ground-breaking insights into the psychology of radicalisation and terrorist violence; gained by scanning the brains of men who support a terror organisation associated with Al Qaeda. We are thrilled to share some of his findings with you.
+</p>
 
 <p>Prior research has demonstrated the pivotal influence of ‘sacred values’ (a potent subset of moral values) in underpinning
 radical ideologies and the escalation to violent extremism. These values are resistant to conventional forms of

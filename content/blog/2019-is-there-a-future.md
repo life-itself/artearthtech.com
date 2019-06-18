@@ -7,7 +7,7 @@ notebook: yes
 authors: [cecileembleton]
 ---
 
-On **Wednesday 31st July, 6-9pm at Ugly Duck Arts, 49 Tanner St, Bermondsey, London SE1 3PL** , we are holding a performance and installation art event entitled Is there a Future? As human beings we are compelled to think about the future constantly; imagining a happy future is a key ingredient for a joyful life. For some, having children is a central part of this. How do we decide whether to have children or not in the midst of an ecological crisis? Showcasing work by Sylvie Barbier, Cecile Embleton, members of the birthstrike movement  Jess Johannesson Gaitán & Adam and the founders of Fourthland, the evening will invite collective reflection on reproduction, the ecological crisis and our future.
+On **Wednesday 31st July, 6-9pm at Ugly Duck Arts, 49 Tanner St, Bermondsey, London SE1 3PL** , we are holding a performance and installation art event entitled **'Is there a Future?'** As human beings we are compelled to think about the future constantly; imagining a happy future is a key ingredient for a joyful life. For some, having children is a central part of this. How do we decide whether to have children or not in the midst of an ecological crisis? Showcasing work by AET members Sylvie Barbier, Cecile Embleton, members of the BirthStrike movement Jess Johannesson Gaitán and Adam Ley-Lange, and the founders of Fourthland, the evening will invite collective reflection on reproduction, the ecological crisis and our future.
 
 <img style="width:400px"; src="/images/sylvie-motherhood.jpeg">
 
@@ -15,7 +15,7 @@ On **Wednesday 31st July, 6-9pm at Ugly Duck Arts, 49 Tanner St, Bermondsey, Lon
 # Key Information
 - **When:** 31st July 2019 6-9pm
 - **Where** Ugly Duck Arts: 49 Tanner St, Bermondsey, London SE1 3PL
-- **Ticket** 7£ (at the door)
+- **Ticket** £7 on the door
 
 
 # Artists
@@ -31,11 +31,11 @@ Website: http://shiweiart.com
 
 # Cécile Embleton
 
-is an artist and filmmaker with a background in fine art. Her award-winning films have shown in film festivals across the world and she has been supported by the British Council Film to present her work in the United States and Europe.
+Cecile is an artist and filmmaker with a background in fine art. Her award-winning films have shown in film festivals across the world and she has been supported by the British Council Film to present her work in the United States and Europe.
 She is developing an installation work in response to the experince of miscarriage and the road to becoming a mother.
 
 <img style="width:300px"; src="/images/cecile.jpg">
 
 
-# Jess Johannesson Gaitán & Adam
+# Jess Johannesson Gaitán & Adam Ley - Lange
 Jessica Gaitán Johannesson is a writer and activist. Her work has appeared in The Scotsman, The Stinging Fly and Litro magazine among other publications. She lives in Bath. Adam Ley-Lange is a short story writer and activist. He has an MA in Creative Writing from Bath Spa University and is an editor for the literary magazine Structo.

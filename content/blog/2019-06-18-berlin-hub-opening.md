@@ -19,16 +19,18 @@ We seek 4 people (one couple and two singles) to live in our space in Kreuzberg,
 ## Key Information
 - 110m2 flat in the Kreuzberg
 - Available from the 14th September 2019
-- Applicatin closes on the 12 of July 2019
+- Application closes on the 12 of July 2019
 - Part furnished three-bedroom fourth floor apartment (beds, white goods).
 - Looking for 1 couple and 2 single people
 - The rent is €600 - €800 for larger rooms including bills  
 - A two-month deposit that is returned to you when you leave
 - Please complete this questionnaire
 
-## APPLY HERE
+# Application
 
-https://docs.google.com/forms/d/1jNUUlWj5UVqceQnEjKh74eIxWN7aXreeGU4Q79Lihio/edit
+Please apply [here]
+
+[here]:https://docs.google.com/forms/d/1jNUUlWj5UVqceQnEjKh74eIxWN7aXreeGU4Q79Lihio/edit
 
 
-**Find out more about our Berlin Hub:** http://artearthtech.com/berlinhub/
+**Find out more about on our website: :** http://artearthtech.com/berlinhub/

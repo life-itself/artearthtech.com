@@ -8,20 +8,24 @@ aliases:
 
 We have a new Art / Earth / Tech coliving space available for four people in the popular Kreuzberg district.  
 Three bedrooms, a bathroom and modern kitchen on the fourth floor of a light, quiet apartment building with trees outside.
-We seek 4 people (one couple and two singles) to live in our space in Kreuzberg, the beating heart of Berlin available from 14th September 2019.  There are two large bedrooms and one smaller bedroom, a kitchen and a bathroom.
+We seek four people (one couple and two singles) to live in our space in Kreuzberg, the beating heart of Berlin available from 14th September 2019.  There are two large bedrooms and one smaller bedroom, a kitchen and a bathroom.
 
 ## Key Information
 - 110m2 flat in the Kreuzberg
 - Available from the 14th September
+- Deadline to apply 12th July 2019
 - Part furnished three-bedroom fourth floor apartment (beds, white goods).
 - Looking for 1 couple and 2 single people
 - The rent is €600 - €800 for larger rooms including bills  
 - A two-month deposit that is returned to you when you leave
-- Please complete this questionnaire
+- Please complete this [questionnaire] to apply by 12th July
+
+[questionnaire]:https://docs.google.com/forms/d/1jNUUlWj5UVqceQnEjKh74eIxWN7aXreeGU4Q79Lihio/edit
+
 
 # APPLY HERE
 
-Applicatin closes on the 12 of July 2019:
+Application closes on the 12 of July 2019:
 https://docs.google.com/forms/d/1jNUUlWj5UVqceQnEjKh74eIxWN7aXreeGU4Q79Lihio/edit
 
 <p>
@@ -50,9 +54,7 @@ Why join us? Do you ever feel like you know the problem, you know the solutions 
 
 The people behind Art Earth Tech have experience in living in communities across the world, both on rural farms and in dense urban centres. We are now called to start more across the world and want samurai to bring these to life.
 
-Art Earth Tech is a group of people who have come together because they believe a weller, wiser world is possible. On one side we dedicate time and thought to exploring these ideas in our Institute http://artearthtech.com/blog/ , event series and our annual Gathering http://artearthtech.com/gathering/ outside Paris in rural France, which we would request you join us for. We practice and explore these ideas in our communities
-
-in La Cheraille, France, and in Hoxton, London. We are new and expanding our network at speed as more of us seek to contemplate, to explore and to collaborate on projects that bring forth a better future for all of us, and the Earth.
+Art Earth Tech is a group of people who have come together because they believe a weller, wiser world is possible. On one side we dedicate time and thought to exploring these ideas in our Institute http://artearthtech.com/blog/ , event series and our annual Gathering http://artearthtech.com/gathering/ outside Paris in rural France, which we would request you join us for. We practice and explore these ideas in our communities in La Cheraille, France, and in Hoxton, London. We are new and expanding our network at speed as more of us seek to contemplate, to explore and to collaborate on projects that bring forth a better future for all of us, and the Earth.
 
 In all our hubs, we have a residency programme LINK http://artearthtech.com/residency/ where people stay on a short term basis 1-3 months to work on a project or idea they have that needs space to hatch.
 This is also fun for the hub as you get to meet new people and new views. We have put a lot of thought into our Governance model, which we would be happy to share with you (it’s super interesting, we think) http://artearthtech.com/files/aet-governance.pdf
