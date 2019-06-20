@@ -47,4 +47,4 @@ She is developing an installation work in response to the experince of miscarria
 # Jess Johannesson Gaitán & Adam Ley - Lange
 Jessica Gaitán Johannesson is a writer and activist. Her work has appeared in The Scotsman, The Stinging Fly and Litro magazine among other publications. She lives in Bath. Adam Ley-Lange is a short story writer and activist. He has an MA in Creative Writing from Bath Spa University and is an editor for the literary magazine Structo.
 
-[Book your ticket now] >>
+[Book your ticket now >]
