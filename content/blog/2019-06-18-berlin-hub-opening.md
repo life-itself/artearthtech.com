@@ -7,30 +7,27 @@ authors: [sylviebarbier]
 ---
 
 
-# Art Earth Tech opens in Berlin!
+Our European co-living community is growing and we are excited to announce that we will be opening a hub in Berlin in September!
 
-We have a new Art / Earth / Tech coliving space available for four people in the popular Kreuzberg district.  
-Three bedrooms, a bathroom and modern kitchen on the fourth floor of a light, quiet apartment building with trees outside.
-We seek 4 people (one couple and two singles) to live in our space in Kreuzberg, the beating heart of Berlin available from 14th September 2019.  There are two large bedrooms and one smaller bedroom, a kitchen and a bathroom.
+[Apply Now >]
 
-<img style="width:400px"; src="/images//berlin-hub01.jpg">
+[Apply Now >]:https://docs.google.com/forms/d/1jNUUlWj5UVqceQnEjKh74eIxWN7aXreeGU4Q79Lihio/edit
 
+So come join our coliving community in the heart Berlin grounded in purpose and presence. Be part of the international network of hubs run by Art Earth Tech, an initiative dedicated to fostering a community of people seeking a wiser, weller world. Rooms available from September 2019 at €600 per month all costs included.
+
+[Read more >]
+
+[Read more >]: http://artearthtech.com/hubs/berlin/
 
 ## Key Information
-- 110m2 flat in the Kreuzberg
-- Available from the 14th September 2019
-- Application closes on the 12 of July 2019
-- Part furnished three-bedroom fourth floor apartment (beds, white goods).
-- Looking for 1 couple and 2 single people
-- The rent is €600 - €800 for larger rooms including bills  
-- A two-month deposit that is returned to you when you leave
-- Please complete this questionnaire
 
-# Application
-
-Please apply [here]
-
-[here]:https://docs.google.com/forms/d/1jNUUlWj5UVqceQnEjKh74eIxWN7aXreeGU4Q79Lihio/edit
+<p> - Where: Gneisenaustrasse, Kreuzberg, Berlin </p>
+<p> - When: from September 2019. Stays from a minimum of 6 months </p>
+<p> - Who: Singles and couples who have a pioneering spirit and value community and making a difference </p>
+<p> - Cost: €600-800 pcm (large rooms, furnished and all costs included) </p>
+<p> - Apply: https://artearthtech.com/berlin/ </p>
 
 
-**Find out more about on our website: :** http://artearthtech.com/berlinhub/
+[Apply Now >]
+
+<img style="width:400px"; src="/images//berlin-hub01.jpg">
