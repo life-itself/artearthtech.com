@@ -70,5 +70,15 @@ Some words from previous residents in our other hubs:
 
 ## Located on Gneisenaustrasse in Kreuzberg, Berlin
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="569" height="464" id="gmap_canvas" src="https://maps.google.com/maps?q=52%20Gneisenaustra%C3%9Fe%2C%20berlin&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>Google Maps Generator by <a href="https://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{position:relative;text-align:right;height:464px;width:569px;}.gmap_canvas {overflow:hidden;background:none!important;height:464px;width:569px;}</style></div>
+<div class="mapouter">
+<div class="gmap_canvas"><iframe width="569" height="464" id="gmap_canvas" src="https://maps.google.com/maps?q=52%20Gneisenaustra%C3%9Fe%2C%20berlin&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>Google Maps Generator by <a href="https://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{position:relative;text-align:right;height:464px;width:569px; margin-bottom: 50px;}.gmap_canvas {overflow:hidden;background:none!important;height:464px;width:569px;}</style></div>
+
+
+# More about Art / Earth / Tech
+
+*A multidisciplinary to creating a wise and beautiful future*
+
+Art / Earth / Tech is a multi-disciplinary initiative including artists, ecologists researchers and technologists. Its goal is to foster a community of people making a wise, well and beautiful world. Activities include developing coliving spaces; building a network via gatherings and events; and sharing knowledge via education and research.
+
+Find out more at https://artearthtech.com/
 
