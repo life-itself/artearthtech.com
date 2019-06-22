@@ -6,14 +6,11 @@ aliases:
   - /berlin
 ---
 
-<p style="text-align: center;">
+<p>
 <a href="/hubs/apply" class="button" style="font-size: 28px; background-color: #34313b; color: white;">Apply Now &raquo;<br /></a>
 </p>
 
-Join our new co-living community in the heart of Berlin, and connect to a growing network of rural-urban hubs across Europe: www.artearthtech.com
-
-Join our coliving community in the heart Berlin grounded in purpose and presence. The hub is part of the international network of hubs run by Art Earth Tech, an initiative dedicated to fostering a community of people seeking a wiser, weller world. Rooms available from September 2019 at €600 per month all costs included.
-
+Join our new coliving community in the heart Berlin grounded in purpose and presence. The hub is part of the international network of hubs run by Art Earth Tech, an initiative dedicated to fostering a community of people seeking a wiser, weller world. Rooms available from September 2019 from €600 per month all costs included.
 
 **Key information**
 
@@ -24,7 +21,7 @@ Join our coliving community in the heart Berlin grounded in purpose and presence
 * **Cost**: €600-800 pcm (large rooms, furnished and all costs included)
 * **Apply**: apply online by 5th July at https://artearthtech.com/berlin
 
-<p style="text-align: center;">
+<p>
 <a href="/hubs/apply" class="button" style="font-size: 28px; background-color: #34313b; color: white;">Apply Now &raquo;<br /></a>
 </p>
 
@@ -43,8 +40,8 @@ As one of the first residents you will be part of a small, supportive community 
 **Requirements:**
 
 * Basic English
-* Love of community: You like living in community and contributing to it.
-* Be a self-starter: You take initiative and can set and manage your own projects.
+* Love of community: you like living in community and contributing to it.
+* Be a self-starter: you take initiative and can set and manage your own projects.
 * You want to make a difference
 
 **Desirable:**
@@ -52,6 +49,10 @@ As one of the first residents you will be part of a small, supportive community 
 * Have a meditative / mindful practice
 * Have done personal development work
 * Have past experience with living in shared spaces
+
+<p>
+<a href="/hubs/apply" class="button" style="font-size: 28px; background-color: #34313b; color: white;">Apply Now &raquo;<br /></a>
+</p>
 
 # More about the space
 
@@ -67,9 +68,7 @@ Some words from previous residents in our other hubs:
 
 *“The interior itself was also exceptional, and it adds a lot of coziness and uniqueness to this centrally located space.”*
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="569" height="464" id="gmap_canvas" src="https://maps.google.com/maps?q=52%20Gneisenaustra%C3%9Fe%2C%20berlin&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>Google Maps Generator by <a href="https://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{position:relative;text-align:right;height:464px;width:569px;}.gmap_canvas {overflow:hidden;background:none!important;height:464px;width:569px;}</style></div>
+## Located on Gneisenaustrasse in Kreuzberg, Berlin
 
-<p style="text-align: center;">
-<a href="/hubs/apply" class="button" style="font-size: 28px; background-color: #34313b; color: white;">Apply Now &raquo;<br /></a>
-</p>
+<div class="mapouter"><div class="gmap_canvas"><iframe width="569" height="464" id="gmap_canvas" src="https://maps.google.com/maps?q=52%20Gneisenaustra%C3%9Fe%2C%20berlin&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>Google Maps Generator by <a href="https://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{position:relative;text-align:right;height:464px;width:569px;}.gmap_canvas {overflow:hidden;background:none!important;height:464px;width:569px;}</style></div>
 
