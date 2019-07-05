@@ -18,25 +18,40 @@ On **Wednesday 31st July, 6-9pm at Ugly Duck Arts, 49 Tanner St, Bermondsey, Lon
 - **When:** 31st July 2019 6-9pm
 - **Where:** Ugly Duck Arts: 49 Tanner St, Bermondsey, London SE1 3PL
 - **Ticket:** £5 in advance and £7 on the door
-- **Ticket link:**  [event brite]
+- **Ticket link:**  [eventbrite]
+
+
+# A bit more
+
+Should we have children or stay childfree in the midst of an ecological crisis?
+
+For some, having children is quite central when trying to envision a future.
+
+*‘Is there a Future’* is an evening of performance art and installation featuring works by international artists and activists, aiming to open a safe space for discussion looking at our future, the ecological landscape and our evolving relationships with the idea of family within it. The programme sees diverse and thought-provoking responses to the question and includes members of the Birthstrike movement, Jess Gaitán Johannesson & Adam Ley-Lange presenting a personal and ongoing process of decision-making; French - Taiwanese performance artist Sylvie Shiwei Barbier exploring her pregnant body and the celebration of a new life, and a piece by filmmaker and documentarian Cécile Embleton exploring the impact of climate change on public health, fertility and increase in miscarriage. See full programme below for more details.
+
+This is an artist-led event organised and curated by Cécile Embleton from **Art Earth Tech** in collaboration with Dyana Gravina from Procreate Project.
+
+International artists have been invited to examine the two fold theme of parenthood and the ecological crisis and what arises from discovering just how intimately intertwined these themes are. The works will explore; the joy, love and hope that is born in our necessity to create new life - on both a personal and collective level - grieving for a sense of mothering that we have lost in our relationship to nature and in our societies, and the urgent ecological challenges we face in order to create a viable future for our children.
+
+[Book your ticket now >]
 
 [Book your ticket now >]: https://www.eventbrite.co.uk/e/is-there-a-future-performance-and-illustration-art-on-reproduction-the-ecological-crisis-and-our-tickets-63756605724
 
-[event brite]: https://www.eventbrite.co.uk/e/is-there-a-future-performance-and-illustration-art-on-reproduction-the-ecological-crisis-and-our-tickets-63756605724
+[eventbrite]: https://www.eventbrite.co.uk/e/is-there-a-future-performance-and-illustration-art-on-reproduction-the-ecological-crisis-and-our-tickets-63756605724
 
 
 # Artists
 Selected international artists have been invited to examine the two fold theme of parenthood and the ecological crisis and what arises from discovering just how intimately intertwined these themes are. The works will explore; the joy, love and hope that is born in our necessity to create new life - on both a personal and collective level - grieving for a sense of mothering that we have lost in our relationship to nature and in our societies, and the urgent ecological challenges we face in order to create a viable future for our children.
 
 
-# Sylvie Shiwei Barbier
+## Sylvie Shiwei Barbier
 Sylvie is a French - Taiwanese artist who works primarily with the body as a medium in the form of performance art, photography and videos. She investigates the human condition through the thematics of birth, death, joy, memory, longing, family and instinct. The body is the language of her artistic universe where she bridges eastern and western aesthetics. She is the co-founder of Art / Earth / Tech a community oriented initiative based in France, the UK and Taiwan. Her art work has been collected by the National Museum of Taiwan.
 
 Website: http://shiweiart.com
 
 <img style="width:300px"; src="/images/sylvie-performance01.png">
 
-# Cécile Embleton
+## Cécile Embleton
 
 Cecile is an artist and filmmaker with a background in fine art. Her award-winning films have shown in film festivals across the world and she has been supported by the British Council Film to present her work in the United States and Europe.
 She is developing an installation work in response to the experince of miscarriage and the road to becoming a mother.
@@ -44,7 +59,7 @@ She is developing an installation work in response to the experince of miscarria
 <img style="width:300px"; src="/images/cecile.jpg">
 
 
-# Jess Johannesson Gaitán & Adam Ley - Lange
+## Jess Johannesson Gaitán & Adam Ley - Lange
 Jessica Gaitán Johannesson is a writer and activist. Her work has appeared in The Scotsman, The Stinging Fly and Litro magazine among other publications. She lives in Bath. Adam Ley-Lange is a short story writer and activist. He has an MA in Creative Writing from Bath Spa University and is an editor for the literary magazine Structo.
 
 [Book your ticket now >]
