@@ -3,7 +3,7 @@ title: Zen and the trauma of Neuroscience meet
 date: 2019-07-29
 imagePath: pv-neuroscience-retreat-2019.jpg
 notebook: yes
-authors: [sylviebarbier]
+authors: [liamkavanagh]
 ---
 
 It was my pleasure to co-organise Plum Village’s first [Neuroscience retreat] in ten years. Two hundred and fifty therapists, scientists and practitioners came together for a week of devoted mindfulness practice, complemented by talks that explored Buddhist approaches to psychology and presentations by pioneers in therapeutic practices. Art / Earth / Tech deepened its ties with Plum Village through participating in this event, which generated a huge amount of excitement, joy and mindfulness. Luminaries such as Neurofeedback pioneer [Sebern Fisher], Californian Surgeon General [Nadine Burke Harris], [Peter Levine], the founder of the Somatic Experiencing came and presented while the influential psychiatrist [Dr Dan Siegel] joined us via videolink. It was made all the more exciting because on the same trip, Art / Earth / Tech advanced negotiations for a building outside of Plum Village, which will be a new coliving hub. All around, there was a feeling that this could be the start of something larger.
