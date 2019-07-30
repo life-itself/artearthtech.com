@@ -1,16 +1,14 @@
 {{ partial "head.html" . }}
 
-<body>
-  <div class="content-wrapper purple-landing color-white">
+<body class="purple-landing">
+  <div class="content-wrapper color-white">
     <div class="content-wrapper__inner">
       <div>
-        {{ partial "navbar.html" . }}
 
         <section class="other-pages-special">
           {{ with .Params.supertitle }}
           <h1 class="large-title">{{ . }}</h1>
           {{ end }}
-          <h1>{{ .Title }}</h1>
           {{ .Content }}
           {{ if eq .Params.news true }}
           <article class="type-system-rounded">
@@ -37,7 +35,6 @@
       </div>
     </div>
   </div>
-  {{ partial "footer.html" . }}
 </body>
 {{ partial "script.html" .}}
 
