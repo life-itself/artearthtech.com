@@ -159,7 +159,7 @@ The inspiration to create this platform and collect answers to these questions c
 
 ### Follow us and tag us on social media 
 
-[@artearthtech](https://www.facebook.com/#) [@procreateproject](https://www.facebook.com/procreateproject/) [@WeAreUglyDuck](https://www.facebook.com/#)
+[@artearthtech](https://www.facebook.com/artearthtech/?ref=br_rs) [@procreateproject](https://www.facebook.com/procreateproject/) [@WeAreUglyDuck](https://www.facebook.com/WeAreUglyDuck/)
 
 <br/>
 
