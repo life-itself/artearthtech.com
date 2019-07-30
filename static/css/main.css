@@ -5050,6 +5050,34 @@ section.who-we-are {
   background-image: url("../images/texture_bg_purple.jpg");
   background-repeat: repeat; }
 
+/* Schedule */
+.schedule {
+  padding-top: 18px;
+  border-bottom: 1px solid #1a615a; }
+  .schedule .clearfix {
+    margin: 0; }
+  .schedule .col-left {
+    width: 30%;
+    float: left;
+    padding: 0 10px; }
+    .schedule .col-left .time {
+      font-size: 1.6em;
+      margin-bottom: 0; }
+  .schedule .col-right {
+    width: 70%;
+    padding: 10px 10px 0 10px;
+    float: left; }
+  @media screen and (max-width: 768px) {
+    .schedule .col-left {
+      width: 100%;
+      padding: 0; }
+    .schedule .col-right {
+      width: 100%;
+      padding: 0; } }
+
+.clearfix {
+  clear: both; }
+
 form {
   max-width: 900px;
   text-align: left; }

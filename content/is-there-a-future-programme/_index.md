@@ -18,3 +18,32 @@ and researchers actively looking at alternative models for a more sustainable fu
 
 <br/>
 ## Schedule
+<div class="schedule">
+    <div class="col-left">
+        <p class="time">5:30</p>
+    </div>
+    <div class="col-right">
+        <p>Doors open</p>
+    </div>
+    <p class="clearfix"></p>
+</div>
+
+<div class="schedule">
+    <div class="col-left">
+        <p class="time">6:00 - 7:00</p>
+    </div>
+    <div class="col-right">
+        <h4>Panel discussion</h4>
+        <h4>Speakers:</h4>
+        <ul>
+            <li>Blythe Pepino - Founder of BirthStrike</li>
+            <li>Alice Brown - Member of BirthStrike</li>
+            <li>Isobel Braithwaite - Doctor and </li>
+            <li>Public Health Registrar</li>
+            <li>Juliana Muniz Westcott - Extinction Rebellion Families coordinator</li>
+            <li>Kay Michael, Co-Founder of Culture Declares Emergency and Letters To The Earth</li>
+        </ul>
+        <p>For speakers info <a href="/is-there-a-future-programme/speakers">click here</a></p>
+    </div>
+    <p class="clearfix"></p>
+</div>
