@@ -33,7 +33,7 @@ and researchers actively looking at alternative models for a more sustainable fu
         <p class="time">6:00 - 7:00</p>
     </div>
     <div class="col-right">
-        <h4>Panel discussion</h4>
+        <h6>Panel discussion</h6>
         <h4>Speakers:</h4>
         <ul>
             <li>Blythe Pepino - Founder of BirthStrike</li>
@@ -43,7 +43,87 @@ and researchers actively looking at alternative models for a more sustainable fu
             <li>Juliana Muniz Westcott - Extinction Rebellion Families coordinator</li>
             <li>Kay Michael, Co-Founder of Culture Declares Emergency and Letters To The Earth</li>
         </ul>
-        <p>For speakers info <a href="/is-there-a-future-programme/speakers">click here</a></p>
+        <p>For speakers info <a href="/is-there-a-future-programme/speakers">Click here</a></p>
     </div>
     <p class="clearfix"></p>
 </div>
+
+<div class="schedule">
+    <div class="col-left">
+        <p class="time">7:00</p>
+    </div>
+    <div class="col-right">
+        <h4>Exhibition space opens</h4>
+        <p><a href="/is-there-a-future-programme/speakers">Click here</a> for information on artists</p>
+    </div>
+    <p class="clearfix"></p>
+</div>
+
+<div class="schedule">
+    <div class="col-left">
+        <p class="time">7:00 - 7:20</p>
+    </div>
+    <div class="col-right">
+        <h6>Performance </h6>
+        <h4>Mother - the afterbirth</h4>
+        <p><i>performed by Isik Sayarer, Alex Moloney and Maryam Hashemi </i></p>
+        <p><a href="/is-there-a-future-programme/speakers">Click here</a> for information</p>
+    </div>
+    <p class="clearfix"></p>
+</div>
+
+<div class="schedule">
+    <div class="col-left">
+        <p class="time">7:20</p>
+    </div>
+    <div class="col-right">
+        <h6>Durational performance  </h6>
+        <h4>Gratitude</h4>
+        <p><i>performed by Sylvie Shiwei Barbier </i></p>
+        <p><a href="/is-there-a-future-programme/speakers">Click here</a> for information</p>
+    </div>
+    <p class="clearfix"></p>
+</div>
+
+<div class="schedule">
+    <div class="col-left">
+        <p class="time">7:20</p>
+    </div>
+    <div class="col-right">
+        <h6>One to one durational performance</h6>
+        <h4>Umbilical</h4>
+        <p><i>performed by Niya B</i></p>
+        <p><a href="/is-there-a-future-programme/speakers">Click here</a> for information</p>
+    </div>
+    <p class="clearfix"></p>
+</div>
+
+<div class="schedule">
+    <div class="col-left">
+        <p class="time">7:45</p>
+    </div>
+    <div class="col-right">
+        <h6>Spoken word performance </h6>
+        <h4>Notes on Kinship</h4>
+        <p><i>performed by Verity Birt</i></p>
+        <p><a href="/is-there-a-future-programme/speakers">Click here</a> for information</p>
+    </div>
+    <p class="clearfix"></p>
+</div>
+
+<div class="schedule">
+    <div class="col-left">
+        <p class="time">8:15</p>
+    </div>
+    <div class="col-right">
+        <h6>Sound performance</h6>
+        <h4>SUNG</h4>
+        <p><i>performed by Rebekah Alero</i></p>
+        <p><a href="/is-there-a-future-programme/speakers">Click here</a> for information</p>
+    </div>
+    <p class="clearfix"></p>
+</div>
+
+
+<br/><br/>
+<p><a href="/is-there-a-future-programme/speakers">Click here</a> for organizers details </p>

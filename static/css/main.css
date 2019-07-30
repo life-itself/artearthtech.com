@@ -5039,7 +5039,6 @@ section.who-we-are {
 .color-white .other-pages-special h3,
 .color-white .other-pages-special h4,
 .color-white .other-pages-special h5,
-.color-white .other-pages-special h6,
 .color-white .other-pages-special p,
 .color-white .other-pages-special a,
 .color-white .other-pages-special li {
@@ -5069,6 +5068,14 @@ section.who-we-are {
     float: left; }
   .schedule h4 {
     font-size: 1.4em; }
+  .schedule h6 {
+    background: white;
+    color: #000 !important;
+    display: inline-block;
+    padding: 2px 10px 4px;
+    border-radius: 4px;
+    font-weight: 400;
+    font-size: .9em; }
   @media screen and (max-width: 768px) {
     .schedule .col-left {
       width: 100%;
