@@ -4,23 +4,7 @@ title: "Participating Artists"
 layout: single-alternate
 ---
 
-- Rebekah Alero [sound performance]
 
-- Niya B [&#39;Umbilical&#39; - one to one durational performance]
-
-- Verity Birt [spoken word performance]
-
-- Cécile Embleton [Installation]
-
-- Jessica Gaitán Johannesson &amp; Adam Ley-Lange  [Brain Child Writing, installation]
-
-- Isik Sayarer &amp; Eva Knutsdotter, Alex Moloney and Maryam Hashemi - Fourthland [&#39;The Mother&#39; -  Mixed media works, object, photograph, video, live performance]
-
-- Tereza Stelikhova - [Video - Installation]
-
-- Paula McCloskey &amp; Sam Vardy - A place of their own  [Video - Installation]
-
-<br/>
 # Performance
 
 <br/>
