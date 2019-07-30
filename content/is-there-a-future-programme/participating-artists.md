@@ -21,25 +21,28 @@ layout: single-alternate
 - Paula McCloskey &amp; Sam Vardy - A place of their own  [Video - Installation]
 
 <br/>
-## Performance
+# Performance
+
+<br/>
+
+### Fourthland
+### The Mother - the afterbirth
 
 **Performance** _( 7:00pm - 7:20pm )_
 
 _performed by Isik_ _Sayarer__, Alex Moloney and Maryam Hashemi_
 
-<br/>
-## Fourthland
-
-**The Mother - the afterbirth**
-
 For &quot;Is there a Future?&quot; Fourthland present the mother, the afterbirth - a  recent performance and photographic work developed in response to a project and collectively made object with Xenia, a group of migrant and English speaking women as part of BearMotherHouse, commissioned by Space London. These works will be shown alongside moving image fragments of a collective making ritual with Xenia.
+
+
+
+<br>
+
+### Gratitude
 
 **Durational performance** ( 7:20pm)
 
 _performed by_ _Sylvie Shiwei Barbier_
-
-<br>
-## Gratitude
 
 &#39;We can not transform what we make wrong&#39; only by bringing love, acceptance and gratitude can we start changing our present and define our future differently.
 
@@ -51,11 +54,13 @@ The act of expressing gratitude connects us with everything that came before us 
 
 [shiweiart.com](http://shiweiart.com)
 
+<br/>
+
+### Umbilical
+
 **One to one duration performance** (7:20pm)
 
 _performed by Niya B_
-
-**Umbilical**
 
 Umbilical stories, navel sensualities and reproductive desires. Niya B examines the post-reproductive body and a deep sense of longing to nurture life. Revitalising her umbilical cord and the sensuality of her navel, she wishes to reconnect with the m-other.
 
@@ -69,11 +74,13 @@ Insta: [niya be](https://www.instagram.com/niya.be/)
 
 [Niya.be](http://niya.be/)
 
+<br/>
+
+### Notes on Kinship 
+
 **Spoken word performance** (7:45)
 
 _performed by Verity Birt_
-
-**Notes on Kinship**
 
 Verity Birt&#39;s practice and PhD research speculates on prehistoric (pre-capitalist/pre-patriarchal) models to help us imagine more inclusive and sustainable futures. Notes on Kinship aims to disrupt heteronormative nuclear family models by thinking through ideas of communal, extended and shared child care. Having recently donated her eggs to a friend to start a family, Verity shares her thoughts and speculations on alternative sustainable models of shared kinship and asks what this could mean for the future.
 
@@ -81,15 +88,13 @@ Verity Birt&#39;s practice and PhD research speculates on prehistoric (pre-capit
 
 insta:[v\_e\_z](https://www.instagram.com/v_e_z/)
 
+<br/>
 
-
-
+## SUNG
 
 **Sound performance** (8:15)
 
 _performed by Rebekah Alero_
-
-**SUNG**
 
 SUNG is an ongoing sound series exploring the planet and it&#39;s inhabitants.
 
@@ -99,11 +104,15 @@ This part of SUNG will respond to the theme through a sonic landscape as well as
 
 facebook:[@rebekahalero](https://www.facebook.com/hakeberrebekah)
 
-Installation, Video
+<br/>
 
-**Fourthland**
+# Installation, Video
 
-**The Mother - the afterbirth**
+<br/> 
+
+### Fourthland 
+
+### The Mother - the afterbirt
 
 _Mixed media object, wax, fabric, crystals, honey, onions, wood, rope_
 
@@ -111,17 +120,21 @@ _to mother, a birth, a collective act, an act of reproductive and non-reproducti
 
 What you see here was unknown at the beginning. The Mother object came into being through a collective ceremony that took place between women from Xenia, a group of migrant and English-speaking women that we worked with in 2017. Through an improvised ritual of materials and sound, the Mother was formed. After several hours of process, shared labours, chants and whispers we gathered around her, moved, in hands and some in tears. One woman spoke that the process of making the mother was like a funeral and a birth, it was necessary to bury our conceptions of motherhood - to birth new life into the idea of the divine, limitless, transformative power of the archetypal mother.
 
-**Fourthland**
+<br/>
 
-**The Mother - the afterbirth**
+### Fourthland
+
+### The Mother - the afterbirth
 
 _Performance for medium format photography_
 
 A series of processes in the landscape with the mother object for medium format film. Carrying and imbuing the object with the messages of nature. These journeys have honoured the archetypal experience of the great mother that lives within us all, across time and cultural distinction, bringing us closer to the cycle of the divine mother.
 
-**Fourthland**
+<br/>
 
-**The Mother - the afterbirth**
+### Fourthland
+
+### The Mother - the afterbirth
 
 _Video and sound piece_
 
@@ -138,14 +151,15 @@ _&quot;She was born in a cave, she returned to the cave where she was born&quot;
 facebook: [@fourthland.art](https://www.facebook.com/fourthland.art/)
 
 
+<br/> 
 
-**Jessica Gaitán Johannesson &amp; Adam Ley-Lange  **
+### Jessica Gaitán Johannesson &amp; Adam Ley-Lange
 
 _Installation_
 
 _Writing_
 
-**Brain Child**
+### Brain Child
 
 Brain Childis a conversation piece involving two people who share a life as well as a love of words, and who have decided, together, to sign the Birth Strike declaration. Although wanting a child, they feel unable to become parents in the face of climate and ecological break down. Listening to an intimate conversation, which explores the creators&#39; personal and ongoing process of decision-making, visitors are brought to inhabit a space ridden with uncertainty, loss and grief, as well as trust and ambivalence. It&#39;s a conversation and a dilemma which an increasing number of would-be parents face.
 
@@ -157,13 +171,15 @@ They have joined the **Birth Strike Movement** - the clarion call of would-be pa
 
 twitter: [@jessJohannesson](https://twitter.com/JessJohannesson)[@AdamLeyLange1](https://twitter.com/AdamLeyLange1)
 
-**Cécile Embleton  **
+<br/>
+
+### Cécile Embleton
 
 _Installation_
 
 _Stones, fabric, writing_
 
-**Surrender**
+### Surrender
 
 Surrender is an exploration of our desire to control our lives and futures. This work was created whilst processing the experience of a future that disappeared through miscarriage.
 
@@ -173,13 +189,15 @@ Exploring loss of control and a deep reconnnection to the cycles of mother earth
 
 Insta: ceciledocfilms
 
-**Tereza Stelikhova -**
+<br/> 
+
+### Tereza Stelikhova -
 
 _Video_
 
 _Short film_
 
-**From You to Me**
+### From You to Me
 
 _&quot;Every mother contains her daughter in herself and every daughter her mother, and every woman extends backwards into her mother and forwards into her daughter. This participation and intermingling gives rise to that peculiar confusion as regards to time: woman lives earlier as a mother and later as a daughter.&quot; C G Jung_
 
@@ -190,24 +208,18 @@ TS: By examining my place within my own female line, I am trying to make sense o
 **Tereza Stehlíková** is an artist and works as a senior lecturer in still and moving image theory and practice, at the University of Westminster, as well as a visiting lecturer at the Royal College of Art. She holds a PhDfrom the RCA, where she researched the tactile language of moving image. She is currently engaged in a cross-disciplinary research, investigating how moving image can be used to communicate embodied experience.  [www.terezast.com](http://www.terezast.com/), [https://cinestheticfeasts.wordpress.com/](https://cinestheticfeasts.wordpress.com/)
 
 
+<br/>
 
-
-
-
-
-
-
-**Paula McCloskey &amp; Sam Vardy -** **(;a place, of their own.)**
+### Paula McCloskey &amp; Sam Vardy -** **(;a place, of their own.)
 
 _Digital film, books_
 
 _9m 36s, 2019_
 
-**(In)sensible**
-
+### (In)sensible
 _(In)sensible_ (2019) is a film which imagines the more-than-human as a worlding practice; a thought experiment to stretch the imaginative to the insensible, and towards different forms of kinship.
 
-**FAN books**
+### FAN books
 
 FAN (Family Activist Network) was founded in 2014 to consider family life and climate change through a variety of art activist formats. FAN is composed of academics, activists, actors, artists, architects, babies, cultural workers, dreamers, parents, playwrights, school children and toddlers. They are Anna, Clare, Corin, Edward, Ella, Fionn, Gabriel, Gary, Hamish, Hope, Innes, James, Jennifer, Jodie, Jude, Laylah, Lawrence, Leah, Leo, Lena, Mahmood, Mala, Martha, Max, Neal, Oisín, Paula, Pete, Roma, Ruby, Sam, Sandy, Sarah, Sid, Susi, Tom, Valerie, and Zoe (so far). Some members are engaged in their own arts collectives (; a place, of their own. / METIS / Migrant Artists Mutual Aid / Search Party / The Institute for the Art and Practice of Dissent at Home / Townley &amp; Bradby), and others work independently. All seek to imagine and create another possible world with social and ecological justice at its core.  Since 2015, FAN met on an average of two times a year at demonstrations and &quot;working/activist holidays.&quot;
 
