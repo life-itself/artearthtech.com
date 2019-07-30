@@ -12,7 +12,7 @@ layout: single-alternate
 ### Fourthland
 ### The Mother - the afterbirth
 
-**Performance** _( 7:00pm - 7:20pm )_
+**Performance** _( 7:00pm - 7:15pm )_
 
 _performed by Isik_ _Sayarer__, Alex Moloney and Maryam Hashemi_
 
@@ -171,7 +171,7 @@ Exploring loss of control and a deep reconnnection to the cycles of mother earth
 
 **Cécile Embleton** is an artist, filmmaker and documentarian. Her films have shown in film festivals across the world and she has been supported by the British Council Film to present her work in the United States and Europe.
 
-Insta: ceciledocfilms
+Insta: @ceciledocfilms
 
 <br/> 
 
@@ -201,22 +201,26 @@ _Digital film, books_
 _9m 36s, 2019_
 
 ### (In)sensible
-_(In)sensible_ (2019) is a film which imagines the more-than-human as a worlding practice; a thought experiment to stretch the imaginative to the insensible, and towards different forms of kinship.
+(In)sensible (2019) is an audio-visual experiment to stretch the imaginative to the insensible, and towards different forms of kinship, a film which proposes the more-than-human as a worlding practice.  As we imagine more-than-human alternative matter, durations, relations and spaces (kinning as a form of resistance in the face of the Anthropocene) the film acknowledges the political power of time and space, which has been wielded most powerfully in relation to children as 'of the future' (reproductive futurity) to open up questions of a multispecies, entangled futurity that does not reinforce exclusionary and inimical notions of whose or what existence matter.
+
+**;a place, of their own** explore critical notions of kin through multiple projects, its entanglements with and between us and our 4 children, and our responses to (and ways of coping with) contemporary environmental, economic and political crises - as we imagine more-than-human alternative futures, and kinning as a form of resistance in the face of the Anthropocene.
 
 ### FAN books
 
 FAN (Family Activist Network) was founded in 2014 to consider family life and climate change through a variety of art activist formats. FAN is composed of academics, activists, actors, artists, architects, babies, cultural workers, dreamers, parents, playwrights, school children and toddlers. They are Anna, Clare, Corin, Edward, Ella, Fionn, Gabriel, Gary, Hamish, Hope, Innes, James, Jennifer, Jodie, Jude, Laylah, Lawrence, Leah, Leo, Lena, Mahmood, Mala, Martha, Max, Neal, Oisín, Paula, Pete, Roma, Ruby, Sam, Sandy, Sarah, Sid, Susi, Tom, Valerie, and Zoe (so far). Some members are engaged in their own arts collectives (; a place, of their own. / METIS / Migrant Artists Mutual Aid / Search Party / The Institute for the Art and Practice of Dissent at Home / Townley &amp; Bradby), and others work independently. All seek to imagine and create another possible world with social and ecological justice at its core.  Since 2015, FAN met on an average of two times a year at demonstrations and &quot;working/activist holidays.&quot;
 
-;a place, of their own. explore critical notions of kin through multiple projects, its entanglements with and between us and our 4 children, and our responses to (and ways of coping with) contemporary environmental, economic and political crises - as we imagine more-than-human alternative futures, and kinning as a form of resistance in the face of the Anthropocene.
+
 
 twitter: [@SamVardy](https://twitter.com/SamVardy)[@paulalmccloskey](https://twitter.com/paulalmccloskey)
 
 insta: [a\_place\_of\_their\_own](https://www.instagram.com/a_place_of_their_own/)
 
 <br/>
-## About the organisers:
+<hr style="width:100%;opacity:.4" />
+<br/>
+# About the curators and organisers:
 
-**Cécile Embleton** is an artist, filmmaker and documentarian. She is a member of Art / Earth / Tech - a multi-disciplinary initiative of artists, researchers and technologists who are committed to being wise and creating a better world for everyone. Thier goal is to generate flourishing and fulfilled communities and individuals which deal powerfully with collective challenges such as climate change and the decline of democracies.
+**Cécile Embleton** is an artist, filmmaker and documentarian. She is a member of Art / Earth / Tech - a multi-disciplinary initiative of artists, researchers and technologists who are committed to being wise and creating a better world for everyone. Their goal is to generate flourishing and fulfilled communities and individuals which deal powerfully with collective challenges such as climate change and the decline of democracies.
 
 Art / Earth / Tech has worked with the Rockefeller Foundation, Plum Village, IPPR, CRI and LSE
 
@@ -230,9 +234,11 @@ institutions including the Venice Biennale, IPM International Music Conference, 
 
 Comedy musical theatre, Goldsmiths University of London, Royal College of Art, LADA, and Create London.
 
-Procreate Project was founded in 2013 and has grown to become a pioneering arts organisation
+Instagram: @dygravina
 
-for its ethos in innovation and sociocultural impact. The main aim is to support the development of contemporary artists who are also mothers, working across multiple disciplines. &#39;Our new approaches and platforms also aim to drive the attention of the wider public to a broad spectrum of themes that would otherwise be overlooked and devalued. Reach the UK and international audiences, supporting traditionally side-lined themes like motherhood and childbirth.&#39;
+Procreate Project was founded in 2013 and has grown to become a pioneering arts organisation
+for its ethos in innovation and sociocultural impact. The main aim is to support the development of contemporary artists who are also mothers, working across multiple disciplines. ‘Our new approaches and platforms also aim to drive the attention of the wider public to a broad spectrum of themes that would otherwise be overlooked and devalued. Reach the UK and international audiences, supporting traditionally side-lined themes like motherhood and childbirth.’
+
 
 For more information visit: [procreateproject.com](https://www.procreateproject.com/)
 
@@ -240,3 +246,8 @@ For more information visit: [procreateproject.com](https://www.procreateproject.
 ## About the venue
 
 Operating since 2012, Ugly Duck is an experienced &#39;meanwhile&#39; space management and arts organisation that breathes new life into disused spaces. Ugly Duck opens up locations for creative use, enabling artists, community groups and the public to come together.  We host unique cultural experiences and curate events to promote and support emerging artists.
+
+<br/>
+[&#8592; Go to the main programme](/is-there-a-future-programme)
+<br/>
+

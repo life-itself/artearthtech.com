@@ -145,4 +145,46 @@ The inspiration to create this platform and collect answers to these questions c
 
 
 <br/><br/>
-<p><a href="/is-there-a-future-programme/participating-artists#about-the-organisers">Click here</a> for organizers details </p>
+<p><a href="/is-there-a-future-programme/participating-artists#about-the-organisers">Click here</a> for organisers details </p>
+
+<br/>
+
+### This event was possible thanks to the kind support of: 
+
+<img src="/images/aet-white.png" width="50">
+<img src="/images/ugly_duck_white.png" style="margin-left:20px;width:80px">
+<img src="/images/procreate_white.png" width="70" style="position:relative;top:20px">
+
+<br/>
+
+### Follow us and tag us on social media 
+
+[@artearthtech](https://www.facebook.com/#) [@procreateproject](https://www.facebook.com/procreateproject/) [@WeAreUglyDuck](https://www.facebook.com/#)
+
+<br/>
+
+### Special thanks for their help goes to: 
+
+Alice Brown,
+Tanvir Chahal,
+Jessica Jane Charleston,
+Federica Ciotti,
+Penny Clark,
+Severine Frison,
+Isolde Godfrey,
+Seemab Gul, 
+Nick Hayes, 
+Anita Leung, 
+Matt Lesniak,
+Alejandro Lovera,
+Paola Lucente,
+Joe Mcarthur,
+Tom Manwell, 
+Soraya Najafi,
+Tom Nowall,
+Esteban Ruseler, 
+Grace Robinson,
+Naima von Ritter Figueres,
+Nadia Schweimler,
+Paul Simpson 
+

@@ -1,10 +1,9 @@
 {{ partial "head.html" . }}
 
-<body>
+<body class="green-landing">
   <div class="content-wrapper">
-    <div class="content-wrapper__inner green-landing color-white">
+    <div class="content-wrapper__inner color-white">
       <div>
-        {{ partial "navbar.html" . }}
 
         <section class="other-pages-special">
           {{ with .Params.supertitle }}
@@ -37,7 +36,6 @@
       </div>
     </div>
   </div>
-  {{ partial "footer.html" . }}
 </body>
 {{ partial "script.html" .}}
 
