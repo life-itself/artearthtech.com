@@ -163,28 +163,5 @@ The inspiration to create this platform and collect answers to these questions c
 
 <br/>
 
-### Special thanks for their help goes to: 
 
-Alice Brown,
-Tanvir Chahal,
-Jessica Jane Charleston,
-Federica Ciotti,
-Penny Clark,
-Severine Frison,
-Isolde Godfrey,
-Seemab Gul, 
-Nick Hayes, 
-Anita Leung, 
-Matt Lesniak,
-Alejandro Lovera,
-Paola Lucente,
-Joe Mcarthur,
-Tom Manwell, 
-Soraya Najafi,
-Tom Nowall,
-Esteban Ruseler, 
-Grace Robinson,
-Naima von Ritter Figueres,
-Nadia Schweimler,
-Paul Simpson 
 
