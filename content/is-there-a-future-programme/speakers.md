@@ -30,7 +30,7 @@ insta: [@juwestcott](https://www.instagram.com/juwestcott/)
 
 [www.letterstotheearth.com](http://www.letterstotheearth.com/)
 
-twitter: [@kaysara](https://twitter.com/kaysara88)
+twitter: [@kaysara](https://twitter.com/kaysara88) [@CultureDeclares](https://twitter.com/culturedeclares) #LettersToTheEarth
 
 **Chair -**  **Nadia Schweimler - Senior Advisor on Climate Innovation**
 

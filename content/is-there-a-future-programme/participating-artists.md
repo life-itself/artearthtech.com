@@ -247,6 +247,8 @@ For more information visit: [procreateproject.com](https://www.procreateproject.
 
 Operating since 2012, Ugly Duck is an experienced &#39;meanwhile&#39; space management and arts organisation that breathes new life into disused spaces. Ugly Duck opens up locations for creative use, enabling artists, community groups and the public to come together.  We host unique cultural experiences and curate events to promote and support emerging artists.
 
+**Special thanks** to everyone who has contributed their time and skills towards making this event possible.
+
 <br/>
 [&#8592; Go to the main programme](/is-there-a-future-programme)
 <br/>
