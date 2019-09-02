@@ -22,4 +22,5 @@ fields:
   name: authors
   label: Authors
 pages:
+- content/blog/our-2019-gathering.md
 - content/blog/the-bitcoin-and-trump-manias-share-a-similar-source.md
