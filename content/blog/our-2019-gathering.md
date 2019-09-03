@@ -1,7 +1,6 @@
 +++
 authors = []
 date = "2019-08-31T22:00:00+00:00"
-draft = true
 imagePath = ""
 title = "Our 2019 Gathering "
 
