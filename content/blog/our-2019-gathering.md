@@ -20,7 +20,7 @@ Our visitors immediately got a taste of what is different about Art / Earth / Te
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/RGqM6Lceur4](https://www.youtube.com/embed/RGqM6Lceur4 "https://www.youtube.com/embed/RGqM6Lceur4")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Our morning discussions began the next day that covered three major attachments of our society -- rationality, individuality, and equality.Â
+Our morning discussions began the next day that covered three major attachments of our society -- rationality, individuality, and equality.
 
 On Monday we started rationality and knowledge, and the feelings of certainty and control these provide. These feelings are our drug of choice, and we suffer by trying to create the orderliness that can give us these feelings, yet even this orderliness is beyond reach. We also discussed how this obsession with precision and detail has gotten in the way of telling ourselves stories (myths), that we need to relate to the big picture.
 
