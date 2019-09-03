@@ -18,7 +18,7 @@ Our visitors immediately got a taste of what is different about Art / Earth / Te
 
 > _A retreat for those who want to step forward. A support group for the strongly motivated and softly caring. A date with nature._
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/RGqM6Lceur4](https://www.youtube.com/embed/RGqM6Lceur4 "https://www.youtube.com/embed/RGqM6Lceur4")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RGqM6Lceur4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our morning discussions began the next day that covered three major attachments of our society -- rationality, individuality, and equality.
 
