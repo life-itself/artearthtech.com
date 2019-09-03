@@ -2,7 +2,7 @@
 authors = []
 date = "2019-08-31T22:00:00+00:00"
 draft = true
-imagePath = "https://drive.google.com/open?id=1xUxGyJpFAx2mK8yqv_9lys7jPY0PX93Q"
+imagePath = "https://youtu.be/RGqM6Lceur4"
 title = "Our 2019 Gathering "
 
 +++
