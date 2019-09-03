@@ -2,11 +2,11 @@
 authors = []
 date = "2019-08-31T22:00:00+00:00"
 draft = true
-imagePath = "https://youtu.be/RGqM6Lceur4"
+imagePath = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RGqM6Lceur4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 title = "Our 2019 Gathering "
 
 +++
-On August 18th for the fourth time, a group of about thirty people found their way through tunnels and highways and then flat wheatfields and finally into the forested gardens of La Cheraille. These participants in the A / E / T annual Gathering were drawn by their conviction that we, and the world we are part of, desperately need to take up the challenge of becoming wise.
+On August 18th for the fourth time, a group of thirty people found their way through tunnels, highways, wheatfields and finally to the forested gardens of La Cheraille. These participants in the A / E / T annual Gathering were drawn by their conviction that we, and the world we are part of, desperately need to take up the challenge of becoming wise.
 
 The Gathering is an embodiment of the principles of Art / Earth / Tech. Its week long duration means we get to touch deeply a mixture of ideas, presence, community, joy and actions. Ten of us were returning and twenty were new without being completely sure what they had gotten themselves into. The introductory circle showed there were a number of researchers, artists, filmmakers, entrepreneurs, healers, and two Buddhist monks visiting us from Plum Village, Br. Phap Linh and Br. Pham Hanh.
 
