@@ -1,5 +1,5 @@
 ---
-title: Apply to Live in our Hubs
+title: Apply to live in our Hubs
 
 ---
 This questionnaire is to give us a better understanding of what living in community means _to you_ and what it's like to live _with you_!
