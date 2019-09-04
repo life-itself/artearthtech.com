@@ -8,6 +8,6 @@ Art Earth Tech offers events and convenient living, but these things would be no
 
 Read more about our [Berlin Hub here »](/hubs/berlin/)
 
-Read more about our [London Hub here>>](www.artearthtech.com/hubs/london)
+Read more about our [London Hub here »](/hubs/london)
 
-<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLScUDsgcLlT7gO4qU6yRWQBm15IztnSF9xW_x5jbq0KsGnW-Vg/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLScUDsgcLlT7gO4qU6yRWQBm15IztnSF9xW_x5jbq0KsGnW-Vg/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLScUDsgcLlT7gO4qU6yRWQBm15IztnSF9xW_x5jbq0KsGnW-Vg/viewform?embedded=true")" width="640" height="3145" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUDsgcLlT7gO4qU6yRWQBm15IztnSF9xW_x5jbq0KsGnW-Vg/viewform?embedded=true" width="640" height="3145" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
