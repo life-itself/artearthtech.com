@@ -12,13 +12,13 @@ On August 18th for the fourth time, a group of thirty people found their way thr
 
 The Gathering is an embodiment of the principles of Art / Earth / Tech. Its week long duration means we get to touch deeply a mixture of ideas, presence, community, joy and actions. Ten of us were returning and twenty were new without being completely sure what they had gotten themselves into. The introductory circle showed there were a number of researchers, artists, filmmakers, entrepreneurs, healers, and two Buddhist monks visiting us from Plum Village, Br. Phap Linh and Br. Pham Hanh.
 
-> _The AET gathering is a great way to cross pollinate ideas with other creative and academic professionals, as well as an effective way to experience how living in a community environment impacts both professional growth and deep personal development in a profound unison. The space is designed to welcome, and the programme is well curated allowing for a fun, transformative, multidisciplinary experience._
+> The AET gathering is a great way to cross pollinate ideas with other creative and academic professionals, as well as an effective way to experience how living in a community environment impacts both professional growth and deep personal development in a profound unison. The space is designed to welcome, and the programme is well curated allowing for a fun, transformative, multidisciplinary experience.
 
 Our visitors immediately got a taste of what is different about Art / Earth / Tech, as soon as the scheduled tour of La Cheraille began, and blindfolds were passed around and put on. With a chain of held hands we snaked through the fields, and gardens and some interior spaces of La Cheraille, with narration from Sylvie and Rufus and the sound of wind swaying fronds and rustling leaves and ushering their smells into our piqued noses. Eventually we ended the tour with a lie down on an especially soft spot of the Earth's vast lap.
 
-> _A retreat for those who want to step forward. A support group for the strongly motivated and softly caring. A date with nature._
+> A retreat for those who want to step forward. A support group for the strongly motivated and softly caring. A date with nature.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/RGqM6Lceur4](https://www.youtube.com/embed/RGqM6Lceur4 "Gathering 2019 film")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RGqM6Lceur4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our morning discussions began the next day that covered three major attachments of our society -- rationality, individuality, and equality.
 
@@ -40,7 +40,7 @@ Contemplation is the kind of mindset required for complexity and Br. Phap Linh s
 
 Where do you begin and where does the air, whose oxygen fills your bloodstream and helps to animate you, end? Where do you end and where does society, or your family and friends begin? The ideas of value and our placement of people upon an imagined line are even more artificial. Letting go of all of this, we can inhabit other states of mind, love and equanimity. The answer to our obsessions with these ideas is not an obsession with getting rid of them, but seeing them as mere ideas, which might be useful but are not true. Our culture which rebels against dogma still maintains these as dogma.
 
-> _A wonderful gathering of fascinating minds and warm hearts. An experience of the joy of co-living and the reality of inter-being._
+> A wonderful gathering of fascinating minds and warm hearts. An experience of the joy of co-living and the reality of inter-being.
 
 The energy of community and reflection was expressed through a whole day of work on projects around education, how achieving the long discussed shift to well-being focused society can answer the climate problem, and the space and community design of Art / Earth / Tech's new hubs in Bergerac and Berlin.
 
@@ -48,6 +48,6 @@ By Saturday morning when Amisha led us in a blend of storytelling and yoga, the 
 
 In the end, the real proof of the Gathering's value was the great sense of community that developed through everybody.
 
-> _(An) uplifting experience! I felt lucky to be part of this gathering. Coming back with important life lessons on the importance of self care, community, interdisciplinarity and slow life. A perfect mix between science art and meditation, between rigorous exchanges, personal experience sharing and introspection love and nature connectedness. AET provides a rare place and an overall framework to navigate between the lines and develop a holistic view on the most complex problems of our time._
+> (An) uplifting experience! I felt lucky to be part of this gathering. Coming back with important life lessons on the importance of self care, community, interdisciplinarity and slow life. A perfect mix between science art and meditation, between rigorous exchanges, personal experience sharing and introspection love and nature connectedness. AET provides a rare place and an overall framework to navigate between the lines and develop a holistic view on the most complex problems of our time.
 
 ![](/uploads/2019/09/03/WhatsApp Image 2019-08-21 at 22.16.18.jpeg)
