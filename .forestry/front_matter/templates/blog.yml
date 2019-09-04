@@ -22,6 +22,7 @@ fields:
   name: authors
   label: Authors
 pages:
+- content/blog/we-need-a-better-way-to-live-together-room-available-in-our-london-hub.md
 - content/blog/the-art-of-building-communities-of-practice-for-wellbeing-and-presence-reflections-on-buddhafield-2019.md
 - content/blog/our-2019-gathering.md
 - content/blog/the-bitcoin-and-trump-manias-share-a-similar-source.md
