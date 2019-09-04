@@ -3,9 +3,11 @@ authors = []
 date = "2019-09-03T22:00:00+00:00"
 draft = true
 imagePath = ""
-title = "We need a better way to live, together: room available in our London Hub"
+title = "Room available in our London co-living Hub in Hoxton "
 
 +++
+We need a better way to live, together.
+
 A growing number of us are seeking lives that are meaningful as well as productive, yet we often struggle to find a balance. We need a wiser way of living whilst remaining engaged in conventional society. A way to live in cities whilst being in community, to be present as well as purposeful, that supports us to be the best version of ourselves.
 
 We are building that way, starting with co-living communities across Europe.
@@ -36,3 +38,5 @@ Key information:
 * **Cost**: £900 pcm (furnished and excluding bills @ £120pcm per person)
 
 **More information and apply**: [https://artearthtech.com/london/](https://artearthtech.com/london/ "https://artearthtech.com/london/")
+
+![](/uploads/2019/09/04/kitchen_hucbce3a5f1e988cfeacf665e2242fb684_580923_800x0_resize_box_2.png)
