@@ -1,11 +1,12 @@
 ---
-title: Zen and the trauma of Neuroscience meet
+title: 'Neuroscientists experience mindfulness '
 date: 2019-07-29
 imagePath: pv-neuroscience-retreat-2019.jpg
-notebook: yes
-authors: [liamkavanagh]
----
+notebook: true
+authors:
+- liamkavanagh
 
+---
 It was my pleasure to co-organise Plum Village’s first [Neuroscience retreat] in ten years. Two hundred and fifty therapists, scientists and practitioners came together for a week of devoted mindfulness practice, complemented by talks that explored Buddhist approaches to psychology and presentations by pioneers in therapeutic practices. Art / Earth / Tech deepened its ties with Plum Village through participating in this event, which generated a huge amount of excitement, joy and mindfulness. Luminaries such as Neurofeedback pioneer [Sebern Fisher], Californian Surgeon General [Nadine Burke Harris], [Peter Levine], the founder of the Somatic Experiencing came and presented while the influential psychiatrist [Dr Dan Siegel] joined us via videolink. It was made all the more exciting because on the same trip, Art / Earth / Tech advanced negotiations for a building outside of Plum Village, which will be a new coliving hub. All around, there was a feeling that this could be the start of something larger.
 
 Famous names and exciting possibilities aside, perhaps the place to start is the ‘energy’ of the retreat. My co-organisers, Br. Phap Linh, who helped start the [Wakeup! movement] and [Elli Weisbaum], a researcher at the University of Toronto and I, were quickly rewarded. After a few days together doing mindful walking, sitting meditation, mindful eating and mindful working, a feeling descended over the retreatants that was extremely special. We shared our experiences, joys and suffering together in small groups called ‘families.’ As the strangers in our group became truly familial, people opened up and the retreatants started, more and more, to feel like one larger being. Many people, including the monastics, remarked on the specialness of the atmosphere even for Plum Village, and it lingered in Upper Hamlet after the visitors had gone home.
