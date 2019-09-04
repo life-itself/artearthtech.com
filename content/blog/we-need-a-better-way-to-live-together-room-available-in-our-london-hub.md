@@ -38,5 +38,3 @@ Key information:
 * **Cost**: £900 pcm (furnished and excluding bills @ £120pcm per person)
 
 **More information and apply**: [https://artearthtech.com/london/](https://artearthtech.com/london/ "https://artearthtech.com/london/")
-
-![](/uploads/2019/09/04/kitchen_hucbce3a5f1e988cfeacf665e2242fb684_580923_800x0_resize_box_2.png)
