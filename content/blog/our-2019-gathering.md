@@ -5,7 +5,7 @@ imagePath = ""
 title = "Our 2019 Gathering "
 
 +++
-On August 18th for the fourth time, a group of thirty people found their way through tunnels, highways, wheatfields and finally to the forested gardens of La Cheraille. These participants in the A / E / T annual Gathering were drawn by their conviction that we, and the world we are part of, desperately need to take up the challenge of becoming wise.
+On August 18th for the fourth time, a group of thirty people found their way through tunnels, highways, wheatfields and finally to the forested gardens of La Cheraille. These participants in the Art / Earth / Tech annual Gathering were drawn by their conviction that we, and the world we are part of, desperately need to take up the challenge of becoming wise.
 
 ![](/uploads/2019/09/03/00062-000000-12.jpeg)
 
@@ -33,7 +33,7 @@ On Thursday, we had a lazy day, some of us took a long walk to the forest and ma
 
 On Friday, Br. Phap Linh and I co-led the final talk on individuality and equality. As HL Mencken once said, _"There is always a well-known solution to every human problem - neat, plausible, and wrong."_ Our rationalist culture loves simple explanations of individual freedom, independence and free will that make a mockery of our intertwinement with each other and our environment.
 
-![](/uploads/2019/09/03/WhatsApp Image 2019-08-21 at 22.16.26 (1).jpeg)
+![](/uploads/2019/09/04/WhatsApp Image 2019-08-21 at 22.16.26 (1).jpeg)
 
 Contemplation is the kind of mindset required for complexity and Br. Phap Linh skillfully brought us into that state, noticing the artificial nature of so many clear boundaries. He invited us not to rebel against our ideas of individuality and equality, but to see if there isnâ€™t something beyond them that we cannot see if we are taking these intellectual notions too seriously.
 
