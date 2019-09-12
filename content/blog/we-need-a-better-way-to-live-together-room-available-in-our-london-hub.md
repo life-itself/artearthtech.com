@@ -36,4 +36,4 @@ Key information:
 * **Who**: A couple preferably who share a pioneering spirit and value community and making a difference
 * **Cost**: £900 pcm (furnished and excluding bills @ £120pcm per person)
 
-**More information and apply**: [https://artearthtech.com/london/](https://artearthtech.com/london/ "https://artearthtech.com/london/")
+**More information and apply**: [http://artearthtech.com/hubs/london](http://artearthtech.com/hubs/london "http://artearthtech.com/hubs/london")
