@@ -6,9 +6,9 @@ imagePath = ""
 title = "Newsletter: September 2019"
 
 +++
+![](/uploads/2019/09/25/Gathering meal 2019.jpg)
 
-
-What a full, rich summer it has been for the Art / Earth / Tech team. We transition into the next season: the tomatoes are over, the beetroots are coming up and Petronella makes her way to open our new Berlin coliving home after a summer at La Cheraille. We reflect on the past few months and bring you all up to date with what we've been up to and how invite you to be more involved in our work too. 
+What a full, rich summer it has been for the Art / Earth / Tech team. We transition into the next season: the tomatoes are over, the beetroots are coming up and Petronella makes her way to open our new Berlin coliving home after a summer at La Cheraille. We reflect on the past few months and bring you all up to date with what we've been up to and how invite you to be more involved in our work too.
 
 **The Gathering 2019**
 
@@ -20,7 +20,6 @@ Read more here [http://artearthtech.com/2019/08/31/our-2019-gathering/](http://a
 
 With over 120 applications for our first hub in Berlin, we anticipate this city will be a good cooking pot for Art / Earth / Tech. You will meet our founding members Johannes, Alina and Anna in the next coming weeks. If you are based in Berlin, and would like to be part of the community, please email [berlinhub4@artearthtech.com](mailto:berlinhub4@artearthtech.com)
 
-  
 As part of this campaign, we created a cultural compatibility questionnaire to assess where those who were interested in being committed to AET fell on our scale. We sourced questions from the World Values Survey, from European Social Survey, Attachment Theory, and surely the most modern equivalent.. OK Cupid dating app ;)
 
 If you too would like to complete it - here is [the link](https://forms.gle/7RsmdGE6d49htp529). Many have found it super interesting, enjoyable and a rare opportunity to be asked to think deeply on some core views on culture and society. As ever, this is an experiment and your feedback is most welcome.
