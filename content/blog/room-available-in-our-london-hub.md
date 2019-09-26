@@ -1,7 +1,7 @@
 +++
 authors = []
 date = "2019-09-03T22:00:00+00:00"
-imagePath = ""
+imagePath = "london-hub.png"
 title = "Room available in our London co-living Hub in Hoxton "
 
 +++
