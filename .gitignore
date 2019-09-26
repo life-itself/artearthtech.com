@@ -1,3 +1,4 @@
 static/.sass-cache
 .sass-cache/
 sandbox/*
+resources/_gen/*
