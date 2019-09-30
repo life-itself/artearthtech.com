@@ -18,7 +18,7 @@ Read more here [http://artearthtech.com/2019/08/31/our-2019-gathering/](http://a
 
 With over 120 applications for our first hub in Berlin, we anticipate this city will be a good cooking pot for Art / Earth / Tech. You will meet our founding members Johannes, Alina and Anna in the next coming weeks. If you are based in Berlin, and would like to be part of the community, please email [berlinhub4@artearthtech.com](mailto:berlinhub4@artearthtech.com)
 
-As part of this campaign, we created a cultural compatibility questionnaire to assess where those who were interested in being committed to AET fell on our scale. We sourced questions from the World Values Survey, from European Social Survey, Attachment Theory, and surely the most modern equivalent.. OK Cupid dating app ;)
+As part of this campaign, we created a cultural compatibility questionnaire to assess where those who were interested in being committed to A/E/T fell on our scale. We sourced questions from the World Values Survey, from European Social Survey, Attachment Theory, and surely the most modern equivalent.. OK Cupid dating app ;)
 
 If you too would like to complete it - here is [the link](https://forms.gle/7RsmdGE6d49htp529). Many have found it super interesting, enjoyable and a rare opportunity to be asked to think deeply on some core views on culture and society. As ever, this is an experiment and your feedback is most welcome.
 
@@ -62,7 +62,7 @@ We are an ambitious, no holes-barred bunch of people who have the courage to say
 
 > Art / Earth / Tech is a multi-disciplinary initiative of artists, researchers and technologists who are dedicated to bring forth a new culture and society that is radically better than today in its capacity to generate a federation of flourishing and fulfilled communities that deal powerfully with collective challenges and which is committed to being wise and creating a weller world for everyone.
 
-# A/E/T Institute 
+# A/E/T Institute
 
 ## Our first Neuroscience retreat with Plum Village
 
