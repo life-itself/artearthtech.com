@@ -34,6 +34,6 @@ Key information:
 * **Where**: Fanshaw St, Hoxton, London
 * **When**: from 2nd December 2019. Stays from a minimum of 12 months
 * **Who**: People who share a pioneering spirit, value community and making a difference
-* **Cost**: from £700 pcm (furnished and excluding bills @ £106 pcm per person)
+* **Cost**: from £600 pcm (furnished and excluding bills @ £106 pcm per person)
 
 **More information and apply**: [http://artearthtech.com/hubs/london](http://artearthtech.com/hubs/london "http://artearthtech.com/hubs/london")
