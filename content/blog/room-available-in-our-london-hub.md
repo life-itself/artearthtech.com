@@ -2,7 +2,7 @@
 authors = []
 date = "2019-09-03T22:00:00+00:00"
 imagePath = "london-hub.png"
-title = "Room available in our London co-living Hub in Hoxton "
+title = "Three rooms available in our London home in Hoxton!"
 
 +++
 We need a better way to live, together.
@@ -11,7 +11,7 @@ A growing number of us are seeking lives that are meaningful as well as producti
 
 We are building that way, starting with co-living communities across Europe.
 
-We seek pioneers and believers in community to be **residents of our hub in London in from 20th October 2019**.
+We seek pioneers and believers in community to be **residents of our hub in London from December 2019**.
 
 As one of the residents you will be part of a small, supportive community and get to shape its culture. You will get to live in a shared apartment off Hoxton Street in East London. As part of an international network, you will be connected to our other hubs in Berlin, the beautiful French countryside 40 min from Paris and soon Bergerac in southern France. You will be part of a collective that supports you to develop personally, and provides you with an opportunity to reflect on what really matters to you.
 
@@ -32,8 +32,8 @@ Desirable:
 Key information:
 
 * **Where**: Fanshaw St, Hoxton, London
-* **When**: from 21st October 2019. Stays from a minimum of 6 months
-* **Who**: A couple preferably who share a pioneering spirit and value community and making a difference
-* **Cost**: £900 pcm (furnished and excluding bills @ £120pcm per person)
+* **When**: from 2nd December 2019. Stays from a minimum of 12 months
+* **Who**: People who share a pioneering spirit, value community and making a difference
+* **Cost**: from £700 pcm (furnished and excluding bills @ £106 pcm per person)
 
 **More information and apply**: [http://artearthtech.com/hubs/london](http://artearthtech.com/hubs/london "http://artearthtech.com/hubs/london")
