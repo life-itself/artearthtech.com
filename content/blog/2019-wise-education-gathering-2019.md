@@ -1,12 +1,12 @@
 ---
-title: Wise Education SCQH from Gathering 2019
+title: Do we Need Wiser Education?
 date: 2019-10-13
 slug: wise-education-gathering-2019
 notebook: yes
 authors: [rufuspollock]
 ---
 
-At the Art / Earth / Tech 2019 Gathering a group of us worked together to distill our thoughts about education policy in the form of a situation, complication, question, hypothesis (SCQH).
+At the Art / Earth / Tech 2019 Gathering a group of us worked together to distill our thoughts on the need for a wiser education system in the form of a situation, complication, question, hypothesis (SCQH).
 
 *Rufus, Alina, Emmanuel, Ninon, Tom, Richard, Hannes*
 
@@ -41,7 +41,7 @@ Education is not the priority it should be socially and economically (i.e. ~ num
 
 # Question
 
-What is an education system for e.g. France/UK (and its underlying purpose including its vision for being) and what is a path to that system that would foster children and adults with the qualities we need for the 21st century i.e. that are well, thriving and help us in addressing ecological crisis and other collective challenges?
+What is an education system for e.g. France/UK -- including its underlying purpose including its vision for being -- system that would foster children and adults with the qualities we need for the 21st century including deep wellness and the capacity to address collective challenges such as the ecological crisis?
 
 # Hypothesis
 
