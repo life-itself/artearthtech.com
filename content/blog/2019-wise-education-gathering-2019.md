@@ -1,12 +1,12 @@
 ---
-title: Do we Need Wiser Education?
+title: Do We Need Wiser Education?
 date: 2019-10-13
 slug: wise-education-gathering-2019
 notebook: yes
 authors: [rufuspollock]
 ---
 
-At the Art / Earth / Tech 2019 Gathering a group of us worked together to distill our thoughts on the need for a wiser education system in the form of a situation, complication, question, hypothesis (SCQH).
+At the Art / Earth / Tech annual Gathering, a group of us came together to distill our thoughts on the need for a wiser education system. We used the structure of situation, complication, question, hypothesis (SCQH).
 
 *Rufus, Alina, Emmanuel, Ninon, Tom, Richard, Hannes*
 
