@@ -8,6 +8,8 @@ The Art Earth Tech London Hub in Shoreditch is a refuge from the busyness of cit
 
 **We have three rooms available from December -** [**please apply here**](/hubs/apply)
 
+_Update: the small room £600pcm is now only available December until end of February_
+
 {{< imgresize src="sitting-room.png" size="800x" >}}
 
 {{< toc >}}

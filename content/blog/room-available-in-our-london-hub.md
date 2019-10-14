@@ -17,6 +17,8 @@ As one of the residents you will be part of a small, supportive community and ge
 
 If you are interested to join us, please apply via [http://artearthtech.com/hubs/london](http://artearthtech.com/hubs/london "http://artearthtech.com/hubs/london")
 
+_Update: the small room £600pcm is now only available December until end of February_
+
 Requirements:
 
 * Love of community: you like living in community and contributing to it.
@@ -32,8 +34,8 @@ Desirable:
 Key information:
 
 * **Where**: Fanshaw St, Hoxton, London
-* **When**: from 2nd December 2019. Stays from a minimum of 12 months
+* **When**: from 2nd December 2019. Stays from a minimum of 12 months for two of the rooms
 * **Who**: People who share a pioneering spirit, are committed to community building and making a difference
-* **Cost**: from £600 pcm (furnished and excluding bills @ £106 pcm per person)
+* **Cost**: from £600 - £900 pcm (part furnished and excluding bills @ £106 pcm per person)
 
 **More information and apply**: [http://artearthtech.com/hubs/london](http://artearthtech.com/hubs/london "http://artearthtech.com/hubs/london")
