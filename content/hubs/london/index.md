@@ -18,9 +18,9 @@ _Update: the small room £600pcm is now only available December until end of Feb
 
 The hub is a home for Londoners looking to find a middle-way between the hamster wheel and [Mani wheel](http://www.wishbop.com/images/201110/source_img/Handmade_Tibetan_Prayer_Wheel_Turner_Buddhist_Prayer_Wheel_original_img_gallery_1318990124_747__1.jpg), the condo and the campervan. Through dinners, film screenings, poetry nights, talks and sprint weekends we come together to be and to do, but mostly be. The doing always takes care of itself when the being is good.
 
-{{< imgresize src="sitting-room-couch" size="800x" >}}
+{{< imgresize src="sitting-room-couch.png" size="800x" >}}
 
-{{< imgresize src="kitchen" size="800x" >}}
+{{< imgresize src="kitchen.png" size="800x" >}}
 
 # Location
 
@@ -47,10 +47,10 @@ You can read more about our [residency programme here](www.artearthtech.com/resi
 
 # Pictures
 
-{{< imgresize src="sitting-room-couch" size="800x" >}}
+{{< imgresize src="sitting-room-couch.png" size="800x" >}}
 
-{{< imgresize src="kitchen" size="800x" >}}
+{{< imgresize src="kitchen.png" size="800x" >}}
 
-{{< imgresize src="shower" size="800x" >}}
+{{< imgresize src="shower.png" size="800x" >}}
 
-{{< imgresize src="sink" size="800x" >}}
+{{< imgresize src="sink.png" size="800x" >}}
