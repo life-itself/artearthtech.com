@@ -7,7 +7,7 @@ logoPath: leap-logo.png
 imagePath: leap-logo.png
 ---
 
-**The LEAP is the Life Expression and Aspiration Project** – and a new model for education in Taiwan.
+The LEAP is the Life Expression and Aspiration Project – and a new model for education in Taiwan.
 
 <img src="/images/leap-logo.png">
 
