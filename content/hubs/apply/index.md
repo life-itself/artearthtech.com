@@ -10,6 +10,6 @@ Read more about our [Berlin Home here »](/hubs/berlin/)
 
 Read more about our [London Home here »](/hubs/london)
 
-Read more about our [La Cheraille Home here](/hubs/la-cheraille/)
+Read more about our [La Cheraille Home here »](/hubs/la-cheraille/)
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUDsgcLlT7gO4qU6yRWQBm15IztnSF9xW_x5jbq0KsGnW-Vg/viewform?embedded=true" width="640" height="3145" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
