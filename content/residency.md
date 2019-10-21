@@ -1,7 +1,7 @@
 ---
-title: Art / Earth / Tech Short Stay
+title: Art / Earth / Tech Residency
 slug: residency
-date: 2019-10-18T10:20:00
+date: 2016-04-14T18:24:04
 type: hubs
 ---
 
