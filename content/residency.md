@@ -41,4 +41,4 @@ As conditions of the residency:
 * Payment is by bank transfer or Paypal within two weeks of receipt of your acceptance to the residency (if this is a problem this can be discussed).
 * You are responsible for obtaining any relevant travel permissions including visas. (Art / Earth / Tech may be able to provide you with a letter of support).
 
-Here is a link to the London house agreement <a href="/london-agreement">London house agreement</a></li>
+Here is a link to the London house agreement <a href="/hub-agreement">London house agreement</a></li>
