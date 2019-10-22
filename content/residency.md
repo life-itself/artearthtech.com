@@ -31,8 +31,6 @@ Click on each location below for details of each home and their ethos.
 * <a href="/berlinhub" target="_blank">Berlin</a>
 
 As conditions of the residency:
-
-As conditions of the residency:
 * You will need to agree that Art Earth Tech is not liable for any damage to you or your property.
 * You are expected to participate in the community and care for the home ( eg: cooking, cleaning). Each home may have additional fees (eg: contribution of communal meals).
 * Art Earth Tech provides bedcover, sheets, pillow cover and towel.
