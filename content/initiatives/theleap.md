@@ -7,9 +7,9 @@ logoPath: leap-logo.png
 imagePath: leap-logo.png
 ---
 
-The LEAP is the Life Expression and Aspiration Project – and a new model for education in Taiwan.
+<img src="/images/LEAP head.jpg" width="800">
 
-<img src="/images/leap-logo.png">
+The LEAP is the Life Expression and Aspiration Project – and a new model for education in Taiwan.
 
 In its structure, the LEAP is living experiment to develop and advocate for pedagogical techniques and an educational system that is wiser and weller. Currently, the main part of our work is carried out through the design and implementation of novel educational programs in Taiwan.
 
@@ -27,6 +27,8 @@ For more info see the [wise education vision from the A/E/T 2019 gathering][wise
 
 [wise-ed]: http://localhost:1313/2019/10/13/wise-education-gathering-2019/
 
+<img src="/images/LEAP class.jpg" width="800">
+
 # Why Taiwan?
 
 Why Taiwan? The LEAP chose Taiwan because it is a country where “factory style” education has been pushed to the extreme: Standardized testing and rote memorization are at the center of an education system where children work long hours at school and go to cram schools until late at night (eg. 10/11 PM).
@@ -36,6 +38,8 @@ For more info see the [SCQH developed by A/E/T on the situation in Taiwan][scqh]
 [scqh]: /2017/11/16/transforming-taiwan-education-with-a-leap/
 
 The Taiwanese government has started to move away from “factory style”  implementing important curricular reforms. Yet, developing these take more than just a new policy -- it will take a new educational culture. Without an evolution in culture, policy innovations will fail as teachers will remain stuck in the old mentality and applying their old tools. Yet, a new culture takes deep practice and experience. To contribute to this new culture and mentality shift, the LEAP hosts “anti-cram summer programs” where schools become a place where students are not driven by external standards or pushed to produce the “correct” behaviour and instead become a space for students to be heard, expressed and driven by what is within them.
+
+<img src="/images/LEAP sea.jpg" width="800">
 
 # Colophon
 
@@ -49,4 +53,6 @@ The Taiwanese government has started to move away from “factory style”  impl
   * Youtube channel: https://www.youtube.com/channel/UC6ihNjlHnvnBksGe0xD-JGA
   * Instagram:  https://www.instagram.com/leap_tw/?hl=en
   * Facebook: https://www.facebook.com/leaptaiwan/
+* Manifesto (Mandarin version): 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/V_-uhjJEo4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
