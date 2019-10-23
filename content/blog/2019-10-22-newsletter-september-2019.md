@@ -36,7 +36,7 @@ If you too would like to complete it - here is [the link](https://forms.gle/7Rsm
 
 As we fill one, so another opens. Pioneer members of Art / Earth / Tech Cecile and Esteban are setting sail to Spanish plains and bidding farewell to our Hoxton home. Fear not, they are still very much part of AET going forward with Esteban remaining a Board director. Tom is also setting off but only south of the river thankfully!
 
-Three rooms are now available in our Hoxton Hub from the start of December (the large room is available on a short term basis mid October until 30th November). Please [share this link](http://artearthtech.com/2019/09/03/room-available-in-our-london-co-living-hub-in-hoxton/) far and wide. If this appeals, do get in touch with Petronella - [petronella@artearthtech.com](mailto:petronella@artearthtech.com)
+Three rooms are now available in our Hoxton Hub from the start of December (the large room is available on a short term basis mid October until 30th November). Please [share this link](https://artearthtech.com/2019/09/03/three-rooms-available-in-our-london-home-in-hoxton/) far and wide. If this appeals, do get in touch with Petronella - [petronella@artearthtech.com](mailto:petronella@artearthtech.com)
 
 Here is a poem from a recent short term resident, Charlotte:
 
@@ -113,13 +113,13 @@ There is a donation pot for food and time spent by the hosts organising it, so d
 
 If you would like to set up an event or salon with Art Earth Tech, then please express your interest [here](https://docs.google.com/a/artearthtech.com/forms/d/113_XLff1A4FFq18rSbnArl9ktVWfpXPcKeNPli-X1Zg/edit?usp=drive_web)
 
-<img src="/images/1909newsletter-Want to start your own event?.jpg" width="800">
+<img src="/images/1909newsletter-wanttostartyourownevent.jpg" width="800">
 
 ### Retrospective of 'Is there a future?' exhibition
 
 You may recall on 31st July, long time member Cecile Embleton curated an exhibition _Is there a future?_ featuring our cofounder Sylvie Barbier. You can get a glimpse of the extraordinary night in London here in this [collection of photos](https://www.facebook.com/pg/artearthtech/photos/?tab=album&album_id=885887645117929&__xts__%5B0%5D=68.ARD1NdxAYU6Qo0bMqXMjraH9K-fKRT8oDiMFmMBVXRaT9dtKkU-unqWyRjh2fcCllk2MII7uXfUXeRha3BU-FKd8MQhil-v-JUutqxS3wQwj7VGLE7N4y1hX4Yik3DL6xjnlba2h3rOrCQnUXA2utq3xSP1gHaJXoEegx1Z7s8av2PKxmTFbHyalYVuWyBXhK6LwCn28A8D_Z9VBpyQ70Mrb2RDLpmpS2l7oqKtSIrU6CZEOFdYj8lD8LrDgkgGXHeUjASdZwsqvuqMMjMgcEAink7c4aq7Vl0bGXShr1lZZhhWjUKjk0rNv7wkNL8aLdkB-0ecePxiYhjS1Yfs3jMgvHDTcNRqB_7DJL2HLJ6r0WAVlAWuJd1LG8CULTnV3STmzkVjo0mvFUKgAhjXK2tVVfnaFNNqfvikbBG271rOTbxZpuGXpc6yCuOPNVrcMIy29GySqVUppwZw9y-cyYpmcc05z-ryduOjkNRPAykJdnNt37U31M4_iZYxkDxpK-xz2lGHJnhCHuYqxUQv4pZV9wTqUMnrUdm1_mKRB&__tn__=-UCH-R). A film is to follow that will feature the live performances as well as talks from Procreate Project, Birth Strike, Extinction Rebellion Families Coordinator, Izzy Braithwaite (a doctor), Nadia Schweimler, Senior Advisor on Climate Innovation, and Culture Declares Emergency. These illustrations by Federica Ciotti capture some points.
 
-<img src="/images/1909newsletter-Is There a Future?(left).jpg" width="250"><img src="/images/1909newsletter-Is There a Future?(mid).jpg" width="250"><img src="/images/1909newsletter-Is There a Future?(right).jpg" width="250">
+<img src="/images/1909newsletter-Is There a Futureleft.jpg" width="200"> <img src="/images/1909newsletter-Is There a Futuremid.jpg" width="200"> <img src="/images/1909newsletter-Is There a Futureright.jpg" width="200">
 
 ## Final words
 
