@@ -5,7 +5,7 @@ date: 2016-04-14T18:24:04
 type: hubs
 ---
 
-The Art Earth Tech Short Stay provides affordable access to inspiring locations where you can focus on your ideas and projects whilst supported and connected to our community.
+The Art Earth Tech residency provides affordable access to inspiring locations where you can focus on your ideas and projects whilst supported and connected to our community.
 
 The residencies are located in our homes in London, England; La Cheraille (a farm near Paris) and soon Bergerac, both in France. These can be for a minimum of a week and a maximum of three months.
  
@@ -22,7 +22,7 @@ The cost of each residency is as follows (below market rates in each case):
 * <a href="/londonhub" target="_blank">London</a> (near Old Street): £600 per month
 * <a href="/la-cheraille" target="_blank">La Cheraille</a> (a flower farm 45 minutes from Paris): €525 per month (€17 per night)
 
-Short Stay is available for one week minimum to three months maximum. There are no specific dates, so please include your preferred dates in the application. We will try to make it work and if not, we will suggest other dates. If you would like to stay with Art Earth Tech long term, then please apply to one of our homes: http://artearthtech.com/hubs/apply/
+The residency is available for one week minimum to three months maximum. There are no specific dates, so please include your preferred dates in the application. We will try to make it work and if not, we will suggest other dates. If you would like to stay with Art Earth Tech long term, then please apply to one of our homes: http://artearthtech.com/hubs/apply/
 
 Click on each location below for details of each home and their ethos.
 
