@@ -12,11 +12,12 @@ What are shared blind spots? You might think of them is as collective versions o
 
 _A very common blind spot develops when, for example, people do not recognize how their attachment to individual freedom impacts relationships with their families, partners, and children. The blind spot that results from the simultaneous desire for individual freedom and the inability to recognize the effects of this desire on relationships can lead to pain. We might notice our lack of connection but miss the role that our desire for freedom plays in our isolation, because such a conflict is painful to confront, and we wish to avoid giving up our attachment to freedom. Of course, we address this kind of conflict best when we become fully aware of the blind spots that make it possible, and this is also true on a large scale as people work together to mend a torn social fabric._
 
-<img src="/images/collectiveblindspot.jpg">
 
 Many of the problems that cultures struggle to address are the consequences of shared blind spots. When everybody shares the same blind spot, it can be impossible to recognize, leading to ineffective solutions. This is a problem of culture, and of course human cultures can be as dysfunctional as families or individuals. So, in facing shared blind spots, we are at once seeking personal development and cultural activism. 
 
 Whether we are trying to transform ourselves or our society, we can move beyond feelings of guilt or shame about blind spots and attend to them in a compassionate manner that opens the door to understanding. We believe that the best way to do this is collectively. At AET events, we gather a group of individuals who have already made a commitment to recognizing and transforming their personal suffering, whether through meditation or other forms of self-development, in order to create the conditions for transformational thinking. 
+
+<img src="/images/collectiveblindspot.jpg">
 
 In our last AET gathering, we considered the following shared blind spots:
 
