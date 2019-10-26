@@ -1,5 +1,5 @@
 ---
-title: An Introduction to Our Collective Blind Spots
+title: An introduction to our collective blind spots
 date: 2019-10-25
 slug: introduction-to-our-collective-blind-spots
 notebook: yes
@@ -8,7 +8,7 @@ authors: [liamkavanagh]
 
 Art Earth Tech is a community for a wiser world. You might ask how we see society getting wiser — we suggest that one of the main ways we can collectively become wiser is to look at our shared blind spots.
 
-What are shared blind spots? You might think of them is as collective versions of individual blind spots. 
+What are shared blind spots? You might think of them as collective versions of individual blind spots. 
 
 _A very common blind spot develops when, for example, people do not recognize how their attachment to individual freedom impacts relationships with their families, partners, and children. The blind spot that results from the simultaneous desire for individual freedom and the inability to recognize the effects of this desire on relationships can lead to pain. We might notice our lack of connection but miss the role that our desire for freedom plays in our isolation, because such a conflict is painful to confront, and we wish to avoid giving up our attachment to freedom. Of course, we address this kind of conflict best when we become fully aware of the blind spots that make it possible, and this is also true on a large scale as people work together to mend a torn social fabric._
 
@@ -31,14 +31,9 @@ My next two posts will discuss these three blind spots as they relate to what is
 
 ---
 
-*Blind Spots is our new series
-<https://artearthtech.com/institute/blind-spots/> exploring the collective
+*[Blind Spots](https://artearthtech.com/institute/blind-spots/) is our new series exploring the collective
 blind spots of our society. We invite you to check the previous blind spot
-events we organized Blind Spots #1: The Knowledge Economy, the Progressive
-Project and the Future of Britain with Roberto Unger
-<https://artearthtech.com/2019/02/06/blind-spots-roberto-unger-future-of-britain/>
-and Blind
-Spots #2: Returning to Mystery, Saving Ourselves
-<https://artearthtech.com/2019/04/17/blind-spots-2-returning-to-mystery/>*
+events we organized [Blind Spots #1: The Knowledge Economy, the Progressive Project and the Future of Britain with Roberto Unger](https://artearthtech.com/2019/02/06/blind-spots-roberto-unger-future-of-britain/)
+and [Blind Spots #2: Returning to Mystery, Saving Ourselves](https://artearthtech.com/2019/04/17/blind-spots-2-returning-to-mystery/)*
 
 
