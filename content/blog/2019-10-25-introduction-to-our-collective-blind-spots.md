@@ -33,7 +33,7 @@ My next two posts will discuss these three blind spots as they relate to what is
 
 *[Blind Spots](https://artearthtech.com/institute/blind-spots/) is our new series exploring the collective
 blind spots of our society. We invite you to check the previous blind spot
-events we organized [Blind Spots #1: The Knowledge Economy, the Progressive Project and the Future of Britain with Roberto Unger](https://artearthtech.com/2019/02/06/blind-spots-roberto-unger-future-of-britain/)
+events we organized [Blind Spots #1: The Knowledge Economy, the Progressive Project and the Future of Britain with Roberto Unger](https://artearthtech.com/2019/05/01/interview-roberto-unger/)
 and [Blind Spots #2: Returning to Mystery, Saving Ourselves](https://artearthtech.com/2019/04/17/blind-spots-2-returning-to-mystery/)*
 
 
