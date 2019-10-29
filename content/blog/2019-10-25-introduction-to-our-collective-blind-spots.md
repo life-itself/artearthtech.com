@@ -2,6 +2,7 @@
 title: An introduction to our collective blind spots
 date: 2019-10-25
 slug: introduction-to-our-collective-blind-spots
+imagePath: "collectiveblindspot.jpg"
 notebook: yes
 authors: [liamkavanagh]
 ---

@@ -2,6 +2,7 @@
 title: 2019 September Newsletter#5
 date: 2019-10-01
 slug: 2019-september-newsletter
+imagePath: "1909newsletter-Berlin hub exterior.jpeg"
 notebook: yes
 authors: [petronella]
 ---
