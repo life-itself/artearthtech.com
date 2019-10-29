@@ -33,4 +33,7 @@ params:
   viktoriamahrberg:
     path: viktoria-mahrberg.jpg
     fullname: Viktoria Mahrberg
+  petronella:
+    path: petronella.png
+    fullname: Petronella Tyson
   
