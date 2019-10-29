@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["petronella"]
 date = "2019-08-31T22:00:00+00:00"
 imagePath = "gathering-2019-01.jpg"
 title = "Our 2019 Gathering "

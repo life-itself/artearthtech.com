@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["petronella"]
 date = "2019-08-02T22:00:00+00:00"
 imagePath = "buddhafield-2019.jpg"
 title = "The Art of Building Communities of Practice for Wellbeing and Presence -- Reflections on Buddhafield 2019"

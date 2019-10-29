@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["petronella"]
 date = "2019-09-03T22:00:00+00:00"
 imagePath = "london-hub.png"
 title = "Three rooms available in our London home in Hoxton!"
