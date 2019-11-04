@@ -1,6 +1,6 @@
 ---
 date: 2019-02-06
-title: "Blind Spots #1: The Knowledge Economy, the Progressive Project and the Future of Britain with Roberto Unger"
+title: "The Knowledge Economy, the Progressive Project and the Future of Britain with Roberto Unger: a blind spot event"
 slug: blind-spots-roberto-unger-future-of-britain
 eventdate: 2019-02-06
 section: events
