@@ -1,7 +1,7 @@
 ---
-title: Blindspot no.1 Faith in rationality and progress
+title: "Collective blind spot #1: faith in rationality and progress"
 date: 2019-11-04
-slug: blindspot-1-faith-in-rationality-and-progress
+slug: blind-spot-1-faith-in-rationality-and-progress
 imagePath: "img_4200.jpg"
 notebook: yes
 authors: [liamkavanagh]
