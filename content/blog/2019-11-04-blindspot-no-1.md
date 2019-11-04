@@ -2,7 +2,7 @@
 title: Blindspot no.1 Faith in rationality and progress
 date: 2019-11-04
 slug: blindspot-1-faith-in-rationality-and-progress
-imagePath: "IMG_4200.jpg"
+imagePath: "img_4200.jpg"
 notebook: yes
 authors: [liamkavanagh]
 ---
@@ -20,7 +20,7 @@ When I step back to look at my Western culture, which has created technological 
  
 Is excessive faith in rationality a big part of our climate predicament? On the one hand, many might say “no,” given the number of people that seem determined to ignore science and dismiss the many scientists sounding alarms. However, this strange response is likely connected to the fact that our culture actually places too much faith in rationality and its famed products — technology, science, and profit-driven business.
  
-<img src="/images/IMG_4200.jpg" width="400">
+<img src="/images/img_4200.jpg" width="400">
 
 Consider, just for starters, the most common objections to calls for climate activism that claim that our concerns about the future are overblown because we actually don’t know for certain exactly how our weather systems will change, what the consequences will be, or how long the process will take. At the base of this objection is an extreme form of scientism, a belief that science should always provide us with exact answers. Scientism is an ideology fueled by the attachment to feelings of certainty and control that we humans enjoy while we pace around on the large island of order that, over millennia, our society has managed to dam off from the waters of chaos. And here I refer to our houses and computers and cars that travel on very flat roads and all the other things that function exactly like they’re supposed to almost all the time, down to perfect, red spherical tomatoes available at all times of the year. 
  
