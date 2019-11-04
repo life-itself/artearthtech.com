@@ -1,5 +1,5 @@
 ---
-title: 2019 September Newsletter#5
+title: "Newsletter #5 : September 2019"
 date: 2019-10-01
 slug: 2019-september-newsletter
 imagePath: "1909newsletter-Berlin hub exterior.jpeg"
