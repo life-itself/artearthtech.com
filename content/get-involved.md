@@ -31,7 +31,7 @@ Previous topics include:
   * Mindfulness, neuroscience and trauma
 
 Our A/E/T member from Taiwan Ines Chen said: 
-> I joined two research calls during the last two months: Concrete Steps about Climate Change and Wise Education. These free hangouts came up with interesting discussions and brought me different perspectives from other participants. The research calls inspired me to go deeper into the subjects that I'm most concerned with.
+> These free hangouts came up with interesting discussions and brought me different perspectives from other participants, and inspired me to go deeper into the subjects that I'm most concerned with.
 
 --- 
 
