@@ -75,10 +75,24 @@ The Art Earth Tech residency provides affordable access to inspiring locations w
 
 The residencies are located in our homes in London, England; La Cheraille (a farm near Paris) and soon Bergerac, both in France. These can be for a minimum of a week and a maximum of three months.   The residencies are open to people of all backgrounds, professions and ages. Our residencies are not sponsored or subsidised, but are paid for by the guest and the generosity of the Art / Earth / Tech community. 
 
-We offer short term stays in our homes from time to time, and residencies at [La Cheraille](https://artearthtech.com/hubs/la-cheraille/), France. Learn more about [our spaces](https://artearthtech.com/residency/) or [apply online](https://artearthtech.com/hubs/apply/) to register yourself for short stay. 
+Here is a poem from a recent short term resident, Charlotte:  
+
+> When I first arrived at the Hub of Art Earth Tech,  
+I honestly thought, “Oh no… oh feck!  
+These people are better and braver than me!”  
+but then I created the possibility…  
+that I could be brave and do what they do  
+I could be loving and open and join the crew  
+with the vision of a better way we behold  
+we can get together and help save the world.  
+Oh these folks, they do make me happy!  
+I’m so glad I stayed here with my wonderful chappy!  
+
+We offer short term stays in our homes from time to time, and residencies at [La Cheraille](https://artearthtech.com/hubs/la-cheraille/), France. 
+
+Learn more about [our spaces](https://artearthtech.com/residency/) or [apply online](https://artearthtech.com/hubs/apply/) to register yourself for short stay. 
 
 <img src="/images/la_cheraille1_768x577.jpg" width="800">  
-
 _La Chéraille_
 
 ---
@@ -105,8 +119,7 @@ As one of the residents you will be part of a small, supportive community and ge
 
 You can [register](http://artearthtech.com/hubs/apply/) to be on our list to be contacted when they become available.
 
-<img src="/images/la_cheraille1_768x577.jpg" width="800"> 
-
+<img src="/hubs/london/sitting-room-couch_hu271c426a86158d4fc85a3b4d17cee625_1137761_800x0_resize_box_2.png"> 
 _Our London home_
 
 ---
