@@ -75,6 +75,8 @@ The Art Earth Tech residency provides affordable access to inspiring locations w
 
 The residencies are located in our homes in London, England; La Cheraille (a farm near Paris) and soon Bergerac, both in France. These can be for a minimum of a week and a maximum of three months.   The residencies are open to people of all backgrounds, professions and ages. Our residencies are not sponsored or subsidised, but are paid for by the guest and the generosity of the Art / Earth / Tech community. 
 
+We offer short term stays in our homes from time to time, and residencies at [La Cheraille](https://artearthtech.com/hubs/la-cheraille/), France. 
+
 Here is a poem from a recent short term resident, Charlotte:  
 
 > When I first arrived at the Hub of Art Earth Tech,  
@@ -87,8 +89,6 @@ with the vision of a better way we behold
 we can get together and help save the world.  
 Oh these folks, they do make me happy!  
 I’m so glad I stayed here with my wonderful chappy!  
-
-We offer short term stays in our homes from time to time, and residencies at [La Cheraille](https://artearthtech.com/hubs/la-cheraille/), France. 
 
 Learn more about [our spaces](https://artearthtech.com/residency/) or [apply online](https://artearthtech.com/hubs/apply/) to register yourself for short stay. 
 
