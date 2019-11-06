@@ -2,7 +2,7 @@
 title: "Walking wise: our London walking group every Wednesday afternoon"
 date: 2019-11-04
 slug: walking-wise-london-walking-group
-imagePath: "walking_wise_.jpg"
+imagePath: "walking_wise.jpg"
 notebook: yes
 authors: [petronella]
 ---
@@ -18,7 +18,7 @@ Book: contact Ayesha at Ayeshabhatti33@outlook.com / 07970 103025
 
 #natureconnection #walkinglondon #community
 
-<img src="/images/walking_wise_.jpg" width="800">
+<img src="/images/walking_wise.jpg" width="800">
 
 
 
