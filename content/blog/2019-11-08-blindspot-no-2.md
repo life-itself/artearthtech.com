@@ -1,6 +1,6 @@
 ---
 title: "Collective blind spot #2: individualism"
-date: 2019-11-08
+date: 2019-11-10
 slug: blind-spot-2-findividualism
 imagePath: "blog-blind-spot-no2.jpg"
 notebook: yes
