@@ -2,7 +2,7 @@
 title: "Collective blind spot #2: individualism"
 date: 2019-11-08
 slug: blind-spot-2-findividualism
-imagePath: "blog-blind-spot-no.2.jpg"
+imagePath: "blog-blind-spot-no2.jpg"
 notebook: yes
 authors: [liamkavanagh]
 ---
@@ -15,7 +15,7 @@ Of course, this is silly. Humans share space and lives — as George Bernhard Sh
  
 It is worth noting that the US is the most famously and fiercely individualistic nation on earth, and it is the only place where libertarianism is taken seriously. This is not a coincidence. By stopping the US from taking part in global solutions political parties who are most rigidly built around ideas of individual freedom, especially US Republicans, have essentially stopped global action on climate. Their ideas are not foreign to the rest of us, they are just more extreme. The language of the collective “interfering” with the individuals only really makes sense if we assume that there is some natural state of freedom that individuals exist in. If there is such a state, it is being a hunter gatherer in a forest. Societies that are technically advanced like ours depend on governments and laws.
  
-<img src="/images/blog-blind-spot-no.2.jpg" width="800">
+<img src="/images/blog-blind-spot-no2.jpg" width="800">
 
 Libertarianism is the belief that essentially we don’t need a government because individuals acting on their own will solve problems. Libertarians, more than anybody promote technology (e.g. Bitcoin) as the solution to our problems because if individual inventors, acting alone can solve our problems, no government is necessary. If an inventor can, through a heroic act of brilliance, make clean energy cheaper than high-carbon energy then no government is necessary. And so libertarian individualists embrace technological solutions to collective problems. 
  
