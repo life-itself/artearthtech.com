@@ -25,6 +25,8 @@ The formation of a group who is able to hold the turbulent, transitional time we
 For all of us as contemplative beings, to deepen understanding of what it means to be involved in activism in these chaotic times.
 That activists have access to tools of transformation that will change the way they are in themselves and the way they work. 
 
+Liam Kavanagh
+
 ## -Join us- 
 Saturday 14th - Tuesday 17th December at West Lexham in Norfolk, for inquiries, email: liam@artearthtech.org
 
