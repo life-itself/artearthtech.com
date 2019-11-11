@@ -18,7 +18,7 @@ It is by now clear that these ideas are not going to spread themselves. The famo
 
 Activism is what we do with dreams, ideas, and perspectives. What are we doing to promote the awareness that the environmental crisis is based in a spiritual confusion? Are we being the change we want to see — are we acting as though, at base, the environmental issue is spiritual? What would that look like?
 
-It is in this spirit that we are holding [our first gathering](https://ti.to/art-earth-tech/contemplative-activism-gathering) at West Lexham (Norfolk, UK) on **Dececmber 14th - 17th**.
+It is in this spirit that we are holding **[our first gathering](https://ti.to/art-earth-tech/contemplative-activism-gathering)** at West Lexham (Norfolk, UK) on **Dececmber 14th - 17th**.
 
 So why will this gathering make a difference? We are gathering a very diverse and unusual group of leaders in their field, like you! Our intended outcomes (which are only a starting place) are the following:
 The formation of a group who is able to hold the turbulent, transitional time we find ourselves in as gracefully and compassionately as possible, providing a model for others.
