@@ -1,5 +1,5 @@
 ---
-title: "The contemplative activism gathering"
+title: "The Contemplative Activism Gathering"
 date: 2019-11-11
 slug: the-contemplative-activism-gathering
 imagePath: "contemplative_Activism_Gathering__December_2019.jpg"
