@@ -26,7 +26,7 @@ For all of us as contemplative beings, to deepen understanding of what it means 
 That activists have access to tools of transformation that will change the way they are in themselves and the way they work. 
 
 ## -Join us- 
-Saturday 14th - Tuesday 17th December at West Lexham in Norfolk, U.K. Tickets are [here](https://ti.to/art-earth-tech/contemplative-activism-gathering)
+Saturday 14th - Tuesday 17th December at West Lexham in Norfolk, for inquiries, email: liam@artearthtech.org
 
 <img src="/images/contemplative_Activism_Gathering__December_2019.jpg" width="800">
 Image credit: Tom Manwell
