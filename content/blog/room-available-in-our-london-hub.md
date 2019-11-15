@@ -2,7 +2,7 @@
 authors = ["petronella"]
 date = 2019-09-03T22:00:00Z
 imagePath = "london-hub.png"
-title = "Three rooms available in our London home in Hoxton"
+title = "Double room available in our London home in Hoxton"
 
 +++
 We need a better way to live, together.
