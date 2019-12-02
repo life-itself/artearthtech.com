@@ -30,4 +30,4 @@ _Hand prints can be seen in the wattle and daub from generations past_.
 
 Let us take the human hand as the starting point for how to build a community rooted in nature, beauty and time. We ask what if the hands of the inhabitants continue the story of these spaces? Continue to add and take away in the same fashion that has gone before, but with a slightly different objective. The creation of spaces that teach us to dwell in harmony with the earth, spaces that will guide us to inspiring thoughts and ideas, ideas that will empower a community of the future. What does building a space mean to you? Could being surrounded by considered objects help make tasks or daily life a celebration? Could knowing that your own labour created the space you dwell in delight and inspire? This is only the beginning of this conversation.
 
-Poppy from www.markandpoppy.com
+Poppy from [www.markandpoppy.com](www.markandpoppy.com)
