@@ -3,7 +3,7 @@ authors = []
 date = 2019-12-10T00:00:00Z
 draft = true
 imagePath = ""
-title = "The AET community reading list "
+title = "Wise books list "
 
 +++
 As we ramp up to a season of gift giving and hibernating with a good book in the Northern Hemisphere, we have collated all the recommendations of books from applicants to our Hubs in Berlin and London this year.
@@ -24,7 +24,7 @@ _Children's books by Tove Jansson_
 
 _Cracking the Coding interview_
 
-_White fragility - Why It’s So Hard for White People to Talk About Race_
+_White Fragility - Why It’s So Hard for White People to Talk About Race_
 
 _All books of Max Otte_
 
