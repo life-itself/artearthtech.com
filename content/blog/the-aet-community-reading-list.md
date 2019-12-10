@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2019-12-10T00:00:00Z
-draft = true
 imagePath = ""
 title = "Wise books list "
 
