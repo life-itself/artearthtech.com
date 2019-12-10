@@ -2,7 +2,7 @@
 authors = []
 date = 2019-12-10T00:00:00Z
 imagePath = ""
-title = "Wise books list "
+title = "Wise booklist "
 
 +++
 As we ramp up to a season of gift giving and hibernating with a good book in the Northern Hemisphere, we have collected all the recommendations of books from applicants to our Hubs in Berlin and London this year.
