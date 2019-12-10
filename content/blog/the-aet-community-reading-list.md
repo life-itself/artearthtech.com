@@ -6,7 +6,7 @@ imagePath = ""
 title = "Wise books list "
 
 +++
-As we ramp up to a season of gift giving and hibernating with a good book in the Northern Hemisphere, we have collated all the recommendations of books from applicants to our Hubs in Berlin and London this year.
+As we ramp up to a season of gift giving and hibernating with a good book in the Northern Hemisphere, we have collected all the recommendations of books from applicants to our Hubs in Berlin and London this year.
 
 This should inspire you if you're a little stuck this December...
 
@@ -86,7 +86,7 @@ _Be Here Now by Ram Dass_
 
 __
 
-_Siddharta_
+_Siddharta by Hermann Hesse_  
 
 _The Man who Planted Trees_
 
@@ -153,8 +153,6 @@ _The Book of Not Knowing by Peter Ralston_
 _Touching Enlightenment_
 
 _Divine Beauty by John O’Donoghue_
-
-_Siddartha by Hermann Hesse_  
 
 _The TAO_
 
