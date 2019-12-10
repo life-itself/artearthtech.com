@@ -22,6 +22,7 @@ fields:
   name: authors
   label: Authors
 pages:
+- content/blog/the-aet-community-reading-list.md
 - content/blog/our-hub-in-bergerac-a-practice-in-the-art-of-dwelling.md
 - content/blog/collective-blind-spot-3-the-equality-complex.md
 - content/blog/the-art-of-building-communities-of-practice-for-wellbeing-and-presence-reflections-on-buddhafield-2019.md
