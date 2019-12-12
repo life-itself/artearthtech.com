@@ -1,7 +1,7 @@
 +++
 authors = []
 date = 2019-12-01T00:00:00Z
-imagePath = ""
+imagePath = "DIFFERENT.jpg"
 title = "Collective blind spot #3: the equality complex"
 
 +++
