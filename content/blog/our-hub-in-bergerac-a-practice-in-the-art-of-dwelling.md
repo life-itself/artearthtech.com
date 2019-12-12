@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2019-12-03T00:00:00Z
-draft = true
 imagePath = "petit-bois-matin-03.jpeg"
 title = "Our hub in Bergerac: a practice in the art of dwelling"
 
