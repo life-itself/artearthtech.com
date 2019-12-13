@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2019-12-13T00:00:00Z
-draft = true
 imagePath = ""
 title = "Contemplative Activism Primer: the pre-gathering read"
 
