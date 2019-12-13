@@ -15,7 +15,7 @@ Of course life on earth has always faced change and impermanence, sometimes swif
 
 To put our motivating intention succinctly, we believe that social conditions are ripe for determined group experimentation with holding our current situation within contemplative awareness so as to accept where we are with enough depth and solidity to see how to respond. To contribute to this process we will gather a group that combines contemplative awareness and experience with environmental, social and economic expertise with the premise that _how_ we undertake conversation is as important as _what_ we talk about. _How_ we will discuss responding to the unravelling? It will be in a devotedly contemplative manner -- with the conviction that the results of this process, which we don't pretend to know, will be sufficiently valuable to motivate change and further larger-scale development of this process.
 
-#### The Situation as it is
+### The Situation as it is
 
 The destabilising of our climate means we can't count on the 'modern' agriculture that our complex, industrial society depends on. Just think for a minute about where your food comes from and what it takes to get it to us, particularly those in cities who are utterly dependent on the continuous shipment of food and most other 'stuff of life'.
 
@@ -23,7 +23,7 @@ Food is essential, as is clean water and clean air. But all of these are being t
 
 But they are not a given.
 
-#### Changes to The 'Fundamentals'.
+### Changes to The 'Fundamentals'
 
 We and any future generations will face the loss of many givens, crucial things we take for granted and lots more. Our climate is now shifting and destabilising from the end of the last glacial period; the Younger Dryas where it naturally shifted to the Holocene, which we now live in. The Holocene dating from approximately 11,600 before present is an interglacial period where we have had a stable and beneficial climate that is suited to growing crops and where all the known civilisations have developed and thrived. Ask any farmer what she needs to grow the crops, and she will reply certainty, and abundant sun, rain, and good, rich soil. And these are now no longer certain. The range of natural fluctuations have altered and will alter more until we can no longer adapt and the staple crops we rely on will no longer be viable.
 
@@ -55,19 +55,19 @@ We think that the imagining of the new will take clarity and tapping into states
 
 We will also be indebted to Buddhist practices based on gratitude, meditations on the interconnectivity and flow of life, loving kindness, healing pain of self and other, healing shenpa, letting go of self concern, and taking on board the concern of the welfare of others to name a few.
 
-#### The role of story and imagination
+### The role of story and imagination
 
 Even though we can be outside them, story and imagination are crucial to our existence. The story of who we are as conscious beings, aware of our situation includes awareness of death. It includes the question that comes out of that - 'what happens after death, if anything?' All religions have an answer to this question. They offer belief structures and practices that enable us to hold the anxiety of our certain death in order to live. However our patterns of identification, our notions of who we are usually extend beyond our essential being, what is sometimes called our true self, and into our status, achievements and so on. At death or when facing loss of these things, we suffer, as these are things which we cannot take with us, and which we will have to at some point relinquish. The pharaoh's tombs held cornucopias of objects, many of which undoubtedly held deep meaning for them which they fully intended to take with them into the 'afterlife'. We know that these objects remained on earth. And this will also be the case for us. Everything apart from our essential nature or spirit, cannot go through the gateway of death if you believe in something of us living on after physical death. Or at least this is the only credible explanation for what remains after bodily death. Of course we have no way of knowing this is true. But at least it's plausible.
 
 While this seems to be a religious question however that couldn't be further from the truth. As a society we make up stories about who we are and make meaning for our lives, our suffering, our work, and what it means to be a part of whatever culture we are in.
 
-#### The story of our civilisation: the myth of progress.
+### The story of our civilisation: the myth of progress
 
 We are a technological civilisation and as such we rely on our technical prowess to solve our problems. The temptation is to frame every problem into a technical one for which a technical solution can be found. While there are undoubtedly many technical problems to be solved; improved battery life, growing food with less fertiliser or water inputs, or cheaper, more energy efficient homes and buildings. However, there are many problems that are not technical. At the core of many of our problems; over exploitation of resources, obsession with short term economic growth, endless growth of our desires and wish for stuff lies a 'being' question or questions, rather than a 'doing' question. These questions cannot be solved with technology.
 
 Questions like: What's life about? What is the path of happiness or well being? What is real wealth? or How we can live in harmony with all of the ecosystems we are interdependent on? These are all being questions and cannot be solved by technology. These questions lie in the spiritual and cultural space, and transcend questions of doing. They are the questions which we will need to come to terms with if we are to create a new regenerative culture.
 
-#### Where are we going?
+### Where are we going?
 
 There are many stories of where we are going. Two dominant cultural stories we have are the myth of unending progress and growth, and the realisation that our civilisation will crash and burn in the near future.
 
@@ -75,7 +75,7 @@ There are many stories of where we are going. Two dominant cultural stories we h
 
 These stories are about to be tested in the end times of a culture that is reaching the end of its possibilities. And the reality of where we are at and what needs to happen now lead one to the unenviable conclusion that we will be increasingly facing a world of violence and suffering on a massive scale. And not just in the places of the world that are currently violent and are suffering, but in the places which up until now have been safe and secure. In other words, the world that you and me live in.
 
-### **One New Story to Consider**
+## **One New Story to Consider**
 
 We desperately need a new story to replace the old. One story for participants of this gathering to hold ever so lightly may be that we need a leadership who are not attached to any stories. This is the way of the mystic. We need people to live with what is without needing to turn it into a story or an explanation, or a thing of any sort. It is from that place of no-thing-ness, that peaceful and culturally generative actions and ways to be in the world can emerge.
 
@@ -91,7 +91,7 @@ Who or what will this leader be? Thich Nhat Hanh has said, the next enlightened 
 
 Those who can hold this form of leadership will often go unheralded and unrecognised just because the immensity of what is possible from a place of non attachment and authentically being with what is so far outside most people's experience that they might as well be an alien. That is perfect, though, because recognition is the friend of ego, and ego is the enemy of awareness.
 
-### **Another Story to Consider**
+## **Another Story to Consider**
 
 What can we offer a society that is about to lose the way of life it knows? The simple fact is that people who have grown up in this culture, but turned towards the inner life know most deeply that none of the consumption is necessary and life itself is enough. They can say this with authenticity. As mentioned, deep awareness of this is alien, but some awareness of this is commonplace, even unavoidable.
 
