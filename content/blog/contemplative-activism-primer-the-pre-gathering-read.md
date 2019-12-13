@@ -7,7 +7,7 @@ title = "Contemplative Activism Primer: the pre-gathering read"
 +++
 In our upcoming retreat we will explore how contemplative awareness, skills and practices can inform our responses to our collective cultural process of deep and lasting change.
 
-I set out some initial ideas in a paper with Liam - [_Contemplative Activism What it is and Why It's Important_](https://drive.google.com/a/artearthtech.com/open?id=1Q1g32X_DBFSuI0sVMtgGwO5P5GlRoi1b_RuebNpzOrU). Here I am exploring in more depth some of the ideas in that paper in an evolving enquiry into Contemplative Activism.
+I set out some initial ideas in a paper with Liam - [_Contemplative Activism What it is and Why It's Important_](http://artearthtech.com/2019/11/29/the-case-for-contemplative-activism-why-why-now-and-what-are-we-offering/). Here I am exploring in more depth some of the ideas in that paper in an evolving enquiry into Contemplative Activism.
 
 There are some ways in which contemplatives have engaged with the world that can inform how we live in difficult times. These ways might take the form of new cultural meta perspectives, which might then become the new common sense. For example, the ability to be with suffering, and the ability to embrace our suffering as a part of life rather than something that we feel we must avoid or prevent. It might take the form of realising that it is often our resistance to our suffering that is so painful, and that embracing suffering is the first step toward transforming that suffering into something else.
 
@@ -23,7 +23,7 @@ An analogy might be [Ken Wilber's four quadrant integral model](https://en.wikip
 
 **Individual**       Consciousness               Behaviour
 
-**Collective**       Culture                           Systems 
+**Collective**       Culture                           Systems
 
 The same is true of the missing contemplative piece, or, as it has been termed, a 'God shaped hole' in our civilisation. In a civilisation run by our collective personality or ego structures, we find ourselves abandoned (although it is us who have done the abandoning) and soulless. We are left with an extrinsically driven culture and set of values. As we approach the endgame of our collective ability to provide more, and meet human wants and needs with a purely material set of answers, there appears to be no way out of the collective cul de sac we find ourselves in other than positing, in all seriousness, colonising other planets as a solution.
 
@@ -37,7 +37,6 @@ It is also clear that there are many individual ways to hold and be with ourselv
 
 #### **What does it mean: Holding our current situation within contemplative awareness so as to accept where we are with enough depth and solidity to see how to respond?**
 
-  
 As Thich Nhat Hanh writes in the opening lines of [_Being Peace_](https://www.amazon.com/Being-Peace-Thich-Nhat-Hanh/dp/188837540X),
 
 > Life is filled with suffering, but it is also filled with many wonders, like the blue sky, the sunshine, and the eyes of a baby, life is both dreadful and wonderful. To practice meditation is to be in touch with both aspects.
@@ -55,8 +54,7 @@ Contemplatives and spiritual teachers have come to the conclusion that it is not
 
 In The Will to Meaning, Victor Frankl notes that logotherapy aims to unlock the will to meaning in life. That the lack of meaning in life often leads people to respond by adopting hedonistic pursuits, consumerism, power, hatred, boredom, compulsions or obsessions. And that meaning was found through deeds, the experience of values through some kind of medium (beauty through art, love through a relationship, etc.) or suffering.
 
-  
-Dr. Susanne C. Moser concludes, 
+Dr. Susanne C. Moser concludes,
 
 > ...the leaders of the future will face not just new, more difficult, and more pervasive environmental challenges than past and present leaders do, but will need to be adept in a range of psychological, social, and political skills to navigate the inevitable human crises that will precede, trigger, and follow environmental ones. Future leaders will need to be not just experts in climate change, or a particular environmental field, but be capable of holding that which is happening to and in our world. They will need to mentor, guide, and assist people in processing enormous losses, human distress, constant crises, and the seemingly endless need to remain engaged in the task of maintaining, restoring, and rebuilding - despite all setbacks - a viable planet, the only place the human species can call its home.
 
@@ -86,9 +84,9 @@ Are we not able to imagine a voluntary end to the capitalist system?
 
 We in the Western world cannot come to terms with or see that giving up our privilege and power is necessary. We cannot imagine that at a mass scale. I am imagining that others not so privileged folks find imagining the end of the current system a lot easier, and the less privilege the easier it gets. The closer to the extractive 'coal face' of the industrial growth society, the easier it is.
 
-But imagine it we must and at a mass scale. Our civilisation is dead. [There are those who don't agree of course](https://medium.com/@oliverwaters_76079/the-strange-necessity-of-infinite-economic-growth-ebc2e505cdf1). But if we take this view, then there is much work to be done that contemplatives can help us with. As we said in our paper, Stephen Bachelor in _Alone With Others_ describes this very clearly: 
+But imagine it we must and at a mass scale. Our civilisation is dead. [There are those who don't agree of course](https://medium.com/@oliverwaters_76079/the-strange-necessity-of-infinite-economic-growth-ebc2e505cdf1). But if we take this view, then there is much work to be done that contemplatives can help us with. As we said in our paper, Stephen Bachelor in _Alone With Others_ describes this very clearly:
 
-> What is life? How are the potentials of life to be actualised? What is the purpose and meaning of life? These are all questions that gradually formulate themselves in this unstructured region (the region of being as opposed to having and doing) which is slowly disclosing itself to us (as we live our lives)... In any case we are compelled to find a concrete framework where a set of satisfying answers is provided. The various religions of the world are in fact systematic formulations of the answers to these questions. 
+> What is life? How are the potentials of life to be actualised? What is the purpose and meaning of life? These are all questions that gradually formulate themselves in this unstructured region (the region of being as opposed to having and doing) which is slowly disclosing itself to us (as we live our lives)... In any case we are compelled to find a concrete framework where a set of satisfying answers is provided. The various religions of the world are in fact systematic formulations of the answers to these questions.
 
 Religions have traditionally provided us with answers to the fundamental and mysterious questions that frame our lives (and which most of us spend very little time contemplating or exploring). Life where we come from and after death, where we go to. And then how to live the bit in between.
 
@@ -164,7 +162,7 @@ Buddhist practices based on gratitude, meditations on the interconnectivity and 
 
 Contemplative leaders would hold this almost unholdable awareness of the nature of reality, life without stories, and the nature and scope of the climate and ecological emergency, along with the other aspects of non-duality and guide others to at least establish themselves in this awareness even if they do not always live in it. This is of course the sort of leadership contemplatives have always provided, but it can only work in a community in which the power of contemplation is acknowledged. But for this we need not just contemplatives willing to lead but technical and political experts willing to be led.
 
-#### Shift in consciousness 
+#### Shift in consciousness
 
 > Nowhere to go, nothing to do
 
