@@ -19,11 +19,11 @@ Something is clearly missing from the way in which we frame, speak about, and ac
 
 An analogy might be [Ken Wilber's four quadrant integral model](https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)). Where for many there is a blind spot. The inner aspects of life are easily forgotten about, and as a result there is a lack of ability to discuss and frame let alone solve societal, or individual problems. An integral piece of the system is missing.
 
-                       **Internal**                         **External** 
+                       **Internal                       External**
 
 **Individual**       Consciousness               Behaviour
 
-**Collective**       Culture                           Systems
+**Collective**       Culture                          Systems
 
 The same is true of the missing contemplative piece, or, as it has been termed, a 'God shaped hole' in our civilisation. In a civilisation run by our collective personality or ego structures, we find ourselves abandoned (although it is us who have done the abandoning) and soulless. We are left with an extrinsically driven culture and set of values. As we approach the endgame of our collective ability to provide more, and meet human wants and needs with a purely material set of answers, there appears to be no way out of the collective cul de sac we find ourselves in other than positing, in all seriousness, colonising other planets as a solution.
 
