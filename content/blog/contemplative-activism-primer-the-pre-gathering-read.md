@@ -35,7 +35,7 @@ Of course one of the problems we face is that most of us do not see let alone pr
 
 It is also clear that there are many individual ways to hold and be with ourselves that the contemplative life enables. One such way is nothing more than being with 'what is', rather than seeking to find ways to avoid or hide from 'what is'. This being with rather than hiding from or avoiding is almost certainly one of the first steps in any contemplative life. It is probably the fundamental way as from this first step, a whole life's worth of insights and competencies arise. It is the gateway to the mystery which we are both afraid of and so attracted to. Is this the case in all contemplative traditions, explicitly, or implicitly? Again I hope we can explore this.
 
-#### **What does it mean: Holding our current situation within contemplative awareness so as to accept where we are with enough depth and solidity to see how to respond?**
+### **What does it mean: Holding our current situation within contemplative awareness so as to accept where we are with enough depth and solidity to see how to respond?**
 
 As Thich Nhat Hanh writes in the opening lines of [_Being Peace_](https://www.amazon.com/Being-Peace-Thich-Nhat-Hanh/dp/188837540X),
 
@@ -66,9 +66,9 @@ It is about developing this skill and making it a part of our life. It is also t
 
 And then once we are able to hold 'what is' with enough grace and ease, there are clearly other steps which flow from this awareness. What are they and how can we define them?
 
-### **Preparing for the death of our way of life our civilisation**
+## **Preparing for the death of our way of life our civilisation**
 
-#### **How to go about doing this at a social scale?**
+### **How to go about doing this at a social scale?**
 
 The first step in this process of coming to terms with the death of our civilisation might be to come to terms with the loss we personally feel, our personal experiences. If we can't put our oxygen mask on first, we can't help others with theirs.
 
@@ -112,9 +112,9 @@ There is a long debate amongst collapsologists over this question of what if any
 
 What has been missing is the input of mystics into this space. What is the relationship of relative to absolute truth? What can we learn from this exploration? Or are they so far apart in terms of the areas of life they are describing that they don't touch? It is reminiscent (or maybe it is the exact same debate?) of the debates about in the face of scientific knowledge whether God is dead.
 
-**A brief exploration of contemplative practices and their relevance to Activism**
+### **A brief exploration of contemplative practices and their relevance to Activism**
 
-### Buddhism
+## Buddhism
 
 Meditation, mindfulness, and other forms of authentically being with yourself.
 
@@ -124,7 +124,7 @@ This almost goes without saying. The demands of being an activist make authentic
 * Burnout is often a problem. Under resourced and facing overwhelming problems day after day is not easy to be with. Mindfulness makes this easier or more possible.
 * Meditators are much more able to be in difficult group situations and develop the internal distance that is necessary to find ways to act with others.
 
-### Non attachment
+## Non attachment
 
 And there are the Buddhist practices based on non attachment that allow us to find the cracks in our ego structures, enabling creativity and the ability to just 'be with' without substituting story and shallow and frail human ideas for actuality. Releasing attachment can create subtlety and sensitivity, enable creativity and create the space for adaptation.
 
@@ -134,7 +134,7 @@ One of the key aspects of giving up or relinquishing, in the [Deep Adaptation fr
 
 We do not know all that lies beyond these movements of letting go but, maybe need to have faith that it will be truer and more enlivening than how we are living now.
 
-### Stories
+## Stories
 
 Being with 'what is' without turning to 'stories' makes it possible to meet our reality and take our next steps with awareness and as consciously as possible. Contemplation involves becoming unattached from our expectations and also our stories - authentically being with life itself. In fact it is essential.
 
@@ -154,15 +154,15 @@ However the stories of our culture are something different. They interact with o
 
 Exploring what it means to live without collective stories might well be an interesting and important way to create a group of people able to engage with and be with deep change of a kind we are unfamiliar with and beyond current imagining.
 
-#### Other practices
+## Other practices
 
 Buddhist practices based on gratitude, meditations on the interconnectivity and flow of life, loving kindness, healing pain of self and other, healing shenpa, letting go of self concern, and taking on board the concern of the welfare of others to name a few.
 
-#### Contemplative leadership
+### Contemplative leadership
 
 Contemplative leaders would hold this almost unholdable awareness of the nature of reality, life without stories, and the nature and scope of the climate and ecological emergency, along with the other aspects of non-duality and guide others to at least establish themselves in this awareness even if they do not always live in it. This is of course the sort of leadership contemplatives have always provided, but it can only work in a community in which the power of contemplation is acknowledged. But for this we need not just contemplatives willing to lead but technical and political experts willing to be led.
 
-#### Shift in consciousness
+### Shift in consciousness
 
 > Nowhere to go, nothing to do
 
