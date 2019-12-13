@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2019-11-29T00:00:00Z
-draft = true
 imagePath = ""
 title = "The Case for Contemplative Activism: why, why now, and what are we offering?"
 
