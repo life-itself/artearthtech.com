@@ -2,7 +2,7 @@
 title: "Newsletter #6 : November 2019"
 date: 2019-11-30
 slug: 2019-november-newsletter
-imagePath: "/November newsAET Vision wordle.jpg"
+imagePath: "November-newsAET-Vision-wordle.jpg"
 notebook: yes
 authors: [petronella]
 ---
@@ -15,7 +15,7 @@ Are you clear on our vision for Art Earth Tech - and what we are up to to get th
 These [four questions](https://https://artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=bbaa09b700&e=b0772b2404) will take ten minutes to complete, and then we ask how you would like to contribute to our vision. See our new [Get Involved](https://https://artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=6fcf40b0fe&e=b0772b2404) page for options!
 
 
-<img src="/November-newsAET-Vision-wordle.jpg" width="600"
+<img src="/images/November-newsAET-Vision-wordle.jpg" width="600"
 *This is a wordle is of our results thus far*
 
 
@@ -34,7 +34,7 @@ On our blog: [An introduction to the blindspots](https://https://artearthtech.us
 #3: [The equality complex](https://https://artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=5ccf9875f6&e=b0772b2404): equality is not a source of suffering, but the equality complex (an obsession with it) is.
 
 
-<img src="/November-news-blindspots.jpg" width="600"
+<img src="/images/November-news-blindspots.jpg" width="600"
 *Image credit: Alastair Thompson*
 
 
@@ -50,36 +50,36 @@ On our blog: [An introduction to the blindspots](https://https://artearthtech.us
 
 *Charles Moore for Junichiro Tanizaki, In Praise of Shadows*
 
-<img src="/NOvember-news-future-hub.jpg" width="372" 
-See our [Instagram stories](https:http://artearthtech.com/2019/12/03/our-hub-in-bergerac-a-practice-in-the-art-of-dwelling/) here of our trip here 
+<img src="/images/NOvember-news-future-hub.jpg" width="372" 
+See our [Instagram stories](https://https://artearthtech.com/2019/12/03/our-hub-in-bergerac-a-practice-in-the-art-of-dwelling/) here of our trip
 
 
 ---
 
 # Welcome our new members of the London hub
  
-This autumn, we have said goodbye to our founding members of the Art Earth Tech Hub in London: Esteban, Cecile and Tom. They are still valuable contributors to Art Earth Tech and on new adventures. 
+This autumn, we have said goodbye to our founding members of the Art Earth Tech Hub in London: Esteban, Cecile and Tom. They are still valuable contributors to Art Earth Tech whilst on new adventures. 
 We would like to welcome our new members:
 
 **Dino Motti** 
 
-<img src="/November-news-dino.jpg" width="200">
+<img src="/images/November-news-dino.jpg" width="200">
 *I am Dino, I am a public health registrar working at City Hall in the health team of the Mayor of London. I come from Milan, Italy, moved here 8 and a half years ago, lived and worked as a doctor in a wide range of places in England. I joined Art, Earth and Tech because I was really impressed by the philosophy and passion about finding wiser ways of living in our societies. I have a past in student union and electoral politics in Italy and in the UK and I am keen to find new ways for us all to engage with the important challenges that we are faced with, namely participation, democracy, the environment and the climate, public health and welfare. Eager to meet you all and learn from everyone’s experience and perspectives. Grazie e a presto! :-)*
 
 **Hannah Close**
 
-<img src="/November-news-Hannah.jpg" width="200">
+<img src="/images/November-news-Hannah.jpg" width="200">
 
 *I'm Hannah. I'm exploring how to live the spiritual life in a fundamentally unspiritual culture through contemplative practice, writing, being in nature and connecting with like-minds. I'm currently running a project called the [Experimental Thought Co](https://https://artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=8cc9e998b6&e=b0772b2404). which looks at exercising thought in the name of conscious evolution through community building and conversation. I was drawn to AET because of their perspective on what wisdom really is, taking into account thinking, doing & being and acknowledging both the rational and the mystical as tools for understanding the world and what it means to be alive in it. By joining AET, I hope to build deeper connections with the community, learn more about myself and what I can contribute to the world, and, on the ground, to curate and organise conversations and gatherings with the wider community.*
 
 **Liam Kavanagh**
 
-<img src="/NOvember-news-Liam.jpg" width="200">
+<img src="/images/NOvember-news-Liam.jpg" width="200">
 *I am a founding member of Art / Earth / Tech and I direct the [research institute](https://http://artearthtech.com/institute/) focusing on Collective Wisdom and Collective Intelligence. My background is in cognitive science and contemplative practice to social questions. I look at how our embodied, spatial and sensory mind interacts with our thoughts (intellect), both within individuals and social groups. My current work focuses on the collective blindspots of the Western (and Westernised) worlds and how the kind of human intelligence that is cultivated in contemplative practices can better inform activism and the production of knowledge.*
 
 **Alex Kennedy**
 
-<img src="/November-news-Alex.jpg" width="200">
+<img src="/images/November-news-Alex.jpg" width="200">
 *I am a film-maker, creative director and entrepreneur designing a new model of collective: [Once Collective](https://https://artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=2ac3ce509d&e=b0772b2404). I combine my skills in post production and animation, with marketing and branding for audiences to create concept films. It is these visual representations of a north star that I believe are needed to align tribes with shared beliefs and re-instill our collective imagination of what's possible. I had an immediate connection to everything written by AET and the mission seemed so aligned to the connections and opportunities I'd seen in creating cultural change. This has only appears closer the more I learn. I live in the London hub to be nearby related projects and partners, to connect with others on similar levels and to be in an environment where I can absorb the theoretical wisdom to help steer my compass on this journey.*
 
 
@@ -97,7 +97,7 @@ Nuns, monks, unitarians, vicars, buddhists, academics and climate activists will
 To find out more and to purchase tickets, please [click here](https://https://artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=770cfdcdc0&e=b0772b2404).
 
 
-<img src="/November-news-CA-Gathering-Noah.jpg" width="800">
+<img src="/images/November-news-CA-Gathering-Noah.jpg" width="800">
 *Image credit: Wake Up London meditates at XR London - credit Noah Walton*
 
 #### ... and we are delighted to announce our Gathering is coming to Asia! Look out for news on our upcoming Taiwan Gathering 2020 in the new year
@@ -136,5 +136,5 @@ It's the time of year for gift giving, for curling up with a good book in the da
 
 
 ---
-<img src="/November-news-wordle-two.png" width="600">
+<img src="/images/November-news-wordle-two.png" width="600">
 *When we asked our applicants for London and Berlin hubs what they would like from their experience in an Art Earth Tech Hub, these were their responses.*
