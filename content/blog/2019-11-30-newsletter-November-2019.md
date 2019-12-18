@@ -15,7 +15,7 @@ Are you clear on our vision for Art Earth Tech - and what we are up to to get th
 These [four questions](https://https://artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=bbaa09b700&e=b0772b2404) will take ten minutes to complete, and then we ask how you would like to contribute to our vision. See our new [Get Involved](https://https://artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=6fcf40b0fe&e=b0772b2404) page for options!
 
 
-<img src="/images/November-newsAET-Vision-wordle.jpg" width="600"
+<img src="/images/November-newsAET-Vision-wordle.jpg" width="600">
 *This is a wordle is of our results thus far*
 
 
@@ -34,7 +34,7 @@ On our blog: [An introduction to the blindspots](https://https://artearthtech.us
 #3: [The equality complex](https://https://artearthtech.us12.list-manage.com/track/click?u=f3b6955276a868159874a4e9a&id=5ccf9875f6&e=b0772b2404): equality is not a source of suffering, but the equality complex (an obsession with it) is.
 
 
-<img src="/images/November-news-blindspots.jpg" width="600"
+<img src="/images/November-news-blindspots.jpg" width="600">
 *Image credit: Alastair Thompson*
 
 
@@ -50,7 +50,7 @@ On our blog: [An introduction to the blindspots](https://https://artearthtech.us
 
 *Charles Moore for Junichiro Tanizaki, In Praise of Shadows*
 
-<img src="/images/NOvember-news-future-hub.jpg" width="372" 
+<img src="/images/NOvember-news-future-hub.jpg" width="372">
 See our [Instagram stories](https://https://artearthtech.com/2019/12/03/our-hub-in-bergerac-a-practice-in-the-art-of-dwelling/) here of our trip
 
 
