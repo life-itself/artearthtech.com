@@ -5,7 +5,7 @@ slug: get-involved
 
 > _Be part of the community for people seeking a wiser world. Farmers and technologists, researchers lawyers and artists, young and old — no matter where you are, all are welcome._  
 
-<img src="/image/Gathering-meal-2019.jpg">
+<img src="/images/Gathering-meal-2019.jpg">
 
 
 **Table of Content**  
