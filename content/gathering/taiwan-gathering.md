@@ -1,2 +1,2 @@
-# Coming soon ;)  
-## this is taiwan-gathering.md
+# Coming soon :)  
+## This is taiwan-gathering page.
