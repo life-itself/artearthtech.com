@@ -3,24 +3,8 @@ title: Get involved now and make it happen
 slug: get-involved 
 ---
 
-> _Be part of the community for people seeking a wiser world. Farmers and technologists, researchers lawyers and artists, young and old — no matter where you are, all are welcome._  
+> _Be part of the community for people seeking a wiser world. Farmers and technologists, researchers lawyers and artists, young and old — no matter where you are, all are welcome._   
 
-<img src="/images/Gathering-meal-2019.jpg">
-
-
-**Table of Content**  
-
-[ Why get involved ](#why)  
-[ Research calls ](#research)  
-[ Writing ](#writing)  
-[ Organise an event with A/E/T ](#event)  
-[ Art Earth Tech Salon ](#salon)  
-[ Family Calls ](#family)  
-[ Co-Living ](#coliving)  
-[ Work with us ](#work)  
-[ Invest in A/E/T Fund ](#invest)  
-
-<a id="why"></a>
 
 ## Why get involved? 
 
@@ -34,28 +18,25 @@ You can make contribution in this approach to a wiser world through different fo
 
 <img src="/images/Gathering-meal-2019.jpg" width="800">
 
-<a id="research"></a>
----
+--- 
 
 ## Research calls 
 
 Our monthly research hangouts are where we discuss topics over the weekend for 2-3 hours. You do not need to be an expert or a researcher to take part! It begins with updates and a short presentation followed by time to collaborate together on whatever research or reflection we are doing. Each theme is decided two weeks in advance. Rufus sets the topic and you can email [rufus@artearthtech.com](mailto:rufus@artearthtech.com) with your suggestions and to join the group. 
 
-Previous topics include:
-
-* Wise Education: what would a truly wise and well education look like?  
-* Concrete Steps about Climate Change  
-* Aligning People, Planet and Purpose through neuroscience and culture  
-* Mindfulness, neuroscience and trauma
+Previous topics include:  
+- Wise Education: what would a truly wise and well education look like?  
+- Concrete Steps about Climate Change  
+- Aligning People, Planet and Purpose through neuroscience and culture  
+- Mindfulness, neuroscience and trauma
 
 Our A/E/T member from Taiwan Ines Chen said:  
 
 > These free hangouts came up with interesting discussions and brought me different perspectives from other participants, and inspired me to go deeper into the subjects that I'm most concerned with.
 
-<a id="writing"></a>
----
+--- 
 
-## Writing - blogs and academic papers
+## Writing- blogs and academic papers
 
 A key element of our community and our offering is a place for people to express their views and thinking on our research themes and our hypothesis:
 
@@ -64,20 +45,20 @@ A key element of our community and our offering is a place for people to express
 We want engaged thinkers to join our community and apply the same rigour into their thoughts and assumptions as we do by writing about it. This also offers other perspectives than the core teams’, which is also healthy.
 
 [Contact us](http://artearthtech.com/contact/) with the heading and outline, usually 800 word count and two images.
+
 <img src="/images/petronella writing.jpg" width="800">
 
-<a id="event"></a>
 ---
 
 ## Organise an event that is relevant to you and AET
+
 Events invite new people to a conversation for a Big Vision for society, through art, through talks and conversation, through contemplation and through fun. We love to collaborate or for people to hold events that align with Art Earth Tech.  
 
 See ['Walking Wise' walks](https://artearthtech.com/2019/11/04/walking-wise-london-walking-group/) - a free local walking group activity - initiated by our current London hub member Ayesha, and ['Is There a Future?'](https://artearthtech.com/2019/06/17/is-there-a-future/) exhibition organized by artist and filmmaker Cecile Embeton and our co-founder Sylvie Barbier. 
 
 Register your interest [here](https://docs.google.com/forms/d/113_XLff1A4FFq18rSbnArl9ktVWfpXPcKeNPli-X1Zg/edit) and we can set you up with what you need for a cracking event.
-  
-<a id="salon"></a>
----
+
+---  
 
 ## Create an Art Earth Tech Salon where you live
 
@@ -87,7 +68,7 @@ An informal structure for holding conversations, discussing concepts and ideas o
 
 <img src="/images/1909newsletter-wanttostartyourownevent.jpg" width="800">
 
-
+---
 
 ## Short stay at one of our homes 
 
@@ -115,7 +96,6 @@ Learn more about [our spaces](https://artearthtech.com/residency/) or [apply onl
 <img src="/images/la_cheraille1_768x577.jpg" width="800">  
 _La Chéraille_
 
-<a id="family"></a>
 ---
 
 ## Family Calls
@@ -123,7 +103,7 @@ _La Chéraille_
 A “family” is a group that meets regularly for mutual support, sharing and exchange rooted in AET values and practices and oriented towards AET’s mission. ‘Families’ as we call them are timezone specific and are attended by our Hub members, by attendees to our Gathering and others.  Each “family” has a family elder (which can alternate every 3 months) who is responsible for coordinating the group meeting and be a communication point between the members and the rest of AET.  
 
 These  calls are -invitation only-.
-<a id="coliving"></a>
+
 ---
 
 ## Co-Living - Move into one of our homes
@@ -143,7 +123,6 @@ You can [register](http://artearthtech.com/hubs/apply/) to be on our list to be 
 <img src="/hubs/london/sitting-room-couch_hu271c426a86158d4fc85a3b4d17cee625_1137761_800x0_resize_box_2.png"> 
 _Our London home_
 
-<a id="work"></a>
 ---
 
 ## Work with us 
@@ -152,7 +131,6 @@ Work at Art / Earth / Tech itself in an existing business or developing a new bu
 
 As a growing community, we are often on the look-out for committed, hard working and aligned people who can support our offering. Please do enquire prospectively as we keep interested parties on file for when we have an opportunity available. Or, you can create your own opportunity! We are also open to discussing mutual projects and joint ventures if we are aligned.  
 
-<a id="invest"></a>
 ---
 
 ## Invest in Art / Earth / Tech Real Estate Fund 

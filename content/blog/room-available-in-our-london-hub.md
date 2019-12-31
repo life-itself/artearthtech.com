@@ -7,7 +7,7 @@ title = "Double room available in our London home in Hoxton"
 +++
 We need a better way to live, together.
 
-_Update: the large room (ideal for couples) is available again at £850pcm + bills_ 
+_Update: the large room (ideal for couples) is available again at £900pcm including bills._
 
 A growing number of us are seeking lives that are meaningful as well as productive, yet we often struggle to find a balance. We need a wiser way of living whilst remaining engaged in conventional society. A way to live in cities whilst being in community, to be present as well as purposeful, that supports us to be the best version of ourselves.
 
@@ -34,8 +34,8 @@ Desirable:
 Key information:
 
 * **Where**: Fanshaw St, Hoxton, London
-* **When**: from 2nd December 2019. Stays from a minimum of 12 months 
+* **When**: from 2nd December 2019. Stays from a minimum of 12 months
 * **Who**: People who share a pioneering spirit, are committed to community building and making a difference
-* **Cost**: £850 pcm (part furnished and excluding bills @ £99 pcm per person)
+* **Cost**: £900 pcm (part furnished and including bills)
 
 **More information and apply**: [http://artearthtech.com/hubs/london](http://artearthtech.com/hubs/london "http://artearthtech.com/hubs/london")

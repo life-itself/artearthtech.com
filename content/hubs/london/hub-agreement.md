@@ -2,9 +2,10 @@
 title: London Hub House Agreement
 type: hubs agreement london
 aliases:
-  - /london-agreement/
----
+- "/london-agreement/"
+draft: true
 
+---
 We are a mindful community seeking to create a sustainable shared space of warmth, getting stuff done, joy, creativity, generosity, acceptance and authentic connection.
 
 We are committed to living together in a way that cultivates wisdom, compassion and care for ourselves, each other and the world around us.
