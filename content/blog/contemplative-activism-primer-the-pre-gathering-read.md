@@ -1,10 +1,11 @@
 +++
-authors = []
+authors = [liamkavanagh]
 date = 2019-12-13T00:00:00Z
-imagePath = ""
+
 title = "Contemplative Activism Primer: the pre-gathering read"
 
 +++
+This primer is written by our collaborator, Naresh Giangrande.
 In our upcoming retreat we will explore how contemplative awareness, skills and practices can inform our responses to our collective cultural process of deep and lasting change.
 
 I set out some initial ideas in a paper with Liam - [_Contemplative Activism What it is and Why It's Important_](http://artearthtech.com/2019/11/29/the-case-for-contemplative-activism-why-why-now-and-what-are-we-offering/). Here I am exploring in more depth some of the ideas in that paper in an evolving enquiry into Contemplative Activism.
@@ -19,11 +20,8 @@ Something is clearly missing from the way in which we frame, speak about, and ac
 
 An analogy might be [Ken Wilber's four quadrant integral model](https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)). Where for many there is a blind spot. The inner aspects of life are easily forgotten about, and as a result there is a lack of ability to discuss and frame let alone solve societal, or individual problems. An integral piece of the system is missing.
 
-                       **Internal                       External**
-
-**Individual**       Consciousness               Behaviour
-
-**Collective**       Culture                          Systems
+<img src="/images/CAintegraltheoryblog.png" width="600">
+Image credit: *Stephane Segatori https://medium.com/@ssegatori/what-is-integral-philosophy-integral-theory-5c6b0ccc7724*
 
 The same is true of the missing contemplative piece, or, as it has been termed, a 'God shaped hole' in our civilisation. In a civilisation run by our collective personality or ego structures, we find ourselves abandoned (although it is us who have done the abandoning) and soulless. We are left with an extrinsically driven culture and set of values. As we approach the endgame of our collective ability to provide more, and meet human wants and needs with a purely material set of answers, there appears to be no way out of the collective cul de sac we find ourselves in other than positing, in all seriousness, colonising other planets as a solution.
 

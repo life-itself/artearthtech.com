@@ -1,7 +1,7 @@
 +++
 authors = []
 date = 2019-12-10T00:00:00Z
-imagePath = ""
+imagePath = "Exterior-LaCheraile-AET-9.jpg"
 title = "Wise booklist "
 
 +++

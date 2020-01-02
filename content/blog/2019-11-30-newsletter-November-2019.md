@@ -16,7 +16,7 @@ These [four questions](https://https://artearthtech.us12.list-manage.com/track/c
 
 
 <img src="/images/November-newsAET-Vision-wordle.jpg" width="600">
-*This is a wordle is of our results thus far*
+*This is a wordle of our results thus far*
 
 
 ---

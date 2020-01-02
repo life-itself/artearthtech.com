@@ -28,12 +28,11 @@ That activists have access to tools of transformation that will change the way t
 
 
 ## -Join us- 
-Saturday 14th - Tuesday 17th December at West Lexham in Norfolk, for inquiries, email: liam@artearthtech.com
-for enquiries, email: liam@artearthtech.com "
+Saturday 14th - Tuesday 17th December at West Lexham in Norfolk, for enquiries, email: liam@artearthtech.com
 
 
 <img src="/images/contemplative_Activism_Gathering__December_2019.jpg" width="800">
-Image credit: Tom Manwell
+**Image credit: Wake Up London meditates at XR London by Noah Walton**
 
 
 
