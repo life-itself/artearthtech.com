@@ -1,7 +1,7 @@
 ---
 title: "Collective blind spot #3: the equality complex"
 date: 2019-12-01
-slug: collective-blind-spot-3-the-equality-complex
+slug: blind-spot-3-the-equality-complex
 imagePath: "DIFFERENT.jpg"
 notebook: yes
 authors: [liamkavanagh]
