@@ -1,7 +1,7 @@
 +++
-authors = [liamkavanagh]
+authors = 
 date = 2019-12-13T00:00:00Z
-
+imagePath = "church.jpg"
 title = "Contemplative Activism Primer: the pre-gathering read"
 
 +++
@@ -78,7 +78,8 @@ Now XR have come along with a much more unappealing proposition; completely chan
 
 Are we not able to imagine a voluntary end to the capitalist system?
 
-> "...it is easier to imagine an end to the world than an end to capitalism," attributed to both Fredric Jameson and Slavoj Zizek.
+> "...it is easier to imagine an end to the world than an end to capitalism,"
+- attributed to both Fredric Jameson and Slavoj Zizek.
 
 We in the Western world cannot come to terms with or see that giving up our privilege and power is necessary. We cannot imagine that at a mass scale. I am imagining that others not so privileged folks find imagining the end of the current system a lot easier, and the less privilege the easier it gets. The closer to the extractive 'coal face' of the industrial growth society, the easier it is.
 
