@@ -1,5 +1,5 @@
 +++
-authors = 
+authors = [liamkavanagh]
 date = 2019-12-13T00:00:00Z
 imagePath = "church.jpg"
 title = "Contemplative Activism Primer: the pre-gathering read"
