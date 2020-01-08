@@ -1,10 +1,10 @@
-+++
-authors = [liamkavanagh]
-date = 2019-12-13T00:00:00Z
-imagePath = "church.jpg"
-title = "Contemplative Activism Primer: the pre-gathering read"
+---
+title: "Contemplative Activism Primer: the pre-gathering read"
+authors: [liamkavanagh]
+date: 2019-12-13T00:00:00Z
+imagePath: "church.jpg"
+---
 
-+++
 This primer is written by our collaborator, Naresh Giangrande.
 In our upcoming retreat we will explore how contemplative awareness, skills and practices can inform our responses to our collective cultural process of deep and lasting change.
 

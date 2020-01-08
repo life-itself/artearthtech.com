@@ -1,10 +1,10 @@
-+++
-authors = [petronellatyson]
-date = 2019-12-10T00:00:00Z
-imagePath= "Exterior-LaCheraile-AET-9.jpg"
-title = "Wise booklist"
+---
+authors: [petronella]
+date: 2019-12-10T00:00:00Z
+imagePath: "Exterior-LaCheraile-AET-9.jpg"
+title: "Wise booklist"
+---
 
-+++
 As we ramp up to a season of gift giving and hibernating with a good book in the Northern Hemisphere, we have collected all the recommendations of books from applicants to our Hubs in Berlin and London this year.
 
 This should inspire you if you're a little stuck this December...
