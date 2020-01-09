@@ -1,6 +1,6 @@
 +++
 authors = []
-date = 2020-01-09T00:00:00Z
+date = 2019-12-23T00:00:00Z
 draft = true
 imagePath = ""
 title = "A transformative culture inside and out"
