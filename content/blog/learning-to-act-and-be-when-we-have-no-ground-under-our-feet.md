@@ -8,18 +8,17 @@ title = "Learning to act and be when we have no ground under our feet"
 +++
 # Contemplative Activism
 
-### Seeing the world as it is.
+#### Seeing the world as it is.
 
-### Learning to act and be when we have no ground under our feet
+#### Learning to act and be when we have no ground under our feet
 
-  
 The first contemplative activism gathering took place near Kings Lynn, in the beautiful and whimsical [West Lexham](https://www.westlexham.org/) centre.
 
-#### So what did you do?
+### So what did you do?
 
 We met, we talked, we meditated and did some embodied practice together.
 
-#### What actually happened?
+### What actually happened?
 
 We found that it is very hard to talk about what Contemplative Activism is and what it means. The sharply contrasting, paradoxical melding of two concepts that don't usually go together felt intriguing, and we wondered if they are the right terms for what we are proposing.
 
@@ -36,11 +35,11 @@ We asked a lot of questions like:
 * Do we need a new organisation? Or a new Sangha?
 * Can we have trees in our Sangha?
 
-But we had very few answers. 
+But we had very few answers.
 
 This is because Contemplative Activism is about helping us to see the world as it is, rather than as we want it to be or wish it was. To question is to live without knowing or needing to know how to live with no ground beneath our feet as [Pema Chodron](https://en.wikipedia.org/wiki/Pema_Chödrön) calls the embrace of the dharma.
 
-> Turning your mind towards the dharma does not bring security or confirmation. Turning your mind towards the dharma does not bring any ground to stand on. In fact, when your mind turns toward the dharma, you fearlessly acknowledge impermanence and change and begin to get the knack of hopelessness.  
+> Turning your mind towards the dharma does not bring security or confirmation. Turning your mind towards the dharma does not bring any ground to stand on. In fact, when your mind turns toward the dharma, you fearlessly acknowledge impermanence and change and begin to get the knack of hopelessness.
 
 _When Things Fall Apart pg 51_
 
@@ -54,7 +53,6 @@ The Ho de no sau nee, the Six Nations Iroquois Confederacy, made a [spectacular 
 
 > The traditional Native peoples hold the key to the reversal of the processes in Western Civilization which hold the promise of unimaginable future suffering and destruction. Spiritualism is the highest form of political consciousness. And we, the native peoples of the Western Hemisphere, are among the world's surviving proprietors of that kind of consciousness.
 
-  
 I would add the contemplatives to this list of 'proprietors of that kind of consciousness', the only consciousness there really is. All else are fabrications, beliefs, and conventions which have no basis in reality apart from the significance we collectively give them and the violence that is used to uphold them. [Yuval Noah Harari](https://www.ynharari.com/) provides a searching and unflinching examination of the role and basis of beliefs in the formation of civilisations in his book _Sapiens, a Brief History of Humankind_.
 
 Now is the time to contemplate what and who we are. And from that will flow a new world consciously made.
