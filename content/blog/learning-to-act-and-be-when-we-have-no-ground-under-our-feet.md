@@ -5,13 +5,11 @@ imagePath = ""
 title = "Learning to act and be when we have no ground under our feet"
 
 +++
-# Contemplative Activism
+### Seeing the world as it is.
 
-#### Seeing the world as it is.
+### Learning to act and be when we have no ground under our feet.
 
-#### Learning to act and be when we have no ground under our feet
-
-The first contemplative activism gathering took place near Kings Lynn, in the beautiful and whimsical [West Lexham](https://www.westlexham.org/) centre.
+The first **contemplative activism** gathering took place near Kings Lynn, in the beautiful and whimsical [West Lexham](https://www.westlexham.org/) centre.
 
 ### So what did you do?
 
