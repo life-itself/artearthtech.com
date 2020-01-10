@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-01-09T00:00:00Z
-draft = true
 imagePath = ""
 title = "Learning to act and be when we have no ground under our feet"
 
