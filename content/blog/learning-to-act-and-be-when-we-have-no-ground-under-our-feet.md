@@ -11,6 +11,8 @@ title = "Learning to act and be when we have no ground under our feet"
 
 The first **contemplative activism** gathering took place near Kings Lynn, in the beautiful and whimsical [West Lexham](https://www.westlexham.org/) centre.
 
+![](/images/CA-treehouses-2.jpg)
+
 ### So what did you do?
 
 We met, we talked, we meditated and did some embodied practice together.
@@ -39,6 +41,8 @@ This is because Contemplative Activism is about helping us to see the world as i
 > Turning your mind towards the dharma does not bring security or confirmation. Turning your mind towards the dharma does not bring any ground to stand on. In fact, when your mind turns toward the dharma, you fearlessly acknowledge impermanence and change and begin to get the knack of hopelessness.
 
 _When Things Fall Apart pg 51_
+
+![](/images/CA-tree-in-fog.jpg)
 
 We will, almost certainly, have to start to live without the rules, agreements, and boundaries which have defined our world. Our world is a world that has been created by civilisation. Civilisation created cities and settled groups of people. It is the defining organising principle of our world, more than capitalism or socialism. Political organisations such as capitalism or socialism are just two different ways of running civilisation.
 
