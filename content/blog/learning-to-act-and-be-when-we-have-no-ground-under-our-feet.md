@@ -1,7 +1,7 @@
 +++
 authors = []
 date = 2020-01-09T00:00:00Z
-imagePath = ""
+imagePath = "CA-tree-in-fog"
 title = "Learning to act and be when we have no ground under our feet"
 
 +++
