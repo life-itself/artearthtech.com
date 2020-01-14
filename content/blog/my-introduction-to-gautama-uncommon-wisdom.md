@@ -1,7 +1,7 @@
 ---
-title: My Introdcution to Gautama's uncommon wisdom
+title: My Introduction to Gautama's uncommon wisdom
 date: 2016-10-23 23:00:00 +0000
-imagePath: non-attachment.png
+imagePath: "non-attachment.png"
 authors: [Liam Kavanagh]
 ---
 

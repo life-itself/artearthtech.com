@@ -1,10 +1,14 @@
-+++
-authors = []
-date = 2019-12-01T00:00:00Z
-imagePath = "DIFFERENT.jpg"
-title = "Collective blind spot #3: the equality complex"
+---
+title: "Collective blind spot #3: the equality complex"
+date: 2019-12-01
+slug: blind-spot-3-the-equality-complex
+imagePath: "DIFFERENT.jpg"
+notebook: yes
+authors: [liamkavanagh]
 
-+++
+---
+
+
 This blog series has focused on three revolutionary ideas that have slowly turned into dogmas: the faith in the power of rationality and scientific inquiry, individualism, and equality. I am asking whether these enlightenment ideas have become dogmas and how any rigidity creates collective blindnesses.
 
 Equality is the hardest and least socially acceptable of these ideas to question. Historically, almost all people in Western society owe their social position to political movements that used ideals of equality as a rallying cry. Most of our ancestors were peasants and serfs or were enslaved, and they argued and fought for the rights we now have. Their tactic was often to point out the similarity between humans, even those on vastly different positions in the social hierarchy. It has been barely more than 100 years since women could vote, and non-white people have been denied the vote until very recently by people that called themselves democratic. It has been a historical eyeblink since anybody but King and nobles had a real say in any country on Earth. Ideas of equality have become very ingrained as we enjoy the effects that have come with the onset of democratic ideology.

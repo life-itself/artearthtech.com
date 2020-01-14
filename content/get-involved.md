@@ -1,10 +1,25 @@
 ---
 title: Get involved now and make it happen
 slug: get-involved 
+toc: true
 ---
 
 > _Be part of the community for people seeking a wiser world. Farmers and technologists, researchers lawyers and artists, young and old — no matter where you are, all are welcome._   
 
+Table of Contents
+===================
+  - [Why get involved?](#why-get-involved)
+  - [Research calls](#research-calls)
+  - [Writing blogs and academic papers](#writing-blogs-and-academic-papers)
+  - [Organise an event that is relevant to you and AET](#organise-an-event-that-is-relevant-to-you-and-aet)
+  - [Create an Art Earth Tech Salon where you live](#create-an-art-earth-tech-salon-where-you-live)
+  - [Short stay at one of our homes](#short-stay-at-one-of-our-homes)
+  - [Family Calls](#family-calls)
+  - [Co-Living Move into one of our homes](#co-living-move-into-one-of-our-homes)
+  - [Work with us](#work-with-us)
+  - [Invest in Art/Earth/Tech Real Estate Fund](#invest-in-art-earth-tech-real-estate-fund)
+
+---
 
 ## Why get involved? 
 
@@ -24,12 +39,12 @@ You can make contribution in this approach to a wiser world through different fo
 
 Our monthly research hangouts are where we discuss topics over the weekend for 2-3 hours. You do not need to be an expert or a researcher to take part! It begins with updates and a short presentation followed by time to collaborate together on whatever research or reflection we are doing. Each theme is decided two weeks in advance. Rufus sets the topic and you can email [rufus@artearthtech.com](mailto:rufus@artearthtech.com) with your suggestions and to join the group. 
 
-Previous topics include: 
+Previous topics include:  
 
-* Wise Education: what would a truly wise and well education look like?  
-* Concrete Steps about Climate Change  
-* Aligning People, Planet and Purpose through neuroscience and culture  
-* Mindfulness, neuroscience and trauma
+- Wise Education: what would a truly wise and well education look like?  
+- Concrete Steps about Climate Change  
+- Aligning People, Planet and Purpose through neuroscience and culture  
+- Mindfulness, neuroscience and trauma
 
 Our A/E/T member from Taiwan Ines Chen said:  
 
