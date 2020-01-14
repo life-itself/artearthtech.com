@@ -24,11 +24,12 @@ You can make contribution in this approach to a wiser world through different fo
 
 Our monthly research hangouts are where we discuss topics over the weekend for 2-3 hours. You do not need to be an expert or a researcher to take part! It begins with updates and a short presentation followed by time to collaborate together on whatever research or reflection we are doing. Each theme is decided two weeks in advance. Rufus sets the topic and you can email [rufus@artearthtech.com](mailto:rufus@artearthtech.com) with your suggestions and to join the group. 
 
-Previous topics include:  
-- Wise Education: what would a truly wise and well education look like?  
-- Concrete Steps about Climate Change  
-- Aligning People, Planet and Purpose through neuroscience and culture  
-- Mindfulness, neuroscience and trauma
+Previous topics include: 
+
+* Wise Education: what would a truly wise and well education look like?  
+* Concrete Steps about Climate Change  
+* Aligning People, Planet and Purpose through neuroscience and culture  
+* Mindfulness, neuroscience and trauma
 
 Our A/E/T member from Taiwan Ines Chen said:  
 
