@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-02-12T00:00:00Z
-draft = true
 imagePath = "2020-02-12-sylvie-one-taiwan"
 title = "One Taiwan"
 
