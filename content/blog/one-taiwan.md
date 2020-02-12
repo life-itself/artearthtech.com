@@ -18,7 +18,7 @@ Sylvie Shiwei Barbier will be performing a theatrical dialogue with the audience
 
 > _There is an essence in each of us, something that can not be broken, that can not die. Something that is eternal where all is one. My art is to bring that present to you._
 
-**When: Thursday 26th February 18:00**
+**When: Thursday 27th February 18:00**
 
 **Where: Acid Lab, Taipei, Taiwan**
 
