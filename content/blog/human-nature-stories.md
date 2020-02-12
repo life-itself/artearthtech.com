@@ -5,6 +5,8 @@ imagePath = "2020-02-12-Human-Storiescover"
 title = "Event: Human // Nature // Stories 28th February 2020"
 
 +++
+![](/images/2020/02/12/2020-Human-Stories-poster.jpg)
+
 > “When we lose our myths we lose our place in the universe"
 
 _- Madeleine L'Engle_
@@ -39,7 +41,7 @@ From bedtime stories to the grandiose meta-narratives of our time, expect interd
 
 **Where: The Boiler House, 152 Brick Lane, E1 5RU, London**
 
-**Who:** INCREDIBLE LINE-UP!! (in our 
+**Who:** INCREDIBLE LINE-UP!!
 
 **Storytelling & Performance:**
 
@@ -60,11 +62,11 @@ From bedtime stories to the grandiose meta-narratives of our time, expect interd
 
 **Panels**
 
->>> Media & Storytelling
+> > > Media & Storytelling
 
 Katherine T Lewis, Indra Adnan, Matthew Green, Alexander Beiner
 
->>> Ancient Wisdom For Modern Times
+> > > Ancient Wisdom For Modern Times
 
 Maria Papaspyrou, Mac Macartney, Amisha Ghadiali, Liam Kavanagh
 
