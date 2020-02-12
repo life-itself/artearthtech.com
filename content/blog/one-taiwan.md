@@ -8,6 +8,8 @@ title = "One Taiwan"
 +++
 ![](/images/2020/02/12/2020-02-12-sylvie-one-taiwan.jpg)
 
+![](/images/2020/02/12/2020-02-12-sylvie-one-taiwan.jpg)
+
 The election just happened and revealed a gap in the value system between two generations.
 
 How can we bring Taiwan back together after this election and celebrate the many faces of Taiwan?
