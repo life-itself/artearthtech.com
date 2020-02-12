@@ -3,7 +3,7 @@ authors = []
 date = 2020-02-06T00:00:00Z
 draft = true
 imagePath = ""
-title = "Human // Nature // Stories "
+title = "Event: Human // Nature // Stories 28th February 2020"
 
 +++
 > “When we lose our myths we lose our place in the universe"
