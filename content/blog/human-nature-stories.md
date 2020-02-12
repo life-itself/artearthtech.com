@@ -70,4 +70,4 @@ Katherine T Lewis, Indra Adnan, Matthew Green, Alexander Beiner
 
 Maria Papaspyrou, Mac Macartney, Amisha Ghadiali, Liam Kavanagh
 
-For more information on the guest speakers, please see [here](https://www.facebook.com/events/2474328776113672/ "here")
+For more information on the guest speakers and for tickets, please see [here](https://www.facebook.com/events/2474328776113672/ "here")
