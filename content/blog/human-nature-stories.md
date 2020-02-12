@@ -62,11 +62,11 @@ From bedtime stories to the grandiose meta-narratives of our time, expect interd
 
 **Panels**
 
-> > > Media & Storytelling
+* Media & Storytelling
 
 Katherine T Lewis, Indra Adnan, Matthew Green, Alexander Beiner
 
-> > > Ancient Wisdom For Modern Times
+* Ancient Wisdom For Modern Times
 
 Maria Papaspyrou, Mac Macartney, Amisha Ghadiali, Liam Kavanagh
 
