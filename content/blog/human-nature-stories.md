@@ -10,7 +10,7 @@ title = "Human // Nature // Stories "
 
 _- Madeleine L'Engle_
 
-Join us at this event form our London Hub member Hannah on Human // Nature // Stories. Here she describes the enquiry and why she has put on this event.
+Join us at this event curated by our London Hub member Hannah: Human // Nature // Stories. Here she describes the enquiry and why she has put on this event.
 
 ...
 
@@ -36,13 +36,13 @@ From bedtime stories to the grandiose meta-narratives of our time, expect interd
 
 ...
 
-**When: Saturday 28th February 10:00 - 23:30** 
+**When: Saturday 28th February 10:00 - 23:30**
 
 **Where: The Boiler House, 152 Brick Lane, E1 5RU, London**
 
-**Who:** INCREDIBLE LINE-UP!! 
+**Who:** INCREDIBLE LINE-UP!! (in our 
 
-**Storytelling & Performance:** 
+**Storytelling & Performance:**
 
 * Andreas Kornevall >>> Entering the Age of Restoration
 * Rachel Rose Reid
@@ -50,7 +50,7 @@ From bedtime stories to the grandiose meta-narratives of our time, expect interd
 * Lucy Neal (with Charlotte Du Cann)
 * The Embers Collective
 * Boe Huntress
-* Mobius Loop 
+* Mobius Loop
 
 **Talks**
 
@@ -59,13 +59,14 @@ From bedtime stories to the grandiose meta-narratives of our time, expect interd
 * Vinay Gupta >>> Across the Abyss: From Myth to Reality
 * Charlotte Du Cann >>> The Kist
 
-**Panels** 
+**Panels**
 
->>> Media & Storytelling  
+>>> Media & Storytelling
+
 Katherine T Lewis, Indra Adnan, Matthew Green, Alexander Beiner
 
 >>> Ancient Wisdom For Modern Times
 
-Maria Papaspyrou, Mac Macartney, Amisha Ghadiali, Liam Kavanagh 
+Maria Papaspyrou, Mac Macartney, Amisha Ghadiali, Liam Kavanagh
 
 For more information on the guest speakers, please see [here](https://www.facebook.com/events/2474328776113672/ "here")
