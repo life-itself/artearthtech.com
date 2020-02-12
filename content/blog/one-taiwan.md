@@ -17,10 +17,10 @@ Sylvie Shiwei Barbier will be performing a theatrical dialogue with the audience
 
 **When: Thursday 26th February 18:00**
 
-**Where: Acid Lab, Taipei, Taiwan** 
+**Where: Acid Lab, Taipei, Taiwan**
 
 For more information, please see the Facebook event [here](https://www.facebook.com/events/212832703212522/ "here")
 
-### Artist Introduction
+### About the Artist
 
 Sylvie Shiwei Barbier is an artist with French / Taiwan background and identity and co-founder of the Art / Earth / Tech community. Good at interacting with people through different forms such as behavior, performance art, Graphic Photography and films. Past performances covered topics such as birth, death, laughter, memory, longing, family and instincts. The body is her main art language, with a special background, built a bridge between east and west aesthetics.
