@@ -6,6 +6,7 @@ imagePath = "2020-02-12-sylvie-one-taiwan"
 title = "One Taiwan"
 
 +++
+![](/images/2020/02/12/2020-02-12-sylvie-one-taiwan.jpg)
 
 The election just happened and revealed a gap in the value system between two generations.
 
