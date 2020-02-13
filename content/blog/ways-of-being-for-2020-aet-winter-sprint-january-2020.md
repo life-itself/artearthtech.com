@@ -6,23 +6,23 @@ imagePath = "\"2020-02-02-blog-winter-sprint2020.jpg\""
 title = "Ways of being for 2020: AET Winter Sprint January 2020"
 
 +++
-To kick off the year, we came together in frosty foggy January to review 2019 and plan this coming year 2020. 
+To kick off the year, we came together in frosty foggy January to review 2019 and plan this coming year 2020.
 
-We started with a half day of embodiment work to reconnect ourselves including drawing our faces on the window pane Picasso style and meditations. The last time we were all together was after the Gathering at the start of September so it was important to reconnect and meet each other again. 
+We started with a half day of embodiment work to reconnect ourselves including drawing our faces on the window pane Picasso style and meditations. The last time we were all together was after the Gathering at the start of September so it was important to reconnect and meet each other again.
 
-Everyday we had 45 minutes of embodied work which opened us up to vulnerability, being alive and in touch with a deeper sense of togetherness. 
+Everyday we had 45 minutes of embodied work which opened us up to vulnerability, being alive and in touch with a deeper sense of togetherness.
 
 ![](static/images/2020-2-02-blog-aet-team-faces-window.JPG)
 
-That evening, we started our review of 2019 with the sophisticated process: **‘Yeh, Meh, Bleurgh’** sharing what worked (Yeh!) - Berlin! Real Estate Fund! New London members! Recruiting Petronella!; what was mediocre (Meh…) and what didn’t work (Bleurgh). 
+That evening, we started our review of 2019 with the sophisticated process: **‘Yeh, Meh, Bleurgh’** sharing what worked (Yeh!) - Berlin! Real Estate Fund! New London members! Recruiting Petronella!; what was mediocre (Meh…) and what didn’t work (Bleurgh).
 
-With 2019 put to bed, we were clear to create what we wanted for 2020. We started with sharing our ‘Ways of Being’ for the new year, both for ourselves and for us as Art Earth Tech. 
+With 2019 put to bed, we were clear to create what we wanted for 2020. We started with sharing our ‘Ways of Being’ for the new year, both for ourselves and for us as Art Earth Tech.
 
 > Our possibility: **A young redwood tree 🌲 with a moon 🌖 and a person meditating 🧘 with birds 🐦 circling around**
 
 So, 2020 we are preparing the soil 🌱🌱 to grow a redwood forest 🌲🌲🌲
 
-🌲 The Redwood symbolises time, patience, solidity and deepth. 🌖 The moon refers to the Sublime, beauty, the poetic, art, magician and mystery. The person meditating 🧘 points to Zen, to nothing, the zen sword, and being clear-sighted, wuwei (action / non action), and our commitment to awakening. 
+🌲 The Redwood symbolises time, patience, solidity and deepth. 🌖 The moon refers to the Sublime, beauty, the poetic, art, magician and mystery. The person meditating 🧘 points to Zen, to nothing, the zen sword, and being clear-sighted, wuwei (action / non action), and our commitment to awakening.
 
 On this path we aim to be 🐦 playful like the birds; and engaged and ambitious. We are in action while always staying  ❤️ open-hearted and open-minded, with deep love, vulnerability and joyfulness.
 
@@ -30,33 +30,33 @@ On this path we aim to be 🐦 playful like the birds; and engaged and ambitious
 
 \---
 
-Our work revolves around eight workstreams: 
+Our work revolves around eight workstreams:
 
-**Big vision:** writing, gathering and events that draw on a conversation for a big vision for society 
+**Big vision:** writing, gathering and events that draw on a conversation for a big vision for society
 
 Spaces: developing rural and urban community living properties across Europe
 
-**Pioneers**: people who get what AET is about and are empowered to lead and contribute to our expansion 
+**Pioneers**: people who get what AET is about and are empowered to lead and contribute to our expansion
 
-**Business / Mutual Project Co:** businesses and projects that contribute financially to AET, share our culture and / or contribute to our vision 
+**Business / Mutual Project Co:** businesses and projects that contribute financially to AET, share our culture and / or contribute to our vision
 
-**Education:** creating an inspired, wise pedagogical programme for children 
+**Education:** creating an inspired, wise pedagogical programme for children
 
 **Art:** weaving our art practice with the Big Vision work (performance) and embodiment
 
-**Communications and Branding:** keep your eyes peeled for our new brand to launch this year 
+**Communications and Branding:** keep your eyes peeled for our new brand to launch this year
 
 **Core:** day to day management for a flourishing AET
 
-For this year 2020, our focus is: 
+For this year 2020, our focus is:
 
-1\. Finding people: passing on the culture so we can form a community to live wisely 
+1\. Finding people: passing on the culture so we can form a community to live wisely
 
-2\. Develop the hubs: submitting the plans for our next rural hub in Bergerac and finding new members  (as above) and core manager for the Berlin Hub. 
+2\. Develop the hubs: submitting the plans for our next rural hub in Bergerac and finding new members  (as above) and core manager for the Berlin Hub.
 
 3\. Generating money so we can expand our work and our reach to more people through receiving grants, establishing the Real Estate Fund and creating new revenue streams and enterprises
 
-4\. Refine our brand so that at a glance people have a direct intuitive feeling of what we are about and why we do what we do 
+4\. Refine our brand so that at a glance people have a direct intuitive feeling of what we are about and why we do what we do
 
 5\. High profile outreach so that we raise our credibility and spread our vision to attract like minded people (see no.1)
 
@@ -68,9 +68,9 @@ Over the Sprint fell our second Community Day where new members Hannah Close and
 
 —> Awakening. Being before doing and having; "being in life itself," as Liam puts it. And a stand for life itself. We referred to [Maslow’s hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)) that offers for transcendence as a need on condition that other needs are met first. However, [Max-Neef’s fundamental human needs](https://en.wikipedia.org/wiki/Manfred_Max-Neef's_Fundamental_human_needs) encompasses more without such a hierarchy. (You can read a comparison [here](https://medium.com/@hwabtnoname/maslow-s-hierarchy-of-needs-vs-the-max-neef-model-of-human-scale-development-9ebebeabb215)).
 
-We picked up on our conversation previously on ‘awakening’ (transformation / Zen)… and asked: ‘_how do we generate that cause of awakening’?_ For this increasingly is becoming at the source of Art Earth Tech. 
+We picked up on our conversation previously on ‘awakening’ (transformation / Zen)… and asked: ‘_how do we generate that cause of awakening’?_ For this increasingly is becoming at the source of Art Earth Tech.
 
-We ended with this from George Bernard Shaw - who similarly was contemplating our being in a time of cultural change in Victorian Britain. 
+We ended with this from George Bernard Shaw - who similarly was contemplating our being in a time of cultural change in Victorian Britain.
 
 > This is the true joy in life, to be used for a purpose recognized by yourself as a mighty one, to be a force of nature instead of a feverish, selfish little clod of ailments and grievances complaining that the world will not devote itself to making you happy.
 >
