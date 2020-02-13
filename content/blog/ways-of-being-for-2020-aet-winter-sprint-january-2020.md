@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-01-24T00:00:00Z
-draft = true
 imagePath = "\"2020-02-02-blog-winter-sprint2020.jpg\""
 title = "Ways of being for 2020: AET Winter Sprint January 2020"
 
