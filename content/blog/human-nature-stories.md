@@ -2,7 +2,7 @@
 authors = []
 date = 2020-02-06T00:00:00Z
 imagePath = "2020-02-12-Human-Storiescover"
-title = "Event: Human // Nature // Stories 28th February 2020"
+title = "Event: Human // Nature // Stories 29th February 2020"
 
 +++
 ![](/images/2020/02/12/2020-Human-Stories-poster.jpg)
@@ -37,7 +37,7 @@ From bedtime stories to the grandiose meta-narratives of our time, expect interd
 
 ...
 
-**When: Saturday 28th February 10:00 - 23:30**
+**When: Saturday 29th February 10:00 - 23:30**
 
 **Where: The Boiler House, 152 Brick Lane, E1 5RU, London**
 
