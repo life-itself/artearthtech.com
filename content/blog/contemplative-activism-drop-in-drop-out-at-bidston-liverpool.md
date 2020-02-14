@@ -6,19 +6,19 @@ imagePath = "\"2020-02-12-bidston\""
 title = "Contemplative Activism 'drop-in, drop-out' at Bidston, Liverpool "
 
 +++
-# The Invitation 
+# The Invitation
 
 We are hosting our second event of Art Earth Tech's contemplative activism initiative, a “drop-in, drop-out” at [Bidston Observatory](http://bidstonobservatory.org) (a lovely space for artistic exploration outside Liverpool) from **March 14th to March 29th**. The gathering is an open invitation, and very reasonably priced (£15 a night), so please forward this invitation to anybody who might be interested. We would love to see you there for as little as much of the time as you could attend.
 
-If you are unfamiliar, contemplative activism is activism that is fed by the realisation that a major source of our great social and person concerns is the lack of a contemplative mindset - the mindset we are in when we are "connected." Contemplative activism means doing the activism that we already do, such as climate activism, with more a spiritual or contemplative mindset, **_but it also involves asking ourselves how to be activist on behalf of the contemplative mindset_**. To give wholeness its proper place in our lives, in organisations, and in society. 
+![](static/images/2020/02/14/2020-02-12-bidston.jpg)
 
-  
+If you are unfamiliar, contemplative activism is activism that is fed by the realisation that a major source of our great social and person concerns is the lack of a contemplative mindset - the mindset we are in when we are "connected." Contemplative activism means doing the activism that we already do, such as climate activism, with more a spiritual or contemplative mindset, **_but it also involves asking ourselves how to be activist on behalf of the contemplative mindset_**. To give wholeness its proper place in our lives, in organisations, and in society.
+
 This meeting is a chance for people who feel drawn to this pursuit to spend time with each other in an informal way, a practice called a "drop-in, drop-out" format in artistic circles. In a drop-in, drop-out format, the space is held by a group over time, with the idea that people can join for any amount of time (e.g two days or even two hours is fine) but that a space/consciousness is held by and transmitted between a shifting group (as it tends to be “naturally”.) There will be time and space for private work on personal projects but co-location means we can share free time. This is done in an everything-is-optional and free way.
 
 The venue is in an urban area, but is situated within a large public park, which is uncrowded, and beautiful -- with woods and entrancing natural rock formations. There is an urban community farm nearby, but downtown Liverpool is only 30 minutes by public transport.
 
-  
-Beds can be reserved through [Bidston observatory](http://www.bidstonobservatory.org/?using), details are below. We plan to share food costs while there in an informal way and make meals collectively. 
+Beds can be reserved through [Bidston observatory](http://www.bidstonobservatory.org/?using), details are below. We plan to share food costs while there in an informal way and make meals collectively.
 
 Naresh Giangrande (co-founder of Transition Towns) and Liam Kavanagh will be there the entire time as will be the directors of Bidston, who are taking part.
 
@@ -43,7 +43,6 @@ Liam (for the rest of the organisers.)
 
 \---
 
-  
 **More about Bidston Observatory and Arranging a stay there:**
 
 Bidston Observatory is conceived as a space for concentration, work and potential production, rather than purely a leisure site. The project’s objective is to be a resource that supports different ways of working (together) and makes new imaginings possible. With this in mind, please send a brief mail to: [enquiries@bidstonobservatory.org](mailto:enquiries@bidstonobservatory.org), giving us an idea about your practice, or what you might be working on during your stay here. Just a few quick sentences will do! Read more about the observatory at: [http://www.bidstonobservatory.org/](http://www.bidstonobservatory.org/ "http://www.bidstonobservatory.org/")
@@ -56,10 +55,10 @@ So what do we do? The good news is that many, many people have been responding t
 
 Contemplative activism also means embracing the need for planning and organisation, while not being a slave to accomplishments and goals. Teaching meditation or doing art requires some planning. Using concepts is not a sin, nor is technical knowledge. It is just that the analytical mind is a spectacular servant and a bad master. We will never be effective in putting things right by denying ourselves use of this power.
 
-See other blog posts: 
+See other blog posts:
 
 [The case for contemplative activism: why, why now and what are we offering?](https://artearthtech.com/2019/11/29/the-case-for-contemplative-activism-why-why-now-and-what-are-we-offering/)
 
 [Contemplative activism primer](https://artearthtech.com/2019/12/13/contemplative-activism-primer-the-pre-gathering-read/)
 
-[Learning to be and act when we have no ground beneath our feet](https://artearthtech.com/2020/01/09/learning-to-act-and-be-when-we-have-no-ground-under-our-feet/) 
+[Learning to be and act when we have no ground beneath our feet](https://artearthtech.com/2020/01/09/learning-to-act-and-be-when-we-have-no-ground-under-our-feet/)
