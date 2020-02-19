@@ -18,7 +18,7 @@ Join our new coliving community in the heart Berlin grounded in purpose and pres
 * **When**: end of April 2020. Stays from a minimum of 3 months
 * **Who**: Singles and couples who have a pioneering spirit and value community and making a difference
 * **Cost**: From €600 pcm (warm rent - furnished and all costs included)
-* **Apply**: apply online by 5th July at https://artearthtech.com/berlin
+* **Apply**: apply online now at https://artearthtech.com/berlin
 
 <p>
 <a href="/hubs/apply" class="button" style="font-size: 28px; background-color: #34313b; color: white;">Apply Now »<br /></a>
@@ -66,7 +66,7 @@ As part of an international network, you will be connected to our other hubs in 
 
 # More about the space
 
-Open your window onto a tree-lined boulevard in Kreuzberg. The building is a 19th Century building with large bedrooms, wooden floors, high ceilings, large windows and modern appliances. 
+Open your window onto a tree-lined boulevard in Kreuzberg. The building is a 19th Century building with large bedrooms, wooden floors, high ceilings, large windows and modern appliances.
 
 Art Earth Tech has a strong aesthetic where we honour noble, natural materials. The bedrooms will be part-furnished including a double bed. We provide refrigerator, freezer and a washing machine.
 
