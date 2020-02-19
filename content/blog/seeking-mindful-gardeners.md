@@ -7,7 +7,7 @@ title = "Seeking mindful gardeners!"
 +++
 ## **Seeking mindful gardeners!**
 
-We are looking for people who might be interested in helping with a substantial garden project (flowers and vegetables) either a new site in Bergerac, SW France (very near [Plum Village](https://plumvillage.org/) buddhist centre) or [La Cheraille](http://lesjardinsdelacheraille.com/) 40 minutes southwest of Paris. Both of these projects would be closely connected with the [Art / Earth / Tech](http://www.artearthtech.com/) community which has a strong mindful flavour.
+We are looking for people who might be interested in helping with a substantial garden project (flowers and vegetables) either at our new site in Bergerac, SW France (very near [Plum Village](https://plumvillage.org/) buddhist centre) or at [La Cheraille](http://lesjardinsdelacheraille.com/) 40 minutes southwest of Paris. 
 
 If you knew of anyone we'd love to talk with them to share more about the opportunity. We'd also be very happy to get on a short call to share more details. French speaking is essential and English would be desirable.
 
