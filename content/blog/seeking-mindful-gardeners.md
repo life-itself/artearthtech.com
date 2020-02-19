@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-02-19T00:00:00Z
-draft = true
 imagePath = "\"LaC-jardines-legumes\""
 title = "Seeking mindful gardeners!"
 
