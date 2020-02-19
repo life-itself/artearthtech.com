@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-02-19T00:00:00Z
-draft = true
 imagePath = ""
 title = "More rooms available in our Berlin hub! "
 
