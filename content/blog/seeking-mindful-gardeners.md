@@ -2,17 +2,17 @@
 authors = []
 date = 2020-02-19T00:00:00Z
 draft = true
-imagePath = ""
+imagePath = "\"LaC-jardines-legumes\""
 title = "Seeking mindful gardeners!"
 
 +++
 ## **Seeking mindful gardeners!**
 
-  
 We are looking for people who might be interested in helping with a substantial garden project (flowers and vegetables) either a new site in Bergerac, SW France (very near [Plum Village](https://plumvillage.org/) buddhist centre) or [La Cheraille](http://lesjardinsdelacheraille.com/) 40 minutes southwest of Paris. Both of these projects would be closely connected with the [Art / Earth / Tech](http://www.artearthtech.com/) community which has a strong mindful flavour.
 
-  
 If you knew of anyone we'd love to talk with them to share more about the opportunity. We'd also be very happy to get on a short call to share more details. French speaking is essential and English would be desirable.
+
+![](static/images/LaC-jardins-legumes.JPG)
 
 Key details:
 
@@ -23,13 +23,14 @@ Key details:
 * Objectives: are to grow food and to make it whole and well :-)
 * Remuneration is fair (a recognition of contribution) with board and accommodation; and beyond that any revenue or surplus the person helps generate
 
+![](static/images/LaC-christoph-jardin.JPG)
+
 ***
 
-# En français 
+# En français
 
 ## **Art / Earth / Tech est à la recherche de jardiniers!**
 
-  
 Art Earth Tech (un projet communautaire auquel je participe) est à la recherche de personnes qui pourraient être intéressées à aider avec un projet de jardin substantiel (fleurs et légumes) sur un nouveau site à Bergerac, SW France (très près du centre bouddhiste de [Plum Village](https://plumvillage.org/)) ou [La Cheraille](http://lesjardinsdelacheraille.com/) à 40 minutes au sud-ouest de Paris. Ces deux projets seraient étroitement liés à la communauté [Art / Earth / Tech](www.artearthtech.com) qui a une forte saveur consciente.
 
 Si vous connaissiez quelqu'un, nous aimerions parler avec lui pour partager plus sur l'opportunité. Nous serions également très heureux de recevoir un court appel pour partager plus de détails. Le français est essentiel et l'anglais serait souhaitable.
@@ -42,3 +43,5 @@ Si vous connaissiez quelqu'un, nous aimerions parler avec lui pour partager plus
   * Nous aurions un essai d'une semaine et resterions à La Cheraille pour voir les compétences et l'alignement avec La Cheraille et Art Earth Tech
 * Objectifs: faire pousser des aliments et les rendre entiers et bien :-)
 * La rémunération est juste (une reconnaissance de contribution) avec la pension et l'hébergement; et au-delà de tout revenu ou excédent que la personne contribue à générer
+
+![](static/images/La-C-the-big-barn-exterior-bike.jpeg)
