@@ -1,10 +1,10 @@
-+++
-authors = []
-date = 2020-02-19T00:00:00Z
-imagePath = ""
-title = "More rooms available in our Berlin hub! "
+---
+title: More rooms available in our Berlin hub!
+authors: ['petronella']
+date: 2020-02-19T00:00:00Z
+imagePath: ""
+---
 
-+++
 Join our new coliving community in the heart Berlin grounded in purpose and presence. Rooms available from end of April 2020 from €600 per month all costs included.
 
 **Key information**
@@ -14,13 +14,13 @@ Join our new coliving community in the heart Berlin grounded in purpose and pres
 * **When**: end of April 2020. Stays from a minimum of 3 months
 * **Who**: Singles and couples who have a pioneering spirit and value community and making a difference
 * **Cost**: From €600 pcm (warm rent - furnished and all costs included)
-* **Apply**: apply online now at [https://artearthtech.com/berlin](https://artearthtech.com/berlin "https://artearthtech.com/berlin")
+* **Apply**: apply online now at https://artearthtech.com/berlin
 
-<p> <a href="/hubs/apply" class="button" style="font-size: 28px; background-color: #34313b; color: white;">Apply Now »<br /></a> </p>
+<p><a href="/hubs/apply" class="button" style="font-size: 28px; background-color: #34313b; color: white;">Apply Now »<br /></a></p>
 
-{{< imgresize src="berlin-hub01.jpg" size="400x" >}}
+<img src="/hubs/berlin/berlin-hub01.jpg" />
 
-![](static/images/1909newsletter-Berlin hub exterior.jpeg)
+![](/images/1909newsletter-Berlin hub exterior.jpeg)
 
 # We need a better way to live, together
 
@@ -74,7 +74,7 @@ _“The interior itself was also exceptional, and it adds a lot of coziness and 
 
 ## Located on Gneisenaustrasse in Kreuzberg, Berlin
 
-<div class="mapouter"> <div class="gmap_canvas"><iframe width="569" height="464" id="gmap_canvas" src="[https://maps.google.com/maps?q=52%20Gneisenaustra%C3%9Fe%2C%20berlin&t=&z=13&ie=UTF8&iwloc=&output=embed](https://maps.google.com/maps?q=52%20Gneisenaustra%C3%9Fe%2C%20berlin&t=&z=13&ie=UTF8&iwloc=&output=embed "https://maps.google.com/maps?q=52%20Gneisenaustra%C3%9Fe%2C%20berlin&t=&z=13&ie=UTF8&iwloc=&output=embed")" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>Google Maps Generator by <a href="[https://www.embedgooglemap.net](https://www.embedgooglemap.net "https://www.embedgooglemap.net")">embedgooglemap.net</a></div><style>.mapouter{position:relative;text-align:right;height:464px;width:569px; margin-bottom: 50px;}.gmap_canvas {overflow:hidden;background:none!important;height:464px;width:569px;}</style></div>
+<iframe width="569" height="464" id="gmap_canvas" src="https://maps.google.com/maps?q=52%20Gneisenaustra%C3%9Fe%2C%20berlin&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
 # More about Art / Earth / Tech
 
