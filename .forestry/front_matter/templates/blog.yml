@@ -22,6 +22,7 @@ fields:
   name: authors
   label: Authors
 pages:
+- content/blog/a-test-blog-post.md
 - content/blog/can-you-have-relationships-and-be-a-leader.md
 - content/blog/collective-blind-spot-3-the-equality-complex.md
 - content/blog/contemplative-activism-drop-in-drop-out-at-bidston-liverpool.md
