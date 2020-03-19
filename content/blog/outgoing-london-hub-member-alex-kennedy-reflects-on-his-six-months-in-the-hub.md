@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-03-03T00:00:00Z
-draft = true
 imagePath = ""
 title = "Outgoing London hub member Alex Kennedy reflects on his six months in the Hub "
 
