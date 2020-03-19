@@ -2,7 +2,7 @@
 authors = []
 date = 2020-02-14T00:00:00Z
 imagePath = "\"2020-02-12-bidston\""
-title = "Contemplative Activism 'drop-in, drop-out' at Bidston, Liverpool "
+title = "CANCELLED: Contemplative Activism 'drop-in, drop-out' at Bidston, Liverpool "
 
 +++
 # The Invitation
