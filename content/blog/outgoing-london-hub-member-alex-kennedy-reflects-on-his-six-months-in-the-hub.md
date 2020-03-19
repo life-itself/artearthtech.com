@@ -16,7 +16,7 @@ And the significance in **art**. Defining our cultural compass through all its m
 
 I have begun to break down these concepts into symbols and areas in the hope of also framing my own work in similar ways so I can draw others as I have been drawn to Art/Earth/Tech. (example of this pictured below)
 
-I read rufus's book when I first moved into the hub. It really helped me to understand the framing on how our world is constructed, based off old rules unsuitable for the progression we know today. Its legal structures, its approach to ownership and how an almost lazy placement of this into a profoundly new landscape has become the root of so many issues we face today surrounding technology.
+I read [Rufus's book](https://openrevolution.net) when I first moved into the hub. It really helped me to understand the framing on how our world is constructed, based off old rules unsuitable for the progression we know today. Its legal structures, its approach to ownership and how an almost lazy placement of this into a profoundly new landscape has become the root of so many issues we face today surrounding technology.
 
 A huge swath of what we know has only ever been added to from what came before. Even the keyboard I write this with has been designed based on the needs of a mechanic typewriter to avoid parts clashing together.
 
@@ -44,10 +44,14 @@ Being involved with the gathering of minds at art/earth/tech I have met fascinat
 
 Having the pleasure to live among those drawn by similar goals I can truly appreciate the potential of curated living. Introductions to new channels of thinking. Conversations to make an evening meals feel almost sacred.
 
-I have been here through the transition of the london hub. From old hub members to a new regeneration. I have seen old traditions die and the seeds of new ones form. Though I may have been looking for balance and stability myself I have learnt about how others approach change. About the notions of home and novelty.
+I have been here through the transition of the London hub. From old hub members to a new regeneration. I have seen old traditions die and the seeds of new ones form. Though I may have been looking for balance and stability myself I have learnt about how others approach change. About the notions of home and novelty.
 
 I may not have fully found what I first was looking for but perhaps understanding transition at a further level is far more important.
 
 For we all need to know how we can become comfortable in change. In each-other. Around our egos and their endless dances. In our changing climate and social systems.
 
 It is better to build our home in the unknown. Then have all the known lost, in our inability to adapt.
+
+Alex Kennedy
+
+February 2020
