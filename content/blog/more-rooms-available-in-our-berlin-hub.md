@@ -1,17 +1,20 @@
 ---
-title: More rooms available in our Berlin hub!
-authors: ['petronella']
-date: 2020-02-19T00:00:00Z
-imagePath: ""
----
+title: 'Updated: more rooms available in our Berlin hub!'
+authors:
+- petronella
+date: 2020-02-19T00:00:00.000+00:00
+imagePath: ''
 
-Join our new coliving community in the heart Berlin grounded in purpose and presence. Rooms available from end of April 2020 from €600 per month all costs included.
+---
+_With corona virus, we have postponed our openings until the end of April. Again, these may change due to developments with the corona virus. Please do keep checking our website for more updates._ 
+
+Join our new coliving community in the heart Berlin grounded in purpose and presence. Rooms available from mid May 2020 from €600 per month all costs included.
 
 **Key information**
 
 * **What**: Join a coliving community in the heart Berlin
 * **Where**: Gneisenaustrasse, Kreuzberg, Berlin
-* **When**: end of April 2020. Stays from a minimum of 3 months
+* **When**: mid May 2020. Stays from a minimum of 3 months
 * **Who**: Singles and couples who have a pioneering spirit and value community and making a difference
 * **Cost**: From €600 pcm (warm rent - furnished and all costs included)
 * **Apply**: apply online now at https://artearthtech.com/berlin
@@ -28,7 +31,7 @@ A growing number of us are seeking lives that are meaningful as well as producti
 
 We are building that way, starting with co-living communities across Europe.
 
-We seek pioneers and believers in community to be **residents of our hub in Berlin opening in mid April 2020**.
+We seek pioneers and believers in community to be **residents of our hub in Berlin opening in mid May 2020**.
 
 As one of the first residents you will be part of a small, supportive community and get to shape its culture. You will get to live in shared spaces in a beautiful old building on the tree-lined Gneisenaustrasse in the Kreuzberg district of Berlin.
 
@@ -62,7 +65,7 @@ As part of an international network, you will be connected to our other hubs in 
 
 Open your window onto a tree-lined boulevard in Kreuzberg. The building is a 19th Century building with large bedrooms, wooden floors, high ceilings, large windows and modern appliances.
 
-Art Earth Tech has a strong aesthetic where we honour noble, natural materials. The bedrooms will be part-furnished including a double bed. We provide refrigerator, freezer and a washing machine.
+Art Earth Tech has a strong aesthetic where we honour noble, natural materials. The bedrooms will be part-furnished including a double bed. We provide refrigerator and a freezer.
 
 Some words from previous residents in our other hubs:
 
