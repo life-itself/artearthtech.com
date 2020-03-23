@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-03-23T00:00:00Z
-draft = true
 imagePath = ""
 title = "The opportunities and lessons to take away from Coronavirus"
 
