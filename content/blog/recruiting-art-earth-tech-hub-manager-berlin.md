@@ -18,7 +18,7 @@ _We request that you live in the Hub as a requirement to fulfil the role_
 
 ## Our purpose
 
-A growing number of us are seeking lives that are meaningful as well as productive, yet we often struggle to find a balance. We need a wiser way of living whilst remaining engaged in conventional society. A way to live in cities whilst being in community, to be present as well as purposeful, that supports us to be the best version of ourselves. We are building that way starting with co-living communities across Europe. We opened in Berlin in September 2019 and are opening more spaces in April 2020. 
+A growing number of us are seeking lives that are meaningful as well as productive, yet we often struggle to find a balance. We need a wiser way of living whilst remaining engaged in conventional society. A way to live in cities whilst being in community, to be present as well as purposeful, that supports us to be the best version of ourselves. We are building that way starting with co-living communities across Europe. We opened in Berlin in September 2019 and are opening more spaces in April 2020.
 
 Art / Earth / Tech is a multi-disciplinary initiative including artists, ecologists researchers and technologists. Its goal is to foster a community of people making a wise, well and beautiful world. Activities include developing coliving spaces; building a network via gatherings and events; and sharing knowledge via education and research. Find out more at [https://artearthtech.com/](https://artearthtech.com/ "https://artearthtech.com/")
 
